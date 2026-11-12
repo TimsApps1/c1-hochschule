@@ -1,5 +1,6 @@
 // Einstieg: Router, Startseite, Lernpfad, Üben, Statistik, Mehr/Einstellungen.
 import { h, clear, md, toast, confirmBox, progressBar, fmtTime } from "./ui.js";
+import { emptyBox, tarsiSays, greetingLine, mascot } from "./mascot.js";
 import { store, dayKey } from "./store.js";
 import { db } from "./db.js";
 import { CONFIG } from "./config.js";
@@ -74,7 +75,7 @@ async function checkMilestone() {
   const m = reached[reached.length - 1];
   await db.kvSet("meilenstein", m);
   confetti();
-  modal(`🎉 ${m} % geschafft!`, milestoneText(m), [{ label: "Weiter so!", primary: true }]);
+  modal(`🎉 ${m} % geschafft!`, h("div.center", mascot("cheer", 120, "bounce"), h("p", milestoneText(m))), [{ label: "Weiter so!", primary: true }]);
 }
 
 // ---------- Startseite ----------
@@ -90,7 +91,7 @@ async function viewHome() {
   const greet = new Date().getHours() < 11 ? "Guten Morgen" : new Date().getHours() < 18 ? "Hallo" : "Guten Abend";
   clear(main).append(
     topbar(),
-    h("h1", store.settings.name ? `${greet}, ${store.settings.name}!` : `${greet}!`),
+    tarsiSays(greetingLine({ name: store.settings.name, streak: s.streak, activeToday: s.activeToday, xpToday: xpT, goal, dayNum: day.tag, daysLeft: daysUntilExam(), firstTime: done }), s.activeToday && xpT >= goal ? "cheer" : done ? "wave" : "happy"),
     h("button.card.progress-hero", { onclick: () => showProgressDetails() }, progressRing(overallProgress().pct),
       h("div", h("strong", "Dein Weg zur Prüfung"), h("p.small.muted", `Noch ${Math.max(0, daysUntilExam())} Tage bis zum 12.12. Jede Übung bringt dich weiter.`), h("span.small.link", "Details ansehen →"))),
     h("div.card.goal",
@@ -137,21 +138,29 @@ function forecastCard(fc, compact) {
 async function viewPfad() {
   const days = await lernpfad();
   const upTo = unlockedUpTo(days);
-  clear(main).append(topbar(), h("h1", "Lernpfad"), h("p.muted", "4 Wochen bis zum 12.12. Die Tage schalten sich nacheinander frei; erledigte Tage kannst du jederzeit wiederholen."));
-  let w = 0;
+  const nextTag = days.find((d) => !dayDone(d.tag))?.tag;
+  clear(main).append(topbar(), h("h1", "Lernpfad"), tarsiSays("Ein Tag nach dem anderen – ich laufe den Weg mit dir! Erledigte Tage kannst du jederzeit wiederholen.", "happy", 70));
+  const WOCHEN = ["", ["Woche 1", "Format & Grundlagen", "wave"], ["Woche 2", "Vertiefung & Zeitdruck", "think"], ["Woche 3", "Teiltests & Fehlerarbeit", "proud"], ["Woche 4", "Generalproben & Wiederholung", "cheer"]];
+  const X = [0, 46, 70, 46, 0, -46, -70, -46];
+  let w = 0, path = null, i = 0;
   for (const d of days) {
     if (d.woche !== w) {
       w = d.woche;
-      main.append(h("h2.week", ["", "Woche 1 – Format & Grundlagen", "Woche 2 – Vertiefung & Zeitdruck", "Woche 3 – Teiltests & Fehlerarbeit", "Woche 4 – Generalproben & Wiederholung"][w]));
+      const [t, sub, mood] = WOCHEN[w];
+      main.append(h("div.week-banner", mascot(mood, 52), h("div", h("h2", t), h("div.small.muted", sub))));
+      path = h("div.path");
+      main.append(path);
+      i = 0;
     }
     const locked = d.tag > upTo;
     const done = dayDone(d.tag);
     const dt = new Date(d.datum + "T12:00");
-    main.append(h("button.day" + (done ? ".done" : "") + (locked ? ".locked" : "") + (d.datum === dayKey() ? ".today" : ""), { disabled: locked, onclick: () => nav("#/tag/" + d.tag) },
-      h("span.day-num", done ? "✓" : locked ? "🔒" : d.tag),
-      h("span.day-txt", h("strong", d.titel), h("span.small.muted", dt.toLocaleDateString("de-DE", { weekday: "short", day: "numeric", month: "numeric" })))));
+    const cls = (done ? ".done" : "") + (locked ? ".locked" : "") + (d.tag === nextTag ? ".next" : "");
+    path.append(h("button.day" + cls, { disabled: locked, style: { "--x": X[i++ % X.length] + "px" }, onclick: () => nav("#/tag/" + d.tag) },
+      h("span.day-num", done ? "✓" : locked ? "🔒" : d.tag === nextTag ? "★" : d.tag),
+      h("span.day-txt", h("strong", d.titel), h("span.small.muted", "Tag " + d.tag + " · " + dt.toLocaleDateString("de-DE", { weekday: "short", day: "numeric", month: "numeric" })))));
   }
-  main.append(h("div.card.center", h("strong", "🎓 Samstag, 12.12.2026 – Prüfungstag"), h("button.btn.small", { onclick: () => nav("#/strategie/checkliste") }, "Checkliste")));
+  main.append(h("div.card.center", mascot("proud", 90), h("p", h("strong", "🎓 Samstag, 12.12.2026 – Prüfungstag")), h("button.btn.small", { onclick: () => nav("#/strategie/checkliste") }, "Checkliste")));
 }
 
 // ---------- Üben ----------
@@ -529,7 +538,7 @@ async function route() {
     }
   } catch (e) {
     console.error(e);
-    clear(main).append(h("div.empty", "Da ist etwas schiefgelaufen: " + e.message));
+    clear(main).append(emptyBox("Da ist etwas schiefgelaufen: " + e.message));
   }
 }
 

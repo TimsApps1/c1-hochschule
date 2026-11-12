@@ -1,6 +1,7 @@
 // Generischer Übungs-Player im Duolingo-Stil: eine Aufgabe pro Bildschirm, sofortiges Feedback mit
 // Begründung, falsch beantwortete Aufgaben kommen am Ende noch einmal (zählen aber nur beim ersten Versuch).
 import { h, clear, md, norm, progressBar, confetti, shuffle } from "./ui.js";
+import { mascot } from "./mascot.js";
 import { praise, comfort } from "./gamify.js";
 import { speakOnce } from "./tts.js";
 
@@ -111,7 +112,8 @@ export function runQuiz(el, { title, items, intro, retryWrong = true, onExit }) 
     function showFeedback(foot, ok, it, given, onAcceptAnyway, onReject) {
       clear(foot);
       const box = h("div.feedback" + (ok ? ".ok" : ".no"),
-        h("div.fb-title", ok ? "✓ " + praise() : onAcceptAnyway ? "Nicht exakt die erwartete Lösung" : "✗ " + comfort()),
+        h("div.fb-head", mascot(ok ? "cheer" : onAcceptAnyway ? "think" : "sad", 54, ok ? "bounce" : "wiggle"),
+          h("div.fb-title", ok ? praise() : onAcceptAnyway ? "Nicht exakt die erwartete Lösung" : comfort())),
         !ok && (it.solution || it.options) ? h("div.fb-sol", h("span.muted", "Richtig: "), h("strong", it.solution || it.options[it.correct])) : null,
         it.explain ? h("div.fb-exp", { html: md(it.explain) }) : null);
       foot.append(box);
@@ -137,7 +139,7 @@ export function resultScreen(el, { title = "Geschafft!", score, max, xp, extra, 
     const p = max ? Math.round((score / max) * 100) : null;
     if (p == null || p >= 70) confetti();
     el.append(h("div.result",
-      h("div.result-emoji", p == null ? "🎉" : p >= 85 ? "🏆" : p >= 60 ? "💪" : "🌱"),
+      mascot(p == null || p >= 85 ? "cheer" : p >= 60 ? "proud" : "happy", 130, "bounce"),
       h("h2", title),
       p != null ? h("div.result-score", `${score} / ${max}`, h("span.muted", ` (${p} %)`)) : null,
       xp ? h("div.xp-pill", `+${xp} XP`) : null,

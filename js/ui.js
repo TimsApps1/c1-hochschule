@@ -32,7 +32,7 @@ export function h(sel, attrs, ...kids) {
     if (v == null || v === false) continue;
     if (k.startsWith("on") && typeof v === "function") el.addEventListener(k.slice(2).toLowerCase(), v);
     else if (k === "class") el.className += " " + v;
-    else if (k === "style" && typeof v === "object") Object.assign(el.style, v);
+    else if (k === "style" && typeof v === "object") { for (const [sk, sv] of Object.entries(v)) sk.startsWith("--") ? el.style.setProperty(sk, sv) : (el.style[sk] = sv); }
     else if (k === "html") el.innerHTML = v;
     else if (k in el && k !== "list" && k !== "type") el[k] = v;
     else el.setAttribute(k, v === true ? "" : v);
@@ -160,7 +160,7 @@ export function norm(s) {
 export function confetti() {
   if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
   const wrap = h("div.confetti");
-  const colors = ["#58cc02", "#ffc800", "#1cb0f6", "#ff4b4b", "#ce82ff"];
+  const colors = ["#23b98f", "#ffcb3d", "#4a9ff5", "#ff8566", "#c08cff"];
   for (let i = 0; i < 28; i++) {
     wrap.append(h("i", { style: { left: Math.random() * 100 + "%", background: colors[i % colors.length], animationDelay: Math.random() * 0.3 + "s", transform: `rotate(${Math.random() * 360}deg)` } }));
   }

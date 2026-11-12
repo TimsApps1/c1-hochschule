@@ -1,5 +1,6 @@
 // Sprachbausteine (22 Lücken, je 4 Optionen) im Prüfungsformat + Grammatik-Drills + Kurzerklärungen.
 import { h, clear, md, Timer, fmtTime, confirmBox, toast } from "./ui.js";
+import { emptyBox } from "./mascot.js";
 import { load, KATEGORIEN } from "./content.js";
 import { store } from "./store.js";
 import { runQuiz, resultScreen } from "./quiz.js";
@@ -140,7 +141,7 @@ export async function drillRound(el, kategorie, n = 10, opts = {}) {
   const drills = await load("drills");
   let list = kategorie ? drills.filter((d) => d.kategorie === kategorie) : drills;
   if (!list.length) {
-    clear(el).append(h("div.empty", "Die Drills werden noch erstellt."));
+    clear(el).append(emptyBox("Die Drills werden noch erstellt."));
     return { aborted: true };
   }
   // Schwerpunkt: zuletzt falsch beantwortete zuerst, sonst zufällig

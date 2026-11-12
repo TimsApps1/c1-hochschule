@@ -1,6 +1,7 @@
 // Fehlerprotokoll: sammelt Fehler aus allen Modulen, gruppiert nach Fehlerart, erzeugt Wiederholungen.
 // Ein Fehler gilt als behoben, wenn er 3× an verschiedenen Tagen richtig beantwortet wurde (1 → 3 → 6 Tage).
 import { h, clear, md, shuffle } from "./ui.js";
+import { emptyBox } from "./mascot.js";
 import { store } from "./store.js";
 import { runQuiz, resultScreen } from "./quiz.js";
 import { KATEGORIEN } from "./content.js";
@@ -43,7 +44,7 @@ export async function errorReview(el, { n = 10, kategorie, embedded } = {}) {
   let list = dueErrors();
   if (kategorie) list = list.filter((e) => e.kategorie === kategorie);
   if (!list.length) {
-    if (!embedded) clear(el).append(h("div.empty", "Keine fälligen Fehler – super! 🎉"));
+    if (!embedded) clear(el).append(emptyBox("Keine fälligen Fehler – super! 🎉", "cheer"));
     return { score: 0, max: 0, xp: 0, empty: true };
   }
   list = shuffle(list).sort((a, b) => (b.count || 1) - (a.count || 1)).slice(0, n);
@@ -65,7 +66,7 @@ export function errorOverview(el, nav) {
     h("div.stat-row", h("div.stat", h("b", open.length), h("span", "offen")), h("div.stat", h("b", due), h("span", "heute fällig")), h("div.stat", h("b", store.errors.size - open.length), h("span", "behoben"))),
     due ? h("button.btn.primary.wide", { onclick: () => nav("#/fehler/wiederholen") }, `▶︎ ${Math.min(due, 10)} fällige Fehler wiederholen`) : h("p.muted", "Heute nichts fällig."));
   if (!cats.length) {
-    el.append(h("div.empty", "Noch keine Fehler gesammelt. Sie landen hier automatisch aus allen Übungen."));
+    el.append(emptyBox("Noch keine Fehler gesammelt. Sie landen hier automatisch aus allen Übungen."));
     return;
   }
   el.append(h("h2", "Häufigste Fehlerarten"));

@@ -2,6 +2,7 @@
 // Tagessession = Aufwärmen (Wortschatz + Redewendungen) → Hauptblock des Tages (Lernpfad) → Fehlerwiederholung.
 // Fortschritt innerhalb einer Session wird gespeichert, man kann jederzeit pausieren.
 import { h, clear, md, sample, shuffle, toast, confetti } from "./ui.js";
+import { mascot, emptyBox, thinking } from "./mascot.js";
 import { load, pool, reserved, KATEGORIEN } from "./content.js";
 import { store, dayKey } from "./store.js";
 import { db } from "./db.js";
@@ -175,7 +176,7 @@ export async function runStep(el, step, ctx = {}) {
 }
 
 function empty(el) {
-  clear(el).append(h("div.empty", "Für diesen Schritt sind noch keine Inhalte da. Er wird übersprungen."));
+  clear(el).append(emptyBox("Für diesen Schritt sind noch keine Inhalte da. Er wird übersprungen."));
   return new Promise((res) => el.append(h("button.btn.primary.wide", { onclick: () => res({ xp: 0, skipped: true }) }, "Weiter")));
 }
 
@@ -218,7 +219,7 @@ export async function runDay(el, day, nav) {
   clear(el);
   const s = streakInfo();
   await new Promise((resolve) => el.append(h("div.result",
-    h("div.result-emoji", "🎉"), h("h2", `Tag ${day.tag} geschafft!`), h("div.xp-pill", "+20 XP Tagesbonus"),
+    mascot("cheer", 140, "bounce"), h("h2", `Tag ${day.tag} geschafft!`), h("div.xp-pill", "+20 XP Tagesbonus"),
     h("p", `🔥 Streak: ${s.streak} Tag(e)`),
     s.freezes < MAX_FREEZES ? h("button.btn.wide", { onclick: () => { resolve(); nav("#/bonus"); } }, "❄️ Bonusrunde (5 Min.) – Streak-Freeze verdienen") : h("p.muted.small", "Du hast schon 2 Streak-Freezes."),
     h("button.btn.primary.wide", { onclick: () => { resolve(); nav("#/"); } }, "Zur Startseite"))));
@@ -302,7 +303,7 @@ async function teiltest(el, bereich, woche) {
 export async function einstufung(el) {
   const res = {};
   clear(el);
-  await new Promise((r) => el.append(h("div.result", h("div.result-emoji", "🧭"), h("h2", "Einstufungstest"),
+  await new Promise((r) => el.append(h("div.result", mascot("wave", 130, "bounce"), h("h2", "Einstufungstest"),
     h("p", "Ca. 25 Minuten: Sprachbausteine, Wortschatz, Lesen, Hören und ein kurzer Text. Danach weiß die App, wo sie dich am meisten unterstützen soll."),
     h("p.muted.small", "Keine Sorge wegen Fehlern – genau die wollen wir finden."),
     h("button.btn.primary.wide", { onclick: r }, "Starten"))));
@@ -356,7 +357,7 @@ export async function einstufung(el) {
     .map(([k, name]) => h("div.cat-row", h("div.cat-name", name, h("span.muted.small", ` ${Math.round(res[k] * 100)} %`)), h("div.bar" + (res[k] >= 0.6 ? ".good" : ".bad"), h("span", { style: { width: Math.round(res[k] * 100) + "%" } }))));
   const weak = Object.entries(res).filter(([, v]) => v != null).sort((a, b) => a[1] - b[1]).slice(0, 2).map(([k]) => ({ sb: "Sprachbausteine", wortschatz: "Wortschatz", lesen: "Lesen", hoeren: "Hören", schreiben: "Schreiben" })[k]);
   confetti();
-  return new Promise((resolve) => el.append(h("div.result", h("div.result-emoji", "🧭"), h("h2", "Dein Startpunkt"), h("div.xp-pill", "+30 XP"), h("div.card", rows),
+  return new Promise((resolve) => el.append(h("div.result", mascot("proud", 130, "bounce"), h("h2", "Dein Startpunkt"), h("div.xp-pill", "+30 XP"), h("div.card", rows),
     h("p", `Deine Schwerpunkte: **${weak.join("** und **")}**. Die Tagessessions gewichten diese Bereiche ab jetzt stärker.`.replace(/\*\*/g, "")),
     h("p.muted.small", "Ein kurzer Test ist nur eine grobe Schätzung – die Prognose wird mit jeder Übung genauer."),
     h("button.btn.primary.wide", { onclick: () => resolve({ xp: 30 }) }, "Weiter"))));
@@ -375,7 +376,7 @@ async function miniWriting(el) {
           const text = ta.value.trim();
           if (text.split(/\s+/).length < 30) return toast("Bitte mindestens 30 Wörter.");
           if ((await ai.available()).ok) {
-            clear(el).append(h("div.center", h("div.spinner"), h("p", "Wird eingeschätzt …")));
+            clear(el).append(thinking(h("p", "Wird eingeschätzt …")));
             try {
               const { data } = await ai.call({
                 system: "Du bist telc-Bewerterin (C1 Hochschule). Schätze einen kurzen Einstufungstext ein. Antworte auf Deutsch, einfach.",

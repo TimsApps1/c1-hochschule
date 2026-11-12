@@ -2,6 +2,7 @@
 // Übungsformen Wörter: Bedeutung erkennen, Wort zur Erklärung finden, Lückentext, Synonym/Antonym, Wortfamilie, Satz bilden (KI).
 // Übungsformen Redewendungen: Bedeutung, Lückentext, passende Situation, eigener Satz (KI).
 import { h, clear, md, sample, shuffle, toast } from "./ui.js";
+import { emptyBox } from "./mascot.js";
 import { load, pool, THEMEN } from "./content.js";
 import { pickCards, review } from "./srs.js";
 import { store } from "./store.js";
@@ -118,14 +119,14 @@ function idiomExercise(r, all, isNew) {
 export async function srsRound(el, kind, opts = {}) {
   const all = kind === "wort" ? await load("wortschatz") : await load("redewendungen");
   if (!all.length) {
-    clear(el).append(h("div.empty", "Die Inhalte werden noch erstellt. Bitte später erneut versuchen."));
+    clear(el).append(emptyBox("Die Inhalte werden noch erstellt. Bitte später erneut versuchen."));
     return { score: 0, max: 0, xp: 0, aborted: true };
   }
   const source = opts.filter ? all.filter(opts.filter) : all;
   const s = store.settings;
   const picked = pickCards(source, kind, opts.n || 10, kind === "wort" ? s.newWordsPerDay : s.newIdiomsPerDay);
   if (!picked.length) {
-    clear(el).append(h("div.empty", "Für heute ist alles wiederholt. 🎉 Neue Karten gibt es morgen wieder (oder Tageslimit in den Einstellungen erhöhen)."));
+    clear(el).append(emptyBox("Für heute ist alles wiederholt. 🎉 Neue Karten gibt es morgen wieder (oder Tageslimit in den Einstellungen erhöhen).", "cheer"));
     return { score: 0, max: 0, xp: 0, aborted: true, empty: true };
   }
   const items = [];

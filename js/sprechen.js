@@ -2,6 +2,7 @@
 // Teil 2 Diskussion mit KI-Partnerin (vertritt Gegenpositionen). Eingabe per iOS-Diktat ins Textfeld,
 // zusätzlich Aufnahme zum Selbst-Anhören. Ohne KI: Mustervortrag, Fragen per Sprachausgabe, Beispieldialog.
 import { h, clear, md, Timer, fmtTime, confirmBox, toast } from "./ui.js";
+import { thinking } from "./mascot.js";
 import { store } from "./store.js";
 import { ai, S, AiUnavailable, learnerContext } from "./ai.js";
 import { Recorder, recorderSupported } from "./recorder.js";
@@ -89,7 +90,7 @@ export function praesentation(el, blatt, opts = {}) {
 
     async function followUp(text, sec, notes) {
       clear(el);
-      el.append(h("div.center", h("div.spinner"), h("p", "Die Prüferin hört zu und bereitet ihre Rückfrage vor …")));
+      el.append(thinking(h("p", "Die Prüferin hört zu und bereitet ihre Rückfrage vor …")));
       let fragen = null, zusammenfassung = null, kiOk = false;
       if (text.split(/\s+/).length > 40 && (await ai.available()).ok) {
         try {
@@ -121,7 +122,7 @@ export function praesentation(el, blatt, opts = {}) {
       const zeit = `Sprechzeit: ${fmtTime(sec)} (Ziel 3–4 Min.)`;
       const av = await ai.available();
       if (text.split(/\s+/).length > 40 && av.ok) {
-        el.append(h("div.center", h("div.spinner"), h("p", "Feedback wird erstellt …")));
+        el.append(thinking(h("p", "Feedback wird erstellt …")));
         try {
           const { data, usd } = await ai.call({
             system: sysBase() + "\nDu bist eine erfahrene telc-Prüferin und freundliche Lehrerin. " + MUENDLICH_KRIT + " Bewerte ehrlich (lieber etwas streng). Erklärsprache einfach (B2).",
@@ -264,7 +265,7 @@ Verhalte dich wie eine gute Prüfungspartnerin auf C1-Niveau: Vertritt eher die 
       const mine = turns.filter((t) => t.role === "user").slice(av.ok ? 1 : 0).map((t) => t.content);
       const transcript = chat.innerText;
       if (av.ok && mine.join(" ").split(/\s+/).length > 30) {
-        clear(el).append(h("div.center", h("div.spinner"), h("p", "Feedback wird erstellt …")));
+        clear(el).append(thinking(h("p", "Feedback wird erstellt …")));
         try {
           const { data, usd } = await ai.call({
             system: sysBase() + "\nDu bist eine erfahrene telc-Prüferin und freundliche Lehrerin. " + MUENDLICH_KRIT + " Bewerte NUR die Beiträge der Lernerin (nicht die der Partnerin), ehrlich. Bewerte auch die Interaktion (auf Argumente eingehen, nachfragen, widersprechen, Kompromiss).",

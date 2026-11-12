@@ -1,4 +1,4 @@
-// Erzeugt die App-Icons (PNG) ohne externe Abhängigkeiten: grüner Hintergrund, weißes „C1“, gelber Stern.
+// VERALTET: Die App-Icons zeigen jetzt Tarsi (im Browser aus js/mascot.js gerendert). Dieses Skript erzeugt das alte „C1“-Icon – nicht mehr ausführen.
 // Aufruf: node scripts/make-icons.mjs
 import { writeFileSync } from "node:fs";
 import { deflateSync } from "node:zlib";

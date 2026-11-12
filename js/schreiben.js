@@ -2,6 +2,7 @@
 // KI-Bewertung nach den 4 telc-Kriterien (A/B/C/D = 12/8/4/0), markierte Fehler, verbesserte Version.
 // Ohne KI: Musterlösung + Checkliste mit ehrlicher Selbsteinschätzung.
 import { h, clear, md, esc, Timer, fmtTime, confirmBox, toast } from "./ui.js";
+import { thinking } from "./mascot.js";
 import { load } from "./content.js";
 import { store } from "./store.js";
 import { db } from "./db.js";
@@ -140,7 +141,7 @@ Fehlerliste: die wichtigsten 8–20 Fehler; "zitat" muss EXAKT (zeichengenau) im
 
 async function evaluate(el, task, rec) {
   clear(el);
-  el.append(h("div.center", h("div.spinner"), h("p", "Dein Text wird bewertet …"), h("p.muted.small", "Das dauert meist 30–90 Sekunden.")));
+  el.append(thinking(h("p", "Dein Text wird bewertet …"), h("p.muted.small", "Das dauert meist 30–90 Sekunden.")));
   let fb = null, err = null;
   const av = await ai.available();
   if (av.ok) {

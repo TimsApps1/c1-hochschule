@@ -2,6 +2,7 @@
 // Verwendet ausschließlich die für Probeprüfung n reservierten Aufgaben (pruefung: n).
 // Fortschritt wird nach jedem Teil gespeichert – Pausen zwischen den Teilen sind möglich.
 import { h, clear, confirmBox, confetti } from "./ui.js";
+import { mascot, emptyBox } from "./mascot.js";
 import { load, reserved } from "./content.js";
 import { db } from "./db.js";
 import { store } from "./store.js";
@@ -36,12 +37,12 @@ function run(fn, el, item) {
   return item ? fn(el, item, { mode: "pruefung" }) : missing(el);
 }
 function missing(el) {
-  clear(el).append(h("div.empty", "Diese Aufgabe ist noch nicht vorhanden – Teil wird übersprungen."));
+  clear(el).append(emptyBox("Diese Aufgabe ist noch nicht vorhanden – Teil wird übersprungen."));
   return new Promise((r) => el.append(h("button.btn.primary.wide", { onclick: () => r({ skipped: true }) }, "Weiter")));
 }
 function pause(el) {
   clear(el);
-  return new Promise((r) => el.append(h("div.result", h("div.result-emoji", "☕"), h("h2", "20 Minuten Pause"), h("p", "Wie in der Prüfung: kurz bewegen, etwas trinken, nicht mehr in Aufgaben schauen."), h("button.btn.primary.wide", { onclick: () => r({ skipped: true }) }, "Weiter zum Hören"))));
+  return new Promise((r) => el.append(h("div.result", mascot("sleep", 120), h("h2", "20 Minuten Pause"), h("p", "Wie in der Prüfung: kurz bewegen, etwas trinken, nicht mehr in Aufgaben schauen."), h("button.btn.primary.wide", { onclick: () => r({ skipped: true }) }, "Weiter zum Hören"))));
 }
 
 /**
@@ -94,7 +95,7 @@ async function auswertung(el, nr, state, teil) {
   clear(el);
   const row = (name, v, max, min) => h("div.cat-row", h("div.cat-name", name, h("span.muted.small", ` ${v} / ${max}`)), h("div.bar" + (v / max >= 0.6 ? ".good" : ".bad"), h("span", { style: { width: Math.min(100, (v / max) * 100) + "%" } }), h("i.mark60")));
   return new Promise((resolve) => el.append(
-    h("div.result", h("div.result-emoji", passed ? "🎓" : "📊"), h("h2", `Generalprobe ${nr}: Auswertung`)),
+    h("div.result", mascot(passed ? "cheer" : "think", 130, "bounce"), h("h2", `Generalprobe ${nr}: Auswertung`)),
     h("div.card",
       row("Leseverstehen", lesen, 48), row("Sprachbausteine", sb, 22), row("Hörverstehen", hoeren, 48), row("Schriftlicher Ausdruck", schreiben, 48),
       h("p", h("strong", `Schriftlich: ${written} / 166`), writtenOk ? " ✅" : ` ❌ (nötig: ${PASS.written})`),
