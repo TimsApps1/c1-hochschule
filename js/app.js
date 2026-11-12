@@ -419,7 +419,7 @@ async function viewMehr() {
               h("div.row", h("button.btn.primary", { onclick: async () => { const r = await sync.run(); toast(r.error ? "Fehler: " + r.error : "✓ Abgeglichen"); viewMehr(); } }, "Jetzt abgleichen"), h("button.btn", { onclick: async () => { await dropbox.disconnect(); viewMehr(); } }, "Trennen")))
           : h("div", h("p.small", "Lernstand, Fehlerprotokoll und Texte als JSON in deiner Dropbox sichern."),
               h("div.row", h("button.btn.primary", { onclick: () => dropbox.startAuth().catch((e) => toast(e.message)) }, "Mit Dropbox verbinden"),
-                h("button.btn", { onclick: async () => { const url = await dropbox.startAuth({ manual: true }); window.open(url, "_blank"); const code = prompt("Code von Dropbox hier einfügen:"); if (code) { try { await dropbox.finishManualCode(code); toast("✓ Verbunden"); await sync.run(); } catch (e) { toast(e.message); } viewMehr(); } } }, "Per Code (Home-Bildschirm-App)")))
+                h("button.btn", { onclick: () => dropboxCodeFlow() }, "Per Code (Home-Bildschirm-App)")))
         : h("p.small.muted", "Dropbox ist noch nicht eingerichtet (App-Key fehlt, siehe README)."),
       h("div.row",
         h("button.btn", { onclick: () => sync.exportToFile() }, "⬇︎ Export (Datei)"),
@@ -429,6 +429,29 @@ async function viewMehr() {
     h("div.card",
       h("p.small.muted", `Version ${CONFIG.APP_VERSION} · Prüfung am ${new Date(CONFIG.EXAM_DATE).toLocaleDateString("de-DE")}`),
       h("button.btn.bad", { onclick: async () => { if (await confirmBox("Alles zurücksetzen?", "Lernstand, Fehler und Texte auf diesem Gerät werden gelöscht. (Dropbox-Sicherung bleibt.)", "Löschen")) { await store.resetAll(); toast("Zurückgesetzt"); nav("#/"); } } }, "Lernstand zurücksetzen")));
+}
+
+// Dropbox-Anmeldung per Code (für die Home-Bildschirm-App: Redirect würde in Safari landen)
+async function dropboxCodeFlow() {
+  let url;
+  try { url = await dropbox.startAuth({ manual: true }); } catch (e) { return toast(e.message); }
+  const inp = h("input", { type: "text", placeholder: "Code hier einfügen", autocomplete: "off", autocapitalize: "off", spellcheck: false });
+  const body = h("div",
+    h("ol.small",
+      h("li", "Auf „Dropbox öffnen“ tippen, anmelden und „Zulassen“ wählen."),
+      h("li", "Den angezeigten Code kopieren."),
+      h("li", "Hierher zurückkehren, den Code einfügen und „Verbinden“ tippen.")),
+    h("a.btn.wide", { href: url, target: "_blank", rel: "noopener" }, "Dropbox öffnen ↗"),
+    inp);
+  const res = await modal("Mit Dropbox verbinden", body, [{ label: "Abbrechen", value: false }, { label: "Verbinden", value: true, primary: true }]);
+  const code = inp.value.trim();
+  if (!res || !code) return;
+  try {
+    await dropbox.finishManualCode(code);
+    toast("✓ Mit Dropbox verbunden");
+    await sync.run();
+  } catch (e) { toast(e.message); }
+  viewMehr();
 }
 
 // ---------- Übung ausführen ----------
