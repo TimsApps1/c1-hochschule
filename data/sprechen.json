@@ -1,0 +1,1711 @@
+{
+  "praesentation": [
+    {
+      "id": "mp01",
+      "pruefung": 0,
+      "themen": [
+        {
+          "titel": "Digitale Medien im Schulunterricht",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Digitale Medien im Schulunterricht“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wie digitale Medien in Schulen Ihres Heimatlandes und in Deutschland eingesetzt werden.",
+            "Erläutern Sie Vor- und Nachteile digitaler Medien für das Lernen.",
+            "Nehmen Sie Stellung: Sollten Tablets und Laptops Bücher und Hefte ersetzen?",
+            "Geben Sie einen Ausblick: Wie könnte Unterricht in zehn Jahren aussehen?"
+          ],
+          "thema": "ki_digitalisierung",
+          "bezug": true,
+          "stichpunkte": [
+            "Einstieg: eigene Erfahrung – Zelle am Tablet drehen und vergrößern",
+            "Gliederung ankündigen: Situation – Vor-/Nachteile – Meinung – Ausblick",
+            "Philippinen: Pandemie → gedruckte Lernmodule, auf dem Land kaum Internet",
+            "Deutschland: Förderprogramme, viele Tablets, aber WLAN/Support schwach",
+            "Vorteil 1: Simulationen, Videos → Abstraktes wird sichtbar",
+            "Vorteil 2: eigenes Tempo, sofortige Rückmeldung",
+            "Nachteil 1: Ablenkung, Konzentration ↓",
+            "Nachteil 2: Handschrift → besseres Behalten",
+            "Nachteil 3: soziale Unterschiede (Geräte, Kosten)",
+            "Meinung: ergänzen, nicht ersetzen; Fortbildung entscheidend",
+            "Ausblick: KI analysiert Lernstand, Lehrkraft = Lernbegleiterin",
+            "Schluss: Werkzeug, nicht Ziel"
+          ],
+          "muster": "Liebe Zuhörerinnen und Zuhörer, stellen Sie sich eine Biologiestunde vor, in der die Schülerinnen und Schüler eine Zelle nicht nur im Buch betrachten, sondern sie am Tablet drehen, vergrößern und Schicht für Schicht zerlegen können. Genau so etwas habe ich als Lehrerin selbst ausprobiert, und deshalb möchte ich heute über digitale Medien im Schulunterricht sprechen. Ich gehe zunächst auf die Situation in meinem Heimatland und in Deutschland ein, danach wäge ich Vor- und Nachteile ab, und zum Schluss sage ich Ihnen, wie ich selbst dazu stehe und wie der Unterricht in Zukunft aussehen könnte.\n\nBeginnen möchte ich mit den Philippinen. Während der Pandemie wurde dort sehr deutlich, wie ungleich der Zugang zu Technik verteilt ist: In den Städten konnte man teilweise online unterrichten, auf dem Land haben viele Kinder dagegen gedruckte Lernmodule bekommen, weil es schlicht kein stabiles Internet gab. Viele Lehrkräfte, auch ich, mussten damals improvisieren und haben Aufgaben zum Beispiel über Messenger-Gruppen verschickt. In Deutschland ist die Ausstattung zwar besser, und durch staatliche Förderprogramme haben viele Schulen Tablets angeschafft. Allerdings habe ich oft gehört, dass das WLAN nicht zuverlässig funktioniert und dass es an technischer Unterstützung fehlt.\n\nDamit komme ich zu den Vorteilen. Der wichtigste ist aus meiner Sicht, dass sich abstrakte Vorgänge veranschaulichen lassen. Eine Simulation der Fotosynthese oder ein Video über Zellteilung bleibt oft besser im Gedächtnis als ein Tafelbild. Gerade in Biologie, wo man vieles nicht mit bloßem Auge sehen kann, ist das ein enormer Gewinn. Außerdem können die Lernenden in ihrem eigenen Tempo arbeiten und bekommen bei Übungen sofort eine Rückmeldung.\n\nAuf der anderen Seite darf man die Nachteile nicht unterschätzen. Erstens lenken Geräte leicht ab – eine Nachricht hier, ein Spiel dort, und die Konzentration ist weg. Zweitens deuten Studien darauf hin, dass man Inhalte, die man mit der Hand aufschreibt, oft besser behält. Und drittens verstärken digitale Medien soziale Unterschiede, wenn sich nicht alle Familien ein Gerät leisten können.\n\nWas ist nun meine Meinung? Ich bin davon überzeugt, dass Tablets Bücher und Hefte nicht ersetzen, sondern ergänzen sollten. Entscheidend ist meiner Ansicht nach nicht das Gerät selbst, sondern die Frage, ob die Lehrkraft es sinnvoll einsetzt. Dafür braucht es regelmäßige Fortbildungen – sonst bleibt das teure Tablet nur ein digitales Schulbuch.\n\nZum Schluss noch ein kurzer Blick in die Zukunft: Ich könnte mir vorstellen, dass in zehn Jahren KI-gestützte Programme den Lernstand jedes Kindes analysieren und passende Aufgaben vorschlagen. Die Lehrkraft würde dann eher zur Lernbegleiterin. Zusammenfassend lässt sich also sagen: Digitale Medien sind ein starkes Werkzeug, aber eben nur ein Werkzeug. Vielen Dank für Ihre Aufmerksamkeit – ich freue mich auf Ihre Fragen.",
+          "anschlussfragen": [
+            "Sie haben gesagt, dass die Lehrkraft entscheidend ist. Welche Fortbildungen würden Sie sich konkret wünschen?",
+            "Wie würden Sie in Ihrem Unterricht verhindern, dass die Schülerinnen und Schüler am Tablet abgelenkt werden?",
+            "Halten Sie ein Handyverbot an Schulen für sinnvoll?",
+            "Sollten KI-Programme irgendwann auch Klassenarbeiten bewerten dürfen?"
+          ]
+        },
+        {
+          "titel": "Weniger Fleisch essen – ein Beitrag zum Klimaschutz?",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Weniger Fleisch essen – ein Beitrag zum Klimaschutz?“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, welche Rolle Fleisch in der Ernährung in Deutschland und in einem anderen Land spielt, das Sie kennen.",
+            "Erläutern Sie die Folgen des Fleischkonsums für Umwelt und Gesundheit.",
+            "Diskutieren Sie, ob der Staat den Fleischkonsum steuern sollte, z. B. durch Steuern oder das Angebot in Kantinen.",
+            "Sagen Sie Ihre eigene Meinung und begründen Sie sie."
+          ],
+          "thema": "klima_nachhaltigkeit",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Grillabend – Fleisch gehört „dazu“",
+            "D: Verbrauch sinkt leicht, viele vegetarische Produkte, aber noch über Empfehlung",
+            "Südostasien: Alltag Reis, Gemüse, Fisch; Wohlstand ↑ → Fleisch ↑",
+            "Umwelt: Methan (Rinder), Flächen für Futter, Rodung",
+            "Gesundheit: viel rotes/verarbeitetes Fleisch → Herz-Kreislauf-Risiko",
+            "pro Steuer: Preis = wahre Kosten",
+            "contra Steuer: trifft Ärmere, Bevormundung",
+            "Alternative: Anreize – gutes, günstiges vegetarisches Essen in Mensa/Kantine",
+            "Meinung: „weniger, aber besser“",
+            "Schluss: Überzeugung statt Zwang; 2–3 fleischfreie Tage/Woche"
+          ],
+          "muster": "Ich möchte mit einer kleinen Beobachtung anfangen: Wenn in Deutschland im Sommer gegrillt wird, dann liegen auf dem Grill fast immer Würstchen und Steaks. Fleisch gehört für viele Menschen einfach zu einem schönen Abend dazu. Gleichzeitig hört man immer öfter, dass wir weniger Fleisch essen sollten – dem Klima zuliebe. Um diese Spannung geht es in meinem kurzen Vortrag. Ich werde zuerst die Situation beschreiben, dann auf die Folgen des Fleischkonsums eingehen, anschließend die Frage diskutieren, ob der Staat eingreifen sollte, und am Ende meine eigene Position darlegen.\n\nZunächst zur Situation. In Deutschland ist der Fleischverbrauch in den letzten Jahren leicht zurückgegangen. In jedem Supermarkt findet man inzwischen vegetarische Burger oder Wurst aus Erbsenprotein. Trotzdem essen die Menschen im Durchschnitt immer noch deutlich mehr Fleisch, als Ernährungsfachleute empfehlen. In vielen anderen Ländern, zum Beispiel in Südostasien, ist es eher umgekehrt: Im Alltag gibt es viel Reis, Gemüse und Fisch, aber mit wachsendem Wohlstand steigt auch dort der Fleischkonsum.\n\nKommen wir nun zu den Folgen. Was die Umwelt betrifft, so verursacht vor allem die Rinderhaltung große Mengen an Methan, einem besonders wirksamen Treibhausgas. Hinzu kommt, dass für Futtermittel riesige Flächen gebraucht werden – teilweise werden dafür sogar Wälder gerodet. Auch für die Gesundheit ist ein hoher Konsum nicht ideal: Wer viel rotes oder verarbeitetes Fleisch isst, hat ein höheres Risiko für Herz-Kreislauf-Erkrankungen.\n\nSollte der Staat also eingreifen? Befürworter einer Fleischsteuer argumentieren, dass der Preis dann endlich die tatsächlichen Kosten für Umwelt und Gesundheit widerspiegeln würde. Kritiker halten dagegen, dass eine solche Steuer vor allem Menschen mit geringem Einkommen treffen würde. Außerdem empfinden es viele als Bevormundung, wenn der Staat ihnen vorschreibt, was auf den Teller kommt.\n\nMeiner Meinung nach ist ein Mittelweg am sinnvollsten. Statt Verbote oder hohe Steuern einzuführen, sollte man Anreize schaffen. Wenn die Mensa oder die Betriebskantine ein vegetarisches Gericht anbietet, das wirklich gut schmeckt und günstiger ist als das Fleischgericht, dann greifen viele ganz freiwillig zu. Das zeigt sich übrigens schon an vielen Universitäten: Seit dort das vegetarische Angebot größer und besser geworden ist, entscheiden sich deutlich mehr Studierende dafür. Persönlich halte ich mich an den Grundsatz „weniger, aber besser“: lieber selten Fleisch essen, dafür aus artgerechter Haltung.\n\nIch komme zum Schluss. Essgewohnheiten sind tief in unserer Kultur verwurzelt und ändern sich nur langsam. Gerade deshalb finde ich, dass man auf Überzeugung statt auf Zwang setzen sollte. Wenn jeder Einzelne zwei- oder dreimal pro Woche auf Fleisch verzichtet, wäre schon viel gewonnen – für das Klima, für die Tiere und nicht zuletzt für die eigene Gesundheit. Vielen Dank fürs Zuhören.",
+          "anschlussfragen": [
+            "Sie haben von Anreizen gesprochen. Glauben Sie wirklich, dass freiwillige Maßnahmen ausreichen, um die Klimaziele zu erreichen?",
+            "Was halten Sie von Fleisch, das im Labor aus Zellen gezüchtet wird?",
+            "Sollten Schulkantinen einen fleischfreien Tag pro Woche einführen?",
+            "Wie könnte man verhindern, dass gesunde Ernährung eine Frage des Geldes wird?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp02",
+      "pruefung": 0,
+      "themen": [
+        {
+          "titel": "Studiengebühren – gerecht oder unsozial?",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Studiengebühren – gerecht oder unsozial?“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wie das Studium in Deutschland und in einem anderen Land, das Sie kennen, finanziert wird.",
+            "Nennen Sie Argumente für und gegen allgemeine Studiengebühren.",
+            "Gehen Sie auf die Frage ein, ob internationale Studierende Gebühren zahlen sollten.",
+            "Nehmen Sie persönlich Stellung."
+          ],
+          "thema": "bildung_hochschule",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Frage ans Publikum – Was hat Ihr Studium gekostet?",
+            "D: Erststudium grundsätzlich gebührenfrei, nur Semesterbeitrag (oft mit Ticket)",
+            "Ausnahmen: z. B. Baden-Württemberg – Gebühren für Nicht-EU-Studierende",
+            "USA/GB: tausende bis zehntausende pro Jahr → Schulden",
+            "pro: mehr Personal, bessere Ausstattung",
+            "pro: Akademiker verdienen später mehr; evtl. zielstrebiger",
+            "contra: Bildung = Grundrecht; Herkunft entscheidet schon heute",
+            "contra: Arbeiterkinder scheuen Schulden",
+            "Internationale: Steuerzahler ↔ Fachkräftebedarf → Investition",
+            "Meinung: gegen Gebühren; Steuern + Studienförderung ausbauen",
+            "Schluss: Gebühren kosten langfristig Talente"
+          ],
+          "muster": "Darf ich mit einer Frage beginnen? Wie viel hat Ihr Studium eigentlich gekostet? In Deutschland lautet die Antwort oft: erstaunlich wenig – jedenfalls, was die Gebühren angeht. In anderen Ländern dagegen beginnen junge Menschen ihr Berufsleben mit Schulden in fünf- oder sechsstelliger Höhe. Deshalb möchte ich heute über Studiengebühren sprechen. Mein Vortrag hat vier Teile: Ich stelle kurz die Situation dar, dann wäge ich Argumente dafür und dagegen ab, gehe auf internationale Studierende ein und sage zum Schluss, was ich selbst davon halte.\n\nZunächst zur Lage in Deutschland. An staatlichen Hochschulen ist das Erststudium grundsätzlich gebührenfrei. Man zahlt lediglich einen Semesterbeitrag von einigen hundert Euro, in dem oft schon ein Ticket für den Nahverkehr enthalten ist. Ausnahmen gibt es aber, zum Beispiel in Baden-Württemberg, wo Studierende aus Ländern außerhalb der EU Gebühren zahlen müssen. Ganz anders sieht es etwa in den USA oder in Großbritannien aus: Dort kostet ein Studienjahr mehrere tausend, an Eliteuniversitäten sogar zehntausende Dollar oder Pfund.\n\nWas spricht nun für Studiengebühren? Ein häufiges Argument lautet, dass die Hochschulen mit dem zusätzlichen Geld mehr Personal einstellen und die Ausstattung verbessern könnten. In manchen Seminaren sitzen heute über hundert Studierende, und auf einen Termin bei der Studienberatung wartet man oft wochenlang. Außerdem verdienen Akademikerinnen und Akademiker im Durchschnitt später mehr – warum sollte also die Allgemeinheit ihr Studium komplett finanzieren? Manche meinen auch, dass Studierende, die zahlen, zielstrebiger studieren.\n\nDem steht jedoch ein gewichtiges Gegenargument gegenüber: Bildung ist ein Grundrecht und sollte nicht vom Geldbeutel der Eltern abhängen. Schon heute beginnen Kinder aus Akademikerfamilien deutlich häufiger ein Studium als Kinder, deren Eltern nicht studiert haben. Gebühren würden diese Kluft vermutlich noch vergrößern, weil gerade junge Menschen aus ärmeren Familien Schulden scheuen. Ein Kredit von mehreren zehntausend Euro ist für sie ein enormes Risiko.\n\nEin Sonderfall sind internationale Studierende. Einerseits fragen sich manche, warum der deutsche Steuerzahler ihr Studium finanzieren soll. Andererseits sucht Deutschland dringend Fachkräfte – und wer hier studiert, bleibt häufig auch hier und zahlt später Steuern. Viele bringen außerdem neue Perspektiven in Forschung und Lehre ein. Aus dieser Perspektive ist das kostenlose Studium eher eine Investition als ein Geschenk.\n\nWie stehe ich selbst dazu? Ich bin klar gegen allgemeine Studiengebühren. Meiner Ansicht nach sollte man die Hochschulen lieber über Steuern besser ausstatten und gleichzeitig die staatliche Studienförderung ausbauen, damit niemand aus finanziellen Gründen auf ein Studium verzichten muss.\n\nLassen Sie mich zusammenfassen: Gebühren mögen kurzfristig Geld bringen, langfristig kosten sie eine Gesellschaft aber möglicherweise Talente. Und das können wir uns, wie ich finde, nicht leisten. Danke schön!",
+          "anschlussfragen": [
+            "Sie sind gegen Gebühren. Wie sollten die Hochschulen dann aus Ihrer Sicht ihre Qualität verbessern?",
+            "Wären Sie für Gebühren, die erst nach dem Studium und abhängig vom späteren Einkommen gezahlt werden?",
+            "Wie stehen Sie zu Gebühren für Langzeitstudierende, die die Regelstudienzeit deutlich überschreiten?",
+            "Hätten Studiengebühren Ihre eigene Studienwahl beeinflusst?"
+          ]
+        },
+        {
+          "titel": "Die Anerkennung ausländischer Berufsabschlüsse",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Die Anerkennung ausländischer Berufsabschlüsse“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wie ein Anerkennungsverfahren in Deutschland abläuft, und vergleichen Sie mit Ihrem Heimatland.",
+            "Erläutern Sie, welche Schwierigkeiten dabei für Zugewanderte entstehen.",
+            "Nennen Sie Vor- und Nachteile strenger Anerkennungsregeln.",
+            "Machen Sie Vorschläge, wie man das Verfahren verbessern könnte."
+          ],
+          "thema": "migration_interkulturalitaet",
+          "bezug": true,
+          "stichpunkte": [
+            "Einstieg: eigener Antrag – Diplom, Notenspiegel, beglaubigte Übersetzungen",
+            "reglementierte Berufe (Ärztin, Pflege, Lehramt) → Anerkennung Pflicht",
+            "Behörde vergleicht Ausbildung → ggf. Ausgleichsmaßnahme (Anpassungslehrgang/Eignungsprüfung)",
+            "Lehramt D: 2 Fächer + Referendariat; Philippinen: meist 1 Hauptfach (Biologie)",
+            "Schwierigkeiten: Dauer, Kosten, hohes Sprachniveau",
+            "Folge: Arbeit unter Qualifikation",
+            "pro strenge Regeln: Verantwortung, Qualität",
+            "contra: Personalmangel, Frust, Weiterwanderung",
+            "Vorschläge: digital, zentrale Beratung, berufsbegleitend nachqualifizieren",
+            "Schluss: Anerkennung = Wertschätzung"
+          ],
+          "muster": "Vor einigen Monaten habe ich einen dicken Umschlag zur Post gebracht. Darin waren mein Lehramtsdiplom von den Philippinen, mein Notenspiegel, beglaubigte Übersetzungen und ein ausgefülltes Antragsformular. Seitdem warte ich auf eine Antwort. Deshalb liegt mir das Thema meines Vortrags besonders am Herzen: die Anerkennung ausländischer Berufsabschlüsse in Deutschland. Ich werde zuerst das Verfahren beschreiben, dann auf die Schwierigkeiten eingehen, anschließend Vor- und Nachteile strenger Regeln abwägen und zum Schluss einige Verbesserungsvorschläge machen.\n\nWie läuft so ein Verfahren ab? Wer einen sogenannten reglementierten Beruf ausüben möchte, also zum Beispiel als Ärztin, Pflegekraft oder Lehrerin arbeiten will, braucht eine offizielle Anerkennung. Die zuständige Behörde vergleicht dann die ausländische Ausbildung mit der deutschen. Gibt es wesentliche Unterschiede, wird eine Ausgleichsmaßnahme verlangt, etwa ein Anpassungslehrgang oder eine Eignungsprüfung. Beim Lehramt ist das besonders kompliziert, denn in Deutschland unterrichtet man in der Regel zwei Fächer und absolviert ein Referendariat. Auf den Philippinen dagegen studiert man meistens nur ein Hauptfach – in meinem Fall Biologie.\n\nDamit sind wir schon bei den Schwierigkeiten. Viele Zugewanderte berichten, dass das Verfahren sehr lange dauert und hohe Kosten verursacht, etwa für Übersetzungen und Gebühren. Manche Unterlagen, zum Beispiel genaue Beschreibungen der Studieninhalte, lassen sich aus dem Heimatland nur mit großem Aufwand beschaffen. Hinzu kommt, dass man oft ein sehr hohes Sprachniveau nachweisen muss. Die Folge ist, dass gut ausgebildete Menschen jahrelang unter ihrer Qualifikation arbeiten – die Ingenieurin als Reinigungskraft oder der Arzt als Taxifahrer.\n\nNatürlich gibt es auch gute Gründe für strenge Regeln. Wer Kinder unterrichtet oder Patienten behandelt, trägt große Verantwortung. Eine Lehrerin muss nicht nur ihr Fach beherrschen, sondern auch das deutsche Schulsystem, die Lehrpläne und die rechtlichen Grundlagen kennen. Es ist also durchaus nachvollziehbar, dass der Staat die Qualität sichern möchte. Andererseits herrscht in deutschen Schulen und Krankenhäusern ein akuter Personalmangel. Wenn qualifizierte Fachkräfte am Ende frustriert in ein anderes Land weiterziehen, schadet das allen.\n\nWas könnte man also verbessern? Erstens sollte das Verfahren vollständig digitalisiert werden, damit nicht mehr Papierstapel hin- und hergeschickt werden müssen. Zweitens wäre eine zentrale Beratungsstelle hilfreich, die einen durch den ganzen Prozess begleitet – bisher muss man sich die Informationen oft mühsam aus verschiedenen Quellen zusammensuchen. Und drittens fände ich es sinnvoll, wenn man fehlende Qualifikationen berufsbegleitend nachholen könnte – also schon an einer Schule arbeiten darf, während man zum Beispiel das zweite Fach studiert.\n\nAbschließend möchte ich betonen: Für mich ist Anerkennung mehr als ein Verwaltungsakt. Sie ist auch ein Zeichen der Wertschätzung für das, was Menschen in ihrem Leben bereits gelernt und geleistet haben – und für das, was sie hier noch beitragen können. Vielen Dank.",
+          "anschlussfragen": [
+            "Wie lange hat Ihr eigenes Verfahren bisher gedauert, und was war am schwierigsten?",
+            "Sollte das geforderte Sprachniveau für Lehrkräfte niedriger sein, wenn sie zum Beispiel nur Naturwissenschaften unterrichten?",
+            "Welche Unterschiede zwischen dem Unterricht auf den Philippinen und in Deutschland haben Sie bisher beobachtet?",
+            "Wer sollte die Kosten für Anpassungslehrgänge tragen – die Zugewanderten oder der Staat?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp03",
+      "pruefung": 0,
+      "themen": [
+        {
+          "titel": "Homeoffice – die Zukunft der Arbeit?",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Homeoffice – die Zukunft der Arbeit?“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wie verbreitet das Arbeiten von zu Hause in Deutschland oder in einem anderen Land ist.",
+            "Erläutern Sie Vor- und Nachteile für Beschäftigte und Unternehmen.",
+            "Gehen Sie darauf ein, ob es ein Recht auf Homeoffice geben sollte.",
+            "Geben Sie einen Ausblick, wie sich die Arbeitswelt entwickeln wird."
+          ],
+          "thema": "arbeitswelt",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Frühling 2020 – Küchentisch wird Schreibtisch",
+            "D: knapp ein Viertel arbeitet zumindest gelegentlich zu Hause; hybride Modelle",
+            "nicht für alle: Pflege, Handwerk, Verkauf",
+            "+ Beschäftigte: kein Pendeln, Familie und Beruf vereinbar",
+            "+ Unternehmen: weniger Bürofläche, Bewerber von weit weg",
+            "– Isolation; Grenze Arbeit/Freizeit verschwimmt",
+            "– Einarbeitung, Teamgeist schwierig",
+            "Recht auf Homeoffice? Unabhängigkeit ↔ Ungleichbehandlung",
+            "Kompromiss: Antrag muss geprüft, Ablehnung begründet werden",
+            "Ausblick: Büro als Ort der Begegnung",
+            "Schluss: Ergänzung, kein Ersatz"
+          ],
+          "muster": "Erinnern Sie sich noch an den Frühling 2020? Plötzlich wurde für Millionen Menschen der Küchentisch zum Schreibtisch, und Videokonferenzen gehörten auf einmal zum Alltag. Viele dachten damals, das sei eine vorübergehende Ausnahme. Heute wissen wir, dass das Homeoffice geblieben ist – zumindest teilweise. Deshalb möchte ich in meinem Vortrag der Frage nachgehen, ob das Arbeiten von zu Hause die Zukunft ist. Ich spreche zuerst über die aktuelle Situation, dann über Vor- und Nachteile, danach über ein mögliches Recht auf Homeoffice und am Ende über die weitere Entwicklung.\n\nZur aktuellen Lage: In Deutschland arbeitet inzwischen knapp ein Viertel der Erwerbstätigen zumindest gelegentlich von zu Hause aus. Besonders verbreitet sind hybride Modelle, bei denen man zum Beispiel zwei Tage im Büro und drei Tage daheim arbeitet. Man darf aber nicht vergessen, dass dies längst nicht für alle gilt: Eine Pflegekraft, ein Elektriker oder eine Verkäuferin kann die Arbeit schlicht nicht mit nach Hause nehmen.\n\nKommen wir zu den Vorteilen. Für die Beschäftigten fällt der tägliche Arbeitsweg weg, was Zeit, Geld und Nerven spart. Viele können Beruf und Familie besser vereinbaren. Auch Unternehmen profitieren: Sie brauchen weniger Bürofläche und können Fachkräfte einstellen, die weit entfernt wohnen. Und wer nicht jeden Tag pendelt, entlastet nebenbei auch die Straßen und das Klima.\n\nAllerdings hat das Ganze auch Schattenseiten. Wer ausschließlich zu Hause arbeitet, fühlt sich nicht selten isoliert. Außerdem verschwimmt die Grenze zwischen Arbeit und Freizeit – man liest noch spätabends E-Mails, weil der Laptop ja ohnehin auf dem Tisch steht. Für Unternehmen ist es zudem schwieriger, neue Kolleginnen und Kollegen einzuarbeiten und einen echten Teamgeist zu entwickeln. Auch die spontanen Gespräche in der Kaffeeküche, aus denen oft neue Ideen entstehen, fallen im Homeoffice fast vollständig weg.\n\nSollte es also ein gesetzliches Recht auf Homeoffice geben? Befürworter sagen, dass Beschäftigte so nicht von der Laune ihrer Vorgesetzten abhängig wären. Gegner wenden ein, dass sich nicht jede Tätigkeit dafür eignet und dass ein solches Recht diejenigen benachteiligen würde, die ohnehin vor Ort arbeiten müssen. Ich persönlich halte es für einen fairen Kompromiss, wenn ein Antrag ernsthaft geprüft und eine Ablehnung begründet werden muss.\n\nMeiner Meinung nach liegt die Zukunft eindeutig in hybriden Modellen. Wie genau diese aussehen, sollte jedes Team selbst aushandeln. Ich vermute, dass sich die Funktion des Büros grundlegend verändern wird: Es wird weniger ein Ort sein, an dem man still am Schreibtisch sitzt, sondern eher ein Ort der Begegnung, an dem man gemeinsam Ideen entwickelt und Probleme löst.\n\nUm es kurz zusammenzufassen: Das Homeoffice wird bleiben – aber nicht als Ersatz für das Büro, sondern als sinnvolle Ergänzung. Vielen Dank für Ihre Aufmerksamkeit.",
+          "anschlussfragen": [
+            "Sie haben gesagt, dass Homeoffice nicht für alle möglich ist. Wie könnte man diese Ungleichheit ausgleichen?",
+            "Was kann man konkret tun, um sich im Homeoffice nicht isoliert zu fühlen?",
+            "Glauben Sie, dass man zu Hause produktiver arbeitet als im Büro?",
+            "Wäre Homeoffice auch für Lehrkräfte denkbar, zum Beispiel für die Unterrichtsvorbereitung?"
+          ]
+        },
+        {
+          "titel": "Gentechnisch veränderte Pflanzen in der Landwirtschaft",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Gentechnisch veränderte Pflanzen in der Landwirtschaft“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Erklären Sie kurz, was gentechnisch veränderte Pflanzen sind und wofür sie eingesetzt werden.",
+            "Beschreiben Sie, wie man in Ihrem Heimatland und in Deutschland damit umgeht.",
+            "Nennen Sie Chancen und Risiken.",
+            "Nehmen Sie Stellung und begründen Sie Ihre Meinung."
+          ],
+          "thema": "biotechnologie",
+          "bezug": true,
+          "stichpunkte": [
+            "Einstieg: Schülerfrage im Biologieunterricht: „Ist Gen-Mais gefährlich?“",
+            "Definition: Erbgut gezielt verändert → neue Eigenschaft (z. B. Schädlingsresistenz)",
+            "Beispiel: Goldener Reis – Beta-Carotin gegen Vitamin-A-Mangel",
+            "Philippinen: 2021 Anbau genehmigt, 2024 von Gericht vorerst gestoppt",
+            "D: praktisch kein Anbau, Kennzeichnungspflicht, große Skepsis",
+            "EU: Debatte über lockerere Regeln für Genschere (CRISPR)",
+            "Chancen: Ertrag ↑, Pestizide ↓, dürretolerante Sorten",
+            "Risiken: Gene auf Wildpflanzen, Artenvielfalt, Patente → Abhängigkeit",
+            "Meinung: Einzelfall prüfen, unabhängige Forschung, Kennzeichnung",
+            "Schluss: Argumente prüfen statt Angst oder Begeisterung"
+          ],
+          "muster": "Wenn ich im Biologieunterricht über Genetik spreche, kommt früher oder später fast immer dieselbe Frage: „Ist Gen-Mais eigentlich gefährlich?“ Die Frage ist einfach, die Antwort leider nicht. Genau darum soll es in meinem Vortrag gehen: um gentechnisch veränderte Pflanzen in der Landwirtschaft. Ich erkläre zunächst kurz, worum es sich dabei handelt, beschreibe dann die Situation auf den Philippinen und in Deutschland, gehe auf Chancen und Risiken ein und sage am Ende, wie ich selbst dazu stehe.\n\nWas versteht man überhaupt darunter? Bei gentechnisch veränderten Pflanzen wird das Erbgut gezielt verändert, um der Pflanze eine neue Eigenschaft zu verleihen. Ein Mais kann zum Beispiel ein Eiweiß bilden, das bestimmte Schädlinge abtötet. Ein bekanntes Beispiel ist auch der sogenannte Goldene Reis, der Beta-Carotin enthält, also eine Vorstufe von Vitamin A. Er soll gegen Vitamin-A-Mangel helfen, der in ärmeren Regionen zu Erblindung führen kann.\n\nDamit bin ich schon bei meinem Heimatland. Die Philippinen haben 2021 als eines der ersten Länder den kommerziellen Anbau von Goldenem Reis genehmigt. Allerdings hat ein Gericht diesen Anbau 2024 vorerst gestoppt, nachdem Umweltorganisationen geklagt hatten. Die Debatte ist also noch lange nicht abgeschlossen. In Deutschland ist die Skepsis traditionell sehr groß. Gentechnisch veränderte Pflanzen werden hier praktisch nicht angebaut, und Lebensmittel, die solche Bestandteile enthalten, müssen gekennzeichnet werden. Umfragen zeigen regelmäßig, dass eine große Mehrheit der Deutschen Gentechnik im Essen ablehnt. Auf europäischer Ebene wird allerdings darüber diskutiert, neuere Verfahren wie die Genschere CRISPR weniger streng zu regeln.\n\nWelche Chancen gibt es? Befürworter weisen darauf hin, dass solche Pflanzen höhere Erträge bringen und mit weniger Pestiziden auskommen können. Angesichts des Klimawandels wären außerdem Sorten interessant, die Dürre oder salzhaltige Böden besser vertragen. Für Länder wie die Philippinen, die regelmäßig von Taifunen und Überschwemmungen getroffen werden, könnten widerstandsfähigere Sorten sogar über die Ernährungssicherheit ganzer Regionen entscheiden.\n\nDem stehen jedoch Risiken gegenüber. Veränderte Gene könnten sich auf Wildpflanzen übertragen und die Artenvielfalt beeinträchtigen. Außerdem ist noch nicht ausreichend erforscht, welche Langzeitfolgen manche Veränderungen für Insekten und Bodenlebewesen haben. Ein weiteres Problem ist eher wirtschaftlicher Natur: Das Saatgut ist häufig patentiert, sodass Kleinbauern von großen Konzernen abhängig werden können.\n\nWie lautet nun mein Fazit? Als Biologin halte ich Pauschalurteile für wenig hilfreich. Die Technik an sich ist weder gut noch böse – entscheidend ist, welche Eigenschaft verändert wird und wer davon profitiert. Deshalb plädiere ich für eine sorgfältige Prüfung jedes Einzelfalls, für unabhängige Forschung und für eine transparente Kennzeichnung, damit Verbraucherinnen und Verbraucher selbst entscheiden können.\n\nUnd genau das versuche ich auch meinen Schülerinnen und Schülern zu vermitteln: nicht Angst oder Begeisterung, sondern die Fähigkeit, Argumente kritisch zu prüfen. Vielen Dank.",
+          "anschlussfragen": [
+            "Sie sprechen sich für Einzelfallprüfungen aus. Wer sollte diese Prüfungen durchführen – staatliche Stellen oder unabhängige Institute?",
+            "Wie behandeln Sie dieses Thema konkret im Unterricht, damit sich die Jugendlichen eine eigene Meinung bilden?",
+            "Sollten Pflanzen, die mit der Genschere verändert wurden, genauso streng geregelt werden wie klassische Gentechnik?",
+            "Wie stehen die Menschen auf den Philippinen selbst zum Goldenen Reis?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp04",
+      "pruefung": 0,
+      "themen": [
+        {
+          "titel": "Kostenloser öffentlicher Nahverkehr – eine gute Idee?",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Kostenloser öffentlicher Nahverkehr – eine gute Idee?“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie die Situation des öffentlichen Nahverkehrs in Deutschland oder in einem anderen Land, das Sie kennen.",
+            "Nennen Sie Argumente für und gegen einen kostenlosen Nahverkehr.",
+            "Gehen Sie auf mögliche Alternativen ein.",
+            "Sagen Sie Ihre Meinung und geben Sie einen Ausblick."
+          ],
+          "thema": "mobilitaet",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Sommer 2022 – 9-Euro-Ticket, volle Züge",
+            "heute: Deutschlandticket, fester Monatspreis, bundesweit",
+            "Stadt: dichter Takt ↔ Land: Bus 2× am Tag",
+            "Beispiel: Luxemburg seit 2020 gratis",
+            "pro: Klima, weniger Staus/Lärm, soziale Teilhabe",
+            "contra: Milliardenkosten → Geld fehlt für Ausbau",
+            "contra: Umsteiger oft Fußgänger/Radfahrer, nicht Autofahrer",
+            "Alternative: dichterer Takt, Land anbinden, Sozialtickets",
+            "Meinung: erst Angebot, dann Preis",
+            "Ausblick: autonome Kleinbusse per App"
+          ],
+          "muster": "Vielleicht erinnern Sie sich an den Sommer 2022: Drei Monate lang konnte man in Deutschland für neun Euro im Monat mit allen Bussen und Regionalzügen fahren. Die Züge waren voll, und manche Menschen haben zum ersten Mal überhaupt den Nahverkehr ausprobiert. Seitdem stellt sich die Frage: Warum nicht gleich ganz kostenlos? Mit dieser Frage möchte ich mich in meinem Vortrag beschäftigen. Ich gehe zuerst auf die aktuelle Situation ein, stelle dann Argumente dafür und dagegen vor, spreche über Alternativen und schließe mit meiner Meinung.\n\nZur Situation: Heute gibt es in Deutschland das Deutschlandticket, mit dem man für einen festen monatlichen Preis bundesweit Busse und Bahnen im Nahverkehr nutzen kann. In Großstädten funktioniert das gut, denn dort fährt die U-Bahn alle paar Minuten. Auf dem Land sieht es hingegen ganz anders aus: In manchen Dörfern kommt der Bus nur zweimal am Tag – da hilft auch das günstigste Ticket nicht viel. Andere Länder sind übrigens schon weiter gegangen. In Luxemburg ist der öffentliche Nahverkehr seit 2020 für alle kostenlos.\n\nWas spricht nun für einen Nulltarif? Zunächst einmal das Klima: Wenn mehr Menschen das Auto stehen lassen, sinken die Emissionen. Außerdem gäbe es weniger Staus und weniger Lärm in den Innenstädten. Ein weiteres wichtiges Argument ist die soziale Teilhabe. Menschen mit wenig Geld könnten sich frei bewegen, Freunde besuchen oder zu Vorstellungsgesprächen fahren.\n\nAndererseits gibt es gewichtige Einwände. Der Nahverkehr kostet jedes Jahr Milliarden, und dieses Geld müsste dann komplett aus Steuern kommen. Es besteht die Gefahr, dass für Investitionen in neue Strecken und Fahrzeuge nichts mehr übrig bleibt. Zudem zeigen Erfahrungen aus anderen Städten, dass oft nicht die Autofahrer umsteigen, sondern Menschen, die vorher zu Fuß gegangen oder Rad gefahren sind. Und das bringt für das Klima natürlich wenig. Außerdem könnten Busse und Bahnen in den Stoßzeiten noch voller werden, als sie es heute schon sind – das haben wir beim Neun-Euro-Ticket gesehen.\n\nGibt es Alternativen? Ich denke schon. Statt den Preis auf null zu senken, könnte man das Geld in einen dichteren Takt und bessere Verbindungen auf dem Land investieren. Für Menschen mit geringem Einkommen sollte es zusätzlich vergünstigte Sozialtickets geben. Auch sichere Radwege und Park-and-Ride-Plätze am Stadtrand würden vielen den Umstieg erleichtern.\n\nMeine persönliche Meinung lautet daher: Zuerst muss das Angebot stimmen, erst dann sollte man über den Preis reden. Ein kostenloser Bus, der nicht kommt, nützt niemandem. In Zukunft könnten vielleicht autonome Kleinbusse, die man per App bestellt, gerade ländliche Regionen besser anbinden.\n\nKurz gesagt: Kostenloser Nahverkehr klingt verlockend, ist aber kein Allheilmittel. Vielen Dank fürs Zuhören.",
+          "anschlussfragen": [
+            "Wer sollte Ihrer Meinung nach den Ausbau des Nahverkehrs bezahlen – der Staat oder auch die Autofahrer, zum Beispiel über eine City-Maut?",
+            "Würden Sie selbst auf ein Auto verzichten, wenn das Angebot besser wäre?",
+            "Was halten Sie von kostenlosen Tickets nur für bestimmte Gruppen, etwa für Schülerinnen und Schüler?",
+            "Welche Erfahrungen haben Sie mit dem Nahverkehr in Ihrer Stadt gemacht?"
+          ]
+        },
+        {
+          "titel": "Frauen in MINT-Berufen",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Frauen in MINT-Berufen“ (Mathematik, Informatik, Naturwissenschaften, Technik). Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wie hoch der Anteil von Frauen in MINT-Fächern in Deutschland oder in einem anderen Land ist.",
+            "Erläutern Sie mögliche Ursachen für die Unterschiede.",
+            "Stellen Sie Maßnahmen vor, mit denen man mehr Frauen für MINT gewinnen kann, und bewerten Sie diese.",
+            "Sagen Sie, welche Maßnahme Sie für am wirksamsten halten."
+          ],
+          "thema": "gleichberechtigung_diversitaet",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Kinder zeichnen „Wissenschaftler“ → fast immer Mann",
+            "D: ca. ein Drittel der MINT-Studierenden weiblich",
+            "große Unterschiede: Informatik/E-Technik wenig Frauen, Biologie > 50 %",
+            "Ursachen: Rollenbilder, Selbstunterschätzung in Mathe",
+            "Ursachen: wenige Vorbilder, Arbeitskultur (lange Arbeitszeiten)",
+            "Maßnahme 1: Girls’ Day – gut, aber einmalig",
+            "Maßnahme 2: Mentoring durch Ingenieurinnen/Informatikerinnen",
+            "Maßnahme 3: Quoten – umstritten („Quotenfrau“)",
+            "Bewertung: früh ansetzen – Schule!",
+            "Meinung: guter Unterricht + sichtbare Vorbilder",
+            "Schluss: Fachkräftemangel – Potenzial nutzen"
+          ],
+          "muster": "Es gibt ein bekanntes Experiment: Man bittet Kinder, einen Wissenschaftler zu zeichnen. Seit Jahrzehnten malen die meisten von ihnen einen Mann – oft mit weißem Kittel und wilden Haaren. Dieses Bild sagt viel über die Vorstellungen aus, die wir von Naturwissenschaft und Technik haben. Deshalb möchte ich heute über Frauen in den sogenannten MINT-Berufen sprechen, also in Mathematik, Informatik, Naturwissenschaften und Technik. Ich beschreibe erst die Situation, gehe dann auf mögliche Ursachen ein, stelle einige Maßnahmen vor und sage zum Schluss, welche ich für am wirksamsten halte.\n\nZunächst ein Blick auf die Zahlen: In Deutschland ist ungefähr ein Drittel derjenigen, die ein MINT-Fach studieren, weiblich. Dabei gibt es aber große Unterschiede zwischen den Fächern. In Informatik oder Elektrotechnik sind Frauen deutlich in der Minderheit, während in der Biologie inzwischen mehr als die Hälfte der Studierenden Frauen sind.\n\nWoran liegt das? Eine wichtige Rolle spielen sicherlich Rollenbilder. Mädchen hören oft schon früh – manchmal ganz unbewusst –, dass Technik eher etwas für Jungen sei. Studien zeigen außerdem, dass Mädchen ihre Fähigkeiten in Mathematik häufig unterschätzen, selbst wenn ihre Noten genauso gut sind wie die der Jungen. Hinzu kommt, dass es in vielen technischen Berufen nur wenige weibliche Vorbilder gibt. Wenn ein Mädchen die Einzige im Informatikkurs ist, fühlt es sich schnell fehl am Platz. Und schließlich schreckt manche Frauen eine Arbeitskultur ab, in der lange Arbeitszeiten als selbstverständlich gelten.\n\nWelche Maßnahmen gibt es? Erstens Projekte wie den Girls’ Day, an dem Schülerinnen einen Tag lang in technische Berufe hineinschnuppern können. Zweitens Mentoring-Programme, bei denen erfahrene Ingenieurinnen oder Informatikerinnen junge Frauen begleiten. Solche Programme helfen besonders am Anfang des Studiums, wenn viele junge Frauen zweifeln, ob sie wirklich in dieses Fach gehören. Drittens wird immer wieder über Quoten diskutiert, etwa bei der Besetzung von Professuren. Das ist allerdings umstritten, weil manche befürchten, dass Frauen dann als „Quotenfrauen“ abgestempelt werden.\n\nWie bewerte ich diese Maßnahmen? Ein einzelner Aktionstag ist sicherlich hilfreich, aber er reicht nicht aus, um Einstellungen dauerhaft zu verändern. Meiner Überzeugung nach muss man viel früher ansetzen, nämlich in der Schule. Wenn Lehrkräfte Mädchen in Mathematik und Physik gezielt ermutigen und im Unterricht auch Forscherinnen vorstellen, dann wirkt das nachhaltiger als jede Kampagne. Natürlich spielen auch die Eltern eine Rolle, zum Beispiel bei der Frage, welches Spielzeug sie ihren Kindern schenken. Deshalb halte ich die Kombination aus gutem Unterricht und sichtbaren Vorbildern für am wirksamsten.\n\nIch komme zum Schluss. In Deutschland fehlen schon jetzt zehntausende Fachkräfte in technischen Berufen. Eine Gesellschaft, die das Potenzial der Hälfte ihrer Bevölkerung nicht voll nutzt, kann sich das eigentlich gar nicht leisten. Danke für Ihre Aufmerksamkeit!",
+          "anschlussfragen": [
+            "Sie haben die Schule als entscheidend bezeichnet. Wären getrennte Physikkurse für Mädchen und Jungen eine gute Idee?",
+            "Warum ist die Situation in der Biologie Ihrer Meinung nach so anders als in der Informatik?",
+            "Wie stehen Sie persönlich zu Quoten bei der Besetzung von Professuren?",
+            "Sollte man umgekehrt auch mehr Männer für Berufe wie Erzieher oder Grundschullehrer gewinnen?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp05",
+      "pruefung": 0,
+      "themen": [
+        {
+          "titel": "Pflegenotstand und Pflegekräfte aus dem Ausland",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Pflegenotstand und Pflegekräfte aus dem Ausland“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, warum in Deutschland Pflegekräfte fehlen.",
+            "Erläutern Sie, welche Rolle Pflegekräfte aus dem Ausland spielen, z. B. aus Ihrem Heimatland.",
+            "Nennen Sie Vor- und Nachteile der Anwerbung für Deutschland und für die Herkunftsländer.",
+            "Machen Sie Vorschläge für eine faire Lösung."
+          ],
+          "thema": "demografie",
+          "bezug": true,
+          "stichpunkte": [
+            "Einstieg: Nachbarin aus den Philippinen – Intensivstation, Kolleginnen aus 6 Ländern",
+            "Ursache 1: demografischer Wandel – mehr Pflegebedürftige, viele Pflegekräfte bald in Rente",
+            "Ursache 2: Schichtdienst, Zeitdruck, Bezahlung → Berufsausstieg",
+            "Philippinen: lange Tradition (USA, GB, Naher Osten), jetzt verstärkt D",
+            "Programme: Vorbereitung im Heimatland, Sprachkurse",
+            "+ D: Personallücken schließen; + Herkunftsland: Rücküberweisungen",
+            "– Anerkennung dauert, Sprache, Einsamkeit",
+            "– Herkunftsland: Abwanderung, Lücken auf dem Land",
+            "Lösung: Ausbildung im Herkunftsland mitfinanzieren, schnellere Anerkennung",
+            "Lösung: Arbeitsbedingungen in D verbessern (wichtigster Punkt)",
+            "Schluss: Anwerbung ≠ Ersatz für gute Pflegepolitik"
+          ],
+          "muster": "Meine Nachbarin hier in Nordrhein-Westfalen kommt, genau wie ich, von den Philippinen. Sie arbeitet als Pflegefachkraft auf einer Intensivstation, und sie hat mir einmal erzählt, dass auf ihrer Station inzwischen Kolleginnen und Kollegen aus sechs verschiedenen Ländern arbeiten. Das hat mich neugierig gemacht. In meinem Vortrag geht es deshalb um den Pflegenotstand in Deutschland und um die Anwerbung ausländischer Pflegekräfte. Ich erläutere zuerst die Ursachen des Mangels, spreche dann über die Rolle meines Heimatlandes, wäge Vor- und Nachteile ab und mache zum Schluss einige Vorschläge.\n\nWarum fehlen in Deutschland überhaupt so viele Pflegekräfte? Der wichtigste Grund ist der demografische Wandel. Die Menschen werden älter, und damit steigt die Zahl der Pflegebedürftigen. Gleichzeitig gehen viele erfahrene Pflegekräfte in den nächsten Jahren in Rente. Dazu kommt, dass der Beruf sehr belastend ist: Schichtdienst, Zeitdruck und eine Bezahlung, die viele als unangemessen empfinden. Nicht wenige steigen deshalb nach einigen Jahren wieder aus oder reduzieren ihre Arbeitszeit.\n\nHier kommen Länder wie die Philippinen ins Spiel. Dort hat die Arbeitsmigration im Gesundheitswesen eine lange Tradition. Philippinische Pflegekräfte arbeiten seit Jahrzehnten in den USA, in Großbritannien oder im Nahen Osten, und seit einigen Jahren eben auch verstärkt in Deutschland. Es gibt staatliche Programme, die die Bewerberinnen und Bewerber schon im Heimatland mit Sprachkursen und Informationen über den deutschen Arbeitsalltag vorbereiten.\n\nWelche Vorteile hat das? Für Deutschland liegt der Nutzen auf der Hand: Personallücken in Krankenhäusern und Pflegeheimen werden geschlossen, und die Teams werden vielfältiger. Die Herkunftsländer profitieren durch die Rücküberweisungen, mit denen viele Familien ihre Kinder zur Schule schicken oder ein Haus bauen können.\n\nEs gibt aber auch Nachteile. Die Anerkennung dauert oft lange, und bis dahin dürfen die Fachkräfte nur als Hilfskräfte arbeiten. Viele kämpfen zudem mit der Sprache, mit dem kalten Winter und mit Einsamkeit, weil ihre Familien Tausende Kilometer entfernt leben. Für die Herkunftsländer besteht die Gefahr der Abwanderung: Wenn die besten Pflegekräfte gehen, fehlen sie in den eigenen Krankenhäusern – gerade in ländlichen Regionen.\n\nWas wäre also eine faire Lösung? Erstens sollten Anwerbeabkommen so gestaltet sein, dass Deutschland die Ausbildung im Herkunftsland mitfinanziert. So werden dort mehr Menschen ausgebildet, als abwandern. Erste Programme, bei denen beide Staaten eng zusammenarbeiten, zeigen, dass das funktionieren kann. Zweitens müssen die Anerkennungsverfahren deutlich schneller werden. Und drittens – das halte ich für den wichtigsten Punkt – muss Deutschland die Arbeitsbedingungen in der Pflege verbessern, damit auch die einheimischen Fachkräfte im Beruf bleiben.\n\nAbschließend möchte ich festhalten: Die Anwerbung aus dem Ausland kann helfen, aber sie ist kein Ersatz für eine gute Pflegepolitik im eigenen Land. Vielen Dank für Ihre Aufmerksamkeit.",
+          "anschlussfragen": [
+            "Sie haben die Abwanderung angesprochen. Wie sehen die Menschen auf den Philippinen das selbst – eher als Chance oder als Verlust?",
+            "Was könnten Krankenhäuser tun, damit sich ausländische Pflegekräfte schneller einleben?",
+            "Halten Sie es für ethisch vertretbar, gezielt in Ländern anzuwerben, die selbst einen Mangel haben?",
+            "Könnten Roboter oder digitale Technik den Personalmangel in der Pflege verringern?"
+          ]
+        },
+        {
+          "titel": "Wohnungsnot in Großstädten",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Wohnungsnot in Großstädten“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie die Situation auf dem Wohnungsmarkt in deutschen Großstädten oder in einer Stadt, die Sie kennen.",
+            "Erläutern Sie die Ursachen für steigende Mieten.",
+            "Stellen Sie politische Maßnahmen vor und bewerten Sie sie.",
+            "Geben Sie einen Ausblick."
+          ],
+          "thema": "wohnen_stadt",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Besichtigung in Köln – ca. 80 Interessenten im Treppenhaus",
+            "Lage: Mieten in München, Berlin, Hamburg, Köln stark ↑; Neuvermietung teuer",
+            "betroffen: geringes Einkommen, Familien, Studierende (Warteliste Wohnheim)",
+            "Ursachen: Zuzug, mehr Single-Haushalte",
+            "Ursachen: zu wenig Neubau (Baukosten, Zinsen, Bauland, Genehmigungen)",
+            "Ursachen: Wohnung als Geldanlage",
+            "Mietpreisbremse: viele Ausnahmen, kein Neubau",
+            "Sozialer Wohnungsbau: mehr Wohnungen fallen aus der Bindung als neu entstehen",
+            "Umbauen: Dachgeschosse, leere Büros",
+            "Meinung: mehr bauen + Bestand besser nutzen (Wohnungstausch)",
+            "Ausblick: Umland + Homeoffice + gute Bahn"
+          ],
+          "muster": "Vor kurzem hat mir ein Bekannter erzählt, wie er in Köln eine Wohnung besichtigt hat. Er war pünktlich da – und stand im Treppenhaus mit ungefähr achtzig anderen Interessenten. Solche Geschichten hört man in deutschen Großstädten ständig. Deshalb möchte ich heute über die Wohnungsnot in Großstädten sprechen. Ich beschreibe zuerst die Lage, erkläre dann die Ursachen, stelle einige politische Maßnahmen vor und werfe am Ende einen Blick in die Zukunft.\n\nZur Lage: In Städten wie München, Berlin, Hamburg oder Köln sind die Mieten in den letzten fünfzehn Jahren stark gestiegen. Wer neu einzieht, zahlt oft deutlich mehr als jemand, der schon lange in seiner Wohnung lebt. Besonders betroffen sind Menschen mit geringem Einkommen, Familien und Studierende. Viele Studierende stehen monatelang auf der Warteliste für einen Wohnheimplatz und pendeln in dieser Zeit aus dem Elternhaus oder schlafen bei Freunden auf dem Sofa.\n\nWoran liegt das? Erstens ziehen seit Jahren mehr Menschen in die Städte, weil dort die Arbeitsplätze und Hochschulen sind. Zweitens leben heute viel mehr Menschen allein als früher, und dadurch steigt die Zahl der benötigten Wohnungen, selbst wenn die Bevölkerung gleich bleibt. Drittens wird schlicht zu wenig gebaut. Baukosten und Zinsen sind gestiegen, Bauland ist knapp, und Genehmigungsverfahren dauern lange. Und schließlich gelten Wohnungen vielen Anlegern als sichere Geldanlage, was die Preise zusätzlich nach oben treibt.\n\nWas unternimmt die Politik? Eine bekannte Maßnahme ist die Mietpreisbremse. Sie begrenzt, wie stark die Miete bei einer Neuvermietung über der ortsüblichen Vergleichsmiete liegen darf. Allerdings gibt es viele Ausnahmen, und neue Wohnungen entstehen dadurch nicht. Eine zweite Maßnahme ist der soziale Wohnungsbau, also staatlich geförderte Wohnungen mit günstigen Mieten. Das Problem ist, dass in den vergangenen Jahrzehnten mehr Sozialwohnungen aus der Bindung gefallen sind, als neue hinzugekommen sind. Drittens fordern viele, Bauvorschriften zu vereinfachen, Dachgeschosse auszubauen und leer stehende Büros in Wohnungen umzuwandeln.\n\nWie bewerte ich das? Meiner Ansicht nach lindert die Mietpreisbremse höchstens die Symptome. Die Ursache – der Mangel an Wohnraum – lässt sich nur beheben, wenn mehr gebaut wird. Gleichzeitig sollten wir den vorhandenen Bestand besser nutzen: Viele ältere Menschen leben allein in großen Wohnungen und würden gern in eine kleinere ziehen, finden aber keine bezahlbare. Ein organisierter Wohnungstausch könnte hier beiden Seiten helfen.\n\nZum Schluss ein Ausblick: Ich denke, dass das Umland in Zukunft eine größere Rolle spielen wird. Wenn Menschen öfter im Homeoffice arbeiten und gute Bahnverbindungen haben, müssen sie nicht unbedingt mitten in der Stadt wohnen. Kurz gesagt: Die Wohnungsnot ist lösbar – aber nur mit einem langen Atem und mit Maßnahmen, die ineinandergreifen. Vielen Dank.",
+          "anschlussfragen": [
+            "Sie sagen, man müsse mehr bauen. Wie lässt sich das mit dem Ziel vereinbaren, weniger Flächen zu versiegeln?",
+            "Was halten Sie von der Forderung, große Wohnungsunternehmen zu enteignen?",
+            "Wie könnte man älteren Menschen den Umzug in eine kleinere Wohnung erleichtern?",
+            "Wie ist die Wohnsituation in der Stadt, in der Sie leben?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp06",
+      "pruefung": 1,
+      "themen": [
+        {
+          "titel": "Falschinformationen in sozialen Medien",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Falschinformationen in sozialen Medien“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wie sich Falschinformationen im Internet verbreiten.",
+            "Erläutern Sie, welche Folgen das für die Gesellschaft haben kann, und nennen Sie Beispiele.",
+            "Stellen Sie Möglichkeiten vor, Desinformation zu bekämpfen, und bewerten Sie sie.",
+            "Sagen Sie, was jeder Einzelne tun kann."
+          ],
+          "thema": "medien_desinformation",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Familienchat – Hausmittel „besser als Impfung“, „Bitte weiterleiten!“",
+            "Verbreitung: Angst/Empörung → mehr Teilen; Algorithmen verstärken",
+            "Lüge schnell, Richtigstellung erreicht wenige",
+            "neu: KI-Bilder, gefälschte Videos",
+            "Folgen: Gesundheit (Pandemie), Vertrauen in Medien/Wissenschaft ↓, Wahlen",
+            "Gegenmittel 1: Plattformen in die Pflicht (EU-Gesetz)",
+            "Gegenmittel 2: Faktenchecks – kommen zu spät",
+            "Gegenmittel 3: Medienkompetenz in der Schule",
+            "Bewertung: Löschen ↔ Meinungsfreiheit → Bildung am nachhaltigsten",
+            "Einzelne: innehalten – Wer? Andere Quellen? Zusammenhang?",
+            "Schluss: kritisches Denken = bester Schutz"
+          ],
+          "muster": "Kennen Sie das? In einem Familienchat taucht eine Nachricht auf: Ein ganz einfaches Hausmittel soll angeblich besser gegen Grippe helfen als jede Impfung. Darunter stehen Herzchen und der Satz „Bitte unbedingt weiterleiten!“. Solche Nachrichten sind harmlos, solange man sie belächelt – gefährlich werden sie, wenn man ihnen glaubt. In meinem Vortrag geht es um Falschinformationen in sozialen Medien. Ich erkläre zunächst, wie sie sich verbreiten, gehe dann auf die Folgen ein, stelle Gegenmaßnahmen vor und sage zum Schluss, was jeder von uns tun kann.\n\nWie verbreiten sich Falschmeldungen? Ein entscheidender Faktor sind Emotionen. Nachrichten, die Angst oder Empörung auslösen, werden deutlich häufiger geteilt als nüchterne Informationen. Die Algorithmen der Plattformen verstärken diesen Effekt, weil sie Inhalte bevorzugen, die viele Reaktionen hervorrufen. Hinzu kommt, dass eine Lüge sehr schnell um die Welt geht, während die spätere Richtigstellung meist nur einen Bruchteil der Menschen erreicht. Durch künstliche Intelligenz ist es außerdem viel leichter geworden, täuschend echte Bilder oder Videos zu erzeugen.\n\nWelche Folgen hat das? Im Gesundheitsbereich haben wir während der Pandemie gesehen, wie Gerüchte über Impfstoffe Menschen verunsichert haben. Darüber hinaus untergräbt Desinformation das Vertrauen in Medien, Wissenschaft und Politik. Wenn man am Ende gar nichts mehr glaubt, ist eine sachliche Diskussion kaum noch möglich. Und nicht zuletzt kann Desinformation Wahlen beeinflussen, wenn gezielt Lügen über Kandidatinnen oder Kandidaten verbreitet werden.\n\nWas lässt sich dagegen tun? Erstens kann man die Plattformen stärker in die Pflicht nehmen. In der EU gibt es inzwischen ein Gesetz, das große Plattformen verpflichtet, gegen illegale Inhalte vorzugehen und ihre Risiken offenzulegen. Zweitens gibt es Faktencheck-Redaktionen, die falsche Behauptungen überprüfen. Ihr Nachteil ist allerdings, dass sie fast immer hinterherlaufen. Drittens kann man auf Bildung setzen, also Medienkompetenz schon in der Schule vermitteln.\n\nWie bewerte ich diese Ansätze? Beim Löschen von Inhalten sehe ich eine gewisse Gefahr, denn die Grenze zwischen Falschinformation und unbequemer Meinung ist nicht immer eindeutig. Wer entscheidet, was wahr ist? Deshalb halte ich die Bildung für den nachhaltigsten Weg. Wer gelernt hat, Quellen zu prüfen, fällt weniger leicht auf Manipulation herein.\n\nWas kann nun jeder Einzelne tun? Ganz einfach: kurz innehalten, bevor man etwas teilt. Wer hat das geschrieben? Gibt es andere seriöse Quellen, die dasselbe berichten? Ist das Bild vielleicht aus einem anderen Zusammenhang gerissen? Schon diese drei Fragen helfen enorm. Und wenn ein Familienmitglied etwas Falsches teilt, kann man freundlich nachfragen, statt es bloßzustellen.\n\nLassen Sie mich mit einem Gedanken schließen: Gegen Desinformation gibt es kein perfektes Gesetz und keinen perfekten Filter. Der beste Schutz ist und bleibt kritisches Denken. Vielen Dank für Ihre Aufmerksamkeit.",
+          "anschlussfragen": [
+            "Sie halten Bildung für den nachhaltigsten Weg. Ab welchem Alter sollte Medienkompetenz in der Schule unterrichtet werden?",
+            "Wie würden Sie reagieren, wenn ein Familienmitglied regelmäßig Falschinformationen teilt?",
+            "Sollten Bilder und Videos, die mit KI erzeugt wurden, verpflichtend gekennzeichnet werden?",
+            "Vertrauen Sie Zeitungen und Fernsehen mehr als Informationen aus sozialen Netzwerken?"
+          ]
+        },
+        {
+          "titel": "Tierversuche in der Forschung",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Tierversuche in der Forschung“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wofür Tierversuche heute eingesetzt werden.",
+            "Nennen Sie Argumente, die für und gegen Tierversuche sprechen.",
+            "Gehen Sie auf Alternativmethoden ein.",
+            "Nehmen Sie Stellung und begründen Sie Ihre Meinung."
+          ],
+          "thema": "wissenschaft_ethik",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Tablette heute? → Wirkstoff vermutlich an Tieren getestet",
+            "D: jährlich weit über 1 Mio. Tiere, v. a. Mäuse, Ratten, Fische",
+            "Zwecke: Grundlagenforschung, Medikamente, vorgeschriebene Sicherheitsprüfungen",
+            "Kosmetik: in der EU seit 2013 verboten",
+            "pro: Sicherheit der Patienten, Gesamtorganismus",
+            "contra: Leid der Tiere, ethische Grundsatzfrage",
+            "contra: Maus ≠ Mensch → viele Wirkstoffe scheitern später",
+            "Alternativen: Zellkulturen, Organoide, Organ-Chips, Computermodelle",
+            "Grenzen der Alternativen: Gesamtorganismus nur teilweise",
+            "Meinung: kein Sofortverbot, aber Ausnahme; mehr Geld für Alternativen",
+            "Schluss: Schritt für Schritt ohne Tierversuche"
+          ],
+          "muster": "Haben Sie heute schon eine Tablette genommen? Wenn ja, dann ist der Wirkstoff mit großer Wahrscheinlichkeit irgendwann an Tieren getestet worden. Das machen wir uns selten bewusst – und doch gehört das Thema Tierversuche zu den umstrittensten Fragen der modernen Forschung. In meinem Vortrag möchte ich zunächst erklären, wofür Tierversuche eingesetzt werden. Danach stelle ich Argumente dafür und dagegen vor, gehe auf Alternativen ein und schließe mit meiner persönlichen Einschätzung.\n\nBeginnen wir mit den Fakten. In Deutschland werden jedes Jahr weit über eine Million Tiere für wissenschaftliche Zwecke verwendet, vor allem Mäuse, Ratten und Fische. Ein großer Teil davon wird in der Grundlagenforschung eingesetzt, also wenn Forschende zum Beispiel verstehen wollen, wie das Immunsystem funktioniert. Ein weiterer Teil dient der Entwicklung neuer Medikamente und gesetzlich vorgeschriebenen Sicherheitsprüfungen. Für Kosmetik sind Tierversuche in der EU übrigens schon seit 2013 verboten.\n\nWas spricht für Tierversuche? Das wichtigste Argument ist die Sicherheit von Patientinnen und Patienten. Ein Organismus ist ein hochkomplexes System, in dem Herz, Leber, Nieren und Nervensystem zusammenwirken. Ob ein Wirkstoff gefährliche Nebenwirkungen hat, lässt sich, so sagen viele Forschende, bisher nur im lebenden Organismus zuverlässig prüfen. Ohne solche Tests würde man das Risiko direkt auf die ersten Menschen verlagern, die ein neues Medikament einnehmen.\n\nAuf der anderen Seite steht das Leid der Tiere. Viele Versuche sind mit Schmerzen, Angst oder Stress verbunden, und am Ende werden die meisten Tiere getötet. Daraus ergibt sich die grundsätzliche ethische Frage, ob wir das Recht haben, Tieren für unseren Nutzen Leid zuzufügen. Hinzu kommt ein wissenschaftliches Argument: Eine Maus ist nun einmal kein Mensch. Viele Wirkstoffe, die im Tierversuch vielversprechend waren, scheitern später in klinischen Studien.\n\nGibt es Alternativen? Durchaus. Forschende arbeiten mit menschlichen Zellkulturen, mit sogenannten Organoiden – das sind winzige, im Labor gezüchtete Organmodelle – oder mit Chips, auf denen mehrere Organe miteinander verbunden sind. Auch Computermodelle werden immer leistungsfähiger. In Deutschland gibt es sogar ein eigenes staatliches Zentrum, das solche Methoden erforscht und fördert. Allerdings können diese Methoden den Gesamtorganismus bisher nur teilweise abbilden.\n\nWo stehe ich in dieser Debatte? Ich halte ein sofortiges Verbot aller Tierversuche derzeit für nicht realistisch, weil wir damit die Sicherheit neuer Therapien gefährden würden. Gleichzeitig bin ich der festen Überzeugung, dass Tierversuche die absolute Ausnahme sein müssen. Der Staat sollte deshalb viel mehr Geld in die Entwicklung und Anerkennung von Alternativmethoden investieren. Bisher fließt nur ein kleiner Teil der Forschungsgelder in diesen Bereich.\n\nZusammenfassend lässt sich sagen: Das Ziel sollte eine Forschung sein, die Schritt für Schritt ohne Tierversuche auskommt – nicht von heute auf morgen, aber konsequent. Vielen Dank.",
+          "anschlussfragen": [
+            "Sie halten ein sofortiges Verbot für unrealistisch. Bis wann sollte man Ihrer Meinung nach ganz auf Tierversuche verzichten können?",
+            "Ist ein Versuch an einer Maus ethisch anders zu bewerten als ein Versuch an einem Affen?",
+            "Sollten Medikamente gekennzeichnet werden, wenn sie ohne Tierversuche entwickelt wurden?",
+            "Wie würden Sie dieses Thema mit Jugendlichen in der Schule besprechen?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp07",
+      "pruefung": 2,
+      "themen": [
+        {
+          "titel": "Bewegungsmangel bei Kindern und Jugendlichen",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Bewegungsmangel bei Kindern und Jugendlichen“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wie viel sich Kinder und Jugendliche heute bewegen – in Deutschland und in Ihrem Heimatland.",
+            "Erläutern Sie Ursachen und gesundheitliche Folgen von Bewegungsmangel.",
+            "Stellen Sie dar, welche Rolle die Schule spielen kann.",
+            "Machen Sie Vorschläge und sagen Sie Ihre Meinung."
+          ],
+          "thema": "gesundheit",
+          "bezug": true,
+          "stichpunkte": [
+            "Einstieg: Klassenfahrt, 9. Klasse – nach 2 km: „Wann kehren wir um?“",
+            "WHO: mind. 60 Min. aktive Bewegung täglich; Mehrheit weltweit schafft das nicht",
+            "Philippinen: Hitze, Verkehr, wenige Sportplätze",
+            "Ursachen: Bildschirmzeit, „Elterntaxi“, Ganztag im Sitzen",
+            "Folgen: Übergewicht, Diabetes Typ 2 schon bei Jugendlichen",
+            "Folgen: Konzentration ↓, psychisches Wohlbefinden ↓",
+            "Schule erreicht alle Kinder; Sport fällt oft aus",
+            "Vorschlag 1: bewegte Pausen, Schulhof",
+            "Vorschlag 2: Bewegung in allen Fächern – Biologie draußen",
+            "Vorschlag 3: Kooperation mit Sportvereinen",
+            "Meinung: Schulkultur statt Extra-Pflichtstunde"
+          ],
+          "muster": "Ich möchte mit einer Szene von einer Klassenfahrt beginnen. Wir sind mit einer neunten Klasse durch ein Naturschutzgebiet gewandert, um dort Pflanzen zu bestimmen. Nach gerade einmal zwei Kilometern haben die ersten gefragt, wann wir endlich umkehren. Damals habe ich zum ersten Mal ernsthaft darüber nachgedacht, wie wenig sich Jugendliche heute eigentlich bewegen. Darum geht es in meinem Vortrag. Ich beschreibe zuerst die Situation, gehe dann auf Ursachen und Folgen ein, erkläre, welche Rolle die Schule spielen kann, und schließe mit einigen Vorschlägen.\n\nZur Situation: Die Weltgesundheitsorganisation empfiehlt, dass sich Kinder und Jugendliche jeden Tag mindestens sechzig Minuten lang aktiv bewegen. Untersuchungen zeigen aber, dass weltweit die große Mehrheit der Jugendlichen diese Empfehlung nicht erreicht – und Deutschland ist da keine Ausnahme. Auf den Philippinen sieht es nicht besser aus. Dort kommen noch die Hitze, der dichte Verkehr in den Städten und ein Mangel an Sportplätzen hinzu. Viele Kinder verbringen ihre Freizeit deshalb lieber in klimatisierten Einkaufszentren als draußen.\n\nWas sind die Ursachen? An erster Stelle steht sicherlich die Bildschirmzeit. Smartphone, Spielkonsole und Streaming nehmen einen großen Teil der Freizeit ein. Außerdem werden viele Kinder mit dem Auto zur Schule gebracht, statt zu Fuß zu gehen oder mit dem Rad zu fahren. Und durch den Ganztagsunterricht verbringen sie immer mehr Zeit sitzend im Klassenzimmer.\n\nDie Folgen sind ernst. Bewegungsmangel begünstigt Übergewicht, und Krankheiten wie Diabetes Typ 2, die früher als typische Alterskrankheiten galten, treten inzwischen schon bei Jugendlichen auf. Weniger bekannt ist, dass Bewegung auch das Gehirn beeinflusst: Wer sich regelmäßig bewegt, kann sich besser konzentrieren und fühlt sich psychisch wohler. Hinzu kommt, dass Bewegung Knochen und Muskeln stärkt – gerade im Wachstum ist das entscheidend.\n\nDamit komme ich zur Schule. Sie ist der einzige Ort, an dem man wirklich alle Kinder erreicht – unabhängig davon, ob die Eltern Sport fördern oder nicht. Leider fällt gerade der Sportunterricht häufig aus, weil Lehrkräfte oder Sporthallen fehlen.\n\nWas schlage ich also vor? Erstens bewegte Pausen mit Spielgeräten und genug Platz auf dem Schulhof. Zweitens sollte Bewegung nicht nur ins Fach Sport abgeschoben werden. In Biologie kann man zum Beispiel wunderbar draußen arbeiten – Bodenproben nehmen, Insekten zählen, Bäume bestimmen. Auch in anderen Fächern kann man Lernen und Bewegung verbinden, etwa mit einem Quiz, bei dem die Klasse durch den Raum wandert. Drittens könnten Schulen enger mit Sportvereinen zusammenarbeiten, etwa bei Nachmittagsangeboten.\n\nMeiner Meinung nach brauchen wir also keine zusätzliche Pflichtstunde, sondern eine Schulkultur, in der Bewegung selbstverständlich dazugehört. Zum Abschluss möchte ich sagen: Wer Kindern Freude an Bewegung vermittelt, schenkt ihnen etwas für ihr ganzes Leben. Vielen Dank!",
+          "anschlussfragen": [
+            "Sie sind gegen eine zusätzliche Pflichtstunde. Wäre eine tägliche Sportstunde nicht trotzdem die einfachste Lösung?",
+            "Wie haben Sie als Biologielehrerin Unterricht im Freien konkret organisiert?",
+            "Sollten Eltern stärker in die Verantwortung genommen werden, zum Beispiel bei der Bildschirmzeit?",
+            "Welche Rolle spielt Sport im Schulalltag auf den Philippinen?"
+          ]
+        },
+        {
+          "titel": "Billige Mode – der wahre Preis der Fast Fashion",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Billige Mode – der wahre Preis der Fast Fashion“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, wie sich das Kaufverhalten bei Kleidung in den letzten Jahren verändert hat.",
+            "Erläutern Sie die sozialen, ökologischen und wirtschaftlichen Folgen.",
+            "Nennen Sie mögliche Lösungen auf der Ebene der Politik, der Unternehmen und der Verbraucher.",
+            "Sagen Sie Ihre eigene Meinung."
+          ],
+          "thema": "wirtschaft",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: T-Shirt für 4,99 € – wie geht das?",
+            "früher 2 Kollektionen/Jahr, heute fast wöchentlich neue Teile; Online, Gratis-Rückversand",
+            "Produktion seit 2000 ca. verdoppelt, Kleidung kürzer getragen",
+            "sozial: Niedriglöhne, Gefahr – Fabrikeinsturz Bangladesch 2013",
+            "ökologisch: Wasser (Baumwolle), Chemikalien, Mikroplastik",
+            "wirtschaftlich: Arbeitsplätze ↔ Abhängigkeit von Konzernen",
+            "Politik: Lieferkettengesetze, Abgabe für Recycling",
+            "Unternehmen: Transparenz, Reparaturservice",
+            "Verbraucher: weniger, langlebiger, Second Hand",
+            "Meinung: nicht alles auf Kundschaft abwälzen → Politik setzt Regeln",
+            "Schluss: billig ist nicht billig – andere zahlen"
+          ],
+          "muster": "Neulich habe ich in einem Online-Shop ein T-Shirt für 4,99 Euro gesehen. Und ich habe mich gefragt: Wie kann das eigentlich funktionieren? Baumwolle muss angebaut, Stoff gewebt, das Shirt genäht, verpackt und um die halbe Welt transportiert werden. Irgendjemand zahlt dafür einen Preis – nur offenbar nicht die Kundin. Genau darum geht es in meinem Vortrag: um den wahren Preis der sogenannten Fast Fashion. Zuerst beschreibe ich, wie sich unser Kaufverhalten verändert hat, danach gehe ich auf die Folgen ein, anschließend auf mögliche Lösungen, und am Ende sage ich meine Meinung.\n\nWie hat sich das Kaufverhalten verändert? Früher gab es in Modegeschäften zwei Kollektionen im Jahr, für Sommer und Winter. Heute bringen manche Ketten fast jede Woche neue Teile heraus. Durch Online-Shops kann man rund um die Uhr bestellen und oft kostenlos zurückschicken. Die weltweite Produktion von Kleidung hat sich seit dem Jahr 2000 ungefähr verdoppelt, gleichzeitig tragen wir die einzelnen Stücke deutlich kürzer.\n\nWelche Folgen hat das? In sozialer Hinsicht arbeiten viele Näherinnen in Ländern wie Bangladesch für Löhne, von denen man kaum leben kann, und oft unter gefährlichen Bedingungen. Traurige Bekanntheit erlangte der Einsturz eines Fabrikgebäudes im Jahr 2013, bei dem über tausend Menschen ums Leben kamen. Auch ökologisch ist die Bilanz verheerend: Für den Anbau von Baumwolle wird enorm viel Wasser benötigt, beim Färben gelangen Chemikalien in Flüsse, und Kleidung aus Kunstfasern setzt beim Waschen Mikroplastik frei. Wirtschaftlich ist die Lage allerdings zwiespältig. Für Produktionsländer schafft die Textilindustrie Millionen Arbeitsplätze, macht sie aber zugleich abhängig von den Preisvorgaben großer Konzerne.\n\nWas kann man tun? Auf politischer Ebene gibt es bereits Lieferkettengesetze, die Unternehmen verpflichten, auf Menschenrechte bei ihren Zulieferern zu achten. Denkbar wäre zusätzlich eine Abgabe, mit der Hersteller das Recycling ihrer Produkte mitfinanzieren. Unternehmen könnten offenlegen, wo und unter welchen Bedingungen produziert wird, und Reparaturen anbieten. Manche Städte haben inzwischen sogar Reparaturcafés, in denen Freiwillige beim Flicken helfen. Und wir als Verbraucherinnen und Verbraucher können weniger, dafür langlebigere Kleidung kaufen, Kleidung tauschen oder auf Second-Hand-Mode zurückgreifen.\n\nWas halte ich persönlich davon? Ich finde es zu einfach, die ganze Verantwortung auf die Kundschaft abzuwälzen. Wer wenig Geld hat, greift verständlicherweise zum günstigsten Angebot. Und selbst wer bewusst einkaufen möchte, kann im Laden kaum erkennen, unter welchen Bedingungen ein Kleidungsstück hergestellt wurde. Deshalb muss vor allem die Politik klare Regeln setzen, damit faire Produktion zum Standard wird und nicht zum Luxus.\n\nIch fasse zusammen: Billige Mode ist in Wahrheit gar nicht billig – die Kosten tragen nur andere. Vielen Dank für Ihre Aufmerksamkeit.",
+          "anschlussfragen": [
+            "Sie sagen, die Verantwortung liege vor allem bei der Politik. Was kann aber jeder Einzelne ganz konkret tun?",
+            "Würden strengere Regeln nicht gerade die Arbeitsplätze in den Produktionsländern gefährden?",
+            "Kaufen Sie selbst gebrauchte Kleidung? Warum oder warum nicht?",
+            "Halten Sie Gütesiegel für faire Mode für vertrauenswürdig?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp08",
+      "pruefung": 3,
+      "themen": [
+        {
+          "titel": "Mehrsprachigkeit im Klassenzimmer",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Mehrsprachigkeit im Klassenzimmer“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Beschreiben Sie, welche Rolle Sprachen in Schulen Ihres Heimatlandes und in Deutschland spielen.",
+            "Erläutern Sie Chancen und Herausforderungen mehrsprachiger Klassen.",
+            "Diskutieren Sie, ob Herkunftssprachen im Unterricht gefördert werden sollten.",
+            "Geben Sie einen Ausblick."
+          ],
+          "thema": "migration_interkulturalitaet",
+          "bezug": true,
+          "stichpunkte": [
+            "Einstieg: Philippinen > 100 Sprachen; Regionalsprache + Filipino + Englisch",
+            "PH: Mathe/Naturwiss. traditionell auf Englisch; Muttersprache in ersten Klassen – 2024 weitgehend abgeschafft",
+            "D: fast nur Deutsch; viele Kinder sprechen zu Hause andere Sprache",
+            "NRW: herkunftssprachlicher Unterricht als Zusatzangebot",
+            "Chancen: Sprachbewusstsein, Wertschätzung",
+            "Beispiel Biologie: „Photosynthese“ in allen Sprachen der Klasse → griech./lat. Wurzeln",
+            "Herausforderung: Bildungssprache Deutsch, Lehrkräfte nicht ausgebildet",
+            "pro Förderung: starke Erstsprache → leichter Zweitsprache",
+            "contra: knappe Zeit → Deutsch zuerst",
+            "Meinung: Deutsch fördern UND Herkunftssprachen als Ressource",
+            "Ausblick: Übersetzungstools, mehrsprachiges Material; Haltung entscheidend"
+          ],
+          "muster": "Auf den Philippinen werden über hundert Sprachen gesprochen. Viele Kinder wachsen deshalb ganz selbstverständlich mit drei Sprachen auf: mit einer Regionalsprache in der Familie, mit Filipino als Nationalsprache und mit Englisch, das in der Schule eine große Rolle spielt. So war es auch bei mir. Vielleicht interessiert mich deshalb besonders, wie Schulen mit Mehrsprachigkeit umgehen. In meinem Vortrag beschreibe ich zunächst die Situation auf den Philippinen und in Deutschland, dann spreche ich über Chancen und Herausforderungen, anschließend über die Förderung von Herkunftssprachen, und zum Schluss gebe ich einen kurzen Ausblick.\n\nZunächst zu meinem Heimatland. Dort werden Mathematik und Naturwissenschaften traditionell auf Englisch unterrichtet. Vor einigen Jahren hat man versucht, in den ersten Schuljahren die jeweilige Muttersprache als Unterrichtssprache einzuführen. 2024 wurde dieses Modell jedoch weitgehend wieder abgeschafft, unter anderem weil Lehrmaterialien fehlten. In Deutschland ist die Lage anders. Hier ist Deutsch fast überall die einzige Unterrichtssprache, obwohl in vielen Großstädten ein erheblicher Teil der Kinder zu Hause eine andere Sprache spricht. In Nordrhein-Westfalen gibt es immerhin herkunftssprachlichen Unterricht als freiwilliges Zusatzangebot.\n\nWelche Chancen bietet eine mehrsprachige Klasse? Kinder, die mehrere Sprachen sprechen, denken oft bewusster über Sprache nach. Wenn ihre Sprachen im Unterricht vorkommen, fühlen sie sich außerdem wertgeschätzt. Im Biologieunterricht habe ich zum Beispiel einmal den Begriff „Photosynthese“ in allen Sprachen der Klasse sammeln lassen. Die Schülerinnen und Schüler haben dabei gemerkt, dass viele Fachwörter griechische oder lateinische Wurzeln haben – und plötzlich war die Fachsprache gar nicht mehr so fremd.\n\nNatürlich gibt es auch Herausforderungen. Die Bildungssprache Deutsch, also die Sprache von Schulbüchern und Prüfungen, ist für viele mehrsprachige Kinder eine große Hürde. Ein Kind kann sich im Alltag vielleicht problemlos unterhalten und versteht trotzdem eine Textaufgabe in Biologie nicht, weil ihm Wörter wie „Voraussetzung“ oder „beeinflussen“ fehlen. Zudem sind die meisten Lehrkräfte nicht dafür ausgebildet, mit so vielen Sprachen in einer Klasse umzugehen.\n\nSollten Herkunftssprachen also stärker gefördert werden? Befürworter verweisen auf Studien, nach denen eine gut entwickelte Erstsprache auch das Lernen der Zweitsprache erleichtert. Kritiker entgegnen, dass die knappe Unterrichtszeit vor allem für Deutsch genutzt werden sollte. Ich persönlich sehe darin keinen Widerspruch: Man sollte Deutsch intensiv fördern und gleichzeitig die anderen Sprachen der Kinder als Ressource anerkennen, statt sie zu ignorieren.\n\nZum Abschluss ein Ausblick: Ich bin mir sicher, dass digitale Übersetzungswerkzeuge und mehrsprachige Lernmaterialien den Unterricht in Zukunft erleichtern werden. Entscheidend bleibt aber die Haltung der Lehrkräfte. Hilfreich wäre es deshalb, wenn Mehrsprachigkeit schon im Lehramtsstudium ein fester Bestandteil wäre. Mehrsprachigkeit ist kein Problem, das man lösen muss, sondern ein Schatz, den man nutzen kann. Vielen Dank.",
+          "anschlussfragen": [
+            "Sie nennen Mehrsprachigkeit einen Schatz. Wie kann eine Lehrkraft das nutzen, wenn sie die Sprachen der Kinder selbst gar nicht spricht?",
+            "Sollte herkunftssprachlicher Unterricht ein reguläres Schulfach mit Noten werden?",
+            "Finden Sie es richtig, dass auf den Philippinen Naturwissenschaften auf Englisch unterrichtet werden?",
+            "Sollten Kinder in den Pausen ihre Familiensprache sprechen dürfen oder nur Deutsch?"
+          ]
+        },
+        {
+          "titel": "Plagiate und künstliche Intelligenz im Studium",
+          "aufgabe": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Plagiate und künstliche Intelligenz im Studium“. Gehen Sie dabei auf folgende Punkte ein:",
+          "leitpunkte": [
+            "Erklären Sie, was man unter einem Plagiat versteht und warum es an Hochschulen als schwerer Verstoß gilt.",
+            "Beschreiben Sie, wie KI-Schreibprogramme die Situation verändern.",
+            "Nennen Sie Vor- und Nachteile verschiedener Regeln, mit denen Hochschulen reagieren.",
+            "Sagen Sie, welche Regelung Sie für sinnvoll halten."
+          ],
+          "thema": "allgemein_akademisch",
+          "bezug": false,
+          "stichpunkte": [
+            "Einstieg: Politiker verlieren Doktortitel – Plagiatsaffären",
+            "Plagiat: fremde Gedanken/Formulierungen ohne Quelle als eigene ausgeben",
+            "Warum schlimm: Nachprüfbarkeit + Vertrauen = Grundlage der Wissenschaft",
+            "KI: neuer Text in Sekunden → klassische Software erkennt es kaum",
+            "KI erfindet manchmal Quellen → fachlich falsch",
+            "Regel 1: Verbot – klar, aber kaum kontrollierbar",
+            "Regel 2: erlauben + kennzeichnen – transparent, braucht Ehrlichkeit",
+            "Regel 3: neue Prüfungsformen – mündlich, Lerntagebuch",
+            "Meinung: KI als Hilfsmittel + Kennzeichnung + kurzes Prüfungsgespräch",
+            "Schluss: Ziel = selbst denken lernen"
+          ],
+          "muster": "In Deutschland haben in den vergangenen Jahren mehrere bekannte Politikerinnen und Politiker ihren Doktortitel verloren. Der Grund war jedes Mal derselbe: Sie hatten in ihrer Doktorarbeit große Passagen aus fremden Texten übernommen, ohne die Quelle anzugeben. Plagiate sind also kein Randthema. Durch künstliche Intelligenz hat diese Diskussion zudem eine ganz neue Dimension bekommen. In meinem Vortrag erkläre ich zunächst, was ein Plagiat ist, beschreibe dann, was sich durch KI verändert hat, stelle verschiedene Regelungen der Hochschulen vor und sage zum Schluss, welche ich für sinnvoll halte.\n\nWas ist überhaupt ein Plagiat? Vereinfacht gesagt übernimmt man fremde Gedanken oder Formulierungen und gibt sie als eigene aus. Das klingt vielleicht harmlos, ist es aber nicht. Wissenschaft lebt davon, dass man nachprüfen kann, woher eine Information stammt, und dass man sich auf die Ehrlichkeit der Forschenden verlassen kann. Wer plagiiert, zerstört genau dieses Vertrauen. Außerdem ist es den Kommilitoninnen und Kommilitonen gegenüber unfair, die ihre Arbeit mühsam selbst geschrieben haben.\n\nWas hat sich nun durch KI-Schreibprogramme verändert? Früher musste man Texte mühsam kopieren, und eine Software konnte die Übereinstimmungen relativ leicht finden. Heute erzeugt ein Programm in wenigen Sekunden einen völlig neuen Text, der sich mit herkömmlichen Methoden kaum als fremd erkennen lässt. Dazu kommt ein weiteres Problem: Solche Programme erfinden manchmal Quellen, die es gar nicht gibt. Wer das ungeprüft übernimmt, macht also nicht nur etwas Unerlaubtes, sondern auch etwas fachlich Falsches.\n\nWie reagieren die Hochschulen? Manche verbieten den Einsatz von KI bei Hausarbeiten komplett. Das hat den Vorteil, dass die Regel klar ist. Der Nachteil liegt aber auf der Hand: Kontrollieren lässt sich ein solches Verbot kaum. Andere Hochschulen erlauben KI als Hilfsmittel, verlangen aber, dass man genau angibt, wofür man sie verwendet hat. Das ist transparenter, setzt allerdings viel Ehrlichkeit voraus. Eine dritte Möglichkeit besteht darin, die Prüfungsformen zu verändern, also beispielsweise mehr mündliche Prüfungen durchzuführen oder Lerntagebücher schreiben zu lassen, in denen der Arbeitsprozess sichtbar wird.\n\nWelche Lösung halte ich für die beste? Meiner Ansicht nach ist ein Verbot weder realistisch noch zeitgemäß. Schließlich werden Studierende im späteren Berufsleben ganz selbstverständlich mit solchen Werkzeugen arbeiten. Ich plädiere deshalb dafür, KI als Hilfsmittel zuzulassen, ihren Einsatz aber kennzeichnen zu lassen. Ergänzend fände ich es sinnvoll, wenn man jede schriftliche Arbeit in einem kurzen Gespräch verteidigen müsste. Dann zeigt sich schnell, ob jemand wirklich verstanden hat, was er geschrieben hat.\n\nLassen Sie mich zum Schluss kommen: Das eigentliche Ziel eines Studiums ist nicht ein fertiger Text, sondern die Fähigkeit, selbst zu denken. Daran sollten sich alle Regeln messen lassen. Vielen Dank für Ihre Aufmerksamkeit.",
+          "anschlussfragen": [
+            "Sie schlagen vor, jede Arbeit mündlich zu verteidigen. Ist das bei Hunderten von Studierenden überhaupt zu organisieren?",
+            "Wo genau verläuft für Sie die Grenze zwischen erlaubter Hilfe und Täuschung – zum Beispiel beim Korrekturlesen?",
+            "Sollte man jemandem, der vor vielen Jahren plagiiert hat, heute noch den Titel entziehen?",
+            "Nutzen Sie selbst KI-Programme beim Deutschlernen, und wenn ja, wie?"
+          ]
+        }
+      ]
+    }
+  ],
+  "diskussion": [
+    {
+      "id": "md01",
+      "pruefung": 0,
+      "titel": "Ersetzt KI die Lehrkräfte?",
+      "thema": "ki_digitalisierung",
+      "bezug": true,
+      "niveau": "C1",
+      "zitat": "„In zwanzig Jahren wird künstliche Intelligenz den Großteil dessen übernehmen, was Lehrerinnen und Lehrer heute tun. Wer jetzt Lehramt studiert, bereitet sich auf einen Beruf vor, den es so bald nicht mehr geben wird.“",
+      "person": "Dr. Jonas Weidinger, Bildungstechnologe",
+      "leitpunkte": [
+        "Wie verstehen Sie die Aussage?",
+        "Inwieweit stimmen Sie ihr zu? Begründen Sie Ihre Meinung mit Beispielen.",
+        "Welche Aufgaben von Lehrkräften kann eine Maschine übernehmen, welche nicht?",
+        "Gehen Sie auf die Argumente Ihrer Gesprächspartnerin bzw. Ihres Gesprächspartners ein."
+      ],
+      "pro": [
+        "KI-Tutoren können jedem Kind Erklärungen im eigenen Tempo anbieten – rund um die Uhr.",
+        "Korrekturen, Übungsaufgaben und Lernstandsanalysen lassen sich schon heute automatisieren.",
+        "Bei wachsendem Lehrkräftemangel könnte Software Lücken füllen.",
+        "Reine Wissensvermittlung per Vortrag leistet ein Video oder Chatbot oft genauso gut.",
+        "Technische Entwicklungen wurden in der Vergangenheit häufig unterschätzt."
+      ],
+      "contra": [
+        "Lernen ist ein sozialer Prozess – Beziehung und Vertrauen motivieren Kinder.",
+        "Schule ist mehr als Wissensvermittlung: Erziehung, Konflikte lösen, Werte, Gemeinschaft.",
+        "Lehrkräfte erkennen Probleme wie Mobbing, Vernachlässigung oder Lernblockaden.",
+        "KI macht Fehler und kann Vorurteile aus ihren Trainingsdaten übernehmen.",
+        "Lernprofile von Kindern sind hochsensible Daten (Datenschutz)."
+      ],
+      "kompromiss": [
+        "Die Rolle der Lehrkraft verändert sich: weniger Erklären, mehr Begleiten und Beraten.",
+        "KI übernimmt Routineaufgaben, damit Lehrkräfte mehr Zeit für einzelne Kinder haben.",
+        "Der kritische Umgang mit KI sollte fester Teil des Lehramtsstudiums werden."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Ich verstehe die Aussage so, dass Herr Weidinger den Lehrberuf in seiner heutigen Form für ein Auslaufmodell hält. Ehrlich gesagt halte ich das für stark übertrieben. Wie siehst du das?"
+        },
+        {
+          "sp": "B",
+          "text": "Ganz so abwegig finde ich es nicht. Wenn ich mir anschaue, was KI-Programme heute schon können – Aufgaben erklären, Texte korrigieren, sofort Feedback geben –, dann frage ich mich schon, was in zwanzig Jahren möglich sein wird."
+        },
+        {
+          "sp": "A",
+          "text": "Was die reine Wissensvermittlung angeht, hast du nicht ganz unrecht. Aber ich bin Lehrerin, und ich kann dir sagen: Der größte Teil meiner Arbeit besteht nicht darin, die Fotosynthese zu erklären. Es geht darum, Jugendliche zu motivieren, Konflikte zu schlichten und zu merken, wenn es jemandem schlecht geht."
+        },
+        {
+          "sp": "B",
+          "text": "Das ist ein wichtiger Punkt. Könntest du ein Beispiel nennen, wo eine Maschine deiner Meinung nach scheitern würde?"
+        },
+        {
+          "sp": "A",
+          "text": "Gern. Ich hatte einmal einen Schüler, dessen Leistungen plötzlich stark abgefallen sind. Im Gespräch hat sich herausgestellt, dass sich seine Eltern gerade getrennt hatten. Ein Programm hätte vermutlich einfach mehr Übungsaufgaben vorgeschlagen."
+        },
+        {
+          "sp": "B",
+          "text": "Das leuchtet mir ein. Andererseits gibt es einen massiven Lehrkräftemangel. Wäre es nicht besser, wenn ein Kind wenigstens einen guten KI-Tutor hat, statt dass der Unterricht ganz ausfällt?"
+        },
+        {
+          "sp": "A",
+          "text": "Als Notlösung vielleicht ja. Ich habe nur die Sorge, dass die Politik das dann als bequeme Sparmaßnahme sieht: Warum teure Lehrkräfte einstellen, wenn es Software gibt?"
+        },
+        {
+          "sp": "B",
+          "text": "Diese Gefahr sehe ich auch. Gleichzeitig glaube ich, dass sich der Beruf verändern muss. Wer heute Lehramt studiert, sollte lernen, KI sinnvoll und kritisch einzusetzen."
+        },
+        {
+          "sp": "A",
+          "text": "Da stimme ich dir voll und ganz zu. Vielleicht können wir uns darauf einigen, dass die KI Routinearbeiten übernimmt, zum Beispiel das Korrigieren von Vokabeltests, und die Lehrkräfte dadurch mehr Zeit für die einzelnen Kinder gewinnen."
+        },
+        {
+          "sp": "B",
+          "text": "Damit kann ich gut leben. Dann würde ich die Aussage so umformulieren: Den Beruf wird es weiter geben – aber nicht in der Form, wie wir ihn heute kennen."
+        }
+      ]
+    },
+    {
+      "id": "md02",
+      "pruefung": 0,
+      "titel": "Klimaschutz: Privatsache oder Politik?",
+      "thema": "klima_nachhaltigkeit",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Solange Konzerne und Regierungen nicht handeln, ist es völlig egal, ob ich mit dem Fahrrad fahre oder auf Plastiktüten verzichte. Klimaschutz ist keine Privatsache.“",
+      "person": "Miriam Hollweg, Umweltaktivistin und Autorin",
+      "leitpunkte": [
+        "Was meint die Autorin mit dieser Aussage?",
+        "Welche Bedeutung hat das Verhalten Einzelner Ihrer Meinung nach für den Klimaschutz?",
+        "Begründen Sie Ihre Position mit Beispielen und reagieren Sie auf die Argumente Ihres Gegenübers."
+      ],
+      "pro": [
+        "Wenige große Unternehmen und Kraftwerke verursachen einen großen Teil der Emissionen.",
+        "Ohne Gesetze, z. B. einen CO2-Preis oder den Ausbau erneuerbarer Energien, bleiben private Maßnahmen wirkungslos.",
+        "Der Fokus auf den persönlichen „CO2-Fußabdruck“ lenkt von politischer Verantwortung ab.",
+        "Viele Menschen haben keine echte Wahl, z. B. auf dem Land ohne Busverbindung.",
+        "Moralischer Druck auf Einzelne erzeugt Schuldgefühle und Abwehr statt Veränderung."
+      ],
+      "contra": [
+        "Politik reagiert auf Wählerinnen und Wähler – privates Verhalten zeigt, was gewollt ist.",
+        "Nachfrage verändert Märkte, z. B. bei Ökostrom oder vegetarischen Produkten.",
+        "Vorbilder wirken: Verhalten verbreitet sich im Freundes- und Kollegenkreis.",
+        "In reichen Ländern ist der Ausstoß pro Kopf hoch – Einzelne haben dort echten Einfluss.",
+        "Wer selbst nichts ändert, wirkt unglaubwürdig, wenn er politische Forderungen stellt."
+      ],
+      "kompromiss": [
+        "Individuelles Handeln und politischer Druck schließen sich nicht aus, sondern ergänzen sich.",
+        "Besonders wirksam ist politisches Engagement: wählen, protestieren, in Initiativen mitarbeiten.",
+        "Die Politik sollte klimafreundliches Verhalten einfach und günstig machen."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Ich finde die Aussage provokant, aber sie hat einen wahren Kern. Wenn ein einziges Kohlekraftwerk mehr CO2 ausstößt als eine ganze Kleinstadt, dann fällt meine Plastiktüte wirklich kaum ins Gewicht."
+        },
+        {
+          "sp": "B",
+          "text": "Rein rechnerisch hast du recht. Trotzdem halte ich das „völlig egal“ für gefährlich. Wenn das alle denken, macht am Ende keiner mehr etwas."
+        },
+        {
+          "sp": "A",
+          "text": "Wie meinst du das genau? Glaubst du wirklich, dass meine Fahrradfahrten die Konzerne beeindrucken?"
+        },
+        {
+          "sp": "B",
+          "text": "Nicht direkt. Aber Unternehmen reagieren auf Nachfrage. Vor zwanzig Jahren gab es kaum vegetarische Produkte im Supermarkt, heute hat jede Kette eigene. Das ist passiert, weil viele Einzelne anders eingekauft haben."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist ein gutes Beispiel, das gebe ich zu. Allerdings können sich nicht alle ein solches Verhalten leisten. Bioprodukte sind teurer, und wer auf dem Land wohnt, braucht oft einfach ein Auto."
+        },
+        {
+          "sp": "B",
+          "text": "Genau deshalb finde ich, dass beides zusammengehört. Die Politik muss Bedingungen schaffen, unter denen klimafreundliches Verhalten für alle möglich ist – und die Bürger müssen Druck machen."
+        },
+        {
+          "sp": "A",
+          "text": "Moment, jetzt sprichst du aber schon von politischem Engagement, nicht mehr vom privaten Konsum. Das ist doch eigentlich genau das, was die Autorin meint."
+        },
+        {
+          "sp": "B",
+          "text": "Stimmt, da treffen wir uns. Vielleicht ist der wichtigste individuelle Beitrag tatsächlich nicht der Einkaufskorb, sondern der Wahlzettel."
+        },
+        {
+          "sp": "A",
+          "text": "Dann könnten wir uns so einigen: Privates Verhalten ist nicht egal, aber es reicht allein nicht aus. Entscheidend ist, dass man sich auch politisch einmischt."
+        },
+        {
+          "sp": "B",
+          "text": "Einverstanden. Nur das „völlig egal“ würde ich aus dem Zitat streichen."
+        }
+      ]
+    },
+    {
+      "id": "md03",
+      "pruefung": 0,
+      "titel": "Frauenquote in Führungspositionen",
+      "thema": "gleichberechtigung_diversitaet",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Ohne verbindliche Frauenquote wird sich in den Chefetagen auch in den nächsten fünfzig Jahren nichts ändern. Freiwillige Selbstverpflichtungen sind reine Kosmetik.“",
+      "person": "Prof. Dr. Ulrike Tessendorf, Arbeitssoziologin",
+      "leitpunkte": [
+        "Wie verstehen Sie die Aussage der Soziologin?",
+        "Stimmen Sie zu, dass eine gesetzliche Quote notwendig ist? Nennen Sie Gründe.",
+        "Welche anderen Maßnahmen könnten zu mehr Gleichberechtigung in Führungspositionen beitragen?"
+      ],
+      "pro": [
+        "Freiwillige Vereinbarungen der Wirtschaft haben jahrzehntelang wenig bewirkt.",
+        "Seit es eine gesetzliche Quote für Aufsichtsräte gibt, ist der Frauenanteil dort deutlich gestiegen.",
+        "Männliche Netzwerke reproduzieren sich selbst – eine Quote durchbricht diesen Kreislauf.",
+        "Sichtbare Vorbilder ermutigen jüngere Frauen, Führung anzustreben.",
+        "Gemischte Teams treffen laut vielen Studien ausgewogenere Entscheidungen."
+      ],
+      "contra": [
+        "Allein die Qualifikation sollte entscheiden, nicht das Geschlecht.",
+        "Frauen in Führung könnten als „Quotenfrauen“ abgewertet werden.",
+        "Eine Quote bekämpft Symptome, nicht Ursachen wie fehlende Kinderbetreuung oder die Teilzeitfalle.",
+        "In manchen Branchen gibt es (noch) zu wenige Bewerberinnen.",
+        "Eine Quote ist ein Eingriff in die unternehmerische Freiheit."
+      ],
+      "kompromiss": [
+        "Eine befristete Quote, die automatisch ausläuft, sobald das Ziel erreicht ist.",
+        "Quote kombiniert mit Kitaplätzen, Führung in Teilzeit und Elternzeit für Väter.",
+        "Verbindliche, transparente Zielvorgaben mit Sanktionen statt einer starren Quote."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Frau Tessendorf ist offensichtlich der Meinung, dass sich ohne gesetzlichen Zwang nichts bewegt. Ich muss sagen, die Zahlen geben ihr recht. Die Wirtschaft hat jahrzehntelang versprochen, freiwillig mehr Frauen zu befördern, und passiert ist kaum etwas."
+        },
+        {
+          "sp": "B",
+          "text": "Ich verstehe dein Argument, sehe die Sache aber etwas anders. Ich möchte nicht, dass jemand eine Stelle bekommt, nur weil sie eine Frau ist. Am Ende sollte doch die Qualifikation entscheiden."
+        },
+        {
+          "sp": "A",
+          "text": "Da muss ich widersprechen. Die Annahme, dass bisher immer nur die Qualifikation entschieden hat, ist doch ein Mythos. Viele Männer sind auch über Netzwerke und Beziehungen nach oben gekommen."
+        },
+        {
+          "sp": "B",
+          "text": "Das mag in manchen Fällen stimmen. Aber was ist mit den Frauen, die dann als „Quotenfrau“ gelten, obwohl sie hervorragend qualifiziert sind? Das ist doch auch ungerecht."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist eine berechtigte Sorge. Allerdings zeigen Erfahrungen, dass dieses Etikett mit der Zeit verschwindet, wenn Frauen in Führungspositionen ganz normal werden."
+        },
+        {
+          "sp": "B",
+          "text": "Mag sein. Mir fehlt bei der Quote trotzdem der Blick auf die Ursachen. Viele Frauen arbeiten in Teilzeit, weil sie sich um die Kinder kümmern. Solange Führung in Teilzeit kaum möglich ist, ändert eine Quote daran wenig."
+        },
+        {
+          "sp": "A",
+          "text": "Da bin ich ganz bei dir. Eine Quote allein reicht sicher nicht. Wie wäre es, wenn man beides kombiniert – eine Quote und gleichzeitig bessere Kinderbetreuung und mehr Führungsstellen in Teilzeit?"
+        },
+        {
+          "sp": "B",
+          "text": "Das klingt vernünftig. Ich könnte mir eine Quote auch eher vorstellen, wenn sie befristet ist, sozusagen als Starthilfe, und automatisch wegfällt, sobald sich ein Gleichgewicht eingestellt hat."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist ein interessanter Vorschlag. Dann wäre die Quote kein Dauerzustand, sondern ein Werkzeug, um festgefahrene Strukturen aufzubrechen."
+        },
+        {
+          "sp": "B",
+          "text": "Genau. Dann würde ich sagen: Reine Kosmetik sind freiwillige Lösungen vielleicht nicht – aber ohne verbindliche Ziele dauert es eindeutig zu lange."
+        }
+      ]
+    },
+    {
+      "id": "md04",
+      "pruefung": 0,
+      "titel": "Noten abschaffen?",
+      "thema": "bildung_hochschule",
+      "bezug": true,
+      "niveau": "C1",
+      "zitat": "„Schulnoten messen vor allem, wie gut sich Kinder an das System anpassen. Wer echtes Lernen will, muss die Noten abschaffen.“",
+      "person": "Katharina Reuter, Grundschulpädagogin und Buchautorin",
+      "leitpunkte": [
+        "Was ist mit der Aussage gemeint?",
+        "Welche Funktionen haben Noten in der Schule und an der Hochschule?",
+        "Sollte man Noten abschaffen? Begründen Sie Ihre Meinung, auch mit eigenen Erfahrungen.",
+        "Welche Alternativen gibt es?"
+      ],
+      "pro": [
+        "Noten fördern das Lernen für die Prüfung statt nachhaltiges Verstehen.",
+        "Sie erzeugen Druck, Angst und ständigen Vergleich statt Neugier.",
+        "Eine Zahl sagt wenig darüber, was ein Kind konkret kann und wo es Hilfe braucht.",
+        "Noten sind oft subjektiv und von Lehrkraft zu Lehrkraft verschieden.",
+        "Schulen mit ausführlichen Lernberichten statt Noten machen gute Erfahrungen."
+      ],
+      "contra": [
+        "Noten geben eine schnelle, verständliche Rückmeldung für Lernende und Eltern.",
+        "Sie werden für Übergänge gebraucht: weiterführende Schule, Studienplatz, Ausbildung.",
+        "Für manche Lernende sind sie ein wichtiger Ansporn.",
+        "Ausführliche Berichte kosten Lehrkräfte sehr viel Zeit.",
+        "Ohne Noten verschwinden Leistungsunterschiede nicht – sie werden nur weniger sichtbar."
+      ],
+      "kompromiss": [
+        "In den ersten Schuljahren auf Noten verzichten und sie später schrittweise einführen.",
+        "Noten immer durch schriftliches Feedback oder Lerngespräche ergänzen.",
+        "Mehr Gewicht auf Projekte, Portfolios und Präsentationen statt nur auf Klassenarbeiten."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Für mich ist die Kernaussage: Noten belohnen eher Anpassung als echtes Verständnis. Als Lehrerin kenne ich das leider: Viele lernen kurz vor dem Test alles auswendig und haben es eine Woche später wieder vergessen."
+        },
+        {
+          "sp": "B",
+          "text": "Das Phänomen kenne ich aus meinem Studium auch. Trotzdem halte ich die Forderung, Noten komplett abzuschaffen, für unrealistisch. Wie soll denn eine Universität entscheiden, wer einen Studienplatz in Medizin bekommt?"
+        },
+        {
+          "sp": "A",
+          "text": "Das ist ein berechtigter Einwand. Aber muss man deshalb schon Achtjährige benoten? Gerade in der Grundschule richten Noten meiner Meinung nach mehr Schaden an, als sie nützen."
+        },
+        {
+          "sp": "B",
+          "text": "Da gebe ich dir recht. Viele Kinder verlieren schon früh die Freude am Lernen, wenn sie ständig mit anderen verglichen werden. Was würdest du stattdessen vorschlagen?"
+        },
+        {
+          "sp": "A",
+          "text": "Zum Beispiel ausführliche Lernberichte, in denen genau steht, was ein Kind schon kann und woran es noch arbeiten sollte. Auf den Philippinen gibt es schon in der Grundschule ein ausgeprägtes System mit Auszeichnungen für die Besten, und ich habe gesehen, wie sehr dieser Wettbewerb manche Kinder belastet."
+        },
+        {
+          "sp": "B",
+          "text": "Interessant. Aber ganz ehrlich: Wer soll diese Berichte schreiben? Bei dreißig Kindern in einer Klasse ist das ein enormer Aufwand für die Lehrkräfte."
+        },
+        {
+          "sp": "A",
+          "text": "Das stimmt, und das darf man nicht unterschätzen. Vielleicht wäre es ein Mittelweg, in den ersten Schuljahren auf Noten zu verzichten und sie später, wenn es um Abschlüsse geht, schrittweise einzuführen."
+        },
+        {
+          "sp": "B",
+          "text": "Damit könnte ich mich anfreunden. Und auch in höheren Klassen müsste eine Note ja nicht allein stehen. Ein kurzer Kommentar, was gut war und was nicht, hilft oft mehr als eine Drei minus."
+        },
+        {
+          "sp": "A",
+          "text": "Genau das meine ich. Die Note an sich ist nicht das Problem, sondern dass sie oft die einzige Rückmeldung ist."
+        },
+        {
+          "sp": "B",
+          "text": "Dann sind wir uns im Grunde einig: abschaffen nein – aber ergänzen und in den ersten Jahren ersetzen, ja."
+        }
+      ]
+    },
+    {
+      "id": "md05",
+      "pruefung": 0,
+      "titel": "Integration nur mit perfektem Deutsch?",
+      "thema": "migration_interkulturalitaet",
+      "bezug": true,
+      "niveau": "C1",
+      "zitat": "„Wer dauerhaft in Deutschland leben möchte, muss perfekt Deutsch sprechen. Ohne die Sprache gibt es keine Integration.“",
+      "person": "Dr. Bernd Achterberg, Kommunalpolitiker",
+      "leitpunkte": [
+        "Wie verstehen Sie die Aussage des Politikers?",
+        "Welche Rolle spielt die Sprache für die Integration? Berücksichtigen Sie auch andere Faktoren.",
+        "Was halten Sie von der Forderung nach „perfektem“ Deutsch? Begründen Sie Ihre Meinung mit Beispielen."
+      ],
+      "pro": [
+        "Die Sprache ist der Schlüssel zu Ausbildung, Arbeit und Behörden.",
+        "Gute Deutschkenntnisse ermöglichen Kontakte und Freundschaften mit Einheimischen.",
+        "In vielen Berufen (Medizin, Schule, Recht) ist ein sehr hohes Sprachniveau unverzichtbar.",
+        "Wer die Sprache spricht, kennt seine Rechte und kann sich wehren.",
+        "Sprachkenntnisse helfen Eltern, ihre Kinder in der Schule zu unterstützen."
+      ],
+      "contra": [
+        "„Perfekt“ ist unrealistisch – auch viele Muttersprachler sprechen nicht fehlerfrei.",
+        "Integration hat viele Dimensionen: Arbeit, Nachbarschaft, Vereine, politische Teilhabe.",
+        "Zu hohe Hürden schrecken dringend benötigte Fachkräfte ab.",
+        "Sprache lernt man am besten durch Teilhabe – nicht vorher, sondern dabei.",
+        "Integration ist keine Einbahnstraße: Auch die Aufnahmegesellschaft muss offen sein."
+      ],
+      "kompromiss": [
+        "Gute, berufsbezogene Deutschkenntnisse fordern und fördern statt Perfektion zu verlangen.",
+        "Mehr kostenlose, berufsbegleitende Sprachkurse anbieten.",
+        "Sprachanforderungen je nach Beruf und Verantwortung festlegen."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Ich bin mit der Aussage nur zum Teil einverstanden. Dass die Sprache wichtig ist, steht außer Frage – ich bereite mich ja selbst gerade auf eine C1-Prüfung vor. Aber das Wort „perfekt“ stört mich."
+        },
+        {
+          "sp": "B",
+          "text": "Warum genau? Ich verstehe das eher als Ansporn. Wer hier arbeiten und leben will, sollte sich doch bemühen, die Sprache möglichst gut zu beherrschen."
+        },
+        {
+          "sp": "A",
+          "text": "Bemühen, ja, unbedingt. Aber perfekt sprechen viele Deutsche selbst nicht. Wenn man das zum Maßstab macht, ist Integration für die meisten Zugewanderten von vornherein unerreichbar."
+        },
+        {
+          "sp": "B",
+          "text": "Okay, da hast du einen Punkt. Trotzdem gibt es Berufe, in denen sehr gute Sprachkenntnisse einfach notwendig sind. Eine Ärztin muss ihre Patienten genau verstehen, und eine Lehrerin muss Elterngespräche führen können."
+        },
+        {
+          "sp": "A",
+          "text": "Da stimme ich dir völlig zu. Für solche Berufe ist ein hohes Niveau absolut gerechtfertigt. Ich frage mich nur, ob man dann nicht auch die Wege dorthin erleichtern müsste, zum Beispiel durch Sprachkurse, die man neben der Arbeit besuchen kann."
+        },
+        {
+          "sp": "B",
+          "text": "Das würde ich sofort unterschreiben. Aber noch einmal zur Integration im Allgemeinen: Glaubst du, dass jemand ohne gute Deutschkenntnisse wirklich dazugehören kann?"
+        },
+        {
+          "sp": "A",
+          "text": "Ich denke, Sprache ist ein ganz wichtiger Teil, aber nicht der einzige. Ich kenne Leute, die nur mittelmäßig Deutsch sprechen, aber im Sportverein und in der Nachbarschaft bestens vernetzt sind. Umgekehrt gibt es Menschen mit sehr guten Kenntnissen, die trotzdem keinen Anschluss finden."
+        },
+        {
+          "sp": "B",
+          "text": "Das heißt, die Aufnahmegesellschaft spielt auch eine Rolle. Darüber sagt das Zitat gar nichts."
+        },
+        {
+          "sp": "A",
+          "text": "Genau. Integration ist keine Einbahnstraße. Wenn wir sagen, dass man gute, berufsbezogene Deutschkenntnisse fordern und fördern sollte, statt Perfektion zu verlangen, dann wären wir uns wohl einig."
+        },
+        {
+          "sp": "B",
+          "text": "Ja, dem kann ich zustimmen. Fordern und fördern – und zwar auf beiden Seiten."
+        }
+      ]
+    },
+    {
+      "id": "md06",
+      "pruefung": 0,
+      "titel": "Steuer auf ungesunde Lebensmittel",
+      "thema": "gesundheit",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Zucker ist der Tabak des 21. Jahrhunderts. Eine hohe Steuer auf ungesunde Lebensmittel wäre die wirksamste Gesundheitspolitik, die wir haben.“",
+      "person": "Prof. Dr. Henrik Stalmann, Ernährungsmediziner",
+      "leitpunkte": [
+        "Was meint der Ernährungsmediziner mit dem Vergleich zwischen Zucker und Tabak?",
+        "Halten Sie eine Steuer auf ungesunde Lebensmittel für sinnvoll? Nennen Sie Gründe.",
+        "Welche anderen Maßnahmen könnten eine gesündere Ernährung fördern?"
+      ],
+      "pro": [
+        "Übergewicht und Diabetes verursachen hohe Kosten im Gesundheitssystem.",
+        "Preise beeinflussen das Verhalten – das zeigt die Erfahrung mit der Tabaksteuer.",
+        "In Großbritannien haben Hersteller nach Einführung einer Abgabe auf Süßgetränke den Zuckergehalt gesenkt.",
+        "Die Einnahmen können in Prävention, Schulessen und Sport fließen.",
+        "Kinder werden besonders geschützt, weil Süßgetränke teurer werden."
+      ],
+      "contra": [
+        "Die Steuer trifft vor allem Menschen mit geringem Einkommen.",
+        "Erwachsene sollten selbst entscheiden dürfen, was sie essen (Bevormundung).",
+        "„Ungesund“ ist schwer abzugrenzen – Saft, Fruchtjoghurt, Fertiggerichte?",
+        "Zucker ist nicht mit Tabak vergleichbar: In Maßen ist er unbedenklich.",
+        "Bildung und Aufklärung wirken nachhaltiger als finanzielle Strafen."
+      ],
+      "kompromiss": [
+        "Eine Abgabe nur auf stark gezuckerte Getränke, deren Einnahmen zweckgebunden in Prävention fließen.",
+        "Gleichzeitig Obst und Gemüse steuerlich entlasten.",
+        "Werbung für Süßigkeiten, die sich an Kinder richtet, einschränken."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Der Vergleich mit Tabak ist natürlich zugespitzt. Ich verstehe ihn so, dass Zucker ähnlich wie Zigaretten große gesundheitliche Schäden anrichtet, für die am Ende die Allgemeinheit bezahlt."
+        },
+        {
+          "sp": "B",
+          "text": "So verstehe ich ihn auch, aber ich finde ihn schief. Eine Zigarette ist in jeder Menge schädlich, ein Stück Kuchen am Sonntag dagegen nicht. Da wird mir zu sehr Panik gemacht."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist richtig, es geht ja auch nicht um den Kuchen, sondern um die Menge. Gerade Süßgetränke enthalten unglaublich viel Zucker, und manche Kinder trinken sie literweise. Ich finde, da muss der Staat eingreifen."
+        },
+        {
+          "sp": "B",
+          "text": "Aber muss es gleich eine Steuer sein? Das trifft doch vor allem Familien mit wenig Geld, für die jeder Euro zählt."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist das Hauptargument dagegen, das stimmt. Andererseits sind gerade diese Familien häufiger von Übergewicht und Diabetes betroffen. Wenn die Steuer sie dazu bringt, weniger Limonade zu kaufen, profitieren sie gesundheitlich am meisten."
+        },
+        {
+          "sp": "B",
+          "text": "Darf ich da kurz nachhaken? Gibt es denn Belege, dass eine solche Steuer tatsächlich wirkt?"
+        },
+        {
+          "sp": "A",
+          "text": "Ja, zum Beispiel aus Großbritannien. Dort wurde eine Abgabe auf stark gezuckerte Getränke eingeführt, und viele Hersteller haben daraufhin ihre Rezepte geändert und weniger Zucker verwendet."
+        },
+        {
+          "sp": "B",
+          "text": "Das überzeugt mich mehr, als ich gedacht hätte. Trotzdem wäre mir wichtig, dass das Geld nicht einfach im Staatshaushalt verschwindet."
+        },
+        {
+          "sp": "A",
+          "text": "Da sind wir einer Meinung. Man könnte die Einnahmen zum Beispiel direkt in gesundes Schulessen oder in Sportangebote stecken. Und gleichzeitig könnte man Obst und Gemüse billiger machen."
+        },
+        {
+          "sp": "B",
+          "text": "Eine solche Lösung fände ich fair: keine Strafsteuer auf alles Süße, sondern eine gezielte Abgabe auf Süßgetränke, deren Einnahmen der Gesundheit zugutekommen."
+        }
+      ]
+    },
+    {
+      "id": "md07",
+      "pruefung": 0,
+      "titel": "Leidenschaft statt Work-Life-Balance?",
+      "thema": "arbeitswelt",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Wer seinen Beruf wirklich liebt, braucht keine Work-Life-Balance. Die Trennung von Arbeit und Leben ist eine Erfindung von Menschen, die ihre Arbeit nicht mögen.“",
+      "person": "Clemens Varnhorst, Unternehmer und Firmengründer",
+      "leitpunkte": [
+        "Wie verstehen Sie die Aussage?",
+        "Ist eine klare Trennung von Arbeit und Freizeit Ihrer Meinung nach notwendig? Begründen Sie Ihre Meinung.",
+        "Berücksichtigen Sie dabei unterschiedliche Berufe und Lebenssituationen."
+      ],
+      "pro": [
+        "Wer seine Arbeit als sinnvoll erlebt, empfindet sie nicht als Last.",
+        "Bei Kreativen, Forschenden oder Gründern verschwimmen Arbeit und Leben oft ganz natürlich.",
+        "Starre Arbeitszeiten passen nicht zu vielen modernen Tätigkeiten.",
+        "Leidenschaft ist ein Motor für Innovation und Spitzenleistungen.",
+        "Flexible „Work-Life-Integration“ kann besser zum Leben passen als eine strikte Trennung."
+      ],
+      "contra": [
+        "Auch Menschen, die ihren Beruf lieben, können ausbrennen (Burnout).",
+        "Familie, Freundschaften und Gesundheit brauchen Zeit.",
+        "Die Aussage kann Ausbeutung rechtfertigen („Wer seinen Job liebt, macht Überstunden“).",
+        "Nicht jeder kann sich einen Traumberuf aussuchen, z. B. in der Logistik oder im Verkauf.",
+        "Erholung steigert langfristig Kreativität und Leistungsfähigkeit."
+      ],
+      "kompromiss": [
+        "Flexible Grenzen, die jeder selbst setzt – aber mit Schutzregeln wie einem Recht auf Nichterreichbarkeit.",
+        "Leidenschaft ja, aber bewusst geplante Pausen und Urlaub."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Ich finde die Aussage ziemlich typisch für einen Unternehmer. Herr Varnhorst arbeitet wahrscheinlich siebzig Stunden pro Woche und hält das für normal."
+        },
+        {
+          "sp": "B",
+          "text": "Kann sein, aber ich sehe darin auch etwas Wahres. Ich habe Freunde in der Forschung, für die ist ihr Projekt kein Job, sondern eine Leidenschaft. Die würden niemals um fünf Uhr alles stehen und liegen lassen."
+        },
+        {
+          "sp": "A",
+          "text": "Das glaube ich dir. Aber gerade in solchen Berufen ist das Risiko eines Burnouts oft besonders hoch. Auch wer seine Arbeit liebt, braucht Erholung – vielleicht sogar gerade der."
+        },
+        {
+          "sp": "B",
+          "text": "Wie kommst du darauf? Ich hätte eher gesagt, dass Leute ausbrennen, die keinen Sinn in ihrer Arbeit sehen."
+        },
+        {
+          "sp": "A",
+          "text": "Beides kommt vor. Lehrkräfte zum Beispiel starten oft mit großem Idealismus in den Beruf, und trotzdem sind viele nach einigen Jahren erschöpft, weil sie nie abschalten. Abends Korrekturen, am Wochenende Unterrichtsvorbereitung …"
+        },
+        {
+          "sp": "B",
+          "text": "Okay, das Beispiel überzeugt mich. Was mich am Zitat außerdem stört: Viele Menschen üben ihren Beruf nicht aus Liebe aus, sondern weil sie Geld verdienen müssen. Für eine Paketzustellerin klingt so ein Satz fast zynisch."
+        },
+        {
+          "sp": "A",
+          "text": "Absolut. Und es besteht die Gefahr, dass Arbeitgeber so etwas ausnutzen: Wer nicht freiwillig Überstunden macht, liebt seinen Job eben nicht genug."
+        },
+        {
+          "sp": "B",
+          "text": "Trotzdem glaube ich nicht, dass eine starre Trennung für alle die Lösung ist. Manche arbeiten lieber abends zwei Stunden und haben dafür nachmittags Zeit für ihre Kinder."
+        },
+        {
+          "sp": "A",
+          "text": "Das sehe ich genauso. Flexibilität ist gut, solange sie freiwillig ist. Vielleicht könnte man sagen: Die Grenzen dürfen beweglich sein, aber sie müssen geschützt werden – zum Beispiel durch ein Recht darauf, nach Feierabend nicht erreichbar zu sein."
+        },
+        {
+          "sp": "B",
+          "text": "Das ist ein guter Kompromiss. Leidenschaft für den Beruf ist wunderbar, aber sie ersetzt keine Erholung."
+        }
+      ]
+    },
+    {
+      "id": "md08",
+      "pruefung": 0,
+      "titel": "Grenzenlose Forschungsfreiheit?",
+      "thema": "wissenschaft_ethik",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Die Wissenschaft darf sich keine Grenzen setzen lassen. Für den Missbrauch ihrer Erkenntnisse sind andere verantwortlich, nicht die Forschenden.“",
+      "person": "Prof. Dr. Albrecht Seiferth, Physiker",
+      "leitpunkte": [
+        "Was bedeutet diese Aussage?",
+        "Tragen Forschende Verantwortung für die Folgen ihrer Arbeit? Nennen Sie Beispiele.",
+        "Wo sollten der Forschung Ihrer Meinung nach Grenzen gesetzt werden – und von wem?"
+      ],
+      "pro": [
+        "Die Freiheit der Wissenschaft ist im Grundgesetz geschützt.",
+        "Ob Grundlagenforschung nützt oder missbraucht wird, lässt sich vorher nicht absehen.",
+        "Fast jede Erkenntnis kann missbraucht werden, z. B. in Chemie oder Informatik.",
+        "Nationale Verbote verlagern Forschung oft nur in andere Länder.",
+        "Über die Anwendung sollten Politik und Gesellschaft entscheiden, nicht einzelne Forschende."
+      ],
+      "contra": [
+        "Forschende kennen die Risiken am besten – sie tragen daher Mitverantwortung.",
+        "Die Geschichte zeigt Beispiele wie die Atombombe oder Experimente an Menschen ohne Einwilligung.",
+        "Manche Forschung ist selbst gefährlich, z. B. Experimente mit Krankheitserregern.",
+        "Ethikkommissionen sind notwendig, um Versuchspersonen zu schützen.",
+        "Forschung wird mit Steuergeld finanziert – die Gesellschaft darf mitreden."
+      ],
+      "kompromiss": [
+        "Freiheit der Fragestellung, aber klare Regeln für gefährliche Versuche und Anwendungen.",
+        "Ethikkommissionen und internationale Vereinbarungen statt einzelner nationaler Verbote.",
+        "Forschende sollten Risiken offen kommunizieren."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Herr Seiferth vertritt eine sehr klare Position: Forschende sollen forschen, und für die Folgen sind andere zuständig. Das finde ich, ehrlich gesagt, ein bisschen zu bequem."
+        },
+        {
+          "sp": "B",
+          "text": "Ich kann seine Sicht aber nachvollziehen. Wer die Struktur des Atoms erforscht, kann nicht wissen, ob daraus ein Kraftwerk oder eine Bombe wird. Soll man deshalb aufhören, Fragen zu stellen?"
+        },
+        {
+          "sp": "A",
+          "text": "Natürlich nicht. Aber gerade das Beispiel Atombombe zeigt doch, dass einige Physiker sehr genau wussten, woran sie arbeiteten. Manche haben sich später ja auch ausdrücklich gegen Atomwaffen engagiert."
+        },
+        {
+          "sp": "B",
+          "text": "Das stimmt. Man muss wohl unterscheiden zwischen Grundlagenforschung und der gezielten Entwicklung einer Anwendung."
+        },
+        {
+          "sp": "A",
+          "text": "Genau, das ist für mich der entscheidende Unterschied. Und es gibt noch einen dritten Bereich: Experimente, die selbst ein Risiko darstellen – zum Beispiel, wenn man Viren im Labor gefährlicher macht, um sie besser zu verstehen."
+        },
+        {
+          "sp": "B",
+          "text": "Hm, da wird es schwierig. Einerseits will man auf künftige Pandemien vorbereitet sein, andererseits kann ein Laborunfall katastrophale Folgen haben. Wer sollte darüber entscheiden?"
+        },
+        {
+          "sp": "A",
+          "text": "Auf keinen Fall die Forschenden allein, denke ich. Dafür gibt es Ethikkommissionen, und bei so globalen Risiken bräuchte man eigentlich internationale Regeln."
+        },
+        {
+          "sp": "B",
+          "text": "Einverstanden, aber Verbote einzelner Länder halte ich für wenig sinnvoll. Dann wird diese Forschung eben woanders gemacht, vielleicht unter schlechteren Sicherheitsbedingungen."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist ein starkes Argument. Vielleicht können wir uns darauf verständigen: Die Freiheit, Fragen zu stellen, sollte unbegrenzt sein, aber für gefährliche Versuche und Anwendungen braucht es klare, möglichst internationale Regeln."
+        },
+        {
+          "sp": "B",
+          "text": "Ja, so würde ich es auch formulieren. Und die Forschenden sollten offen über Risiken sprechen, statt die Verantwortung einfach abzugeben."
+        }
+      ]
+    },
+    {
+      "id": "md09",
+      "pruefung": 0,
+      "titel": "Autofreie Innenstädte",
+      "thema": "mobilitaet",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Autos haben in unseren Innenstädten nichts mehr verloren. Städte gehören den Menschen, nicht den Fahrzeugen.“",
+      "person": "Dr. Lena Brückner, Stadtplanerin",
+      "leitpunkte": [
+        "Wie verstehen Sie die Aussage der Stadtplanerin?",
+        "Welche Vor- und Nachteile hätten autofreie Innenstädte?",
+        "Berücksichtigen Sie verschiedene Gruppen, z. B. Anwohner, Handel und ältere Menschen."
+      ],
+      "pro": [
+        "Mehr Platz für Fußgänger, Radfahrer, Grünflächen und Cafés.",
+        "Bessere Luft, weniger Lärm und weniger Unfälle.",
+        "Der Verkehr ist ein großer CO2-Verursacher – weniger Autos helfen dem Klima.",
+        "Städte wie Kopenhagen zeigen, dass Innenstädte ohne viele Autos lebendiger werden.",
+        "Parkplätze belegen viel öffentlichen Raum, den alle bezahlen."
+      ],
+      "contra": [
+        "Ältere Menschen und Menschen mit Behinderung sind oft auf das Auto angewiesen.",
+        "Der Einzelhandel fürchtet Umsatzverluste, weil die Kundschaft ins Einkaufszentrum fährt.",
+        "Handwerker, Lieferdienste und Pflegedienste brauchen Zufahrt.",
+        "Pendler aus dem Umland haben oft keine gute Alternative.",
+        "Der Verkehr verlagert sich möglicherweise in die Wohngebiete am Rand."
+      ],
+      "kompromiss": [
+        "Schrittweise Umwandlung mit Ausnahmen für Lieferverkehr, Anwohner und Menschen mit eingeschränkter Mobilität.",
+        "Zuerst Bus und Bahn, Park-and-Ride-Plätze und Radwege ausbauen.",
+        "Pilotprojekte mit Bürgerbeteiligung testen."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Ich finde die Vision von Frau Brückner sehr reizvoll. Stell dir vor, wo heute Parkplätze sind, gäbe es Bäume, Bänke und Spielplätze. Für mich wäre das ein riesiger Gewinn an Lebensqualität."
+        },
+        {
+          "sp": "B",
+          "text": "Als Bild klingt das schön, keine Frage. Aber denk mal an meine Großmutter. Sie ist über achtzig, kann nicht mehr weit laufen und fährt mit dem Auto zum Arzt in der Innenstadt. Was soll sie machen?"
+        },
+        {
+          "sp": "A",
+          "text": "Das ist ein wichtiger Einwand. Ich glaube allerdings nicht, dass „autofrei“ bedeuten muss, dass überhaupt kein Fahrzeug mehr hineinfahren darf. Für Menschen mit eingeschränkter Mobilität könnte es Ausnahmen geben oder kleine Elektroshuttles."
+        },
+        {
+          "sp": "B",
+          "text": "Gut, dann müsste man das Zitat aber auch so verstehen. Ein zweites Problem sehe ich beim Einzelhandel. Viele Geschäfte in der Innenstadt kämpfen jetzt schon ums Überleben."
+        },
+        {
+          "sp": "A",
+          "text": "Darf ich da widersprechen? Es gibt Untersuchungen, nach denen Fußgänger und Radfahrer pro Besuch zwar weniger ausgeben, aber häufiger kommen. In manchen Städten, die Straßen in Fußgängerzonen umgewandelt haben, ist der Umsatz sogar gestiegen."
+        },
+        {
+          "sp": "B",
+          "text": "Das mag in attraktiven Großstädten so sein. In einer Kleinstadt, in die die Leute aus den umliegenden Dörfern kommen, sehe ich das anders. Ohne Bus fahren die dann einfach ins Einkaufszentrum auf der grünen Wiese."
+        },
+        {
+          "sp": "A",
+          "text": "Da hast du recht – ohne gute Alternativen funktioniert es nicht. Ich würde sagen, die Reihenfolge ist entscheidend: Erst müssen Bus, Bahn und Park-and-Ride-Plätze ausgebaut werden, dann kann man die Autos schrittweise aus dem Zentrum holen."
+        },
+        {
+          "sp": "B",
+          "text": "Mit dieser Reihenfolge wäre ich einverstanden. Und man sollte die Anwohner und Geschäftsleute von Anfang an einbeziehen, vielleicht zunächst mit einem Pilotprojekt für ein paar Monate."
+        },
+        {
+          "sp": "A",
+          "text": "Gute Idee. Dann sehen alle, wie es sich anfühlt, und können mitentscheiden, statt dass etwas von oben beschlossen wird."
+        },
+        {
+          "sp": "B",
+          "text": "Also: Die Richtung stimmt, aber „nichts mehr verloren“ ist mir zu radikal. Weniger Autos ja, aber mit Ausnahmen und mit guten Alternativen."
+        }
+      ]
+    },
+    {
+      "id": "md10",
+      "pruefung": 0,
+      "titel": "Bedingungsloses Grundeinkommen",
+      "thema": "wirtschaft",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Ein bedingungsloses Grundeinkommen würde die Menschen nicht faul machen, sondern frei. Erst wenn die Existenz gesichert ist, können wir tun, was wirklich sinnvoll ist.“",
+      "person": "Dr. Friederike Ostermann, Wirtschaftsphilosophin",
+      "leitpunkte": [
+        "Was meint die Wirtschaftsphilosophin mit „nicht faul, sondern frei“?",
+        "Was spricht für, was gegen ein bedingungsloses Grundeinkommen?",
+        "Halten Sie ein solches Modell für finanzierbar und gerecht? Begründen Sie Ihre Meinung."
+      ],
+      "pro": [
+        "Ohne Existenzangst bleibt mehr Raum für Weiterbildung, Ehrenamt und die Pflege von Angehörigen.",
+        "Weniger Bürokratie als im heutigen Sozialsystem mit vielen Anträgen und Kontrollen.",
+        "Absicherung für den Fall, dass Automatisierung viele Arbeitsplätze ersetzt.",
+        "Beschäftigte können schlechte Jobs ablehnen – unattraktive Arbeit muss besser werden.",
+        "In bisherigen Modellversuchen haben die meisten Teilnehmenden weitergearbeitet."
+      ],
+      "contra": [
+        "Enorme Kosten – deutlich höhere Steuern wären nötig.",
+        "Auch Wohlhabende bekommen Geld (Gießkannenprinzip).",
+        "Manche könnten sich aus dem Arbeitsmarkt zurückziehen – trotz Fachkräftemangel.",
+        "Die bisherigen Experimente waren klein und befristet und sind daher wenig aussagekräftig.",
+        "Arbeit bedeutet auch Struktur, soziale Kontakte und Anerkennung."
+      ],
+      "kompromiss": [
+        "Bestehende Sozialleistungen vereinfachen und Sanktionen reduzieren.",
+        "Größere und längere Modellversuche durchführen, bevor man entscheidet.",
+        "Ein Grundeinkommen zunächst nur für bestimmte Phasen, z. B. Weiterbildung oder Pflege."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Die These ist ja, dass Menschen mit einem gesicherten Einkommen nicht auf dem Sofa liegen, sondern endlich das tun, was sie wirklich wollen. Ich finde diesen Gedanken eigentlich sehr sympathisch."
+        },
+        {
+          "sp": "B",
+          "text": "Sympathisch schon, aber ich bin skeptisch. Wenn ich jeden Monat genug Geld zum Leben bekomme, warum sollte ich dann noch nachts im Krankenhaus oder im Schichtdienst arbeiten?"
+        },
+        {
+          "sp": "A",
+          "text": "Gute Frage. Vielleicht müssten solche Jobs dann besser bezahlt werden oder bessere Bedingungen bieten. Das fände ich, ehrlich gesagt, gar nicht schlecht."
+        },
+        {
+          "sp": "B",
+          "text": "Da ist was dran. Aber mein größeres Problem ist die Finanzierung. Wenn jeder Erwachsene, sagen wir, zwölfhundert Euro im Monat bekommt, dann reden wir über rund eine Billion Euro pro Jahr. Woher soll dieses Geld kommen?"
+        },
+        {
+          "sp": "A",
+          "text": "Ein Teil würde durch den Wegfall anderer Leistungen gespart, Arbeitslosengeld oder Kindergeld zum Beispiel. Aber ich gebe zu, dass das allein bei Weitem nicht reichen würde."
+        },
+        {
+          "sp": "B",
+          "text": "Und dann bekommt auch eine Millionärin das Geld. Das finde ich nicht gerecht."
+        },
+        {
+          "sp": "A",
+          "text": "Na ja, sie würde es über höhere Steuern wahrscheinlich mehr als zurückzahlen. Aber gut, ich verstehe den Einwand. Was mich trotzdem beeindruckt: In den bisherigen Modellversuchen haben die meisten Teilnehmenden weitergearbeitet."
+        },
+        {
+          "sp": "B",
+          "text": "Das schon, nur waren das kleine Gruppen über wenige Jahre. Und alle wussten, dass das Geld irgendwann wieder aufhört. Ob sich eine ganze Gesellschaft genauso verhält, weiß niemand."
+        },
+        {
+          "sp": "A",
+          "text": "Das stimmt, das ist eine methodische Schwäche. Wie wäre es also mit einem Zwischenschritt? Man könnte das bestehende Sozialsystem vereinfachen und einen größeren, längeren Versuch starten, bevor man über eine Einführung entscheidet."
+        },
+        {
+          "sp": "B",
+          "text": "Damit kann ich mich anfreunden. Vielleicht könnte man auch erst einmal Menschen in bestimmten Lebensphasen absichern, etwa während einer Weiterbildung oder wenn sie Angehörige pflegen."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist ein guter Gedanke. Dann würde man genau die Freiheit schaffen, von der Frau Ostermann spricht – nur gezielter."
+        },
+        {
+          "sp": "B",
+          "text": "Genau. Freiheit durch Sicherheit klingt gut, aber bevor wir das ganze System umbauen, brauchen wir verlässlichere Daten."
+        }
+      ]
+    },
+    {
+      "id": "md11",
+      "pruefung": 0,
+      "titel": "Soziale Netzwerke erst ab 16?",
+      "thema": "medien_desinformation",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Soziale Netzwerke schaden Kindern mehr, als sie nützen. Sie sollten erst ab sechzehn Jahren erlaubt sein – so wie Alkohol.“",
+      "person": "Dr. Sabine Merkenich, Kinder- und Jugendpsychiaterin",
+      "leitpunkte": [
+        "Wie verstehen Sie den Vergleich mit Alkohol?",
+        "Welche Chancen und Risiken haben soziale Netzwerke für Kinder und Jugendliche?",
+        "Halten Sie eine gesetzliche Altersgrenze für sinnvoll und durchsetzbar?"
+      ],
+      "pro": [
+        "Studien zeigen Zusammenhänge mit Angst, depressiven Symptomen und Schlafproblemen.",
+        "Die Apps sind so gestaltet, dass man möglichst lange dranbleibt (Suchtgefahr).",
+        "Cybermobbing, Kontakt mit Fremden und ungeeignete Inhalte gefährden Kinder.",
+        "Ein Verbot für alle entlastet Eltern und Kinder vom Gruppendruck.",
+        "Australien hat bereits ein Mindestalter von sechzehn Jahren eingeführt."
+      ],
+      "contra": [
+        "Soziale Netzwerke bieten auch Chancen: Kontakte, Information, Kreativität.",
+        "Verbote lassen sich mit falschen Altersangaben leicht umgehen.",
+        "Eine Altersprüfung bedeutet Datenschutzprobleme für alle Nutzer.",
+        "Medienkompetenz lernt man durch begleitete Nutzung, nicht durch Verbote.",
+        "Für Jugendliche aus Minderheiten sind Online-Gemeinschaften oft eine wichtige Stütze."
+      ],
+      "kompromiss": [
+        "Strengere Regeln für Plattformen: kein suchtförderndes Design, Jugendschutz als Grundeinstellung.",
+        "Gestufter Zugang: Kinderversionen und begleitete Nutzung.",
+        "Verbindliche Medienbildung in der Schule und Angebote für Eltern."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Ich finde den Vergleich mit Alkohol gar nicht so weit hergeholt. Beides kann abhängig machen, und bei beidem fehlt Kindern oft noch die Fähigkeit, das Risiko einzuschätzen."
+        },
+        {
+          "sp": "B",
+          "text": "Da bin ich anderer Meinung. Alkohol hat für Kinder keinen Nutzen, soziale Netzwerke dagegen schon. Jugendliche halten Kontakt zu Freunden, informieren sich, sind kreativ – das kann man doch nicht einfach ignorieren."
+        },
+        {
+          "sp": "A",
+          "text": "Das stimmt natürlich. Aber wenn ich sehe, dass Zwölfjährige bis nachts um eins durch Kurzvideos scrollen, dann frage ich mich, wie viel Kreativität da wirklich gefördert wird."
+        },
+        {
+          "sp": "B",
+          "text": "Das ist aber doch eher ein Problem des Designs. Die Apps sind so gebaut, dass man nicht aufhören kann. Müsste man nicht eher dort ansetzen, statt den Jugendlichen alles zu verbieten?"
+        },
+        {
+          "sp": "A",
+          "text": "Da ist was dran. Ich halte die Plattformen tatsächlich für die Hauptverantwortlichen. Trotzdem würde ein klares Mindestalter den Eltern helfen. Viele erlauben ihren Kindern das Smartphone nur, weil alle anderen in der Klasse auch eins haben."
+        },
+        {
+          "sp": "B",
+          "text": "Diesen Gruppendruck kenne ich. Aber mal ehrlich: Wie willst du das kontrollieren? Ein Kind gibt einfach ein falsches Geburtsdatum ein."
+        },
+        {
+          "sp": "A",
+          "text": "Australien versucht das gerade mit einer verpflichtenden Altersprüfung. Ob das funktioniert, wird sich zeigen."
+        },
+        {
+          "sp": "B",
+          "text": "Und dann muss jeder Erwachsene seinen Ausweis hochladen? Aus Sicht des Datenschutzes finde ich das ziemlich bedenklich."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist ein berechtigter Einwand. Vielleicht wäre ein Mittelweg sinnvoller: strenge Regeln für die Plattformen, also kein endloses Scrollen und Jugendschutz als Grundeinstellung, und dazu verpflichtende Medienbildung in der Schule."
+        },
+        {
+          "sp": "B",
+          "text": "Dem stimme ich zu. Kinder schützen – ja, aber eher durch sichere Plattformen und Bildung als durch ein Verbot, das man leicht umgehen kann."
+        }
+      ]
+    },
+    {
+      "id": "md12",
+      "pruefung": 0,
+      "titel": "Anwerbung von Fachkräften – Ausbeutung?",
+      "thema": "demografie",
+      "bezug": true,
+      "niveau": "C1",
+      "zitat": "„Reiche Länder lösen ihren Fachkräftemangel auf Kosten der armen. Wer Ärztinnen und Pflegekräfte aus dem Ausland anwirbt, betreibt eine moderne Form der Ausbeutung.“",
+      "person": "Dr. Tobias Wendling, Entwicklungsökonom",
+      "leitpunkte": [
+        "Wie verstehen Sie den Vorwurf der „Ausbeutung“?",
+        "Welche Folgen hat die Abwanderung von Fachkräften für die Herkunftsländer und für die Migrantinnen und Migranten selbst?",
+        "Wie könnte eine faire Anwerbung aussehen? Beziehen Sie Beispiele aus Ihrem Heimatland ein."
+      ],
+      "pro": [
+        "Die Herkunftsländer bezahlen die Ausbildung, die reichen Länder profitieren.",
+        "In ländlichen Regionen der Herkunftsländer fehlen dann Ärzte und Pflegekräfte.",
+        "Reiche Länder sparen sich Investitionen in die eigene Ausbildung und bessere Arbeitsbedingungen.",
+        "Familien werden getrennt, Kinder wachsen teilweise ohne Eltern auf.",
+        "Migrantinnen und Migranten arbeiten oft lange unter ihrer Qualifikation."
+      ],
+      "contra": [
+        "Jeder Mensch hat das Recht, seinen Arbeitsort frei zu wählen.",
+        "Rücküberweisungen sind für viele Länder eine wichtige Einnahmequelle.",
+        "Rückkehrer bringen Wissen und Erfahrung mit nach Hause.",
+        "Manche Länder, z. B. die Philippinen, bilden bewusst mehr Pflegekräfte aus, als sie selbst beschäftigen.",
+        "Höhere Einkommen ermöglichen den Familien bessere Bildung und Gesundheitsversorgung."
+      ],
+      "kompromiss": [
+        "Faire Abkommen, in denen die Anwerbeländer die Ausbildung im Herkunftsland mitfinanzieren.",
+        "Keine aktive Anwerbung in Ländern mit akutem eigenem Mangel.",
+        "Rückkehr und Wissenstransfer gezielt fördern."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Als Philippinin fühle ich mich von diesem Zitat direkt angesprochen. Ich verstehe, was Herr Wendling meint, aber das Wort „Ausbeutung“ finde ich zu hart."
+        },
+        {
+          "sp": "B",
+          "text": "Warum? Wenn ein armes Land eine Krankenpflegerin ausbildet und Deutschland sie dann abwirbt, profitiert doch vor allem Deutschland."
+        },
+        {
+          "sp": "A",
+          "text": "Auf den ersten Blick ja. Aber man darf nicht vergessen, dass die Menschen freiwillig gehen. Viele meiner Bekannten haben sich ganz bewusst für Deutschland entschieden, weil sie hier deutlich mehr verdienen und ihre Familien unterstützen können."
+        },
+        {
+          "sp": "B",
+          "text": "Das verstehe ich. Trotzdem: Was ist mit den Krankenhäusern auf dem Land, denen dann das Personal fehlt? Die Freiheit der Einzelnen hat doch Folgen für alle anderen."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist richtig, und dieses Problem gibt es auf den Philippinen tatsächlich. Andererseits bildet das Land seit Jahrzehnten bewusst mehr Pflegekräfte aus, als es selbst beschäftigen kann. Die Rücküberweisungen sind ein wichtiger Teil der Wirtschaft."
+        },
+        {
+          "sp": "B",
+          "text": "Interessant, das wusste ich nicht. Heißt das, du siehst überhaupt kein Problem?"
+        },
+        {
+          "sp": "A",
+          "text": "Doch, schon. Ich finde nur, dass man unterscheiden muss. Wenn ein Land selbst einen akuten Mangel hat, sollte man dort nicht aktiv anwerben. Die Weltgesundheitsorganisation hat dafür sogar eine Liste solcher Länder erstellt."
+        },
+        {
+          "sp": "B",
+          "text": "Das klingt vernünftig. Ich würde noch weiter gehen: Länder wie Deutschland sollten die Ausbildung in den Herkunftsländern mitfinanzieren. Dann wäre es ein Geben und Nehmen."
+        },
+        {
+          "sp": "A",
+          "text": "Damit bin ich völlig einverstanden. Und man sollte es den Menschen leicht machen, später zurückzukehren und ihr Wissen mitzunehmen."
+        },
+        {
+          "sp": "B",
+          "text": "Dann fassen wir zusammen: Anwerbung ist nicht automatisch Ausbeutung – aber sie wird es, wenn nur eine Seite profitiert."
+        }
+      ]
+    },
+    {
+      "id": "md13",
+      "pruefung": 1,
+      "titel": "Genschere am Embryo?",
+      "thema": "biotechnologie",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Wenn wir mit der Genschere schwere Erbkrankheiten schon im Embryo verhindern können, dann wäre es unethisch, es nicht zu tun.“",
+      "person": "Prof. Dr. Marion Kesselring, Humangenetikerin",
+      "leitpunkte": [
+        "Was meint die Humangenetikerin mit ihrer Aussage?",
+        "Welche Chancen und Gefahren sehen Sie in Eingriffen in das Erbgut von Embryonen?",
+        "Wo würden Sie die Grenze ziehen? Begründen Sie Ihre Haltung."
+      ],
+      "pro": [
+        "Schweres Leid könnte verhindert werden, z. B. bei Mukoviszidose oder Chorea Huntington.",
+        "Die Veränderung wird vererbt – die Krankheit verschwindet dauerhaft aus der Familie.",
+        "Auch sonst greift die Medizin in die Natur ein, etwa mit Impfungen oder Operationen.",
+        "Wer eine mögliche Heilung verweigert, trifft ebenfalls eine ethische Entscheidung.",
+        "Die Technik wird immer präziser; Verbote verhindern auch Forschung zur Sicherheit."
+      ],
+      "contra": [
+        "Langzeitfolgen und unbeabsichtigte Veränderungen sind noch unbekannt.",
+        "Der Embryo kann nicht zustimmen, und die Veränderung betrifft alle Nachkommen.",
+        "Gefahr von „Designerbabys“ – die Grenze zwischen Krankheit und Wunsch verschwimmt.",
+        "Soziale Ungleichheit: Nur Wohlhabende könnten sich solche Eingriffe leisten.",
+        "Es gibt Alternativen, z. B. die Untersuchung von Embryonen vor der Einpflanzung."
+      ],
+      "kompromiss": [
+        "Nur bei schweren, klar definierten Erbkrankheiten und erst nach gründlicher Forschung.",
+        "Internationale Regeln und unabhängige Ethikkommissionen.",
+        "Eine breite gesellschaftliche Debatte, bevor Gesetze gelockert werden."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Ich verstehe die Aussage so: Wenn es eine Technik gibt, die Leid verhindert, dann macht man sich schuldig, wenn man sie nicht einsetzt. Das ist ein starkes Argument, das muss ich zugeben."
+        },
+        {
+          "sp": "B",
+          "text": "Ja, auf den ersten Blick schon. Aber es geht mir zu schnell über die Risiken hinweg. Wir wissen noch gar nicht genau, welche Nebenwirkungen so ein Eingriff haben kann – und die Veränderung wird an alle späteren Generationen weitergegeben."
+        },
+        {
+          "sp": "A",
+          "text": "Das stimmt, und gerade das macht es ja auch so verlockend. Wenn man zum Beispiel die Anlage für Chorea Huntington entfernt, ist diese Krankheit in der Familie für immer verschwunden."
+        },
+        {
+          "sp": "B",
+          "text": "Für immer – oder bis man merkt, dass man etwas anderes beschädigt hat. Und dann gibt es noch ein Problem: Wo fängt Krankheit an und wo hört sie auf? Heute ist es eine schwere Erbkrankheit, morgen vielleicht eine Neigung zu Übergewicht und übermorgen die Augenfarbe."
+        },
+        {
+          "sp": "A",
+          "text": "Diese Sorge vor Designerbabys höre ich oft. Aber ist das nicht ein Dammbruch-Argument? Man kann doch klare Grenzen gesetzlich festlegen."
+        },
+        {
+          "sp": "B",
+          "text": "Theoretisch ja. Praktisch hat aber vor einigen Jahren ein Forscher in China einfach ohne Erlaubnis das Erbgut von Embryonen verändert. Gesetze allein halten so etwas nicht auf."
+        },
+        {
+          "sp": "A",
+          "text": "Das ist ein gutes Beispiel, und genau deshalb braucht man internationale Regeln. Außerdem gibt es heute schon Alternativen wie die Präimplantationsdiagnostik, bei der man Embryonen vor der Einpflanzung untersucht."
+        },
+        {
+          "sp": "B",
+          "text": "Richtig, und die ist in Deutschland unter strengen Bedingungen erlaubt. Ich würde daher sagen: Solange es solche Alternativen gibt, sollte man nicht ins Erbgut eingreifen."
+        },
+        {
+          "sp": "A",
+          "text": "Ganz so weit würde ich nicht gehen. Aber vielleicht können wir uns darauf einigen, dass man solche Eingriffe erst nach viel mehr Forschung erlauben sollte – und dann nur bei schweren, klar definierten Krankheiten."
+        },
+        {
+          "sp": "B",
+          "text": "Einverstanden. Unethisch ist dann nicht das Abwarten, sondern vorschnelles Handeln."
+        }
+      ]
+    },
+    {
+      "id": "md14",
+      "pruefung": 2,
+      "titel": "Zurück aufs Land?",
+      "thema": "wohnen_stadt",
+      "bezug": false,
+      "niveau": "C1",
+      "zitat": "„Die Zukunft liegt auf dem Land. Wer heute noch in eine überteuerte Großstadt zieht, hat die Chancen der Digitalisierung nicht verstanden.“",
+      "person": "Jan-Philipp Ebeling, Zukunftsforscher",
+      "leitpunkte": [
+        "Wie verstehen Sie die Aussage des Zukunftsforschers?",
+        "Wo würden Sie lieber leben – in der Stadt oder auf dem Land? Begründen Sie Ihre Meinung.",
+        "Welche Voraussetzungen müssten erfüllt sein, damit das Leben auf dem Land attraktiver wird?"
+      ],
+      "pro": [
+        "Durch Homeoffice ist der Wohnort weniger an den Arbeitsplatz gebunden.",
+        "Mieten und Grundstücke sind auf dem Land deutlich günstiger.",
+        "Mehr Natur, Ruhe und Platz – besonders für Familien.",
+        "Engere Gemeinschaft durch Vereine und Nachbarschaftshilfe.",
+        "Die überfüllten Städte würden entlastet."
+      ],
+      "contra": [
+        "Viele Berufe sind nicht ortsunabhängig, z. B. in Schule, Pflege oder Handel.",
+        "Die Infrastruktur ist oft schlecht: Bus, Ärzte, Schulen, schnelles Internet.",
+        "Ohne Auto ist man kaum mobil – das schadet dem Klima.",
+        "Städte bieten Kultur, Hochschulen und Vielfalt.",
+        "Junge Menschen suchen Ausbildung, Studium und neue Kontakte."
+      ],
+      "kompromiss": [
+        "Klein- und Mittelstädte mit guter Bahnanbindung als Mittelweg.",
+        "Coworking-Räume und schnelles Internet auf dem Land fördern.",
+        "Wahlfreiheit statt einer Lösung für alle – je nach Lebensphase."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Herr Ebeling glaubt offenbar, dass die Digitalisierung die Großstädte überflüssig macht. Ganz falsch finde ich das nicht. Wenn ich von zu Hause arbeiten kann, warum sollte ich dann tausend Euro Miete für zwei kleine Zimmer zahlen?"
+        },
+        {
+          "sp": "B",
+          "text": "Für dich mag das stimmen, aber denk mal an all die Berufe, die vor Ort stattfinden. Eine Lehrerin, ein Krankenpfleger oder eine Verkäuferin kann nicht einfach aufs Land ziehen und digital arbeiten."
+        },
+        {
+          "sp": "A",
+          "text": "Stimmt, daran habe ich nicht gedacht. Wobei – auch auf dem Land werden Lehrkräfte und Pflegekräfte dringend gesucht."
+        },
+        {
+          "sp": "B",
+          "text": "Das ist wahr. Aber dann stellt sich die Frage nach der Infrastruktur. In vielen Dörfern gibt es keinen Arzt mehr, die nächste weiterführende Schule ist zwanzig Kilometer entfernt, und das Internet ist teilweise deutlich langsamer als in der Stadt."
+        },
+        {
+          "sp": "A",
+          "text": "Da hast du einen wunden Punkt getroffen. Ohne schnelles Internet funktioniert das ganze Konzept natürlich nicht. Und ohne Auto ist man auf dem Land ziemlich aufgeschmissen."
+        },
+        {
+          "sp": "B",
+          "text": "Genau. Und was ist mit jungen Leuten? Die wollen studieren, ausgehen, neue Menschen kennenlernen. Das bietet eine Großstadt einfach eher."
+        },
+        {
+          "sp": "A",
+          "text": "Das sehe ich auch so. Vielleicht hängt die Antwort sehr von der Lebensphase ab: mit zwanzig in die Stadt, mit kleinen Kindern vielleicht lieber dorthin, wo es mehr Platz und Natur gibt."
+        },
+        {
+          "sp": "B",
+          "text": "Das klingt plausibel. Ich könnte mir auch einen Mittelweg vorstellen: kleinere Städte mit guter Bahnverbindung. Da hat man bezahlbaren Wohnraum und trotzdem Anschluss an die Großstadt."
+        },
+        {
+          "sp": "A",
+          "text": "Gute Idee. Und wenn es dort Coworking-Räume gibt, muss man nicht einmal allein am Küchentisch arbeiten."
+        },
+        {
+          "sp": "B",
+          "text": "Dann würde ich sagen: Die Zukunft liegt nicht unbedingt auf dem Land – aber sicher auch nicht mehr nur in den Metropolen."
+        }
+      ]
+    },
+    {
+      "id": "md15",
+      "pruefung": 3,
+      "titel": "Ist Auswendiglernen überflüssig?",
+      "thema": "allgemein_akademisch",
+      "bezug": true,
+      "niveau": "C1",
+      "zitat": "„Im Zeitalter von Suchmaschinen und künstlicher Intelligenz ist Auswendiglernen reine Zeitverschwendung. Schulen sollten Kindern beibringen, wie man Wissen findet – nicht, wie man es speichert.“",
+      "person": "Dr. Moritz Hagedorn, Lernforscher",
+      "leitpunkte": [
+        "Was ist mit der Aussage gemeint?",
+        "Welche Rolle spielt Faktenwissen beim Lernen und Verstehen? Nennen Sie Beispiele aus Ihrem Fach oder Studium.",
+        "Wie sollte Ihrer Meinung nach in Zukunft gelernt werden?"
+      ],
+      "pro": [
+        "Fakten lassen sich jederzeit in Sekunden nachschlagen.",
+        "Auswendig Gelerntes wird schnell wieder vergessen, wenn es nur für die Prüfung gelernt wurde.",
+        "Wichtiger sind Kompetenzen wie Recherchieren, Bewerten und Problemlösen.",
+        "Wissen veraltet schnell, besonders in Wissenschaft und Technik.",
+        "Es bliebe mehr Zeit für Projekte, Experimente und kritisches Denken."
+      ],
+      "contra": [
+        "Wer nichts weiß, kann auch nicht beurteilen, ob eine Information stimmt.",
+        "Verstehen braucht Grundwissen: Fachbegriffe und Zusammenhänge.",
+        "Kreativität entsteht, wenn man Wissen im Kopf neu verknüpft.",
+        "Im Alltag muss manches Wissen sofort verfügbar sein, z. B. Wortschatz oder das Einmaleins.",
+        "KI-Antworten sind manchmal falsch – man braucht Wissen, um sie zu überprüfen."
+      ],
+      "kompromiss": [
+        "Grundwissen sicher lernen, Detailwissen nachschlagen.",
+        "Sinnvoll wiederholen und anwenden statt stumpf pauken.",
+        "Zusätzlich Recherche- und Bewertungskompetenz systematisch vermitteln."
+      ],
+      "beispieldialog": [
+        {
+          "sp": "A",
+          "text": "Als Biologielehrerin muss ich bei diesem Zitat ein bisschen schmunzeln. Natürlich kann man nachschlagen, was Mitochondrien sind. Aber wenn man es jedes Mal nachschlagen muss, versteht man keinen einzigen Text über Zellbiologie."
+        },
+        {
+          "sp": "B",
+          "text": "Das ist ein guter Punkt. Aber ich glaube, Herr Hagedorn meint nicht das Grundwissen, sondern dieses stumpfe Pauken von Jahreszahlen oder Listen, die man nach der Klassenarbeit sofort wieder vergisst."
+        },
+        {
+          "sp": "A",
+          "text": "So verstanden, gebe ich ihm teilweise recht. Ich habe in meiner eigenen Schulzeit auch vieles auswendig gelernt, ohne es zu verstehen. Darauf könnte man sicher verzichten."
+        },
+        {
+          "sp": "B",
+          "text": "Eben. Und heute kommt hinzu, dass Wissen immer schneller veraltet. Manches, was ich im ersten Semester gelernt habe, ist schon überholt. Wäre es da nicht sinnvoller zu lernen, wie man gute Quellen findet und bewertet?"
+        },
+        {
+          "sp": "A",
+          "text": "Beides, würde ich sagen. Denn um eine Quelle zu bewerten, braucht man Vorwissen. Wenn eine KI behauptet, Pflanzen bräuchten für die Fotosynthese kein Licht, bemerke ich den Fehler nur, weil ich es besser weiß."
+        },
+        {
+          "sp": "B",
+          "text": "Okay, das überzeugt mich. Ohne Wissen im Kopf kann man auch die Maschine nicht kontrollieren. Aber wie viel Wissen braucht man denn?"
+        },
+        {
+          "sp": "A",
+          "text": "Das ist die entscheidende Frage. Ich würde sagen: die zentralen Begriffe und Zusammenhänge eines Fachs. Die Details – etwa jeden einzelnen Schritt des Citratzyklus – kann man nachschlagen."
+        },
+        {
+          "sp": "B",
+          "text": "Und wie lernt man dieses Grundwissen am besten? Doch wieder durch Auswendiglernen?"
+        },
+        {
+          "sp": "A",
+          "text": "Nicht durch stures Pauken, sondern durch Anwenden und regelmäßiges Wiederholen. Übrigens genau so, wie ich gerade für meine Deutschprüfung Wortschatz lerne."
+        },
+        {
+          "sp": "B",
+          "text": "Dann können wir uns wohl einigen: Auswendiglernen ist keine Zeitverschwendung, wenn es um das Fundament geht – aber Schulen sollten zusätzlich viel mehr Recherche- und Bewertungskompetenz vermitteln."
+        }
+      ]
+    }
+  ]
+}

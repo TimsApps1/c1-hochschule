@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "hv2_01",
+    "teil": "hv2",
+    "titel": "Schlaf und Lernen in der Prüfungsphase",
+    "thema": "gesundheit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "situation": "Sie hören ein Interview aus der Radiosendung „Wissen am Mittag“ mit Dr. Jonas Brehm, der ein Schlaflabor leitet.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderatorin"
+      },
+      {
+        "sp": "B",
+        "name": "Dr. Jonas Brehm, Schlafforscher an einer Universitätsklinik"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Herzlich willkommen zu „Wissen am Mittag“. An den Hochschulen ist Prüfungszeit – und damit für viele Studierende auch die Zeit der kurzen Nächte. Man lernt bis zwei Uhr morgens, trinkt am nächsten Tag drei Kaffee und hofft, dass es irgendwie reicht. Ob das eine gute Strategie ist, darüber spreche ich heute mit Jonas Brehm. Er leitet ein Schlaflabor an einer Universitätsklinik und untersucht, wie Schlaf und Gedächtnis zusammenhängen. Herr Brehm, schön, dass Sie da sind."
+      },
+      {
+        "sp": "B",
+        "text": "Ich freue mich auch. Und ich muss gleich etwas gestehen: Als Student habe ich vor Prüfungen genau das gemacht, was Sie gerade beschrieben haben. Insofern bin ich da nicht ganz unschuldig."
+      },
+      {
+        "sp": "A",
+        "text": "Das beruhigt mich ein bisschen. Fangen wir mal ganz grundsätzlich an: Was passiert eigentlich im Gehirn, während wir schlafen? Viele denken ja, das Gehirn macht dann einfach Pause."
+      },
+      {
+        "sp": "B",
+        "text": "Ja, das ist ein weitverbreiteter Irrtum. Das Gehirn ist im Schlaf alles andere als untätig. Man kann sich das ungefähr so vorstellen: Tagsüber sammeln wir Informationen, und die werden zunächst in einer Art Zwischenspeicher abgelegt, im sogenannten Hippocampus. Der ist aber, sagen wir mal, nicht besonders groß. In der Nacht, vor allem im Tiefschlaf, werden diese Inhalte dann noch einmal abgespielt und nach und nach in die Großhirnrinde übertragen, wo sie langfristig gespeichert werden. In der Fachsprache nennen wir das Konsolidierung."
+      },
+      {
+        "sp": "A",
+        "text": "Das heißt, man lernt sozusagen im Schlaf weiter?"
+      },
+      {
+        "sp": "B",
+        "text": "Na ja, nicht ganz. Man lernt nichts Neues dazu – also, das Vokabelheft unter dem Kopfkissen funktioniert leider nicht. Aber was man tagsüber gelernt hat, wird im Schlaf gefestigt. Und zwar nicht alles gleichermaßen. Das Gehirn scheint zu sortieren: Was als wichtig markiert wurde, wird bevorzugt behalten."
+      },
+      {
+        "sp": "A",
+        "text": "Und wie entscheidet das Gehirn, was wichtig ist?"
+      },
+      {
+        "sp": "B",
+        "text": "Das ist eine spannende Frage, an der wir selbst gerade arbeiten. Es gibt Hinweise darauf, dass Informationen eher behalten werden, wenn man weiß, dass man sie später braucht. In einem unserer Versuche haben wir Gruppen dieselben Wortpaare lernen lassen. Einem Teil der Leute haben wir gesagt: Morgen früh werden Sie abgefragt. Den anderen haben wir nichts gesagt. Alle haben danach geschlafen, und diejenigen, die von dem Test wussten, haben am nächsten Morgen deutlich mehr gewusst. Bei einer weiteren Gruppe, die die Nacht über wach bleiben musste, hat diese Ankündigung dagegen kaum einen Unterschied gemacht."
+      },
+      {
+        "sp": "A",
+        "text": "Interessant. Die Ankündigung hilft also nur, wenn man danach auch schläft."
+      },
+      {
+        "sp": "B",
+        "text": "Genau so haben wir das interpretiert, ja."
+      },
+      {
+        "sp": "A",
+        "text": "Jetzt aber zu unseren Studierenden in der Prüfungsphase. Was richtet denn eine durchgelernte Nacht an?"
+      },
+      {
+        "sp": "B",
+        "text": "Leider ziemlich viel. Wer eine Nacht gar nicht schläft, hat am nächsten Tag nicht nur Probleme mit der Konzentration. Er kann auch schlechter neue Informationen aufnehmen – man schätzt, um etwa vierzig Prozent schlechter. Und das Gelernte vom Vortag ist ebenfalls weniger stabil, weil eben der Tiefschlaf gefehlt hat. Man bezahlt also gleich doppelt."
+      },
+      {
+        "sp": "A",
+        "text": "Vierzig Prozent – das ist eine Menge."
+      },
+      {
+        "sp": "B",
+        "text": "Ja, wobei ich das ein bisschen relativieren möchte. Diese Zahl stammt aus Laborstudien mit gesunden jungen Erwachsenen, und die Unterschiede zwischen einzelnen Menschen sind groß. Manche stecken eine kurze Nacht erstaunlich gut weg, andere sind schon nach einer Stunde weniger Schlaf deutlich eingeschränkt. Im Durchschnitt ist der Effekt aber eindeutig."
+      },
+      {
+        "sp": "A",
+        "text": "Viele Studierende sagen ja: Ich bin eben eine Nachteule, ich kann abends einfach besser lernen. Ist da was dran?"
+      },
+      {
+        "sp": "B",
+        "text": "Da ist durchaus etwas dran. Es gibt verschiedene Chronotypen, also Menschen, deren innere Uhr eher früh oder eher spät tickt. Und gerade junge Erwachsene sind im Schnitt eher Spättypen, das ist biologisch gut belegt. Problematisch wird es erst, wenn jemand spät einschläft, aber trotzdem um sieben aufstehen muss, weil die Vorlesung um acht beginnt. Dann fehlen eben jede Nacht ein, zwei Stunden. Wir nennen das sozialen Jetlag."
+      },
+      {
+        "sp": "A",
+        "text": "Was müsste sich da ändern – bei den Studierenden selbst oder bei den Hochschulen?"
+      },
+      {
+        "sp": "B",
+        "text": "Ehrlich gesagt eher bei den Hochschulen. Ich halte wenig davon, jungen Menschen einzureden, sie müssten sich nur zusammenreißen. Wenn die erste Veranstaltung um zehn statt um acht beginnen würde, wäre schon viel gewonnen. Einige Universitäten in Skandinavien probieren das gerade aus, und die ersten Ergebnisse sind ermutigend: Die Studierenden schlafen länger und fehlen seltener."
+      },
+      {
+        "sp": "A",
+        "text": "Und Prüfungen um acht Uhr morgens?"
+      },
+      {
+        "sp": "B",
+        "text": "Sollte man, wenn möglich, vermeiden. Gerade die Spättypen schneiden da messbar schlechter ab, und zwar nicht, weil sie weniger wissen, sondern weil sie zu dieser Uhrzeit ihr Wissen schlechter abrufen können."
+      },
+      {
+        "sp": "A",
+        "text": "Und der Kaffee, den ich am Anfang erwähnt habe? Ist der eher Freund oder Feind?"
+      },
+      {
+        "sp": "B",
+        "text": "Beides, würde ich sagen. Koffein macht tatsächlich wacher, das ist unbestritten. Aber es ersetzt den Schlaf nicht, es überdeckt nur die Müdigkeit. Und was viele unterschätzen: Koffein wirkt sehr lange. Wer um fünf Uhr nachmittags noch einen großen Kaffee trinkt, hat um elf Uhr abends ungefähr die Hälfte davon noch im Blut. Dann liegt man im Bett, ist eigentlich erschöpft und kann trotzdem nicht einschlafen. Ich empfehle deshalb, ab dem frühen Nachmittag darauf zu verzichten."
+      },
+      {
+        "sp": "A",
+        "text": "Kommen wir noch zu einem Thema, das viele interessiert: der Mittagsschlaf. Hilft ein kurzes Nickerchen beim Lernen?"
+      },
+      {
+        "sp": "B",
+        "text": "Ja, durchaus, wenn man es richtig macht. Zwanzig Minuten können schon reichen, um wieder aufnahmefähiger zu sein. Wer länger schläft, kommt allerdings oft in den Tiefschlaf und wacht dann wie gerädert auf. Dann braucht man erst mal eine halbe Stunde, bis man wieder klar denken kann. Also: kurz halten und am besten nicht später als am frühen Nachmittag, sonst leidet der Nachtschlaf."
+      },
+      {
+        "sp": "A",
+        "text": "Und was ist mit dem Handy im Bett? Das ist ja das klassische Thema."
+      },
+      {
+        "sp": "B",
+        "text": "Hm, da bin ich inzwischen etwas vorsichtiger als noch vor ein paar Jahren. Lange hieß es, das blaue Licht des Bildschirms halte uns wach. Neuere Studien zeigen aber, dass das Licht allein einen eher kleinen Effekt hat. Viel stärker wirkt das, was wir auf dem Bildschirm machen: Nachrichten, hitzige Diskussionen, Serien, die mit einem spannenden Ende aufhören. Das hält uns geistig aktiv. Mein Rat wäre deshalb weniger, eine spezielle Brille gegen Blaulicht zu kaufen, sondern eher, die letzte halbe Stunde vor dem Schlafen bewusst ruhig zu gestalten."
+      },
+      {
+        "sp": "A",
+        "text": "Wenn Sie den Studierenden, die uns gerade zuhören, einen einzigen Tipp für die Prüfungsphase geben dürften – welcher wäre das?"
+      },
+      {
+        "sp": "B",
+        "text": "Den Lernstoff nicht auf die letzte Nacht schieben, sondern über mehrere Tage verteilen und zwischen den Lerneinheiten ausreichend schlafen. Das klingt banal, ich weiß. Aber jede Nacht, in der man schläft, ist sozusagen eine zusätzliche Lerneinheit, die man gar nicht bemerkt. Wer an sieben Tagen jeweils eine Stunde lernt, behält am Ende mehr als jemand, der sieben Stunden am Stück lernt – auch wenn sich das Zweite produktiver anfühlt."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Brehm, vielen Dank für das Gespräch."
+      },
+      {
+        "sp": "B",
+        "text": "Sehr gern. Und viel Erfolg allen, die gerade in Prüfungen stecken."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Herr Brehm gibt zu, dass er als Student …",
+        "optionen": [
+          "nie Probleme mit zu wenig Schlaf hatte.",
+          "vor Prüfungen oft bis spät in die Nacht gelernt hat.",
+          "als Versuchsperson in einem Schlaflabor war."
+        ],
+        "loesung": 1,
+        "erklaerung": "Er sagt: Als Student hat er vor Prüfungen genau das gemacht, was die Moderatorin beschreibt – also bis zwei Uhr nachts gelernt. Von einem Schlaflabor als Versuchsperson spricht er nicht."
+      },
+      {
+        "nr": 2,
+        "stamm": "Nach Herrn Brehm wird im Tiefschlaf …",
+        "optionen": [
+          "das Gehirn fast vollständig abgeschaltet.",
+          "Neues gelernt, das man tagsüber nicht gehört hat.",
+          "Gelerntes in einen langfristigen Speicher übertragen."
+        ],
+        "loesung": 2,
+        "erklaerung": "Im Tiefschlaf werden die Inhalte aus dem Zwischenspeicher in die Großhirnrinde übertragen und dort langfristig gespeichert. Neues lernt man im Schlaf nicht dazu („das Vokabelheft unter dem Kopfkissen funktioniert nicht“)."
+      },
+      {
+        "nr": 3,
+        "stamm": "In dem beschriebenen Versuch wussten am nächsten Morgen diejenigen am meisten, …",
+        "optionen": [
+          "die von dem Test wussten und danach schliefen.",
+          "die von dem Test wussten und wach blieben.",
+          "die vorher keinen Hinweis auf einen Test bekamen."
+        ],
+        "loesung": 0,
+        "erklaerung": "Wer von dem Test wusste und geschlafen hat, wusste deutlich mehr. Bei der Gruppe, die wach blieb, hat die Ankündigung kaum etwas gebracht."
+      },
+      {
+        "nr": 4,
+        "stamm": "Die Zahl „vierzig Prozent“ bezieht sich darauf, …",
+        "optionen": [
+          "wie viele Studierende vor Prüfungen gar nicht schlafen.",
+          "wie viel schlechter man nach einer Nacht ohne Schlaf Neues aufnimmt.",
+          "wie viel vom Gelernten im Tiefschlaf verloren geht."
+        ],
+        "loesung": 1,
+        "erklaerung": "Wer eine Nacht nicht schläft, kann neue Informationen um etwa vierzig Prozent schlechter aufnehmen. Über die Zahl der Studierenden, die nicht schlafen, sagt er nichts."
+      },
+      {
+        "nr": 5,
+        "stamm": "Herr Brehm relativiert diese Zahl, weil …",
+        "optionen": [
+          "Menschen sehr unterschiedlich auf Schlafmangel reagieren.",
+          "sie nur für Studierende in der Prüfungsphase gilt.",
+          "der Effekt im Durchschnitt nur sehr klein ist."
+        ],
+        "loesung": 0,
+        "erklaerung": "Er sagt, die Unterschiede zwischen einzelnen Menschen sind groß: Manche stecken eine kurze Nacht gut weg, andere nicht. Der Effekt im Durchschnitt ist dagegen „eindeutig“, also nicht klein."
+      },
+      {
+        "nr": 6,
+        "stamm": "Von „sozialem Jetlag“ spricht man, wenn …",
+        "optionen": [
+          "Studierende nach langen Reisen ihren Rhythmus verlieren.",
+          "junge Erwachsene biologisch eher Spättypen sind.",
+          "man spät einschläft, aber trotzdem früh aufstehen muss."
+        ],
+        "loesung": 2,
+        "erklaerung": "Sozialer Jetlag entsteht, wenn jemand spät einschläft, aber wegen der Vorlesung um acht früh aufstehen muss, sodass jede Nacht Schlaf fehlt. Dass junge Erwachsene Spättypen sind, ist nur die Ursache, nicht die Definition."
+      },
+      {
+        "nr": 7,
+        "stamm": "Über einen späteren Vorlesungsbeginn sagt Herr Brehm, dass …",
+        "optionen": [
+          "er an skandinavischen Universitäten schon lange üblich ist.",
+          "erste Erfahrungen damit positiv ausfallen.",
+          "die Studierenden dann trotzdem nicht länger schlafen."
+        ],
+        "loesung": 1,
+        "erklaerung": "Einige Universitäten in Skandinavien probieren das gerade aus, und die ersten Ergebnisse sind „ermutigend“. Es ist also ein neuer Versuch, nicht „schon lange üblich“; die Studierenden schlafen dort sogar länger."
+      },
+      {
+        "nr": 8,
+        "stamm": "Ein Mittagsschlaf hilft beim Lernen vor allem dann, wenn …",
+        "optionen": [
+          "er nicht zu lange dauert.",
+          "man dabei in den Tiefschlaf kommt.",
+          "er am späten Nachmittag stattfindet."
+        ],
+        "loesung": 0,
+        "erklaerung": "Zwanzig Minuten reichen; man soll den Mittagsschlaf „kurz halten“. Wer in den Tiefschlaf kommt, wacht „wie gerädert“ auf, und später als am frühen Nachmittag soll man nicht schlafen."
+      },
+      {
+        "nr": 9,
+        "stamm": "Beim Thema Handy im Bett hält Herr Brehm heute für entscheidend, …",
+        "optionen": [
+          "dass man das blaue Licht des Bildschirms vermeidet.",
+          "dass man eine spezielle Brille gegen Blaulicht trägt.",
+          "womit man sich vor dem Einschlafen beschäftigt."
+        ],
+        "loesung": 2,
+        "erklaerung": "Das Licht allein hat nach neueren Studien nur einen kleinen Effekt; stärker wirkt, was man auf dem Bildschirm macht. Eine Blaulichtbrille empfiehlt er ausdrücklich nicht."
+      },
+      {
+        "nr": 10,
+        "stamm": "Sein wichtigster Rat an Studierende lautet, …",
+        "optionen": [
+          "möglichst viele Stunden am Stück zu lernen.",
+          "das Lernen auf mehrere Tage mit Schlaf dazwischen zu verteilen.",
+          "in der letzten Nacht vor der Prüfung nur noch zu wiederholen."
+        ],
+        "loesung": 1,
+        "erklaerung": "Er rät, den Stoff über mehrere Tage zu verteilen und dazwischen zu schlafen. Sieben Stunden am Stück fühlen sich nur produktiver an, bringen aber weniger."
+      }
+    ]
+  },
+  {
+    "id": "hv2_02",
+    "teil": "hv2",
+    "titel": "Lehrkräftemangel und Lehrkräfte aus dem Ausland",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "situation": "Sie hören eine Radiosendung aus der Reihe „Campus und Karriere“ mit einer Bildungsforscherin und einer Lehrerin, die ihre Ausbildung in Chile gemacht hat.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderator"
+      },
+      {
+        "sp": "B",
+        "name": "Dr. Sabine Hollmann, Bildungsforscherin"
+      },
+      {
+        "sp": "C",
+        "name": "Marisol Reyes, Lehrerin für Chemie und Biologie aus Chile"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Guten Abend und willkommen bei „Campus und Karriere“. Kaum ein Thema beschäftigt Schulen, Eltern und Bildungspolitik so sehr wie der Mangel an Lehrkräften. Nach manchen Berechnungen könnten in Deutschland bis Mitte der dreißiger Jahre mehrere zehntausend Lehrerinnen und Lehrer fehlen. Gleichzeitig leben hier viele ausgebildete Lehrkräfte aus dem Ausland, die oft lange auf ihre Anerkennung warten. Darüber spreche ich heute mit der Bildungsforscherin Sabine Hollmann und mit Marisol Reyes, die in Chile Lehrerin war und seit einigen Jahren in Nordrhein-Westfalen unterrichtet. Frau Hollmann, fangen wir mit Ihnen an: Wie groß ist das Problem wirklich?"
+      },
+      {
+        "sp": "B",
+        "text": "Das hängt sehr davon ab, wohin man schaut. Und das ist mir auch wichtig: Man sollte eigentlich nicht von dem einen Lehrermangel sprechen, das führt in die Irre. Besonders groß sind die Lücken an Grundschulen und Förderschulen, in den naturwissenschaftlichen Fächern und generell in ländlichen Regionen. An Gymnasien dagegen gibt es in manchen Fächern, etwa in Deutsch oder Geschichte, sogar mehr Bewerberinnen und Bewerber als Stellen. Das Bild ist also ziemlich uneinheitlich."
+      },
+      {
+        "sp": "A",
+        "text": "Wie konnte es überhaupt so weit kommen? Dass Lehrkräfte in Rente gehen, weiß man ja eigentlich lange im Voraus."
+      },
+      {
+        "sp": "B",
+        "text": "Ja, das stimmt. Aber es kommen mehrere Dinge zusammen. Die geburtenstarken Jahrgänge gehen jetzt in den Ruhestand, das war vorhersehbar. Weniger vorhersehbar war, dass die Zahl der Kinder wieder gestiegen ist, auch durch Zuwanderung. Die Prognosen der Länder lagen da teilweise deutlich daneben. Und dann arbeiten heute viel mehr Lehrkräfte in Teilzeit als früher. Wobei ich das ausdrücklich nicht als Vorwurf verstanden wissen möchte. Die meisten reduzieren ihre Stunden, weil die Belastung gestiegen ist – größere Klassen, mehr Verwaltungsaufgaben, mehr Elterngespräche. Viele sagen mir: Anders halte ich das nicht durch."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Reyes, Sie haben in Chile zwölf Jahre lang unterrichtet. Wie sind Sie nach Deutschland gekommen?"
+      },
+      {
+        "sp": "C",
+        "text": "Eigentlich wegen meines Mannes. Er ist Ingenieur und hat hier eine Stelle bei einem Energieunternehmen bekommen. Ich habe gedacht: Gut, in Deutschland fehlen Lehrer, ich habe Erfahrung, das wird schnell gehen. Na ja, das war ein bisschen naiv."
+      },
+      {
+        "sp": "A",
+        "text": "Was hat denn so lange gedauert?"
+      },
+      {
+        "sp": "C",
+        "text": "Vor allem die Frage mit den zwei Fächern. In Chile habe ich Chemie studiert, Biologie war nur ein Nebenfach. In Deutschland braucht man aber normalerweise zwei vollständige Fächer. Die Behörde hat dann gesagt: Chemie wird anerkannt, für Biologie fehlen Ihnen Studienleistungen. Ich musste also einen Anpassungslehrgang machen, das hat fast zwei Jahre gedauert. Dazu kam die Sprache – man braucht Deutsch auf dem Niveau C eins, und als ich ankam, konnte ich ehrlich gesagt kaum ein Wort."
+      },
+      {
+        "sp": "A",
+        "text": "Und was war im Schulalltag am schwierigsten? Die Fachsprache?"
+      },
+      {
+        "sp": "C",
+        "text": "Nein, gar nicht. Chemie ist Chemie, die Formeln sind überall gleich, und die Fachbegriffe lernt man relativ schnell. Schwieriger war alles andere. Die Gespräche im Lehrerzimmer zum Beispiel, wo alle schnell sprechen, Witze machen, ironisch sind. Da stand ich am Anfang oft daneben und habe nur gelächelt. Und dann die Erwartungen an den Unterricht. In Chile war ich es gewohnt, vorne zu stehen und zu erklären. Hier sollen die Schülerinnen und Schüler viel selbst erarbeiten, diskutieren, in Gruppen arbeiten. Das musste ich wirklich neu lernen."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Hollmann, warum hält Deutschland eigentlich so streng an den zwei Fächern fest? In vielen Ländern unterrichtet man doch nur eines."
+      },
+      {
+        "sp": "B",
+        "text": "Das ist tatsächlich eine deutsche Besonderheit, die historisch gewachsen ist. Zwei Fächer machen eine Lehrkraft flexibler einsetzbar, das ist das Hauptargument. Inzwischen erlauben aber einige Bundesländer, dass Lehrkräfte aus dem Ausland auch mit einem Fach eingestellt werden. Ich halte das für einen richtigen Schritt, allerdings unter der Bedingung, dass die Lehrkräfte gut begleitet werden. Einfach nur die Hürden zu senken, reicht nicht."
+      },
+      {
+        "sp": "A",
+        "text": "Begleitung ist ein gutes Stichwort. Viele Länder setzen ja auch auf Quereinsteiger, also Menschen, die gar kein Lehramt studiert haben. Ist das eine Lösung?"
+      },
+      {
+        "sp": "B",
+        "text": "Eine Teillösung, ja. Quereinsteiger bringen oft wertvolle Erfahrungen aus anderen Berufen mit. Aber wir sehen in unseren Studien auch, dass sie den Schuldienst häufiger in den ersten zwei Jahren wieder verlassen – und zwar vor allem dann, wenn sie ohne pädagogische Vorbereitung direkt vor eine Klasse gestellt werden. Wer gut begleitet wird, bleibt dagegen meistens. Es kommt also sehr darauf an, wie man es macht."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Reyes, was hat Ihnen persönlich am meisten geholfen?"
+      },
+      {
+        "sp": "C",
+        "text": "Ganz klar meine Mentorin. Eine erfahrene Kollegin an meiner Schule, die mich das erste Jahr begleitet hat. Sie hat mich in ihren Unterricht mitgenommen, hat sich meine Stunden angesehen und mir ehrlich gesagt, was nicht funktioniert. Und sie hat mir auch die ungeschriebenen Regeln erklärt, also zum Beispiel, wie man eine E-Mail an Eltern formuliert, ohne dass es unhöflich klingt. Das steht ja in keinem Lehrbuch."
+      },
+      {
+        "sp": "A",
+        "text": "Wie sieht Ihre Situation heute aus?"
+      },
+      {
+        "sp": "C",
+        "text": "Sehr gut, zum Glück. Seit dem letzten Sommer habe ich eine unbefristete Stelle an einer Gesamtschule und unterrichte beide Fächer. Ich bin angekommen, kann man sagen."
+      },
+      {
+        "sp": "A",
+        "text": "Und wie reagieren die Schülerinnen und Schüler auf eine Lehrerin mit Akzent?"
+      },
+      {
+        "sp": "C",
+        "text": "Erstaunlich entspannt. Am Anfang haben einige natürlich gekichert, wenn ich ein Wort falsch betont habe. Aber inzwischen ist das eher ein Vorteil. Viele meiner Schüler sprechen zu Hause selbst eine andere Sprache, und ich glaube, die sehen: Man kann auch mit Akzent etwas erreichen. Ein Mädchen hat mir einmal gesagt, sie traue sich jetzt mehr, im Unterricht etwas zu sagen, weil ich ja auch Fehler mache. Das hat mich sehr berührt."
+      },
+      {
+        "sp": "A",
+        "text": "Was würden Sie Lehrkräften raten, die noch im Ausland sind und überlegen, nach Deutschland zu kommen?"
+      },
+      {
+        "sp": "C",
+        "text": "Erstens: so früh wie möglich mit Deutsch anfangen, am besten schon vor der Ausreise. Zweitens: alle Unterlagen rechtzeitig übersetzen und beglaubigen lassen, das dauert länger, als man denkt. Und drittens, das ist mir besonders wichtig: Man sollte sich vom ersten Bescheid nicht entmutigen lassen. Als ich meinen bekommen habe, dachte ich zuerst, das sei eine Ablehnung. In Wirklichkeit stand da einfach, was noch fehlt. Das ist ein großer Unterschied."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Hollmann, zum Schluss: Was müsste die Politik jetzt tun?"
+      },
+      {
+        "sp": "B",
+        "text": "Die Verfahren müssen schneller und einfacher werden, mit einer zentralen Anlaufstelle, wo man nicht von Amt zu Amt geschickt wird. Und ich würde die Sprachförderung stärker in den Beruf verlagern. Das heißt, Lehrkräfte sollten schon unterrichten dürfen, mit weniger Stunden und mit Unterstützung, während sie ihr Deutsch weiter verbessern. Wir können es uns schlicht nicht leisten, gut ausgebildete Menschen jahrelang in der Warteschleife zu halten. Und nicht zuletzt brauchen wir in den Schulen eine Haltung, die Vielfalt im Kollegium als Gewinn sieht und nicht als Notlösung."
+      },
+      {
+        "sp": "A",
+        "text": "Sabine Hollmann und Marisol Reyes, herzlichen Dank für das Gespräch."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Frau Hollmann hält es für irreführend, …",
+        "optionen": [
+          "von einem einheitlichen Lehrkräftemangel zu sprechen.",
+          "die Grundschulen als besonders betroffen zu bezeichnen.",
+          "Prognosen über den Bedarf an Lehrkräften zu erstellen."
+        ],
+        "loesung": 0,
+        "erklaerung": "Sie sagt, man sollte nicht von „dem einen Lehrermangel“ sprechen, das „führt in die Irre“, weil das Bild uneinheitlich ist. Die Grundschulen nennt sie selbst als besonders betroffen."
+      },
+      {
+        "nr": 2,
+        "stamm": "Mehr Bewerbungen als Stellen gibt es laut Frau Hollmann …",
+        "optionen": [
+          "an Grundschulen in ländlichen Regionen.",
+          "in einigen Fächern an Gymnasien.",
+          "in den naturwissenschaftlichen Fächern."
+        ],
+        "loesung": 1,
+        "erklaerung": "An Gymnasien gibt es in manchen Fächern wie Deutsch oder Geschichte mehr Bewerber als Stellen. Grundschulen, ländliche Regionen und Naturwissenschaften nennt sie dagegen als Bereiche mit großen Lücken."
+      },
+      {
+        "nr": 3,
+        "stamm": "Dass viele Lehrkräfte in Teilzeit arbeiten, erklärt Frau Hollmann mit …",
+        "optionen": [
+          "dem frühen Eintritt in den Ruhestand.",
+          "mangelndem Interesse am Beruf.",
+          "der gestiegenen Belastung im Schulalltag."
+        ],
+        "loesung": 2,
+        "erklaerung": "Die meisten reduzieren ihre Stunden, „weil die Belastung gestiegen ist“: größere Klassen, mehr Verwaltung, mehr Elterngespräche. Den Ruhestand nennt sie als eigene, andere Ursache für den Mangel."
+      },
+      {
+        "nr": 4,
+        "stamm": "Frau Reyes ist nach Deutschland gekommen, weil …",
+        "optionen": [
+          "ihr Mann hier eine Stelle bekommen hatte.",
+          "sie in Chile keine Arbeit als Lehrerin fand.",
+          "eine deutsche Schule sie direkt angeworben hatte."
+        ],
+        "loesung": 0,
+        "erklaerung": "Sie kam „wegen meines Mannes“, der eine Stelle bei einem Energieunternehmen bekommen hatte. In Chile hat sie zwölf Jahre lang unterrichtet, also hatte sie dort Arbeit."
+      },
+      {
+        "nr": 5,
+        "stamm": "Ihre Anerkennung dauerte vor allem deshalb lange, weil …",
+        "optionen": [
+          "ihre Berufserfahrung nicht ausreichend war.",
+          "ihre Zeugnisse nicht übersetzt worden waren.",
+          "ihr im zweiten Fach Studienleistungen fehlten."
+        ],
+        "loesung": 2,
+        "erklaerung": "Biologie war nur ihr Nebenfach; für Biologie fehlten Studienleistungen, deshalb musste sie fast zwei Jahre einen Anpassungslehrgang machen. Das Übersetzen der Unterlagen nennt sie erst später als allgemeinen Tipp."
+      },
+      {
+        "nr": 6,
+        "stamm": "Im Schulalltag fiel Frau Reyes anfangs besonders schwer, …",
+        "optionen": [
+          "die chemischen Fachbegriffe auf Deutsch zu lernen.",
+          "die lockeren Gespräche unter Kollegen zu verstehen.",
+          "vorne zu stehen und den Stoff zu erklären."
+        ],
+        "loesung": 1,
+        "erklaerung": "Die Fachsprache war „gar nicht“ das Problem. Schwierig waren die schnellen, ironischen Gespräche im Lehrerzimmer. Vorne zu stehen und zu erklären war sie aus Chile gewohnt."
+      },
+      {
+        "nr": 7,
+        "stamm": "Über Quereinsteiger sagt Frau Hollmann, dass sie …",
+        "optionen": [
+          "ohne pädagogische Vorbereitung den Beruf öfter wieder aufgeben.",
+          "den Mangel an Lehrkräften allein beheben können.",
+          "seltener aus dem Schuldienst ausscheiden als andere."
+        ],
+        "loesung": 0,
+        "erklaerung": "Quereinsteiger verlassen die Schule häufiger in den ersten zwei Jahren, vor allem ohne pädagogische Vorbereitung. Sie nennt den Quereinstieg nur eine „Teillösung“."
+      },
+      {
+        "nr": 8,
+        "stamm": "Am meisten geholfen hat Frau Reyes …",
+        "optionen": [
+          "ein Sprachkurs vor ihrer Ausreise.",
+          "ein Studium an einer deutschen Universität.",
+          "die Begleitung durch eine erfahrene Kollegin."
+        ],
+        "loesung": 2,
+        "erklaerung": "„Ganz klar meine Mentorin“, eine erfahrene Kollegin, die sie das erste Jahr begleitet hat. Einen Sprachkurs vor der Ausreise empfiehlt sie anderen, sie selbst konnte bei der Ankunft kaum Deutsch."
+      },
+      {
+        "nr": 9,
+        "stamm": "Den ersten Bescheid der Behörde sollte man nach Frau Reyes …",
+        "optionen": [
+          "als endgültige Ablehnung betrachten.",
+          "als Hinweis auf fehlende Nachweise verstehen.",
+          "möglichst schnell rechtlich anfechten."
+        ],
+        "loesung": 1,
+        "erklaerung": "Sie dachte zuerst, es sei eine Ablehnung, aber „in Wirklichkeit stand da einfach, was noch fehlt“. Man soll sich also nicht entmutigen lassen."
+      },
+      {
+        "nr": 10,
+        "stamm": "Frau Hollmann schlägt vor, dass ausländische Lehrkräfte …",
+        "optionen": [
+          "erst nach dem Sprachkurs unterrichten dürfen.",
+          "nur noch ein Fach unterrichten sollen.",
+          "parallel zum Unterrichten ihr Deutsch verbessern."
+        ],
+        "loesung": 2,
+        "erklaerung": "Sie möchte die Sprachförderung „in den Beruf verlagern“: Lehrkräfte sollen mit weniger Stunden unterrichten, während sie ihr Deutsch verbessern. Erst nach dem Kurs zu unterrichten, ist genau das Gegenteil."
+      }
+    ]
+  },
+  {
+    "id": "hv2_03",
+    "teil": "hv2",
+    "titel": "Mikroplastik im Boden",
+    "thema": "klima_nachhaltigkeit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören ein Interview aus der Radiosendung „Forschung konkret“ mit der Umweltchemikerin Prof. Dr. Katrin Lindner.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderator"
+      },
+      {
+        "sp": "B",
+        "name": "Prof. Dr. Katrin Lindner, Umweltchemikerin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Willkommen bei „Forschung konkret“. Mikroplastik ist inzwischen buchstäblich überall nachgewiesen worden: im Meer, im Eis der Arktis, im Trinkwasser, sogar im menschlichen Blut. Über einen Ort wird allerdings erstaunlich wenig gesprochen, nämlich über den Boden unter unseren Füßen – und das, obwohl genau dort unsere Lebensmittel wachsen. Genau damit beschäftigt sich Katrin Lindner. Sie ist Umweltchemikerin und untersucht, wie viel Kunststoff in landwirtschaftlichen Böden steckt. Frau Lindner, bevor wir einsteigen: Was genau ist eigentlich Mikroplastik?"
+      },
+      {
+        "sp": "B",
+        "text": "Man spricht von Mikroplastik, wenn Kunststoffteilchen kleiner als fünf Millimeter sind. Und dann unterscheidet man grob zwei Gruppen. Einerseits gibt es Partikel, die bewusst so klein hergestellt werden – die kleinen Kügelchen in Peelings zum Beispiel, die in der Europäischen Union inzwischen weitgehend verboten sind. Andererseits, und das ist der weitaus größere Teil, entsteht Mikroplastik erst, wenn größere Kunststoffteile zerfallen oder abgerieben werden. Die größte einzelne Quelle in Deutschland ist nach den gängigen Schätzungen übrigens der Abrieb von Autoreifen. Das überrascht viele, die bei Mikroplastik zuerst an Duschgel denken."
+      },
+      {
+        "sp": "A",
+        "text": "Lange hat man vor allem über die Ozeane gesprochen. Warum schauen Sie auf den Boden?"
+      },
+      {
+        "sp": "B",
+        "text": "Weil vieles dafür spricht, dass dort wesentlich mehr Kunststoff landet als im Meer. Manche Hochrechnungen gehen sogar von einem Vielfachen aus. Da muss ich allerdings gleich einschränken: Die Messmethoden sind bislang nicht vereinheitlicht. Jede Arbeitsgruppe misst ein bisschen anders, in unterschiedlichen Tiefen, mit unterschiedlichen Geräten. Deshalb rate ich dringend davon ab, Zahlen aus verschiedenen Studien einfach nebeneinanderzulegen und zu vergleichen. Das ist, als würde man Äpfel mit Birnen vergleichen – und am Ende noch eine Durchschnittsbirne ausrechnen."
+      },
+      {
+        "sp": "A",
+        "text": "Wie kommt der Kunststoff denn überhaupt auf den Acker?"
+      },
+      {
+        "sp": "B",
+        "text": "Über mehrere Wege. Früher war Klärschlamm, der als Dünger auf die Felder gebracht wurde, eine wichtige Quelle. Das ist bei uns aber inzwischen stark eingeschränkt worden. Hinzu kommen Folien, mit denen Landwirte zum Beispiel Erdbeer- oder Spargelfelder abdecken. Die werden mit der Zeit spröde und zerbröseln. Und dann – das ist vielleicht das Überraschendste – der Kompost."
+      },
+      {
+        "sp": "A",
+        "text": "Ausgerechnet der Kompost? Das klingt ja eigentlich nach dem Inbegriff von Umweltschutz."
+      },
+      {
+        "sp": "B",
+        "text": "Ja, genau das ist das Paradoxe. Im Bioabfall landen leider immer wieder Plastiktüten, Verpackungsreste, Etiketten von Obst. Und selbst Tüten, die als kompostierbar verkauft werden, zersetzen sich in den großen Kompostieranlagen oft nicht vollständig, weil die Rotte dort schlicht zu kurz ist. Was übrig bleibt, wird zerkleinert und landet dann mit dem fertigen Kompost auf dem Feld. Heute ist das nach unseren Messungen eine bedeutendere Quelle als der Klärschlamm. Gut gemeint ist eben nicht immer gut gemacht."
+      },
+      {
+        "sp": "A",
+        "text": "Und was richtet das Plastik im Boden an?"
+      },
+      {
+        "sp": "B",
+        "text": "Das ist die Frage, auf die wir noch keine befriedigende Antwort haben. Aus Laborversuchen wissen wir, dass Regenwürmer die Partikel aufnehmen und bei hohen Konzentrationen schlechter wachsen. Außerdem kann sich die Bodenstruktur verändern, sodass der Boden Wasser anders speichert. Nur, und das ist ein wichtiges Aber: In vielen dieser Versuche waren die Konzentrationen deutlich höher, als wir sie heute auf normalen Äckern finden. Wir wissen also, dass es Effekte geben kann. Ob sie unter realen Bedingungen eine Rolle spielen, wissen wir noch nicht."
+      },
+      {
+        "sp": "A",
+        "text": "Gibt es denn Böden, die besonders stark betroffen sind?"
+      },
+      {
+        "sp": "B",
+        "text": "Ja, auffällig hohe Werte finden wir vor allem auf Flächen, die über viele Jahre Kompost bekommen haben, und entlang von Straßen. Am Straßenrand ist das nicht überraschend, da landet der Reifenabrieb ja direkt. Interessant ist aber, dass wir auch auf manchen Biobetrieben vergleichsweise viel finden – gerade weil diese stärker auf Kompost setzen. Das ist für die Betriebe natürlich eine unangenehme Nachricht, und ich betone immer, dass das kein Argument gegen den ökologischen Landbau ist. Es zeigt nur, dass die Qualität des Komposts besser kontrolliert werden muss."
+      },
+      {
+        "sp": "A",
+        "text": "Viele Menschen interessiert natürlich vor allem: Ist das gefährlich für uns? Gelangt Mikroplastik über Gemüse auf unseren Teller?"
+      },
+      {
+        "sp": "B",
+        "text": "Es gibt Hinweise, dass Pflanzen sehr kleine Partikel über die Wurzeln aufnehmen können, ja. Und wir finden Partikel in menschlichem Gewebe. Ob das gesundheitlich schadet, ist aber offen. Ich bekomme regelmäßig Nachrichten von besorgten Eltern, die fragen, ob sie ihren Kindern noch Möhren geben dürfen. Ich verstehe diese Sorge sehr gut, aber Panik ist kein guter Ratgeber. Was mich persönlich ehrlich gesagt mehr beunruhigt als die Teilchen selbst, sind die Stoffe, die daran hängen: Zusätze wie Weichmacher, die im Kunststoff enthalten sind, oder Schadstoffe aus der Umgebung, die sich an der Oberfläche anlagern. Die Partikel wirken da gewissermaßen wie kleine Transportmittel."
+      },
+      {
+        "sp": "A",
+        "text": "Sie haben vorhin gesagt, das Messen sei schwierig. Woran liegt das?"
+      },
+      {
+        "sp": "B",
+        "text": "Zum einen daran, dass die Teilchen so winzig sind und man sie aus einer Bodenprobe erst mühsam herauslösen muss. Zum anderen, und das unterschätzen viele, an der Verunreinigung im Labor. Wir alle tragen Kleidung aus Kunstfasern, die ständig Fasern verliert. Wenn ich mit meiner Fleecejacke über eine offene Probe gebeugt arbeite, messe ich am Ende vielleicht meine eigene Jacke. Deshalb tragen wir im Labor Kittel aus Baumwolle, arbeiten mit Glas statt mit Plastik und untersuchen immer leere Kontrollproben mit. Bei einem Teil der frühen Studien hat man das nicht so konsequent gemacht, und wir gehen heute davon aus, dass dort die Belastung zum Teil überschätzt wurde."
+      },
+      {
+        "sp": "A",
+        "text": "Was können denn Hörerinnen und Hörer selbst tun?"
+      },
+      {
+        "sp": "B",
+        "text": "Einiges, aber ich möchte da ehrlich sein: Der Einfluss des Einzelnen ist begrenzt. Man kann den Bioabfall sorgfältig trennen, also wirklich ohne Plastik, auch ohne die angeblich kompostierbaren Tüten. Man kann Kleidung aus Kunstfasern seltener waschen, die Maschine voll machen und eher niedrige Temperaturen wählen, dann lösen sich weniger Fasern. Die großen Stellschrauben liegen aber woanders – beim Straßenverkehr, bei der Landwirtschaft, bei den Regeln für Kompost. Ich halte nichts davon, die Verantwortung einfach auf die Verbraucher abzuschieben."
+      },
+      {
+        "sp": "A",
+        "text": "In einigen Ländern wird diskutiert, Filter in Waschmaschinen vorzuschreiben. Was halten Sie davon?"
+      },
+      {
+        "sp": "B",
+        "text": "Grundsätzlich ist das eine gute Idee. Allerdings nur, wenn man zu Ende denkt, was mit den aufgefangenen Fasern passiert. Wenn die Leute den Filter dann im Waschbecken ausspülen, ist nichts gewonnen. Die Fasern gehören in den Restmüll. Und man sollte die Größenordnung im Blick behalten: Im Vergleich zum Reifenabrieb ist die Wäsche eher eine kleinere Quelle."
+      },
+      {
+        "sp": "A",
+        "text": "Zum Schluss ein Blick nach vorn: Was erhoffen Sie sich von den nächsten Jahren?"
+      },
+      {
+        "sp": "B",
+        "text": "Vor allem, dass wir uns endlich auf gemeinsame Messverfahren einigen. Daran arbeiten gerade mehrere Forschungsverbünde in Europa. Wenn das gelingt, können wir in einigen Jahren hoffentlich nicht nur sagen, wie viel Kunststoff im Boden ist, sondern auch, was er dort tatsächlich anrichtet. Und erst dann kann man sinnvoll entscheiden, wo man am dringendsten handeln muss."
+      },
+      {
+        "sp": "A",
+        "text": "Katrin Lindner, vielen Dank für diesen Einblick."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Die größte einzelne Quelle für Mikroplastik in Deutschland ist …",
+        "optionen": [
+          "Kosmetik mit kleinen Plastikkügelchen.",
+          "der Abrieb von Autoreifen.",
+          "das Waschen von Kleidung aus Kunstfasern."
+        ],
+        "loesung": 1,
+        "erklaerung": "Sie sagt, die größte einzelne Quelle sei nach gängigen Schätzungen der Abrieb von Autoreifen. Kügelchen in Peelings sind inzwischen weitgehend verboten; die Wäsche nennt sie später „eher eine kleinere Quelle“."
+      },
+      {
+        "nr": 2,
+        "stamm": "Frau Lindner rät davon ab, Messergebnisse verschiedener Studien …",
+        "optionen": [
+          "direkt miteinander zu vergleichen.",
+          "vor der Untersuchung der Meere zu veröffentlichen.",
+          "für übertrieben hoch zu halten."
+        ],
+        "loesung": 0,
+        "erklaerung": "Weil jede Arbeitsgruppe anders misst, „rate ich dringend davon ab, Zahlen … einfach nebeneinanderzulegen und zu vergleichen“. Über das Veröffentlichen sagt sie nichts."
+      },
+      {
+        "nr": 3,
+        "stamm": "Beim Thema Kompost betont Frau Lindner, dass …",
+        "optionen": [
+          "kompostierbare Tüten das Problem weitgehend lösen.",
+          "Klärschlamm heute die wichtigere Quelle ist.",
+          "er heute mehr Kunststoff auf die Felder bringt als Klärschlamm."
+        ],
+        "loesung": 2,
+        "erklaerung": "Nach ihren Messungen ist Kompost heute „eine bedeutendere Quelle als der Klärschlamm“, denn Klärschlamm ist stark eingeschränkt worden. Auch kompostierbare Tüten zersetzen sich oft nicht vollständig."
+      },
+      {
+        "nr": 4,
+        "stamm": "Die Laborversuche mit Regenwürmern sind nur begrenzt aussagekräftig, weil …",
+        "optionen": [
+          "die Würmer die Partikel im Labor gar nicht aufnehmen.",
+          "dort meist mehr Kunststoff verwendet wird als auf echten Äckern.",
+          "sich die Bodenstruktur im Labor nicht verändern lässt."
+        ],
+        "loesung": 1,
+        "erklaerung": "In vielen Versuchen waren die Konzentrationen „deutlich höher“ als auf normalen Äckern. Die Würmer nehmen die Partikel im Labor durchaus auf und wachsen dann schlechter."
+      },
+      {
+        "nr": 5,
+        "stamm": "Mehr Sorgen als die Teilchen selbst machen Frau Lindner …",
+        "optionen": [
+          "die Stoffe, die im Kunststoff enthalten sind oder daran haften.",
+          "die vielen Nachrichten von besorgten Eltern.",
+          "die Partikel, die Pflanzen über die Wurzeln aufnehmen."
+        ],
+        "loesung": 0,
+        "erklaerung": "Sie sagt, mehr als die Teilchen beunruhigen sie Zusätze wie Weichmacher und Schadstoffe, die sich an der Oberfläche anlagern. Die Sorge der Eltern versteht sie, sie rät aber von Panik ab."
+      },
+      {
+        "nr": 6,
+        "stamm": "Bei der Messung im Labor besteht die Gefahr, dass …",
+        "optionen": [
+          "Kittel aus Baumwolle die Proben verunreinigen.",
+          "Glasgefäße zu viele Partikel zurückhalten.",
+          "Fasern aus der Kleidung der Forschenden das Ergebnis verfälschen."
+        ],
+        "loesung": 2,
+        "erklaerung": "Kunstfasern aus der Kleidung können in die Probe gelangen („messe ich am Ende vielleicht meine eigene Jacke“). Baumwollkittel und Glas sind gerade die Schutzmaßnahmen dagegen."
+      },
+      {
+        "nr": 7,
+        "stamm": "Einige frühe Studien haben die Belastung vermutlich …",
+        "optionen": [
+          "überschätzt, weil Verunreinigungen nicht konsequent vermieden wurden.",
+          "unterschätzt, weil die Geräte noch zu ungenau waren.",
+          "richtig gemessen, aber falsch gedeutet."
+        ],
+        "loesung": 0,
+        "erklaerung": "Bei einem Teil der frühen Studien hat man nicht konsequent mit Kontrollproben und ohne Kunststoff gearbeitet, daher wurde die Belastung „zum Teil überschätzt“."
+      },
+      {
+        "nr": 8,
+        "stamm": "Was Einzelne tun können, beurteilt Frau Lindner als …",
+        "optionen": [
+          "den entscheidenden Beitrag zur Lösung.",
+          "sinnvoll, aber in seiner Wirkung begrenzt.",
+          "nutzlos, solange die Politik nichts unternimmt."
+        ],
+        "loesung": 1,
+        "erklaerung": "Sie gibt Tipps zum Mülltrennen und Waschen, sagt aber: „Der Einfluss des Einzelnen ist begrenzt“, die großen Stellschrauben liegen woanders. Nutzlos nennt sie diese Maßnahmen nicht."
+      },
+      {
+        "nr": 9,
+        "stamm": "Filter in Waschmaschinen hält Frau Lindner für sinnvoll, sofern …",
+        "optionen": [
+          "sie auch den Reifenabrieb auffangen.",
+          "man sie regelmäßig im Waschbecken ausspült.",
+          "die aufgefangenen Fasern im Restmüll landen."
+        ],
+        "loesung": 2,
+        "erklaerung": "Filter sind nur gut, wenn man bedenkt, was mit den Fasern passiert: Sie gehören in den Restmüll. Ausspülen im Waschbecken bringt nichts."
+      },
+      {
+        "nr": 10,
+        "stamm": "Für die kommenden Jahre hofft Frau Lindner vor allem auf …",
+        "optionen": [
+          "einheitliche Messverfahren.",
+          "ein Verbot von Folien in der Landwirtschaft.",
+          "mehr Forschung zu den Ozeanen."
+        ],
+        "loesung": 0,
+        "erklaerung": "Sie hofft „vor allem“, dass man sich auf gemeinsame Messverfahren einigt; erst dann kann man die Wirkung beurteilen. Ein Verbot von Folien fordert sie nicht."
+      }
+    ]
+  },
+  {
+    "id": "hv2_04",
+    "teil": "hv2",
+    "titel": "Lernen mit Chatbots im Studium",
+    "thema": "ki_digitalisierung",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören eine Sendung aus der Reihe „Hörsaal extra“ mit einem Hochschuldidaktiker und einer Studentin, die als Tutorin in einer Schreibwerkstatt arbeitet.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderatorin"
+      },
+      {
+        "sp": "B",
+        "name": "Dr. Felix Amann, Hochschuldidaktiker"
+      },
+      {
+        "sp": "C",
+        "name": "Leonie Hartwig, Psychologiestudentin und Tutorin in der Schreibwerkstatt"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Hallo und herzlich willkommen bei „Hörsaal extra“. Vor wenigen Jahren hätte kaum jemand gedacht, dass Programme mit künstlicher Intelligenz einmal Hausarbeiten gliedern, Statistikaufgaben erklären oder ganze Essays schreiben können. Heute nutzt nach verschiedenen Umfragen die große Mehrheit der Studierenden solche Chatbots – mal mehr, mal weniger offen. Die Hochschulen schwanken zwischen Verbot und Begeisterung. Bei mir im Studio sind der Hochschuldidaktiker Felix Amann und Leonie Hartwig. Sie studiert Psychologie und arbeitet als Tutorin in der Schreibwerkstatt ihrer Universität. Frau Hartwig, fangen wir ganz praktisch an: Wie nutzen Sie selbst solche Programme?"
+      },
+      {
+        "sp": "C",
+        "text": "Ganz unterschiedlich. Wenn ich ein Thema für eine Hausarbeit suche, lasse ich mir manchmal Ideen vorschlagen, einfach zum Sortieren. Oder wenn ich einen Fachartikel überhaupt nicht verstehe, bitte ich den Chatbot, einen Absatz in einfacheren Worten zu erklären. Was ich nicht mache: ganze Texte schreiben lassen. Das wäre natürlich auch nicht erlaubt, klar. Aber ehrlich gesagt ist das gar nicht der Hauptgrund. Die Texte klingen einfach so glatt und beliebig, so, als hätte niemand sie geschrieben. Das gefällt mir nicht, und meinen Dozenten würde es, glaube ich, auch sofort auffallen."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Amann, ist das, was Frau Hartwig beschreibt, Lernen – oder doch schon eine Form von Schummeln?"
+      },
+      {
+        "sp": "B",
+        "text": "Ich finde, die Frage ist falsch gestellt, auch wenn sie natürlich sehr verbreitet ist. Ob ein Werkzeug beim Lernen hilft oder es verhindert, hängt davon ab, was eine Aufgabe eigentlich erreichen soll. Nehmen wir die klassische Hausarbeit. Wenn am Ende nur geprüft wird, ob ein ordentlich formatierter Text mit zwanzig Quellen abgegeben wurde, dann ist die Aufgabe das Problem, nicht das Werkzeug. Denn genau das kann eine Maschine inzwischen sehr gut."
+      },
+      {
+        "sp": "A",
+        "text": "Was folgt daraus? Sollte man die Hausarbeit abschaffen?"
+      },
+      {
+        "sp": "B",
+        "text": "Nein, das wäre mir zu radikal. Schreiben ist und bleibt eine Form des Denkens. Aber wir müssen stärker den Weg bewerten und nicht nur das Ergebnis. Zum Beispiel, indem Studierende ihren Arbeitsprozess dokumentieren, Zwischenstände vorstellen oder ihre Arbeit am Ende in einem kurzen Gespräch verteidigen. Wer seinen Text wirklich selbst durchdacht hat, kann darüber sprechen. Wer nicht, merkt das sehr schnell."
+      },
+      {
+        "sp": "A",
+        "text": "Gibt es eigentlich schon Erkenntnisse darüber, ob man mit solchen Programmen besser oder schlechter lernt?"
+      },
+      {
+        "sp": "B",
+        "text": "Es gibt erste Studien, und die Ergebnisse sind, sagen wir mal, differenziert. Wir haben selbst eine Untersuchung in einem Statistikkurs gemacht. Eine Gruppe durfte während der Übungen einen Chatbot ohne Einschränkungen nutzen. Eine zweite Gruppe bekam eine Version, die keine Lösungen verraten hat, sondern nur Hinweise gab und Rückfragen stellte, also eher wie ein Tutor. Und eine dritte Gruppe hat ganz ohne Hilfe geübt. In den Übungen war die erste Gruppe mit Abstand am erfolgreichsten, sie hat die meisten Aufgaben gelöst. In der Klausur am Ende des Semesters, ohne jedes Hilfsmittel, schnitt sie aber am schlechtesten ab. Die Tutorgruppe dagegen war in der Klausur mindestens so gut wie die Gruppe ohne Hilfe, teilweise sogar ein wenig besser."
+      },
+      {
+        "sp": "A",
+        "text": "Wie erklären Sie sich das?"
+      },
+      {
+        "sp": "B",
+        "text": "Ich vergleiche es gern mit dem Training im Fitnessstudio. Wenn jemand anderes die Gewichte für mich hebt, sieht mein Trainingsplan zwar beeindruckend aus, aber Muskeln baue ich keine auf. Lernen braucht eine gewisse Anstrengung. In der Forschung spricht man übrigens von erwünschten Schwierigkeiten, also von Hürden, die zwar mühsam sind, aber gerade dadurch das Behalten fördern. Wenn das Programm mir diese Anstrengung komplett abnimmt, fühlt es sich gut an, aber es bleibt wenig hängen. Wenn es mich dagegen zum Nachdenken bringt, kann es ein ausgezeichneter Trainer sein."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Hartwig, deckt sich das mit Ihren Erfahrungen in der Schreibwerkstatt?"
+      },
+      {
+        "sp": "C",
+        "text": "Ja, ziemlich genau. Es kommen immer öfter Studierende zu uns, die einen Text mitbringen, der auf den ersten Blick richtig gut aussieht. Wenn ich dann aber frage: Warum hast du diesen Absatz an diese Stelle gesetzt? Oder: Was genau meinst du mit diesem Begriff? Dann wird es oft still. Sie können ihren eigenen Text nicht erklären, weil es eben nicht wirklich ihrer ist. Das ist ehrlich gesagt manchmal ein bisschen traurig."
+      },
+      {
+        "sp": "A",
+        "text": "Gibt es auch Fälle, in denen Sie sagen würden: Hier hilft das Programm wirklich?"
+      },
+      {
+        "sp": "C",
+        "text": "Unbedingt. Gerade bei internationalen Studierenden erlebe ich das oft. Die haben großartige Ideen, aber die sprachliche Hürde ist hoch, und unsere Sprechstunde ist eben nur zweimal pro Woche. Wenn jemand um zwei Uhr nachts an seiner Einleitung sitzt und sich Rückmeldung zur Grammatik holen kann, dann ist das für ihn eine echte Entlastung und kein Betrug. Ich finde, das sollte man in der Debatte nicht vergessen."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Amann, da steckt auch eine Frage der Gerechtigkeit drin. Nicht alle können sich die teuren Versionen leisten."
+      },
+      {
+        "sp": "B",
+        "text": "Richtig, und das wird mir in der Diskussion oft zu wenig beachtet. Die leistungsfähigsten Programme kosten Geld, und wer es sich leisten kann, hat einen Vorteil. Da entsteht gerade eine neue Form von Ungleichheit, und zwar nicht nur zwischen einzelnen Studierenden, sondern auch zwischen gut und weniger gut ausgestatteten Hochschulen. Ich finde, die Hochschulen sollten allen Studierenden einen gleichwertigen Zugang zur Verfügung stellen, mit Lizenzen, die auch den Datenschutz einhalten."
+      },
+      {
+        "sp": "A",
+        "text": "Viele Hochschulen setzen auch auf Software, die erkennen soll, ob ein Text von einer Maschine stammt. Ist das ein Weg?"
+      },
+      {
+        "sp": "B",
+        "text": "Davon halte ich, ehrlich gesagt, sehr wenig. Diese Programme sind schlicht nicht zuverlässig. Und was besonders problematisch ist: Sie stufen Texte von Menschen, die nicht in ihrer Erstsprache schreiben, deutlich häufiger als maschinell erzeugt ein, einfach weil deren Stil manchmal einfacher und regelmäßiger ist. Ich würde keiner Hochschule raten, darauf Sanktionen zu stützen. Damit trifft man genau die Falschen."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Hartwig, was würden Sie sich von Ihren Lehrenden wünschen?"
+      },
+      {
+        "sp": "C",
+        "text": "Vor allem Klarheit. Im Moment macht das jeder anders. In einem Seminar ist alles erlaubt, im nächsten ist alles verboten, und im dritten sagt der Dozent einfach gar nichts dazu. Dann weiß man nicht, woran man ist, und viele trauen sich dann auch nicht zu fragen. Mir würde es schon reichen, wenn am Anfang jedes Kurses klar gesagt wird: Das ist hier in Ordnung, das nicht, und so müsst ihr es angeben."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Amann, zum Schluss: Welche Kompetenz brauchen Studierende in Zukunft am dringendsten?"
+      },
+      {
+        "sp": "B",
+        "text": "Urteilskraft. Diese Programme formulieren alles mit derselben Selbstsicherheit, ob es stimmt oder nicht. Sie erfinden zum Teil sogar Literaturangaben, die es gar nicht gibt. Viele glauben ja, die wichtigste Fähigkeit sei es, der Maschine möglichst geschickte Fragen zu stellen. Das halte ich für überschätzt. Viel wichtiger ist es, die Antworten kritisch zu prüfen: Stimmt das? Woher kommt diese Information? Kann ich das belegen? Und das ist eigentlich nichts Neues – das ist im Kern genau das, was wissenschaftliches Arbeiten schon immer ausgemacht hat."
+      },
+      {
+        "sp": "A",
+        "text": "Felix Amann und Leonie Hartwig, vielen Dank, dass Sie bei uns waren."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Leonie Hartwig lässt keine ganzen Texte schreiben, vor allem weil …",
+        "optionen": [
+          "es an ihrer Universität verboten ist.",
+          "ihr der Stil dieser Texte nicht gefällt.",
+          "die Schreibwerkstatt ausdrücklich davon abrät."
+        ],
+        "loesung": 1,
+        "erklaerung": "Sie sagt, verboten wäre es auch, aber das sei „gar nicht der Hauptgrund“: Die Texte klingen „glatt und beliebig“. Das Verbot ist also nur ein Nebengrund."
+      },
+      {
+        "nr": 2,
+        "stamm": "Bei der klassischen Hausarbeit liegt das Problem nach Herrn Amann …",
+        "optionen": [
+          "in einer Aufgabe, die nur das fertige Produkt prüft.",
+          "im Werkzeug, das zu viel übernimmt.",
+          "bei Studierenden, die zu bequem geworden sind."
+        ],
+        "loesung": 0,
+        "erklaerung": "Wenn nur geprüft wird, ob ein ordentlicher Text abgegeben wurde, „dann ist die Aufgabe das Problem, nicht das Werkzeug“."
+      },
+      {
+        "nr": 3,
+        "stamm": "Herr Amann empfiehlt den Hochschulen, …",
+        "optionen": [
+          "die Hausarbeit als Prüfungsform abzuschaffen.",
+          "Chatbots in allen Prüfungen ausdrücklich zu erlauben.",
+          "stärker den Arbeitsprozess der Studierenden zu bewerten."
+        ],
+        "loesung": 2,
+        "erklaerung": "Man soll „stärker den Weg bewerten und nicht nur das Ergebnis“, zum Beispiel durch Dokumentation oder ein Gespräch. Die Hausarbeit abzuschaffen, wäre ihm „zu radikal“."
+      },
+      {
+        "nr": 4,
+        "stamm": "Die Gruppe, die den Chatbot uneingeschränkt nutzen durfte, …",
+        "optionen": [
+          "schnitt in der Abschlussklausur am schlechtesten ab.",
+          "löste während der Übungen die wenigsten Aufgaben.",
+          "war in der Klausur genauso gut wie die anderen."
+        ],
+        "loesung": 0,
+        "erklaerung": "In den Übungen war diese Gruppe am erfolgreichsten, in der Klausur ohne Hilfsmittel aber am schlechtesten. Die wenigsten Aufgaben in den Übungen ist also das Gegenteil."
+      },
+      {
+        "nr": 5,
+        "stamm": "Die Version, die nur Hinweise gab, führte dazu, dass die Studierenden …",
+        "optionen": [
+          "in den Übungen die meisten Aufgaben lösten.",
+          "in der Klausur mindestens so gut waren wie ohne Hilfe.",
+          "das Programm nach kurzer Zeit nicht mehr nutzten."
+        ],
+        "loesung": 1,
+        "erklaerung": "Die Tutorgruppe war in der Klausur „mindestens so gut wie die Gruppe ohne Hilfe“, teilweise besser. Die meisten Übungsaufgaben löste die Gruppe mit dem uneingeschränkten Chatbot."
+      },
+      {
+        "nr": 6,
+        "stamm": "In der Schreibwerkstatt erlebt Leonie Hartwig oft, dass Studierende …",
+        "optionen": [
+          "aus Angst gar keine Chatbots verwenden.",
+          "zu viel Zeit in die Einleitung investieren.",
+          "ihren eigenen Text nicht erklären können."
+        ],
+        "loesung": 2,
+        "erklaerung": "Auf Fragen zu ihrem Text wird es „oft still“: Sie können ihn nicht erklären, weil er nicht wirklich ihrer ist."
+      },
+      {
+        "nr": 7,
+        "stamm": "Für internationale Studierende sind Chatbots nach Leonie Hartwig oft …",
+        "optionen": [
+          "eine Hilfe, um sprachliche Hürden zu überwinden.",
+          "ein Risiko, weil sie Grammatikfehler übersehen.",
+          "nur nachts eine sinnvolle Ergänzung."
+        ],
+        "loesung": 0,
+        "erklaerung": "Die sprachliche Hürde ist hoch; eine Rückmeldung zur Grammatik ist für sie „eine echte Entlastung und kein Betrug“. Die Uhrzeit „zwei Uhr nachts“ ist nur ein Beispiel."
+      },
+      {
+        "nr": 8,
+        "stamm": "Programme, die maschinell erzeugte Texte erkennen sollen, …",
+        "optionen": [
+          "sind inzwischen zuverlässig genug für Sanktionen.",
+          "verdächtigen Texte von Nichtmuttersprachlern häufiger.",
+          "sollten nach Herrn Amann überall eingesetzt werden."
+        ],
+        "loesung": 1,
+        "erklaerung": "Er sagt, diese Programme stufen Texte von Menschen, die nicht in ihrer Erstsprache schreiben, deutlich häufiger als maschinell ein. Sie sind „nicht zuverlässig“, darauf soll man keine Sanktionen stützen."
+      },
+      {
+        "nr": 9,
+        "stamm": "Von ihren Lehrenden wünscht sich Leonie Hartwig vor allem, …",
+        "optionen": [
+          "dass sie Chatbots in allen Kursen erlauben.",
+          "dass sie selbst häufiger mit Chatbots arbeiten.",
+          "dass sie zu Beginn jedes Kurses klare Regeln nennen."
+        ],
+        "loesung": 2,
+        "erklaerung": "Sie wünscht sich „vor allem Klarheit“: Am Anfang jedes Kurses soll gesagt werden, was erlaubt ist und was nicht. Dass alles erlaubt wird, fordert sie nicht."
+      },
+      {
+        "nr": 10,
+        "stamm": "Für besonders wichtig hält Herr Amann die Fähigkeit, …",
+        "optionen": [
+          "der Maschine möglichst geschickte Fragen zu stellen.",
+          "die Antworten der Programme kritisch zu überprüfen.",
+          "Literaturangaben ganz ohne digitale Hilfsmittel zu finden."
+        ],
+        "loesung": 1,
+        "erklaerung": "Geschickte Fragen zu stellen hält er für „überschätzt“; „viel wichtiger“ ist es, die Antworten kritisch zu prüfen."
+      }
+    ]
+  },
+  {
+    "id": "hv2_05",
+    "teil": "hv2",
+    "titel": "Mythen über Mehrsprachigkeit",
+    "thema": "migration_interkulturalitaet",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören ein Interview aus dem Wissenschaftsmagazin „Sprachlabor“ mit der Sprachwissenschaftlerin Prof. Dr. Elif Demir.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderatorin"
+      },
+      {
+        "sp": "B",
+        "name": "Prof. Dr. Elif Demir, Sprachwissenschaftlerin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Willkommen beim „Sprachlabor“. In deutschen Großstädten wächst inzwischen in manchen Stadtteilen mehr als die Hälfte der Kinder mit mehr als einer Sprache auf. Trotzdem halten sich rund um die Mehrsprachigkeit hartnäckig einige Vorstellungen, die – vorsichtig gesagt – nicht ganz dem Stand der Forschung entsprechen. Darüber spreche ich mit Elif Demir. Sie ist Sprachwissenschaftlerin und erforscht seit vielen Jahren, wie Kinder mehrere Sprachen gleichzeitig lernen. Frau Demir, eine Sorge, die man oft hört: Zwei Sprachen auf einmal – überfordert das ein kleines Kind nicht?"
+      },
+      {
+        "sp": "B",
+        "text": "Das ist wohl der verbreitetste Mythos überhaupt. Kinder sind von Natur aus darauf eingestellt, mit mehreren Sprachen umzugehen; weltweit ist Mehrsprachigkeit ja eher die Regel als die Ausnahme. Denken Sie an Länder wie Indien oder die Philippinen, wo viele Kinder ganz selbstverständlich mit drei Sprachen aufwachsen. Was stimmt, ist Folgendes: Wenn man nur eine der Sprachen betrachtet, haben mehrsprachige Kinder oft einen etwas kleineren Wortschatz als gleichaltrige einsprachige Kinder. Rechnet man aber beide Sprachen zusammen, ist der Wortschatz vergleichbar groß. Wer also nur in einer Sprache zählt, sieht ein Defizit, das eigentlich keins ist."
+      },
+      {
+        "sp": "A",
+        "text": "Das hat ja auch praktische Folgen, zum Beispiel bei Sprachtests im Kindergarten."
+      },
+      {
+        "sp": "B",
+        "text": "Ganz genau, und zwar in beide Richtungen. Einerseits wird bei mehrsprachigen Kindern manchmal vorschnell eine Sprachentwicklungsstörung vermutet, obwohl sie sich völlig normal entwickeln. Andererseits passiert das Gegenteil, und das finde ich fast noch problematischer: Ein Kind hat tatsächlich eine Störung, aber alle sagen, ach, das liegt an der Zweisprachigkeit, das wächst sich aus. Und dann bekommt es die Unterstützung, die es braucht, viel zu spät. Deshalb plädieren wir dafür, wenn irgend möglich, beide Sprachen zu testen."
+      },
+      {
+        "sp": "A",
+        "text": "Viele Eltern beunruhigt auch, dass ihre Kinder die Sprachen mischen. Mitten im deutschen Satz kommt plötzlich ein türkisches oder ein polnisches Wort."
+      },
+      {
+        "sp": "B",
+        "text": "Ja, das höre ich sehr oft. Aber dieses Mischen ist völlig normal, und wir sehen darin eher ein Zeichen von Kompetenz als von Verwirrung. Es folgt nämlich klaren Regeln. Kinder wechseln die Sprache zum Beispiel, wenn ihnen in dem Moment ein Wort fehlt, oder weil ein Ausdruck in der anderen Sprache einfach besser passt, oder um etwas zu betonen. Übrigens machen mehrsprachige Erwachsene genau dasselbe, und bei denen würde niemand auf die Idee kommen, sie seien verwirrt."
+      },
+      {
+        "sp": "A",
+        "text": "Lange hieß es ja, Eltern sollten sich streng an eine Regel halten: eine Person, eine Sprache. Also die Mutter spricht nur Polnisch, der Vater nur Deutsch. Gilt das noch?"
+      },
+      {
+        "sp": "B",
+        "text": "Dieses Prinzip kann gut funktionieren, keine Frage. Aber es ist keine notwendige Bedingung. Viele Familien machen es ganz anders, und die Kinder werden trotzdem mehrsprachig. Was wirklich zählt, ist, wie viel ein Kind von einer Sprache hört und wie reichhaltig dieses Sprachangebot ist. Also ob man mit dem Kind wirklich spricht, Geschichten erzählt, vorliest, streitet und lacht. Und da möchte ich einen Punkt besonders betonen: Eltern sollten vor allem die Sprache sprechen, in der sie sich zu Hause fühlen, in der sie trösten und schimpfen können. Wenn ein Vater mit seinen Kindern nur Deutsch spricht, weil man ihm das geraten hat, obwohl er es nur mühsam beherrscht, dann tut er ihnen damit keinen Gefallen."
+      },
+      {
+        "sp": "A",
+        "text": "Man liest auch häufig, dass Mehrsprachige kognitive Vorteile hätten, sich zum Beispiel besser konzentrieren könnten. Was ist da dran?"
+      },
+      {
+        "sp": "B",
+        "text": "Hier muss ich, auch wenn ich selbst eine große Befürworterin der Mehrsprachigkeit bin, ein bisschen auf die Bremse treten. Es gab vor einigen Jahren eine Reihe von Studien, die genau solche Vorteile gefunden haben, etwa bei der Aufmerksamkeitssteuerung. Das wurde sehr begeistert aufgenommen. Neuere Untersuchungen mit deutlich größeren Gruppen konnten diese Effekte aber häufig nicht bestätigen. Dazu kommt, dass Studien mit positiven Ergebnissen leichter veröffentlicht werden als solche, die nichts finden. Ich würde deshalb keinem Elternpaar raten, sein Kind zweisprachig zu erziehen, damit es klüger wird. Mehrsprachigkeit ist ein Wert an sich – sie verbindet ein Kind mit seiner Familie, mit seiner Geschichte. Das ist Grund genug."
+      },
+      {
+        "sp": "A",
+        "text": "Und was ist mit den Studien, nach denen Mehrsprachige im Alter später an Demenz erkranken?"
+      },
+      {
+        "sp": "B",
+        "text": "Auch da ist die Lage unklar. Einige Untersuchungen deuten darauf hin, dass die Symptome bei mehrsprachigen Menschen im Durchschnitt etwas später auftreten. Andere finden keinen Unterschied. Ein Problem ist, dass sich Mehrsprachige oft auch in anderen Dingen unterscheiden, etwa in der Bildung, im Beruf oder in der Herkunft. Diese Faktoren sauber auseinanderzuhalten, ist methodisch ausgesprochen schwierig. Ich halte das deshalb für eine interessante Hypothese, aber noch lange nicht für gesichertes Wissen."
+      },
+      {
+        "sp": "A",
+        "text": "Kommen wir zur Schule. In einigen Bundesländern gibt es Unterricht in den Herkunftssprachen. Wie bewerten Sie das?"
+      },
+      {
+        "sp": "B",
+        "text": "Grundsätzlich sehr positiv. Nur findet dieser Unterricht oft am Nachmittag statt, wird kaum benotet und spielt für den Abschluss keine Rolle. Das sendet natürlich ein Signal. Und damit sind wir bei einem Punkt, der mich wirklich ärgert: Wir bewerten Sprachen sehr unterschiedlich. Ein Kind, das Französisch und Deutsch spricht, gilt als begabt. Ein Kind, das Türkisch und Deutsch spricht, gilt dagegen schnell als Förderfall. Dabei ist die sprachliche Leistung genau dieselbe."
+      },
+      {
+        "sp": "A",
+        "text": "Was passiert mit den Herkunftssprachen, wenn es keine Unterstützung gibt?"
+      },
+      {
+        "sp": "B",
+        "text": "Dann gehen sie häufig verloren. Wir sehen in vielen Einwandererfamilien ein typisches Muster: Die erste Generation spricht die Herkunftssprache selbstverständlich, die zweite versteht sie noch gut, spricht sie aber oft nur noch eingeschränkt. Und in der dritten Generation ist sie dann meistens verschwunden. Viele bedauern das später sehr, wenn sie sich zum Beispiel mit ihren Großeltern nicht mehr richtig unterhalten können."
+      },
+      {
+        "sp": "A",
+        "text": "Eine Frage, die viele unserer erwachsenen Hörerinnen und Hörer interessieren dürfte: Ist es irgendwann zu spät, eine neue Sprache zu lernen?"
+      },
+      {
+        "sp": "B",
+        "text": "Nein, ganz sicher nicht. Erwachsene lernen nur anders als Kinder. Am Anfang sind sie sogar oft schneller, weil sie Grammatik bewusst verstehen und Lernstrategien einsetzen können. Kinder haben dafür langfristig einen Vorteil bei der Aussprache: Wer sehr früh mit einer Sprache anfängt, klingt später häufiger wie ein Muttersprachler. Aber ehrlich gesagt halte ich einen Akzent für völlig überbewertet. Entscheidend ist doch, dass man verstanden wird und sich ausdrücken kann."
+      },
+      {
+        "sp": "A",
+        "text": "Wenn Sie sich zum Schluss etwas von Politik und Gesellschaft wünschen dürften – was wäre das?"
+      },
+      {
+        "sp": "B",
+        "text": "Dass wir Mehrsprachigkeit endlich als Ressource begreifen und nicht als Problem, das man irgendwie beheben muss. Das heißt ganz konkret: Lehrkräfte sollten in ihrer Ausbildung lernen, wie man mit mehrsprachigen Klassen arbeitet. Herkunftssprachen sollten als vollwertige Fächer anerkannt werden. Und wir alle könnten ein bisschen neugieriger sein, wenn ein Kind auf dem Spielplatz zwischen zwei Sprachen hin und her wechselt, statt die Stirn zu runzeln."
+      },
+      {
+        "sp": "A",
+        "text": "Elif Demir, vielen Dank für das Gespräch."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Betrachtet man nur eine Sprache, haben mehrsprachige Kinder oft …",
+        "optionen": [
+          "einen größeren Wortschatz als einsprachige Kinder.",
+          "eine dauerhaft verzögerte Sprachentwicklung.",
+          "weniger Wörter, insgesamt aber einen vergleichbaren Wortschatz."
+        ],
+        "loesung": 2,
+        "erklaerung": "In einer einzelnen Sprache ist der Wortschatz oft etwas kleiner; „rechnet man aber beide Sprachen zusammen, ist der Wortschatz vergleichbar groß“. Von einer dauerhaften Verzögerung spricht sie nicht."
+      },
+      {
+        "nr": 2,
+        "stamm": "Bei Sprachtests besteht nach Frau Demir unter anderem die Gefahr, dass …",
+        "optionen": [
+          "echte Sprachstörungen der Zweisprachigkeit zugeschrieben werden.",
+          "zu viele Kinder in beiden Sprachen getestet werden.",
+          "mehrsprachige Kinder einen zu großen Wortschatz zeigen."
+        ],
+        "loesung": 0,
+        "erklaerung": "Sie findet es besonders problematisch, wenn eine echte Störung mit „das liegt an der Zweisprachigkeit“ erklärt wird und Hilfe zu spät kommt. Sie fordert gerade, beide Sprachen zu testen."
+      },
+      {
+        "nr": 3,
+        "stamm": "Wenn Kinder Sprachen mischen, ist das nach Frau Demir …",
+        "optionen": [
+          "ein Zeichen dafür, dass sie überfordert sind.",
+          "ein Hinweis auf zu wenig Wortschatz in beiden Sprachen.",
+          "ein normales Verhalten, das bestimmten Regeln folgt."
+        ],
+        "loesung": 2,
+        "erklaerung": "Das Mischen ist „völlig normal“, eher ein Zeichen von Kompetenz, und „folgt klaren Regeln“. Dass einmal ein Wort fehlt, ist nur einer von mehreren Gründen."
+      },
+      {
+        "nr": 4,
+        "stamm": "Das Prinzip „eine Person, eine Sprache“ ist laut Frau Demir …",
+        "optionen": [
+          "die wichtigste Voraussetzung für Mehrsprachigkeit.",
+          "möglich, aber keine notwendige Bedingung.",
+          "schädlich für die Beziehung zwischen Eltern und Kind."
+        ],
+        "loesung": 1,
+        "erklaerung": "Das Prinzip „kann gut funktionieren“, ist aber „keine notwendige Bedingung“. Wichtiger sind Menge und Qualität des Sprachangebots."
+      },
+      {
+        "nr": 5,
+        "stamm": "Eltern sollten mit ihren Kindern vor allem die Sprache sprechen, …",
+        "optionen": [
+          "die in der Schule verlangt wird.",
+          "in der sie sich selbst zu Hause fühlen.",
+          "die man ihnen in der Beratung empfiehlt."
+        ],
+        "loesung": 1,
+        "erklaerung": "Eltern sollen die Sprache sprechen, „in der sie sich zu Hause fühlen“, in der sie trösten und schimpfen können. Nur Deutsch zu sprechen, „weil man ihm das geraten hat“, hilft nicht."
+      },
+      {
+        "nr": 6,
+        "stamm": "Zu den angeblichen kognitiven Vorteilen sagt Frau Demir, dass …",
+        "optionen": [
+          "neuere, größere Studien sie oft nicht bestätigen konnten.",
+          "sie inzwischen durch große Studien eindeutig belegt sind.",
+          "Eltern ihre Kinder deshalb zweisprachig erziehen sollten."
+        ],
+        "loesung": 0,
+        "erklaerung": "Neuere Untersuchungen „mit deutlich größeren Gruppen“ konnten die Effekte häufig nicht bestätigen. Sie rät ausdrücklich davon ab, Kinder deshalb zweisprachig zu erziehen."
+      },
+      {
+        "nr": 7,
+        "stamm": "Frau Demir ärgert sich darüber, dass Sprachen in der Schule …",
+        "optionen": [
+          "zu viel Unterrichtszeit am Vormittag beanspruchen.",
+          "für den Abschluss eine zu große Rolle spielen.",
+          "je nach Prestige ganz unterschiedlich bewertet werden."
+        ],
+        "loesung": 2,
+        "erklaerung": "Französisch und Deutsch gilt als Begabung, Türkisch und Deutsch als „Förderfall“, obwohl die Leistung dieselbe ist. Der Herkunftssprachunterricht spielt für den Abschluss gerade keine Rolle."
+      },
+      {
+        "nr": 8,
+        "stamm": "In vielen Einwandererfamilien ist die Herkunftssprache …",
+        "optionen": [
+          "schon in der zweiten Generation ganz verschwunden.",
+          "in der dritten Generation meistens nicht mehr vorhanden.",
+          "über alle Generationen hinweg stabil."
+        ],
+        "loesung": 1,
+        "erklaerung": "Die zweite Generation versteht sie noch gut und spricht sie eingeschränkt, „in der dritten Generation ist sie dann meistens verschwunden“."
+      },
+      {
+        "nr": 9,
+        "stamm": "Erwachsene haben beim Sprachenlernen gegenüber Kindern den Vorteil, dass sie …",
+        "optionen": [
+          "am Anfang oft schneller vorankommen.",
+          "später eher wie Muttersprachler klingen.",
+          "keinen Akzent mehr entwickeln."
+        ],
+        "loesung": 0,
+        "erklaerung": "Erwachsene sind „am Anfang sogar oft schneller“, weil sie Grammatik bewusst verstehen. Bei der Aussprache haben dagegen Kinder langfristig den Vorteil."
+      },
+      {
+        "nr": 10,
+        "stamm": "Unter anderem wünscht sich Frau Demir, dass Herkunftssprachen …",
+        "optionen": [
+          "nur noch am Nachmittag unterrichtet werden.",
+          "durch mehr Englischunterricht ersetzt werden.",
+          "als vollwertige Schulfächer anerkannt werden."
+        ],
+        "loesung": 2,
+        "erklaerung": "Sie sagt: „Herkunftssprachen sollten als vollwertige Fächer anerkannt werden.“ Der Nachmittagsunterricht ist gerade das, was sie vorher kritisiert hat."
+      }
+    ]
+  },
+  {
+    "id": "hv2_06",
+    "teil": "hv2",
+    "titel": "Bürgerwissenschaft: Schulklassen zählen Wildbienen",
+    "thema": "wissenschaft_ethik",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören eine Radiosendung aus der Reihe „Natur und Wissen“ mit einer Biologin, die ein Bürgerforschungsprojekt leitet, und einem Biologielehrer.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderator"
+      },
+      {
+        "sp": "B",
+        "name": "Dr. Miriam Kessler, Biologin und Projektleiterin"
+      },
+      {
+        "sp": "C",
+        "name": "Tobias Wendt, Biologielehrer an einem Gymnasium"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Guten Tag und herzlich willkommen bei „Natur und Wissen“. Wissenschaft, das ist für viele etwas, das in Laboren und Hörsälen stattfindet, weit weg vom eigenen Alltag. Dass es auch anders geht, zeigt die sogenannte Bürgerwissenschaft, oder Citizen Science, wie man auch sagt. Dabei sammeln Laien Daten für die Forschung, sie zählen Vögel, messen die Wasserqualität von Bächen oder eben Insekten. Bei mir sind heute Miriam Kessler, sie ist Biologin und leitet ein bundesweites Projekt zur Erfassung von Wildbienen, und Tobias Wendt. Er unterrichtet Biologie an einem Gymnasium in Münster und macht mit seinen Klassen bei diesem Projekt mit. Frau Kessler, wie läuft so ein Projekt eigentlich ab?"
+      },
+      {
+        "sp": "B",
+        "text": "Im Prinzip ganz einfach. Die Teilnehmenden suchen sich eine feste Fläche aus, das kann ein Garten sein, ein Stück Wiese, ein Schulhof. Dort beobachten sie zu festgelegten Zeiten jeweils fünfzehn Minuten lang, welche Insekten an die Blüten kommen, fotografieren sie und laden die Bilder in unsere App hoch. Unsere Fachleute schauen sich dann jedes einzelne Foto an und prüfen die Bestimmung. Fangen oder gar mitnehmen soll man die Tiere ausdrücklich nicht. Wir haben bewusst ein einfaches Verfahren gewählt, damit auch Menschen ohne Vorkenntnisse mitmachen können."
+      },
+      {
+        "sp": "A",
+        "text": "Jetzt höre ich förmlich die Skeptiker unter unseren Hörern: Können Laien überhaupt verlässliche Daten liefern?"
+      },
+      {
+        "sp": "B",
+        "text": "Das ist eine berechtigte Frage, und wir haben sie uns am Anfang auch gestellt. Die ehrliche Antwort lautet: Ja, aber nicht für alles. In Deutschland gibt es über fünfhundert Wildbienenarten, und viele davon kann man nur unter dem Mikroskop sicher auseinanderhalten. Das kann man von niemandem verlangen, der mit dem Handy im Garten steht. Deshalb bitten wir die Teilnehmenden nur, grobe Gruppen zu bestimmen, und die genaue Art legen dann, wenn das Foto es zulässt, unsere Fachleute fest. Die Fehlerquote war übrigens am Anfang recht hoch, ist aber nach unseren kurzen Online-Schulungen deutlich niedriger als erwartet."
+      },
+      {
+        "sp": "A",
+        "text": "Was ist denn aus Ihrer Sicht der größte Gewinn für die Forschung?"
+      },
+      {
+        "sp": "B",
+        "text": "Ganz klar die Fläche. Kein Forschungsteam der Welt könnte an dreitausend Orten gleichzeitig zählen. Mit den Freiwilligen geht das. Das heißt nicht, dass die Daten genauer wären als die von Fachleuten – einzeln betrachtet sind sie das natürlich nicht. Aber sie geben uns ein Bild, das wir sonst schlicht nicht hätten."
+      },
+      {
+        "sp": "A",
+        "text": "Sind die Daten denn repräsentativ? Ich vermute, die meisten zählen dort, wo sie wohnen."
+      },
+      {
+        "sp": "B",
+        "text": "Genau das ist eine der größten Schwächen. Städte, Vorgärten und Parks sind in unseren Daten stark überrepräsentiert, während intensiv genutzte landwirtschaftliche Flächen kaum vorkommen. Dort wohnt eben kaum jemand, und dort gibt es oft auch wenig zu sehen. Wir versuchen das auf zwei Wegen auszugleichen: statistisch, indem wir die Daten entsprechend gewichten, und praktisch, indem wir gezielt Landwirtinnen und Landwirte und Vereine auf dem Land ansprechen."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Wendt, warum haben Sie sich mit Ihren Klassen beteiligt?"
+      },
+      {
+        "sp": "C",
+        "text": "Ursprünglich, weil ich das Thema Artenvielfalt greifbarer machen wollte. Im Lehrbuch ist das oft sehr abstrakt, da gibt es Diagramme mit sinkenden Kurven, und die Schülerinnen und Schüler nicken, aber es berührt sie nicht wirklich. Ich habe dann mit einer neunten Klasse angefangen. Und ich muss zugeben, die Begeisterung hielt sich erst mal in Grenzen. Da kamen Kommentare wie: Bienen zählen? Ernsthaft? Das hat sich aber schnell geändert, als die Jugendlichen gesehen haben, dass ihre Fotos auf einer deutschlandweiten Karte auftauchen, neben den Daten von Tausenden anderen. Und dann hat eine Schülerin eine Art fotografiert, die in unserer Region seit Jahrzehnten nicht mehr nachgewiesen worden war. Das wurde von den Fachleuten bestätigt. Da war die ganze Klasse plötzlich Feuer und Flamme."
+      },
+      {
+        "sp": "A",
+        "text": "Das klingt nach einem Lehrerinnen- und Lehrertraum. Gibt es auch Schattenseiten?"
+      },
+      {
+        "sp": "C",
+        "text": "Ja, durchaus. Das passt zwar gut in den Lehrplan, Ökologie ist ja ohnehin Thema. Aber der Aufwand ist nicht zu unterschätzen. Man ist vom Wetter abhängig, bei Regen fliegt nichts. Und man braucht Zeit: Eine Doppelstunde reicht kaum, wenn man erst noch mit dreißig Jugendlichen zur Wiese laufen muss. Und dann der Datenschutz: Für die App brauchen Schülerinnen und Schüler unter sechzehn Jahren eine Einverständniserklärung der Eltern, die man erst einmal einsammeln muss. Ehrlich gesagt hat mich dieser organisatorische und rechtliche Teil am Anfang fast abgeschreckt. Inzwischen habe ich eine Routine, aber für Kolleginnen und Kollegen, die neu einsteigen, ist das eine echte Hürde."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Kessler, was bringen Ihnen speziell die Schulklassen?"
+      },
+      {
+        "sp": "B",
+        "text": "Neben den Daten selbst vor allem Kontinuität. Schulen zählen meistens jedes Jahr an derselben Stelle, oft über viele Jahre, auch wenn die Lehrkraft wechselt. Viele Privatleute hören dagegen nach ein, zwei Sommern wieder auf, das ist ganz normal. Für uns ist das Gold wert, denn um Veränderungen zu erkennen, brauchen wir genau solche langen Reihen. Ein kleines Problem gibt es allerdings, das mich jedes Jahr wieder ein bisschen schmunzeln lässt: Ausgerechnet in den Sommerferien, wenn die meisten Arten fliegen, sind die Schulen leer."
+      },
+      {
+        "sp": "A",
+        "text": "Es gibt auch Kritik an der Bürgerwissenschaft. Manche sagen, hier würden Freiwillige als kostenlose Arbeitskräfte genutzt, während die Wissenschaft den Ruhm einstreicht. Was entgegnen Sie?"
+      },
+      {
+        "sp": "B",
+        "text": "Ich halte diese Kritik für nicht unberechtigt, und ich möchte sie auch nicht wegwischen. Es gibt Projekte, in denen die Teilnehmenden Daten liefern und danach nie wieder etwas hören. Das darf nicht sein. Bürgerwissenschaft darf keine Einbahnstraße sein. Wir versuchen deshalb, etwas zurückzugeben: Alle Teilnehmenden bekommen jedes Jahr einen verständlichen Bericht über die Ergebnisse, sie werden in unseren Veröffentlichungen namentlich erwähnt, und sie können eigene Fragestellungen vorschlagen. Zwei Teilprojekte sind tatsächlich aus solchen Vorschlägen entstanden."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Wendt, was haben Ihre Schülerinnen und Schüler aus Ihrer Sicht am meisten gelernt?"
+      },
+      {
+        "sp": "C",
+        "text": "Erstaunlicherweise weniger über Bienen als über Wissenschaft. Sie haben gemerkt, dass Messungen fehlerhaft sein können, dass man Ergebnisse überprüfen muss und warum eine einzelne Beobachtung noch nichts beweist. Das kann man im Unterricht hundertmal erklären, aber wenn das eigene Foto von den Fachleuten korrigiert wird, bleibt es hängen. Eine Schülerin hat am Ende gesagt: Jetzt verstehe ich, warum Wissenschaftler so selten ganz sicher sind. Ich glaube, das ist in Zeiten von Falschmeldungen eine ziemlich wichtige Erkenntnis."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Kessler, zum Schluss: Was zeigen die Daten bisher? Geht es den Wildbienen schlecht?"
+      },
+      {
+        "sp": "B",
+        "text": "Da muss ich Sie ein bisschen enttäuschen, so einfach lässt sich das noch nicht sagen. Wir sehen, dass einige Arten seltener werden, während andere, vor allem wärmeliebende Arten aus dem Süden, sich nach Norden ausbreiten. Aber das Projekt läuft erst seit fünf Jahren. Für belastbare Trends brauchen wir mindestens zehn Jahre, besser länger. Insofern: Wir brauchen alle Beteiligten noch eine ganze Weile."
+      },
+      {
+        "sp": "A",
+        "text": "Dann hoffen wir, dass viele weiterzählen. Miriam Kessler und Tobias Wendt, vielen Dank für das Gespräch."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Die Teilnehmenden des Projekts sollen …",
+        "optionen": [
+          "Bienen fangen und an das Projekt schicken.",
+          "zu festen Zeiten Insekten auf einer Fläche fotografieren.",
+          "jede Bienenart selbst genau bestimmen."
+        ],
+        "loesung": 1,
+        "erklaerung": "Man beobachtet zu festgelegten Zeiten fünfzehn Minuten eine feste Fläche und fotografiert die Insekten. Fangen soll man die Tiere „ausdrücklich nicht“."
+      },
+      {
+        "nr": 2,
+        "stamm": "Die Teilnehmenden bestimmen nur grobe Gruppen, weil …",
+        "optionen": [
+          "viele Arten nur mit dem Mikroskop zu unterscheiden sind.",
+          "die App keine genaueren Angaben zulässt.",
+          "die Fachleute Laien grundsätzlich misstrauen."
+        ],
+        "loesung": 0,
+        "erklaerung": "Viele der über fünfhundert Arten kann man „nur unter dem Mikroskop sicher auseinanderhalten“, das kann man von Laien nicht verlangen. Über die App sagt sie das nicht."
+      },
+      {
+        "nr": 3,
+        "stamm": "Den größten Gewinn für die Forschung sieht Frau Kessler darin, dass …",
+        "optionen": [
+          "Laien genauer zählen als Fachleute.",
+          "das Projekt fast keine Kosten verursacht.",
+          "gleichzeitig an sehr vielen Orten gezählt wird."
+        ],
+        "loesung": 2,
+        "erklaerung": "„Ganz klar die Fläche“: Kein Team könnte an dreitausend Orten gleichzeitig zählen. Dass die Daten genauer wären, verneint sie ausdrücklich."
+      },
+      {
+        "nr": 4,
+        "stamm": "Landwirtschaftliche Flächen kommen in den Daten kaum vor, weil …",
+        "optionen": [
+          "dort kaum jemand wohnt und zählt.",
+          "die Landwirte die Teilnahme ablehnen.",
+          "die Daten von dort statistisch aussortiert werden."
+        ],
+        "loesung": 0,
+        "erklaerung": "Die meisten zählen dort, wo sie wohnen: „Dort wohnt eben kaum jemand.“ Landwirte werden gerade gezielt angesprochen, und die Statistik soll die Lücke ausgleichen, nicht verursachen."
+      },
+      {
+        "nr": 5,
+        "stamm": "Die neunte Klasse von Herrn Wendt reagierte zunächst …",
+        "optionen": [
+          "mit großer Begeisterung.",
+          "eher zurückhaltend und skeptisch.",
+          "enttäuscht über die Fachleute."
+        ],
+        "loesung": 1,
+        "erklaerung": "„Die Begeisterung hielt sich erst mal in Grenzen“, es kamen Kommentare wie „Bienen zählen? Ernsthaft?“. Begeistert waren sie erst später."
+      },
+      {
+        "nr": 6,
+        "stamm": "Fast abgeschreckt hätte Herrn Wendt anfangs …",
+        "optionen": [
+          "die Abhängigkeit vom Wetter.",
+          "das fehlende Thema im Lehrplan.",
+          "der organisatorische und rechtliche Aufwand."
+        ],
+        "loesung": 2,
+        "erklaerung": "Er sagt, der „organisatorische und rechtliche Teil“, etwa die Einverständniserklärungen, hat ihn fast abgeschreckt. Das Wetter nennt er nur als zusätzlichen Punkt; im Lehrplan passt das Projekt gut."
+      },
+      {
+        "nr": 7,
+        "stamm": "Für die Forschung sind Schulklassen besonders wertvoll, weil sie …",
+        "optionen": [
+          "oft über viele Jahre an derselben Stelle zählen.",
+          "vor allem in den Sommerferien Daten liefern.",
+          "seltene Arten besonders zuverlässig erkennen."
+        ],
+        "loesung": 0,
+        "erklaerung": "Schulen bringen „vor allem Kontinuität“, weil sie jedes Jahr an derselben Stelle zählen. In den Sommerferien sind die Schulen dagegen leer."
+      },
+      {
+        "nr": 8,
+        "stamm": "Die Kritik, Freiwillige würden ausgenutzt, hält Frau Kessler für …",
+        "optionen": [
+          "völlig unbegründet.",
+          "teilweise berechtigt.",
+          "ein reines Problem von Schulprojekten."
+        ],
+        "loesung": 1,
+        "erklaerung": "Sie hält die Kritik „für nicht unberechtigt“, weil manche Projekte den Teilnehmenden nichts zurückgeben. Deshalb versucht ihr Projekt, etwas zurückzugeben."
+      },
+      {
+        "nr": 9,
+        "stamm": "Am meisten gelernt haben die Jugendlichen nach Herrn Wendt über …",
+        "optionen": [
+          "die Namen einzelner Bienenarten.",
+          "den Umgang mit der App.",
+          "die Arbeitsweise der Wissenschaft."
+        ],
+        "loesung": 2,
+        "erklaerung": "„Weniger über Bienen als über Wissenschaft“: Messfehler, Überprüfen, warum eine Beobachtung nichts beweist."
+      },
+      {
+        "nr": 10,
+        "stamm": "Über die langfristige Entwicklung der Wildbienen kann man laut Frau Kessler …",
+        "optionen": [
+          "schon heute eindeutig sagen, dass sie abnehmen.",
+          "erst nach mindestens zehn Jahren verlässlich urteilen.",
+          "mit Daten von Laien grundsätzlich nichts sagen."
+        ],
+        "loesung": 1,
+        "erklaerung": "Das Projekt läuft erst fünf Jahre; „für belastbare Trends brauchen wir mindestens zehn Jahre“. Einige Arten werden seltener, andere breiten sich aus – ein eindeutiger Rückgang ist also nicht belegt."
+      }
+    ]
+  },
+  {
+    "id": "hv2_07",
+    "teil": "hv2",
+    "titel": "Epigenetik zwischen Forschung und Schlagzeilen",
+    "thema": "biotechnologie",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1+",
+    "situation": "Sie hören ein Interview aus der Sendung „Wissenschaft im Gespräch“ mit der Molekularbiologin Prof. Dr. Hannah Brückner.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderator"
+      },
+      {
+        "sp": "B",
+        "name": "Prof. Dr. Hannah Brückner, Molekularbiologin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Willkommen zu „Wissenschaft im Gespräch“. „Traumata werden vererbt“, „Du bist, was deine Großmutter gegessen hat“ – Schlagzeilen wie diese liest man in den letzten Jahren häufig, und dahinter steckt fast immer ein Stichwort: Epigenetik. Was ist dran an diesen Meldungen? Darüber spreche ich mit Hannah Brückner. Sie ist Molekularbiologin und forscht seit über fünfzehn Jahren auf diesem Gebiet. Frau Brückner, wenn Sie solche Überschriften lesen – freuen Sie sich, dass Ihr Fach so viel Aufmerksamkeit bekommt?"
+      },
+      {
+        "sp": "B",
+        "text": "Teils, teils. Natürlich freue ich mich, wenn sich Menschen für Biologie interessieren. Aber ehrlich gesagt zucke ich bei vielen dieser Überschriften zusammen. Da wird aus einem einzelnen, oft noch vorläufigen Befund an Mäusen eine allgemeine Aussage über Menschen gemacht. Das ist in den allermeisten Fällen stark übertrieben, und es schadet am Ende auch dem Vertrauen in die Forschung."
+      },
+      {
+        "sp": "A",
+        "text": "Dann fangen wir am besten ganz vorne an. Was ist Epigenetik überhaupt?"
+      },
+      {
+        "sp": "B",
+        "text": "Ich benutze gern ein Bild. Stellen Sie sich das Erbgut als ein sehr dickes Buch vor, in dem alle Bauanleitungen des Körpers stehen. Jede Zelle hat im Prinzip dasselbe Buch. Trotzdem ist eine Leberzelle etwas völlig anderes als eine Nervenzelle. Warum? Weil in jeder Zelle andere Seiten aufgeschlagen sind. Bestimmte Stellen sind sozusagen mit Textmarker hervorgehoben, andere sind zugeklebt. Diese Markierungen, chemisch gesehen sind das zum Beispiel kleine Methylgruppen, die an das Erbgut angehängt werden, bestimmen also, welche Gene abgelesen werden und welche nicht. Am Text selbst ändert sich dabei nichts. Das ist eigentlich der Kern der Epigenetik, und der ist völlig unumstritten. Alles andere ist, salopp gesagt, die Kür."
+      },
+      {
+        "sp": "A",
+        "text": "Und diese Markierungen können sich im Laufe des Lebens verändern?"
+      },
+      {
+        "sp": "B",
+        "text": "Ja, und das macht das Feld so spannend. Wir wissen, dass Umwelteinflüsse Spuren hinterlassen können. Am besten belegt ist das beim Rauchen: Bei Raucherinnen und Rauchern findet man in Blutzellen ganz typische Muster, so zuverlässig, dass man daran fast ablesen kann, ob jemand raucht. Bei anderen Faktoren, etwa Ernährung oder chronischem Stress, ist die Lage schon weniger klar. Und selbst wenn wir bei einer Krankheit veränderte Muster finden, wissen wir oft nicht, was Ursache und was Folge ist. Hat die Markierung die Krankheit mit ausgelöst, oder hat umgekehrt die Krankheit die Markierung verändert? Diese Frage wird in der öffentlichen Darstellung leider fast immer übersprungen."
+      },
+      {
+        "sp": "A",
+        "text": "Kommen wir zum heißesten Thema: der Vererbung. Können solche Markierungen an Kinder und Enkel weitergegeben werden?"
+      },
+      {
+        "sp": "B",
+        "text": "Bei Pflanzen und bei manchen kleinen Würmern ist das gut belegt, da können Markierungen über mehrere Generationen erhalten bleiben. Bei Säugetieren wird es schwieriger. Es gibt viel zitierte Versuche mit Mäusen, bei denen Tiere gelernt hatten, einen bestimmten Geruch zu fürchten, und auch ihre Nachkommen auf diesen Geruch empfindlich reagierten. Das klingt spektakulär. Allerdings konnten andere Arbeitsgruppen solche Ergebnisse nicht immer wiederholen, und die Methoden sind umstritten. Ich würde das als interessanten Hinweis bezeichnen, nicht als gesichertes Wissen."
+      },
+      {
+        "sp": "A",
+        "text": "Und beim Menschen? Man hört in diesem Zusammenhang oft vom sogenannten Hungerwinter in den Niederlanden."
+      },
+      {
+        "sp": "B",
+        "text": "Richtig. Im Winter neunzehnhundertvierundvierzig auf fünfundvierzig gab es in Teilen der Niederlande eine schwere Hungersnot. Menschen, deren Mütter damals schwanger waren, hatten später ein höheres Risiko für bestimmte Stoffwechselerkrankungen, und man fand bei ihnen noch Jahrzehnte später veränderte epigenetische Muster. Das ist ein sehr wichtiger Befund. Aber, und hier wird es oft ungenau: Streng genommen ist das keine Vererbung. Die Kinder waren ja selbst, als Ungeborene im Mutterleib, dem Hunger ausgesetzt. Das ist eher eine Prägung in einer sehr empfindlichen Phase der Entwicklung als eine Weitergabe von einer Generation an die nächste."
+      },
+      {
+        "sp": "A",
+        "text": "Warum ist echte Vererbung beim Menschen so schwer nachzuweisen?"
+      },
+      {
+        "sp": "B",
+        "text": "Zum einen, weil Menschengenerationen so lang sind. Man müsste Familien über achtzig, hundert Jahre begleiten. Zum anderen, und das ist der biologische Grund, werden bei der Bildung von Ei- und Samenzellen und kurz nach der Befruchtung die allermeisten Markierungen gelöscht. Man kann sich das wie einen Neustart vorstellen. Es gibt einige wenige Stellen, die diesem Neustart entgehen, und genau die werden gerade intensiv untersucht. Aber die Vorstellung, dass alles, was meine Großmutter erlebt hat, in meinen Zellen gespeichert ist, ist mit unserem heutigen Wissen nicht vereinbar."
+      },
+      {
+        "sp": "A",
+        "text": "Warum, glauben Sie, ist die Epigenetik trotzdem so ein Medienliebling?"
+      },
+      {
+        "sp": "B",
+        "text": "Ich glaube, weil sie eine sehr attraktive Botschaft zu enthalten scheint: Gene sind nicht Schicksal, wir können etwas tun. Das ist ja auch im Kern nicht falsch. Paradoxerweise entsteht daraus aber oft ein neuer Determinismus. Plötzlich heißt es: Was die Mutter in der Schwangerschaft gegessen hat oder wie gestresst sie war, bestimmt das ganze Leben des Kindes. Ich finde es bemerkenswert, wie schnell aus einer vorsichtigen Hypothese eine Schuldzuweisung an Mütter wird. Über den möglichen Einfluss der Väter wird übrigens viel seltener gesprochen, obwohl es auch dazu Befunde gibt."
+      },
+      {
+        "sp": "A",
+        "text": "Gibt es denn schon praktische Anwendungen, etwa in der Medizin?"
+      },
+      {
+        "sp": "B",
+        "text": "Ja, durchaus. Bei bestimmten Formen von Blutkrebs werden schon seit einigen Jahren Medikamente eingesetzt, die gezielt in epigenetische Prozesse eingreifen. Das ist zugelassene, etablierte Therapie. Und die Krebsdiagnostik nutzt epigenetische Muster zunehmend, um Tumoren genauer einzuordnen."
+      },
+      {
+        "sp": "A",
+        "text": "Also mehr als nur Zukunftsmusik."
+      },
+      {
+        "sp": "B",
+        "text": "Ja, wobei man fairerweise sagen muss: Diese Medikamente wirken recht unspezifisch, sie verändern Markierungen an sehr vielen Stellen gleichzeitig. Gezieltere Wirkstoffe sind in Entwicklung, aber bis die in der Praxis ankommen, wird es noch eine Weile dauern."
+      },
+      {
+        "sp": "A",
+        "text": "Im Internet werden auch Tests angeboten, die anhand epigenetischer Muster das sogenannte biologische Alter bestimmen sollen. Was halten Sie davon?"
+      },
+      {
+        "sp": "B",
+        "text": "Da bin ich, vorsichtig formuliert, zurückhaltend. Diese epigenetischen Uhren, wie man sie nennt, sind in der Forschung ein sehr nützliches Werkzeug, wenn man große Gruppen mit Tausenden Menschen vergleicht. Für eine einzelne Person sieht es anders aus. Wenn Sie dieselbe Probe an zwei verschiedene Labore schicken, können durchaus unterschiedliche Ergebnisse herauskommen. Wer also wissen möchte, ob sein neuer Ernährungsplan ihn jünger macht, bekommt da im Moment keine verlässliche Antwort, aber eine ziemlich hohe Rechnung."
+      },
+      {
+        "sp": "A",
+        "text": "Eine Hoffnung, die oft mit der Epigenetik verbunden wird, ist, dass Veränderungen rückgängig gemacht werden können."
+      },
+      {
+        "sp": "B",
+        "text": "Im Prinzip stimmt das. Epigenetische Markierungen sind nicht in Stein gemeißelt, sie können sich wieder verändern, anders als die Gene selbst. Das ist eine echte Chance, auch für die Medizin. Aber man sollte daraus keine Heilsversprechen ableiten. Ich habe schon Ratgeber gesehen, die behaupten, man könne seine Gene durch positives Denken umprogrammieren. Dafür gibt es schlicht keine Belege."
+      },
+      {
+        "sp": "A",
+        "text": "Wenn Sie unseren Hörerinnen und Hörern eine einzige Botschaft mitgeben könnten, welche wäre das?"
+      },
+      {
+        "sp": "B",
+        "text": "Dass die Epigenetik die Genetik erweitert, aber nicht widerlegt. Sie zeigt uns, dass zwischen Genen und Umwelt ein enges Wechselspiel besteht. Das ist faszinierend genug. Man muss es nicht durch übertriebene Schlagzeilen noch spannender machen."
+      },
+      {
+        "sp": "A",
+        "text": "Hannah Brückner, herzlichen Dank für das Gespräch."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Viele Schlagzeilen zur Epigenetik hält Frau Brückner für …",
+        "optionen": [
+          "im Großen und Ganzen zutreffend.",
+          "meistens stark übertrieben.",
+          "zu vorsichtig formuliert."
+        ],
+        "loesung": 1,
+        "erklaerung": "Aus einzelnen, vorläufigen Befunden an Mäusen werden allgemeine Aussagen über Menschen gemacht – das ist „in den allermeisten Fällen stark übertrieben“."
+      },
+      {
+        "nr": 2,
+        "stamm": "Mit dem Bild vom Buch und vom Textmarker erklärt Frau Brückner, …",
+        "optionen": [
+          "wie der Text der Gene im Laufe des Lebens umgeschrieben wird.",
+          "warum Zellen sich im Körper ständig teilen.",
+          "warum Zellen mit denselben Genen ganz verschieden sein können."
+        ],
+        "loesung": 2,
+        "erklaerung": "Jede Zelle hat dasselbe Buch, aber in jeder sind andere Seiten aufgeschlagen; deshalb unterscheiden sich Leber- und Nervenzellen. „Am Text selbst ändert sich dabei nichts“ – er wird also nicht umgeschrieben."
+      },
+      {
+        "nr": 3,
+        "stamm": "Bei veränderten Mustern im Zusammenhang mit Krankheiten ist oft unklar, …",
+        "optionen": [
+          "ob sie Ursache oder Folge der Krankheit sind.",
+          "ob Rauchen überhaupt Spuren hinterlässt.",
+          "ob man sie in Blutzellen nachweisen kann."
+        ],
+        "loesung": 0,
+        "erklaerung": "Man weiß oft nicht, „was Ursache und was Folge ist“. Beim Rauchen sind die Spuren in Blutzellen dagegen „am besten belegt“."
+      },
+      {
+        "nr": 4,
+        "stamm": "Die Versuche mit Mäusen, die einen Geruch fürchteten, …",
+        "optionen": [
+          "gelten heute als eindeutiger Beweis für Vererbung.",
+          "konnten nicht immer bestätigt werden.",
+          "wurden später an Pflanzen und Würmern wiederholt."
+        ],
+        "loesung": 1,
+        "erklaerung": "Andere Arbeitsgruppen konnten die Ergebnisse „nicht immer wiederholen“; sie nennt sie einen „interessanten Hinweis“, kein gesichertes Wissen. Pflanzen und Würmer sind ein eigener, gut belegter Bereich."
+      },
+      {
+        "nr": 5,
+        "stamm": "Der Hungerwinter belegt laut Frau Brückner keine echte Vererbung, weil …",
+        "optionen": [
+          "die Ungeborenen selbst dem Hunger ausgesetzt waren.",
+          "die Muster erst Jahrzehnte später untersucht wurden.",
+          "nur ein kleiner Teil der Niederlande betroffen war."
+        ],
+        "loesung": 0,
+        "erklaerung": "Die Kinder waren „als Ungeborene im Mutterleib“ selbst dem Hunger ausgesetzt – das ist eine Prägung, keine Weitergabe an die nächste Generation. Dass man Jahrzehnte später untersuchte, ist kein Gegenargument."
+      },
+      {
+        "nr": 6,
+        "stamm": "Bei der Bildung von Ei- und Samenzellen werden …",
+        "optionen": [
+          "alle Markierungen unverändert weitergegeben.",
+          "die Erfahrungen der Großeltern gespeichert.",
+          "die allermeisten Markierungen gelöscht."
+        ],
+        "loesung": 2,
+        "erklaerung": "Dabei und kurz nach der Befruchtung werden „die allermeisten Markierungen gelöscht“, wie bei einem Neustart. Nur wenige Stellen entgehen dem."
+      },
+      {
+        "nr": 7,
+        "stamm": "An der öffentlichen Debatte kritisiert Frau Brückner besonders, dass …",
+        "optionen": [
+          "der Einfluss der Väter überbetont wird.",
+          "Müttern vorschnell die Verantwortung zugeschoben wird.",
+          "Gene als unveränderliches Schicksal dargestellt werden."
+        ],
+        "loesung": 1,
+        "erklaerung": "Aus einer vorsichtigen Hypothese wird schnell „eine Schuldzuweisung an Mütter“. Über die Väter wird dagegen „viel seltener“ gesprochen, also nicht zu viel."
+      },
+      {
+        "nr": 8,
+        "stamm": "Medikamente, die in epigenetische Prozesse eingreifen, werden …",
+        "optionen": [
+          "bereits bei bestimmten Formen von Blutkrebs eingesetzt.",
+          "bisher nur in Tierversuchen erprobt.",
+          "vor allem zur Verjüngung angeboten."
+        ],
+        "loesung": 0,
+        "erklaerung": "Bei bestimmten Formen von Blutkrebs werden sie „seit einigen Jahren“ eingesetzt; es ist „zugelassene, etablierte Therapie“."
+      },
+      {
+        "nr": 9,
+        "stamm": "Tests zum biologischen Alter sind nach Frau Brückner …",
+        "optionen": [
+          "für große Forschungsstudien ungeeignet.",
+          "in allen Laboren gleich zuverlässig.",
+          "für einzelne Personen derzeit wenig verlässlich."
+        ],
+        "loesung": 2,
+        "erklaerung": "Für große Gruppen sind die Uhren „sehr nützlich“, für eine einzelne Person nicht: Zwei Labore können unterschiedliche Ergebnisse liefern."
+      },
+      {
+        "nr": 10,
+        "stamm": "Ihre wichtigste Botschaft lautet, dass die Epigenetik …",
+        "optionen": [
+          "die Genetik ergänzt, aber nicht widerlegt.",
+          "die klassische Genetik überflüssig macht.",
+          "Gene durch positives Denken verändern kann."
+        ],
+        "loesung": 0,
+        "erklaerung": "Sie sagt, dass die Epigenetik „die Genetik erweitert, aber nicht widerlegt“. Für das Umprogrammieren durch positives Denken gibt es „schlicht keine Belege“."
+      }
+    ]
+  },
+  {
+    "id": "hv2_08",
+    "teil": "hv2",
+    "titel": "Wenn Forschende öffentlich sprechen",
+    "thema": "medien_desinformation",
+    "bezug": false,
+    "pruefung": 1,
+    "niveau": "C1",
+    "situation": "Sie hören eine Sendung aus der Reihe „Zeitfragen Wissenschaft“ mit einem Kommunikationswissenschaftler und einer Virologin, die Erklärvideos veröffentlicht.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderatorin"
+      },
+      {
+        "sp": "B",
+        "name": "Dr. Jan Petersen, Kommunikationswissenschaftler"
+      },
+      {
+        "sp": "C",
+        "name": "Dr. Laura Seifert, Virologin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Guten Abend und willkommen bei „Zeitfragen Wissenschaft“. Seit der Pandemie stehen Forscherinnen und Forscher so sehr in der Öffentlichkeit wie selten zuvor. Manche sind regelrecht zu Stars geworden, andere wurden beschimpft und bedroht. Sollen Forschende trotzdem mehr mit der Öffentlichkeit sprechen? Und wenn ja, wie? Und was bedeutet das für den klassischen Wissenschaftsjournalismus? Darüber diskutiere ich mit dem Kommunikationswissenschaftler Jan Petersen und mit der Virologin Laura Seifert, die auf einer großen Videoplattform regelmäßig Erklärvideos veröffentlicht. Frau Seifert, wie sind Sie dazu gekommen?"
+      },
+      {
+        "sp": "C",
+        "text": "Eher zufällig. Am Anfang der Pandemie haben mich Freunde und Verwandte ständig mit Fragen bombardiert: Wie gefährlich ist das? Was bedeutet diese Zahl? Und mir ist damals klar geworden, wie groß die Lücke ist zwischen dem, was wir in der Forschung wissen, und dem, was bei den Menschen ankommt. Irgendwann habe ich gedacht: Statt es zwanzigmal am Telefon zu erklären, mache ich ein kurzes Video. Inzwischen erscheint jede Woche eins, und der Kanal hat ungefähr achtzigtausend Abonnenten."
+      },
+      {
+        "sp": "A",
+        "text": "Das klingt nach viel Arbeit. Wird das an Ihrer Universität honoriert?"
+      },
+      {
+        "sp": "C",
+        "text": "Ehrlich gesagt kaum. Ich mache das fast ausschließlich in meiner Freizeit, abends und am Wochenende. Für meine wissenschaftliche Laufbahn zählt es so gut wie nichts. Bei Bewerbungen schaut man auf meine Veröffentlichungen in Fachzeitschriften und auf eingeworbene Forschungsgelder, nicht auf meine Videos. Manchmal habe ich sogar das Gefühl, es wird eher kritisch gesehen."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Petersen, ist das typisch?"
+      },
+      {
+        "sp": "B",
+        "text": "Leider ja. Das Wissenschaftssystem belohnt nach wie vor fast ausschließlich Publikationen und Drittmittel. Kommunikation gilt als nette Zugabe, die man machen kann, wenn noch Zeit bleibt. Einige Hochschulen ändern das gerade und berücksichtigen solche Aktivitäten auch bei Berufungen, aber das ist noch die Ausnahme. In unseren Befragungen sagt übrigens eine klare Mehrheit der Forschenden, dass sie gern mehr kommunizieren würden. Der mit Abstand häufigste Grund, warum sie es nicht tun, ist schlicht Zeitmangel. Die Angst vor Anfeindungen spielt auch eine Rolle, aber eine deutlich kleinere."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Seifert hat gerade angedeutet, dass ihr Engagement eher kritisch gesehen wird. Woran liegt das?"
+      },
+      {
+        "sp": "B",
+        "text": "Dafür gibt es sogar einen Begriff: den sogenannten Sagan-Effekt, benannt nach einem amerikanischen Astronomen, der durch seine Fernsehsendungen sehr berühmt wurde. Gemeint ist, dass Forschende, die in den Medien sehr präsent sind, von ihren eigenen Kolleginnen und Kollegen als weniger seriös wahrgenommen werden. Nach dem Motto: Wer so viel Zeit vor der Kamera verbringt, kann ja keine ernsthafte Forschung mehr machen. Das ist natürlich ein Vorurteil, aber es hält sich hartnäckig. Ich kenne mehrere Fälle, in denen Bewerberinnen und Bewerbern genau das in Berufungsverfahren vorgehalten wurde."
+      },
+      {
+        "sp": "A",
+        "text": "Wie steht es denn um das Vertrauen der Bevölkerung in die Wissenschaft? Man hat ja den Eindruck, es sei stark gesunken."
+      },
+      {
+        "sp": "B",
+        "text": "Diesen Eindruck haben viele, aber die Daten zeigen etwas anderes. Das Vertrauen ist in Deutschland über die letzten Jahre insgesamt relativ stabil geblieben, die Mehrheit vertraut der Wissenschaft. Es gibt allerdings eine kleine, sehr laute Minderheit, die zutiefst misstrauisch ist und in sozialen Medien enorm sichtbar ist. Diese Gruppe erreicht man mit Kommunikation kaum, das muss man realistisch sehen. Viel wichtiger ist die große Mitte, die unentschieden ist, die Fragen hat und sich ernsthaft informieren möchte. An sie sollte sich gute Kommunikation in erster Linie richten."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Seifert, Sie haben auch die Schattenseiten erlebt."
+      },
+      {
+        "sp": "C",
+        "text": "Ja. Nach einem Video über Impfungen kamen Hunderte von Beleidigungen, und einige Nachrichten waren richtige Drohungen. Eine habe ich bei der Polizei angezeigt. Die Pressestelle meiner Universität hat mich unterstützt, das muss ich sagen, aber bis ich rechtliche Beratung bekam, hat es Wochen gedauert. Seitdem schalte ich bei bestimmten Themen die Kommentarfunktion ab. Aufgehört habe ich aber nicht. Wenn wir uns zurückziehen, überlassen wir das Feld denen, die am lautesten sind."
+      },
+      {
+        "sp": "A",
+        "text": "Ein großes Thema ist ja auch, wie man über Unsicherheit spricht. In der Pandemie haben sich Empfehlungen mehrfach geändert, und das hat viele verunsichert. Herr Petersen, sollte man Unsicherheiten lieber verschweigen?"
+      },
+      {
+        "sp": "B",
+        "text": "Auf keinen Fall. Die Forschung dazu ist ziemlich eindeutig: Wenn Forschende offen sagen, was man noch nicht weiß, und erklären, warum, kostet sie das kaum Vertrauen. Was dagegen wirklich Vertrauen zerstört, ist, wenn unsichere Erkenntnisse zunächst als gesichert präsentiert werden und man sie dann später wieder zurücknehmen muss. Dann entsteht der Eindruck: Die wissen ja selbst nicht, was sie wollen."
+      },
+      {
+        "sp": "C",
+        "text": "Das kann ich nur bestätigen. Ich sage in meinen Videos sehr oft: Stand heute. Das ist mittlerweile fast mein Markenzeichen geworden. Und wenn sich etwas ändert, mache ich ein neues Video und erkläre, was wir dazugelernt haben. Die Rückmeldungen darauf sind fast immer positiv."
+      },
+      {
+        "sp": "A",
+        "text": "Wie lang sind Ihre Videos eigentlich?"
+      },
+      {
+        "sp": "C",
+        "text": "Meistens zwischen acht und zwölf Minuten. Ich habe auch mal mit ganz kurzen Clips von einer Minute experimentiert, weil die angeblich besser laufen. Die wurden auch tatsächlich häufiger angeklickt, aber die Kommentare darunter haben mir gezeigt, dass viele die Inhalte falsch verstanden hatten. In einer Minute bleibt für Einschränkungen und Zwischentöne einfach kein Platz. Seitdem bleibe ich bei den längeren Formaten, auch wenn sie weniger Menschen erreichen."
+      },
+      {
+        "sp": "B",
+        "text": "Das deckt sich mit dem, was wir beobachten: Reichweite ist nicht dasselbe wie Verständnis. Gerade bei komplexen Themen kann eine stark verkürzte Botschaft mehr schaden als nützen."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Petersen, folgt daraus, dass jeder Forscher, jede Forscherin in die Öffentlichkeit gehen sollte?"
+      },
+      {
+        "sp": "B",
+        "text": "Nein, und da widerspreche ich manchen Forderungen ganz bewusst. Nicht jeder hat Talent dafür oder Lust darauf, und das ist in Ordnung. Ich halte eine Arbeitsteilung für sinnvoller. Und hier mache ich mir ehrlich gesagt Sorgen: Die Zahl der Wissenschaftsjournalistinnen und Wissenschaftsjournalisten in den Redaktionen ist seit Jahren rückläufig. Das ist ein Problem, denn Kommunikation durch Forschende kann unabhängigen Journalismus nicht ersetzen. Wer über die eigene Forschung spricht, hat immer auch eigene Interessen, und sei es nur, weitere Fördermittel zu bekommen. Journalisten können Ergebnisse dagegen von außen kritisch prüfen, andere Fachleute befragen, Widersprüche aufdecken. Beides brauchen wir."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Seifert, zum Schluss: Was würden Sie jungen Forschenden raten, die selbst anfangen möchten?"
+      },
+      {
+        "sp": "C",
+        "text": "Drei Dinge. Erstens: Fangt mit dem an, wovon ihr wirklich etwas versteht, und nicht mit den großen Streitfragen. Zweitens: Eine Botschaft pro Beitrag, nicht fünf. Und drittens, das ist vielleicht der wichtigste Tipp: Probiert eure Erklärung an jemandem aus, der nicht vom Fach ist. Ich teste meine Videos bis heute an meiner Großmutter. Wenn sie es versteht, kann ich es veröffentlichen. Ach ja, und noch etwas: Man muss nicht auf jeden Kommentar antworten. Das habe ich am Anfang gemacht und war nach drei Monaten völlig erschöpft."
+      },
+      {
+        "sp": "A",
+        "text": "Laura Seifert und Jan Petersen, vielen Dank für dieses Gespräch."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Frau Seifert begann mit ihren Videos, weil …",
+        "optionen": [
+          "ihre Universität mehr Öffentlichkeitsarbeit verlangte.",
+          "sie eine Lücke zwischen Forschung und öffentlichem Wissen bemerkte.",
+          "sie damit ihre wissenschaftliche Karriere fördern wollte."
+        ],
+        "loesung": 1,
+        "erklaerung": "Ihr wurde klar, „wie groß die Lücke ist“ zwischen dem Wissen der Forschung und dem, was bei den Menschen ankommt. Für ihre Karriere zählen die Videos dagegen kaum."
+      },
+      {
+        "nr": 2,
+        "stamm": "Für ihre wissenschaftliche Laufbahn bringt Frau Seifert ihr Engagement …",
+        "optionen": [
+          "praktisch keinen Vorteil.",
+          "inzwischen große Anerkennung.",
+          "einen Ersatz für Veröffentlichungen."
+        ],
+        "loesung": 0,
+        "erklaerung": "„Für meine wissenschaftliche Laufbahn zählt es so gut wie nichts“; bei Bewerbungen zählen Veröffentlichungen und Forschungsgelder."
+      },
+      {
+        "nr": 3,
+        "stamm": "Dass viele Forschende nicht häufiger kommunizieren, liegt vor allem daran, dass …",
+        "optionen": [
+          "sie Angst vor Anfeindungen haben.",
+          "ihre Hochschulen es nicht erlauben.",
+          "ihnen dafür die Zeit fehlt."
+        ],
+        "loesung": 2,
+        "erklaerung": "Der „mit Abstand häufigste Grund“ ist Zeitmangel. Angst vor Anfeindungen spielt nur „eine deutlich kleinere“ Rolle."
+      },
+      {
+        "nr": 4,
+        "stamm": "Mit dem „Sagan-Effekt“ ist gemeint, dass medienpräsente Forschende …",
+        "optionen": [
+          "von Kollegen als weniger seriös angesehen werden.",
+          "in der Bevölkerung besonders viel Vertrauen genießen.",
+          "durch das Fernsehen mehr Fördergelder erhalten."
+        ],
+        "loesung": 0,
+        "erklaerung": "Forschende, die in den Medien sehr präsent sind, werden „von ihren eigenen Kolleginnen und Kollegen als weniger seriös wahrgenommen“."
+      },
+      {
+        "nr": 5,
+        "stamm": "Das Vertrauen in die Wissenschaft ist in Deutschland laut Herrn Petersen …",
+        "optionen": [
+          "seit der Pandemie deutlich gesunken.",
+          "insgesamt relativ stabil geblieben.",
+          "nur noch bei einer Minderheit vorhanden."
+        ],
+        "loesung": 1,
+        "erklaerung": "„Die Daten zeigen etwas anderes“: Das Vertrauen ist „relativ stabil geblieben“, die Mehrheit vertraut der Wissenschaft. Nur eine kleine Minderheit ist misstrauisch."
+      },
+      {
+        "nr": 6,
+        "stamm": "Gute Kommunikation sollte sich nach Herrn Petersen vor allem richten an …",
+        "optionen": [
+          "die überzeugten Gegner der Wissenschaft.",
+          "die eigenen Kolleginnen und Kollegen.",
+          "Menschen, die unentschieden sind und Fragen haben."
+        ],
+        "loesung": 2,
+        "erklaerung": "Die misstrauische Minderheit erreicht man „kaum“; wichtiger ist „die große Mitte, die unentschieden ist“ und Fragen hat."
+      },
+      {
+        "nr": 7,
+        "stamm": "Nach den Anfeindungen hat Frau Seifert …",
+        "optionen": [
+          "ihren Kanal vorübergehend geschlossen.",
+          "bei manchen Themen die Kommentare abgeschaltet.",
+          "auf die Hilfe ihrer Universität verzichtet."
+        ],
+        "loesung": 1,
+        "erklaerung": "„Seitdem schalte ich bei bestimmten Themen die Kommentarfunktion ab.“ Aufgehört hat sie nicht, und die Pressestelle hat sie unterstützt."
+      },
+      {
+        "nr": 8,
+        "stamm": "Vertrauen geht laut Herrn Petersen vor allem dann verloren, wenn …",
+        "optionen": [
+          "unsichere Aussagen als sicher präsentiert und später zurückgenommen werden.",
+          "Forschende offen zugeben, was sie noch nicht wissen.",
+          "sich wissenschaftliche Empfehlungen überhaupt ändern."
+        ],
+        "loesung": 0,
+        "erklaerung": "Was „wirklich Vertrauen zerstört“, ist, wenn Unsicheres als gesichert präsentiert und dann zurückgenommen wird. Offen über Unsicherheit zu sprechen, kostet „kaum Vertrauen“."
+      },
+      {
+        "nr": 9,
+        "stamm": "Unabhängigen Wissenschaftsjournalismus hält Herr Petersen für unverzichtbar, weil …",
+        "optionen": [
+          "die meisten Forschenden kein Talent zum Erklären haben.",
+          "es in den Redaktionen immer mehr Fachjournalisten gibt.",
+          "Forschende bei der eigenen Arbeit nicht neutral sind."
+        ],
+        "loesung": 2,
+        "erklaerung": "Wer über die eigene Forschung spricht, „hat immer auch eigene Interessen“; Journalisten prüfen von außen. Die Zahl der Fachjournalisten sinkt, statt zu steigen."
+      },
+      {
+        "nr": 10,
+        "stamm": "Als wichtigsten Tipp nennt Frau Seifert, …",
+        "optionen": [
+          "auf jeden Kommentar persönlich zu antworten.",
+          "Erklärungen vorher an Laien auszuprobieren.",
+          "mit den großen Streitfragen zu beginnen."
+        ],
+        "loesung": 1,
+        "erklaerung": "„Der wichtigste Tipp“: die Erklärung an jemandem ausprobieren, der nicht vom Fach ist, etwa an ihrer Großmutter. Auf jeden Kommentar muss man dagegen ausdrücklich nicht antworten."
+      }
+    ]
+  },
+  {
+    "id": "hv2_09",
+    "teil": "hv2",
+    "titel": "Fachkräfte aus dem Ausland: Anwerben allein reicht nicht",
+    "thema": "arbeitswelt",
+    "bezug": true,
+    "pruefung": 2,
+    "niveau": "C1",
+    "situation": "Sie hören eine Sendung aus der Reihe „Arbeitswelt im Wandel“ mit einer Arbeitsmarktforscherin und einem Pflegefachmann, der von den Philippinen nach Deutschland gekommen ist.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderator"
+      },
+      {
+        "sp": "B",
+        "name": "Dr. Katharina Vogt, Arbeitsmarktforscherin"
+      },
+      {
+        "sp": "C",
+        "name": "Jerome Santos, Pflegefachmann auf einer Intensivstation"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Herzlich willkommen bei „Arbeitswelt im Wandel“. Ob im Krankenhaus, im Handwerk oder in der Kita: Überall fehlen Fachkräfte. Nach manchen Schätzungen bräuchte Deutschland jedes Jahr mehrere hunderttausend Menschen aus dem Ausland, nur um die Zahl der Erwerbstätigen stabil zu halten. Die Politik hat die Regeln für die Einwanderung in den letzten Jahren deutlich gelockert. Aber reicht das? Darüber spreche ich mit der Arbeitsmarktforscherin Katharina Vogt und mit Jerome Santos. Er ist vor sechs Jahren von den Philippinen gekommen und arbeitet heute als Pflegefachmann auf einer Intensivstation. Frau Vogt, ist Zuwanderung die Lösung für den Fachkräftemangel?"
+      },
+      {
+        "sp": "B",
+        "text": "Sie ist ein unverzichtbarer Teil der Lösung, aber eben nur ein Teil. Wenn die geburtenstarken Jahrgänge in den nächsten Jahren in Rente gehen, werden wir diese Lücke allein durch Zuwanderung nicht schließen können. Wir müssen gleichzeitig an anderen Stellen ansetzen: Viele Frauen arbeiten in Teilzeit, obwohl sie gern mehr arbeiten würden, wenn die Kinderbetreuung besser wäre. Ältere Beschäftigte könnten länger bleiben, wenn die Bedingungen stimmen. Und wir verlieren jedes Jahr zu viele Jugendliche ohne Abschluss. Zuwanderung ist ein Baustein, kein Allheilmittel."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Santos, wie sind Sie nach Deutschland gekommen?"
+      },
+      {
+        "sp": "C",
+        "text": "Über ein Anwerbeprogramm. Mehrere deutsche Kliniken haben damals gezielt Pflegekräfte auf den Philippinen gesucht. Ich hatte dort vier Jahre Krankenpflege studiert und schon drei Jahre in einem großen Krankenhaus in Manila gearbeitet. Das Programm hat den Sprachkurs bezahlt, man braucht für die Pflege mindestens das Niveau B zwei, und hat bei den Formalitäten geholfen. Das war ein großes Glück, ohne diese Unterstützung hätte ich das wahrscheinlich nicht geschafft. Wir waren damals eine Gruppe von zwölf Leuten und haben uns gegenseitig sehr geholfen. Mit einigen bin ich bis heute eng befreundet."
+      },
+      {
+        "sp": "A",
+        "text": "Und dann konnten Sie gleich als Pflegefachmann anfangen?"
+      },
+      {
+        "sp": "C",
+        "text": "Nein, leider nicht. Mein Abschluss musste erst anerkannt werden, und das hat gedauert. In dieser Zeit habe ich als Pflegehelfer gearbeitet, also mit weniger Verantwortung und natürlich auch mit weniger Gehalt. Dann musste ich noch eine Prüfung ablegen, in der man zeigt, dass das eigene Wissen dem deutschen Standard entspricht. Nach ungefähr einem Jahr hatte ich die volle Anerkennung."
+      },
+      {
+        "sp": "A",
+        "text": "Gab es Dinge, die Sie in der deutschen Pflege überrascht haben?"
+      },
+      {
+        "sp": "C",
+        "text": "Oh ja. Auf den Philippinen ist die Pflege ein Studienberuf mit viel Prestige. Die Körperpflege, also Patienten waschen, beim Essen helfen, das machen dort oft die Angehörigen. Hier gehört das ganz selbstverständlich zu unseren Aufgaben. Ich gebe zu, am Anfang war ich ein bisschen gekränkt. Ich dachte: Dafür habe ich vier Jahre studiert? Bei einigen medizinischen Aufgaben ist die Arbeit zwischen Ärzten und Pflege hier auch etwas anders verteilt, aber daran gewöhnt man sich schnell. Inzwischen sehe ich das mit der Körperpflege ganz anders. Gerade dabei merkt man, wie es einem Patienten wirklich geht. Heute arbeite ich auf der Intensivstation und leite selbst neue Kolleginnen und Kollegen an."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Vogt, ein Jahr bis zur Anerkennung – ist das typisch?"
+      },
+      {
+        "sp": "B",
+        "text": "Leider ist das eher noch ein gutes Beispiel. Die Verfahren sind schneller geworden, aber sie sind nach wie vor sehr zersplittert. Je nach Beruf und Bundesland sind unterschiedliche Stellen zuständig, die teilweise unterschiedliche Unterlagen verlangen. Man muss dazu wissen: Das betrifft vor allem die sogenannten reglementierten Berufe, also zum Beispiel Pflege, Medizin oder Lehramt. In vielen anderen Berufen, etwa in der Informatik, braucht man gar keine formale Anerkennung, um arbeiten zu dürfen. Da entscheidet einfach der Arbeitgeber. Bei den reglementierten Berufen aber erleben wir oft einen merkwürdigen Widerspruch: Wir werben im Ausland mit offenen Armen und lassen die Menschen dann monatelang vor der Tür der Behörde warten."
+      },
+      {
+        "sp": "A",
+        "text": "Es gibt auch Kritik an der Anwerbung selbst. Ist es fair, Pflegekräfte aus Ländern zu holen, die sie selbst dringend brauchen?"
+      },
+      {
+        "sp": "B",
+        "text": "Das ist eine sehr berechtigte Frage. Die Weltgesundheitsorganisation führt eine Liste von Ländern mit einem kritischen Mangel an Gesundheitspersonal. Aus diesen Ländern soll nicht aktiv angeworben werden, und Deutschland hält sich daran. Die Philippinen stehen nicht auf dieser Liste. Das Land bildet seit Jahrzehnten ganz bewusst mehr Pflegekräfte aus, als es selbst beschäftigt, auch weil die Geldüberweisungen der Menschen im Ausland für viele Familien wichtig sind. Trotzdem fehlen auch dort, vor allem auf dem Land, Fachkräfte. Man macht es sich also zu einfach, wenn man sagt, dabei würden alle Seiten nur gewinnen."
+      },
+      {
+        "sp": "C",
+        "text": "Darf ich dazu etwas sagen? Meine Mutter sagt mir am Telefon oft, dass ich ihr fehle. Und meinem alten Krankenhaus in Manila fehle ich bestimmt auch. Gleichzeitig unterstütze ich mit meinem Gehalt meine ganze Familie, meine jüngere Schwester konnte damit studieren. Es ist kompliziert, und ich glaube, das muss man auch so stehen lassen."
+      },
+      {
+        "sp": "A",
+        "text": "Was war für Sie persönlich die größte Hürde, Herr Santos? Die Sprache?"
+      },
+      {
+        "sp": "C",
+        "text": "Die Sprache war anstrengend, ja, aber das Schwierigste war etwas anderes. Im ersten Winter habe ich mich sehr einsam gefühlt. Es wird um vier Uhr dunkel, die Leute sind freundlich, aber zurückhaltend, und meine Familie war weit weg. Dazu kam die Wohnungssuche: Ich habe über fünfzig Absagen bekommen, oft ohne Begründung. Dass ich es geschafft habe, verdanke ich vor allem meinen Kolleginnen. Eine von ihnen hat mich zu ihrem Chor mitgenommen, und dort habe ich dann die ersten Freunde außerhalb der Klinik gefunden."
+      },
+      {
+        "sp": "B",
+        "text": "Das, was Herr Santos beschreibt, ist leider kein Einzelfall. Wir wissen aus Befragungen, dass ein erheblicher Teil der zugewanderten Fachkräfte Deutschland nach einigen Jahren wieder verlässt. Das Gehalt spielt dabei so gut wie keine Rolle. Häufig genannt werden Diskriminierung im Alltag, Schwierigkeiten, die Familie nachzuholen, und eine Bürokratie, die als abweisend erlebt wird. Willkommenskultur ist deshalb kein Schlagwort für Sonntagsreden. Sie entscheidet ganz praktisch darüber, ob die Menschen bleiben."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Vogt, was müsste politisch als Nächstes passieren?"
+      },
+      {
+        "sp": "B",
+        "text": "Ich sehe zwei Dinge. Erstens: die Verfahren konsequent digitalisieren und bündeln, mit einer zentralen Stelle, die den gesamten Prozess begleitet, vom Visum bis zur Anerkennung. Zweitens: viel stärker in das Ankommen investieren, also in Sprachförderung auch nach dem Berufseinstieg, in Unterstützung bei der Wohnungssuche und in Angebote für die Familien. Wer nur auf die Arbeitskraft schaut, wird die Menschen nicht halten können. Und das gilt übrigens genauso für Lehrkräfte, Ärztinnen oder Ingenieure wie für die Pflege."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Santos, und was raten Sie Menschen, die jetzt überlegen, nach Deutschland zu kommen?"
+      },
+      {
+        "sp": "C",
+        "text": "Deutsch lernen, und zwar mehr, als die Prüfung verlangt. Mit dem geforderten Niveau kann man arbeiten, aber noch lange nicht mit den Kollegen in der Pause scherzen. Und dann: sich auch außerhalb der Arbeit einen Ort suchen, wo man Menschen trifft, einen Verein, einen Chor, eine Gemeinde. Die Arbeit allein macht einen nicht heimisch."
+      },
+      {
+        "sp": "A",
+        "text": "Katharina Vogt und Jerome Santos, vielen Dank für das Gespräch."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Zuwanderung ist nach Ansicht von Frau Vogt …",
+        "optionen": [
+          "die einzige wirksame Antwort auf den Fachkräftemangel.",
+          "wichtig, aber allein nicht ausreichend.",
+          "weniger wichtig als eine bessere Kinderbetreuung."
+        ],
+        "loesung": 1,
+        "erklaerung": "Sie nennt Zuwanderung „unverzichtbar“, aber „nur ein Teil“ der Lösung: „ein Baustein, kein Allheilmittel“. Die Kinderbetreuung ist ein weiterer Ansatz, wird aber nicht als wichtiger bezeichnet."
+      },
+      {
+        "nr": 2,
+        "stamm": "Herr Santos kam nach Deutschland, …",
+        "optionen": [
+          "über ein Programm deutscher Kliniken zur Anwerbung von Pflegekräften.",
+          "um hier Krankenpflege zu studieren.",
+          "weil Angehörige von ihm bereits hier lebten."
+        ],
+        "loesung": 0,
+        "erklaerung": "Er kam „über ein Anwerbeprogramm“ deutscher Kliniken. Krankenpflege hatte er bereits vier Jahre auf den Philippinen studiert."
+      },
+      {
+        "nr": 3,
+        "stamm": "Während des Anerkennungsverfahrens arbeitete Herr Santos …",
+        "optionen": [
+          "bereits auf der Intensivstation.",
+          "als Anleiter für neue Kollegen.",
+          "als Pflegehelfer mit weniger Verantwortung."
+        ],
+        "loesung": 2,
+        "erklaerung": "„In dieser Zeit habe ich als Pflegehelfer gearbeitet, also mit weniger Verantwortung.“ Intensivstation und Anleitung kamen erst später."
+      },
+      {
+        "nr": 4,
+        "stamm": "Am Anfang war Herr Santos gekränkt, weil …",
+        "optionen": [
+          "auch die Körperpflege der Patienten zu seinen Aufgaben gehörte.",
+          "seine Kollegen ihn fachlich nicht ernst nahmen.",
+          "er weniger verdiente, als ihm versprochen worden war."
+        ],
+        "loesung": 0,
+        "erklaerung": "Auf den Philippinen übernehmen oft Angehörige das Waschen und Essen; hier gehört es zur Pflege. „Dafür habe ich vier Jahre studiert?“ Die andere Aufgabenverteilung bei medizinischen Aufgaben fand er dagegen leicht."
+      },
+      {
+        "nr": 5,
+        "stamm": "In nicht reglementierten Berufen wie der Informatik …",
+        "optionen": [
+          "dauern die Verfahren besonders lange.",
+          "braucht man keine formale Anerkennung, um zu arbeiten.",
+          "entscheidet jedes Bundesland anders über die Zulassung."
+        ],
+        "loesung": 1,
+        "erklaerung": "Dort braucht man „gar keine formale Anerkennung“, der Arbeitgeber entscheidet. Die zersplitterten Zuständigkeiten betreffen vor allem die reglementierten Berufe."
+      },
+      {
+        "nr": 6,
+        "stamm": "Mit dem Bild von der Tür der Behörde kritisiert Frau Vogt, dass …",
+        "optionen": [
+          "Deutschland im Ausland zu wenig um Fachkräfte wirbt.",
+          "die Behörden für Zugewanderte schlecht erreichbar sind.",
+          "lange Verfahren im Widerspruch zur aktiven Anwerbung stehen."
+        ],
+        "loesung": 2,
+        "erklaerung": "Man wirbt „mit offenen Armen“ und lässt die Menschen dann „monatelang vor der Tür der Behörde warten“ – ein Widerspruch. Zu wenig Werbung kritisiert sie nicht."
+      },
+      {
+        "nr": 7,
+        "stamm": "Zur Anwerbung aus Ländern mit eigenem Personalmangel sagt Frau Vogt, dass …",
+        "optionen": [
+          "sie für alle Beteiligten ein Gewinn ist.",
+          "die Philippinen auf der Liste der Weltgesundheitsorganisation stehen.",
+          "aus bestimmten Ländern nicht aktiv angeworben werden soll."
+        ],
+        "loesung": 2,
+        "erklaerung": "Aus Ländern auf der Liste der Weltgesundheitsorganisation „soll nicht aktiv angeworben werden“. Die Philippinen stehen nicht darauf, und dass alle Seiten nur gewinnen, hält sie für zu einfach."
+      },
+      {
+        "nr": 8,
+        "stamm": "Am schwierigsten war für Herrn Santos …",
+        "optionen": [
+          "die deutsche Fachsprache im Krankenhaus.",
+          "die Einsamkeit im ersten Winter und die Wohnungssuche.",
+          "die Prüfung für die volle Anerkennung."
+        ],
+        "loesung": 1,
+        "erklaerung": "Die Sprache war anstrengend, „aber das Schwierigste war etwas anderes“: die Einsamkeit im Winter und über fünfzig Absagen bei der Wohnungssuche."
+      },
+      {
+        "nr": 9,
+        "stamm": "Viele zugewanderte Fachkräfte verlassen Deutschland wieder, unter anderem wegen …",
+        "optionen": [
+          "Diskriminierung und abweisender Bürokratie.",
+          "zu niedriger Gehälter in ihrem Beruf.",
+          "des kalten und dunklen Winters."
+        ],
+        "loesung": 0,
+        "erklaerung": "Genannt werden Diskriminierung, Probleme beim Familiennachzug und abweisende Bürokratie. Das Gehalt spielt „so gut wie keine Rolle“. Den Winter erwähnt nur Herr Santos für sich selbst."
+      },
+      {
+        "nr": 10,
+        "stamm": "Neuen Fachkräften rät Herr Santos unter anderem, …",
+        "optionen": [
+          "nur so viel Deutsch zu lernen, wie die Prüfung verlangt.",
+          "sich auch außerhalb der Arbeit Kontakte zu suchen.",
+          "zuerst eine Wohnung und dann eine Stelle zu suchen."
+        ],
+        "loesung": 1,
+        "erklaerung": "Man soll sich einen Ort suchen, „wo man Menschen trifft“, etwa einen Verein oder Chor. Deutsch soll man mehr lernen, „als die Prüfung verlangt“."
+      }
+    ]
+  },
+  {
+    "id": "hv2_10",
+    "teil": "hv2",
+    "titel": "Hitze in der Stadt",
+    "thema": "wohnen_stadt",
+    "bezug": false,
+    "pruefung": 3,
+    "niveau": "C1+",
+    "situation": "Sie hören eine Sendung aus der Reihe „Umwelt und Gesellschaft“ mit einem Stadtklimatologen und einer Stadtplanerin.",
+    "rollen": [
+      {
+        "sp": "A",
+        "name": "Moderator"
+      },
+      {
+        "sp": "B",
+        "name": "Prof. Dr. Ralf Engel, Stadtklimatologe"
+      },
+      {
+        "sp": "C",
+        "name": "Nadine Roth, Stadtplanerin im Umweltamt einer Großstadt"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "A",
+        "text": "Guten Morgen und willkommen bei „Umwelt und Gesellschaft“. Die Sommer in Deutschland werden heißer, und am deutlichsten spürt man das in den Städten. Zwischen Asphalt und Beton ist es oft um einige Grad wärmer als im Umland. Nach Schätzungen sterben in besonders heißen Sommern hierzulande mehrere tausend Menschen an den Folgen der Hitze. Wie können Städte damit umgehen? Darüber spreche ich mit dem Stadtklimatologen Ralf Engel und mit Nadine Roth, die im Umweltamt einer Großstadt für die Anpassung an den Klimawandel zuständig ist. Herr Engel, warum ist es in der Stadt eigentlich so viel heißer?"
+      },
+      {
+        "sp": "B",
+        "text": "Da kommen mehrere Faktoren zusammen. Versiegelte Flächen, also Straßen, Plätze, Dächer, nehmen tagsüber enorme Mengen Wärme auf und speichern sie. Es gibt kaum offenen Boden und wenig Vegetation, also verdunstet wenig Wasser, und Verdunstung ist ja die natürliche Klimaanlage. Die Gebäude bremsen außerdem den Wind, und dann kommt noch die Abwärme von Autos, Klimaanlagen und Industrie dazu. Was viele überrascht: Tagsüber ist der Unterschied zum Umland oft gar nicht so dramatisch. Richtig groß wird er in der Nacht. Dann geben die Gebäude die gespeicherte Wärme wieder ab, und in dicht bebauten Vierteln kann es dann bis zu zehn Grad wärmer sein als draußen auf dem Land. Das eigentliche Problem ist also gar nicht so sehr der heiße Nachmittag, sondern die Nacht, in der sich der Körper nicht mehr erholen kann."
+      },
+      {
+        "sp": "A",
+        "text": "Wer ist davon besonders betroffen?"
+      },
+      {
+        "sp": "B",
+        "text": "Medizinisch gesehen vor allem ältere Menschen, chronisch Kranke und kleine Kinder. Aber man muss auch auf die Wohnverhältnisse schauen. In ärmeren Stadtteilen wohnen die Menschen häufig dichter, es gibt weniger Parks und Bäume, die Wohnungen liegen öfter direkt unter schlecht gedämmten Dächern. Wer es sich leisten kann, wohnt eher im grünen Viertel oder fährt im August in die Berge. Insofern ist Hitze eben nicht nur eine Frage des Klimas, sondern auch eine soziale Frage."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Roth, was unternimmt Ihre Stadt?"
+      },
+      {
+        "sp": "C",
+        "text": "Wir haben vor einigen Jahren einen Hitzeaktionsplan beschlossen. Kurzfristig geht es darum, Menschen bei Hitzewellen zu schützen. Wir öffnen zum Beispiel kühle Räume in Bibliotheken und Kirchen, haben in der Innenstadt öffentliche Trinkbrunnen aufgestellt und organisieren mit Wohlfahrtsverbänden eine Art Telefonkette, bei der allein lebende ältere Menschen an heißen Tagen angerufen werden. Langfristig geht es natürlich darum, die Stadt selbst umzubauen, und da steht ganz oben: mehr Grün, vor allem mehr Bäume."
+      },
+      {
+        "sp": "A",
+        "text": "Das klingt zunächst einfach. Man pflanzt Bäume, und das Problem ist gelöst?"
+      },
+      {
+        "sp": "C",
+        "text": "Schön wär’s. Erstens braucht ein Baum Jahrzehnte, bis er eine große, schattenspendende Krone hat. Zweitens leiden die Bäume selbst unter Hitze und Trockenheit, viele unserer alten Straßenbäume sind in den letzten Dürresommern regelrecht verdurstet. Wir pflanzen deshalb inzwischen zunehmend Arten aus Südosteuropa, die mit Trockenheit besser zurechtkommen. Und drittens ist der Platz knapp. Wo ein Baum stehen soll, liegen oft Leitungen im Boden, oder es fällt ein Parkplatz weg, und dann gibt es Ärger mit Anwohnern oder Geschäften. Ich sage manchmal halb im Scherz: Jeder Baum ist ein kleiner Kampf."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Engel, gibt es neben Bäumen andere wichtige Stellschrauben?"
+      },
+      {
+        "sp": "B",
+        "text": "Ein ganz zentraler Punkt sind die sogenannten Kaltluftschneisen. Das sind unbebaute Flächen, Wiesen, Bahntrassen, Täler, über die nachts kühle Luft aus dem Umland in die Stadt strömen kann. Wenn man sie zubaut, schneidet man die Stadt gewissermaßen von ihrer Frischluftzufuhr ab. Und hier haben wir einen echten Zielkonflikt. Wegen der Wohnungsnot wird in vielen Städten nachverdichtet, also auf freien Flächen gebaut. Kompakte Städte sind gut für den Klimaschutz, weil die Wege kurz sind und weniger Auto gefahren wird. Aber wenn dabei genau diese Schneisen verschwinden, schadet das der Anpassung an die Hitze. Klimaschutz und Klimaanpassung können sich hier also durchaus in die Quere kommen."
+      },
+      {
+        "sp": "A",
+        "text": "Wie sieht es mit begrünten oder weißen Dächern aus? Davon hört man viel."
+      },
+      {
+        "sp": "B",
+        "text": "Die sind durchaus sinnvoll, aber man sollte ihre Wirkung nicht überschätzen. Ein begrüntes Dach kühlt vor allem das Gebäude selbst, die oberste Wohnung profitiert also deutlich. Außerdem hält es Regenwasser zurück. Für die Menschen unten auf der Straße bringt ein begrüntes Dach in zwanzig Metern Höhe aber erstaunlich wenig. Da sind Straßenbäume viel wirksamer, weil sie direkt Schatten spenden. Im Schatten eines großen Baumes kann die gefühlte Temperatur um mehr als zehn Grad niedriger liegen als in der prallen Sonne."
+      },
+      {
+        "sp": "A",
+        "text": "Viele Menschen kaufen sich inzwischen einfach eine Klimaanlage."
+      },
+      {
+        "sp": "B",
+        "text": "Das kann ich individuell gut verstehen, und für Pflegeheime oder Krankenhäuser ist Kühlung teilweise auch notwendig. Als flächendeckende Lösung halte ich es aber für problematisch. Klimaanlagen geben die Wärme ja nach draußen ab, sie heizen also die Straße zusätzlich auf, und sie verbrauchen viel Strom. Wenn der nicht aus erneuerbaren Quellen kommt, verstärkt man den Klimawandel, gegen dessen Folgen man sich schützen will. Ein klassischer Teufelskreis. Viel sinnvoller ist es, Gebäude so zu bauen und umzurüsten, dass sie gar nicht erst so heiß werden."
+      },
+      {
+        "sp": "C",
+        "text": "Genau aus diesem Grund fördern wir keine Klimaanlagen, sondern in Sozialwohnungen außen angebrachten Sonnenschutz, also Rollläden und Markisen. Das ist günstig und hält einen großen Teil der Hitze ab, bevor sie überhaupt ins Gebäude kommt."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Roth, man hört in diesem Zusammenhang oft den Begriff Schwammstadt. Was ist damit gemeint?"
+      },
+      {
+        "sp": "C",
+        "text": "Die Idee ist, Regenwasser nicht so schnell wie möglich in die Kanalisation abzuleiten, sondern es dort zu speichern, wo es fällt, wie in einem Schwamm. Dann steht es den Pflanzen zur Verfügung und kann an heißen Tagen verdunsten und kühlen. Gleichzeitig schützt das bei Starkregen vor Überschwemmungen. Wir haben das zum Beispiel an einer Grundschule ausprobiert. Der komplett asphaltierte Schulhof wurde zu großen Teilen entsiegelt, es gibt jetzt Beete, Bäume und eine Mulde, in der sich Regenwasser sammelt. Die Kinder haben bei der Planung mitgemacht, und Messungen im letzten Sommer haben gezeigt, dass es dort an heißen Tagen spürbar kühler ist als vorher."
+      },
+      {
+        "sp": "A",
+        "text": "Herr Engel, reicht das alles? Können sich Städte auf diese Weise an jede Hitze anpassen?"
+      },
+      {
+        "sp": "B",
+        "text": "Ehrlich gesagt: nein. Anpassung hat Grenzen. Alles, was wir hier besprochen haben, kann die Folgen mildern, und zwar spürbar. Aber wenn es nicht gelingt, die Erwärmung insgesamt zu begrenzen, werden wir mit der Anpassung irgendwann nicht mehr hinterherkommen. Anpassung ist kein Ersatz für Klimaschutz, beides muss zusammen gedacht werden."
+      },
+      {
+        "sp": "A",
+        "text": "Frau Roth, was bremst Sie in der Praxis am meisten? Ist es das Geld?"
+      },
+      {
+        "sp": "C",
+        "text": "Erstaunlicherweise nicht in erster Linie. Es gibt inzwischen eine ganze Reihe von Förderprogrammen. Unser größter Engpass ist das Personal, uns fehlen Planerinnen, Ingenieure, Fachleute für Grünflächen. Und die Verfahren sind langwierig. Bis eine Straße wirklich umgestaltet ist, mit Beteiligung der Anwohner, Ausschreibung und Bau, vergehen oft fünf bis sieben Jahre. Bei einem Problem, das jeden Sommer drängender wird, ist das eigentlich zu lang."
+      },
+      {
+        "sp": "A",
+        "text": "Nadine Roth und Ralf Engel, herzlichen Dank für das Gespräch."
+      }
+    ],
+    "items": [
+      {
+        "nr": 1,
+        "stamm": "Das eigentliche Problem der städtischen Hitze ist nach Herrn Engel …",
+        "optionen": [
+          "die hohe Temperatur am Nachmittag.",
+          "die fehlende Abkühlung in der Nacht.",
+          "der fehlende Wind in der Mittagszeit."
+        ],
+        "loesung": 1,
+        "erklaerung": "Der Unterschied ist tagsüber „gar nicht so dramatisch“; das eigentliche Problem ist „die Nacht, in der sich der Körper nicht mehr erholen kann“."
+      },
+      {
+        "nr": 2,
+        "stamm": "Hitze ist nach Herrn Engel auch eine soziale Frage, weil …",
+        "optionen": [
+          "ärmere Viertel häufig dichter bebaut und weniger grün sind.",
+          "vor allem junge Menschen unter der Hitze leiden.",
+          "wohlhabende Haushalte häufiger Klimaanlagen besitzen."
+        ],
+        "loesung": 0,
+        "erklaerung": "In ärmeren Stadtteilen wohnt man dichter, es gibt weniger Parks und Bäume, die Wohnungen liegen oft unter schlecht gedämmten Dächern. Über Klimaanlagen in reichen Haushalten spricht er nicht; besonders gefährdet sind Ältere und kleine Kinder."
+      },
+      {
+        "nr": 3,
+        "stamm": "Neue Bäume sind laut Frau Roth keine schnelle Lösung, weil …",
+        "optionen": [
+          "es für das heutige Klima keine geeigneten Arten gibt.",
+          "die Anwohner neue Bäume grundsätzlich ablehnen.",
+          "sie lange wachsen müssen und selbst unter Trockenheit leiden."
+        ],
+        "loesung": 2,
+        "erklaerung": "Ein Baum braucht Jahrzehnte für eine große Krone, und Bäume leiden selbst unter Hitze und Trockenheit. Es gibt geeignete Arten aus Südosteuropa; Ärger mit Anwohnern gibt es nur, wenn zum Beispiel ein Parkplatz wegfällt."
+      },
+      {
+        "nr": 4,
+        "stamm": "Mit „Jeder Baum ist ein kleiner Kampf“ meint Frau Roth, dass …",
+        "optionen": [
+          "Stadtbäume ständig gegen Schädlinge kämpfen müssen.",
+          "um jeden Standort mit anderen Nutzungen gerungen wird.",
+          "die Bürger sich jeden neuen Baum selbst erkämpfen müssen."
+        ],
+        "loesung": 1,
+        "erklaerung": "Der Platz ist knapp: Leitungen im Boden, wegfallende Parkplätze, Ärger mit Anwohnern oder Geschäften. Es geht also um Konkurrenz um den Platz."
+      },
+      {
+        "nr": 5,
+        "stamm": "Einen Zielkonflikt sieht Herr Engel darin, dass …",
+        "optionen": [
+          "für neue Wohnungen Flächen bebaut werden, die kühle Luft liefern.",
+          "Städte wegen der Wohnungsnot zu stark in die Breite wachsen.",
+          "kompakte Städte mehr Autoverkehr verursachen."
+        ],
+        "loesung": 0,
+        "erklaerung": "Nachverdichtung gegen die Wohnungsnot kann die Kaltluftschneisen zerstören. Kompakte Städte verursachen dagegen weniger Verkehr, deshalb sind sie gut für den Klimaschutz."
+      },
+      {
+        "nr": 6,
+        "stamm": "Für Menschen auf der Straße bringen begrünte Dächer laut Herrn Engel …",
+        "optionen": [
+          "mehr als Bäume am Straßenrand.",
+          "eine gefühlte Abkühlung um zehn Grad.",
+          "nur wenig spürbare Abkühlung."
+        ],
+        "loesung": 2,
+        "erklaerung": "Für Menschen unten auf der Straße bringt ein begrüntes Dach „erstaunlich wenig“. Die zehn Grad beziehen sich auf den Schatten eines großen Baumes."
+      },
+      {
+        "nr": 7,
+        "stamm": "Als flächendeckende Lösung hält Herr Engel Klimaanlagen für problematisch, weil sie …",
+        "optionen": [
+          "die Umgebung zusätzlich aufheizen und viel Strom verbrauchen.",
+          "für Pflegeheime und Krankenhäuser nicht geeignet sind.",
+          "für die meisten Haushalte zu teuer sind."
+        ],
+        "loesung": 0,
+        "erklaerung": "Sie geben Wärme nach draußen ab und verbrauchen viel Strom – „ein klassischer Teufelskreis“. Für Pflegeheime und Krankenhäuser hält er Kühlung sogar teilweise für notwendig."
+      },
+      {
+        "nr": 8,
+        "stamm": "In Sozialwohnungen fördert die Stadt von Frau Roth …",
+        "optionen": [
+          "den Einbau von Klimaanlagen.",
+          "begrünte Dächer und Fassaden.",
+          "Sonnenschutz an der Außenseite der Gebäude."
+        ],
+        "loesung": 2,
+        "erklaerung": "„Wir fördern keine Klimaanlagen, sondern … außen angebrachten Sonnenschutz, also Rollläden und Markisen.“"
+      },
+      {
+        "nr": 9,
+        "stamm": "Auf dem Schulhof, der entsiegelt wurde, …",
+        "optionen": [
+          "sammelt sich bei Starkregen kein Wasser mehr.",
+          "ist es an heißen Tagen nachweislich kühler.",
+          "dürfen die Kinder in den Beeten nicht spielen."
+        ],
+        "loesung": 1,
+        "erklaerung": "Messungen haben gezeigt, dass es dort an heißen Tagen „spürbar kühler ist als vorher“. In einer Mulde soll sich das Regenwasser gerade sammeln."
+      },
+      {
+        "nr": 10,
+        "stamm": "Am meisten gebremst wird Frau Roth in der Praxis durch …",
+        "optionen": [
+          "fehlendes Personal und lange Verfahren.",
+          "fehlende Fördergelder.",
+          "den Widerstand der Bevölkerung."
+        ],
+        "loesung": 0,
+        "erklaerung": "Geld ist „nicht in erster Linie“ das Problem; der größte Engpass ist das Personal, und die Verfahren dauern oft fünf bis sieben Jahre."
+      }
+    ]
+  }
+]

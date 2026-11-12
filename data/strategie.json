@@ -1,0 +1,256 @@
+{
+  "karten": [
+    {
+      "id": "st_lv1", "teil": "lv1",
+      "titel": "Leseverstehen 1: Sätze in Lücken einsetzen",
+      "punkte": [
+        "Lesen Sie zuerst den ganzen Text schnell. So verstehen Sie Thema und Aufbau.",
+        "Lesen Sie dann die Sätze a–h und markieren Sie Signalwörter: Pronomen (er, sie, dieser), Konnektoren (jedoch, deshalb) und Verweise (diese Methode, ein solches Problem).",
+        "Prüfen Sie jede Lücke in beide Richtungen: Passt der Satz zum Satz davor UND zum Satz danach?",
+        "Beginnen Sie mit den sicheren Lücken. Streichen Sie benutzte Sätze durch – jeder Satz passt nur einmal.",
+        "Zwei Sätze bleiben übrig. Sie passen oft zum Thema, aber nicht zur Logik der Stelle.",
+        "Lesen Sie am Ende den Text mit Ihren Lösungen noch einmal: Ist er zusammenhängend?"
+      ],
+      "zeit": "ca. 15 Min. (inkl. Übertragung auf den Antwortbogen)",
+      "falle": "Ein Satz passt inhaltlich gut, aber sein Pronomen hat keinen passenden Bezug: Zum Beispiel steht im Satz „sie“, aber vorher wurde kein passendes Nomen genannt."
+    },
+    {
+      "id": "st_lv2", "teil": "lv2",
+      "titel": "Leseverstehen 2: Was tut der Autor in welchem Abschnitt?",
+      "punkte": [
+        "Lesen Sie zuerst die 6 Aussagen. Unterstreichen Sie das Verb der Absicht: warnt, kritisiert, empfiehlt, bedauert, relativiert, gibt eine fremde Meinung wieder …",
+        "Überlegen Sie, wie diese Absicht im Text klingen kann: Warnen = „Vorsicht“, „Gefahr“, „man sollte nicht“; Relativieren = „allerdings“, „ganz so einfach ist es nicht“.",
+        "Lesen Sie dann Abschnitt für Abschnitt. Notieren Sie am Rand in 2–3 Wörtern, was der Autor dort tut.",
+        "Ein Abschnitt kann mehrmals passen oder gar nicht. Erwarten Sie keine gleichmäßige Verteilung.",
+        "Achten Sie darauf, wessen Meinung es ist: die des Autors oder die einer anderen Person (z. B. „Kritiker meinen …“)."
+      ],
+      "zeit": "ca. 15 Min. (inkl. Übertragung)",
+      "falle": "Das Thema der Aussage kommt in einem Abschnitt vor, aber die Absicht passt nicht: Der Autor erwähnt dort zum Beispiel ein Risiko, warnt aber nicht davor."
+    },
+    {
+      "id": "st_lv3", "teil": "lv3",
+      "titel": "Leseverstehen 3: richtig – falsch – nicht im Text",
+      "punkte": [
+        "Die Aussagen folgen der Reihenfolge des Textes. Suchen Sie die passende Stelle und lesen Sie dort genau.",
+        "„Falsch“ bedeutet: Der Text sagt etwas anderes. Schon ein falsches Detail macht die ganze Aussage falsch.",
+        "„Nicht im Text“ bedeutet: Der Text sagt dazu nichts. Ihr eigenes Wissen zählt nicht.",
+        "Achten Sie auf kleine Wörter, die viel verändern: alle/einige, immer/oft, bereits/noch nicht, nur, kaum.",
+        "Meistens sind ungefähr 2 Aussagen „nicht im Text“ (manchmal 1 oder 3). Haben Sie deutlich mehr, prüfen Sie noch einmal.",
+        "Wählen Sie die Überschrift zum Schluss: Sie muss zum ganzen Text passen, nicht nur zu einem Absatz."
+      ],
+      "zeit": "ca. 30 Min. für die Aussagen + 5 Min. für die Überschrift (inkl. Übertragung)",
+      "falle": "Eine Aussage klingt logisch und ist vielleicht in der Realität wahr, steht aber so nicht im Text – dann ist die Lösung „nicht im Text“, nicht „richtig“."
+    },
+    {
+      "id": "st_sb", "teil": "sb",
+      "titel": "Sprachbausteine in 25 Minuten",
+      "punkte": [
+        "Lesen Sie den ganzen Satz um die Lücke – oft entscheidet ein Wort nach der Lücke (z. B. Verb am Ende → Subjunktion wie „obwohl“).",
+        "Fragen Sie bei jeder Lücke: Geht es um Grammatik oder um Wortschatz? Bei Grammatik prüfen Sie Kasus, Wortstellung, Präposition und Konnektor.",
+        "Typische C1-Themen: Konnektoren, Präpositionen mit Genitiv, Verben mit fester Präposition, Nomen-Verb-Verbindungen, Passiv, Relativpronomen.",
+        "Rechtschreib-Items erkennen Sie daran, dass viermal dasselbe Wort steht. Prüfen Sie Groß-/Kleinschreibung, Endung und ss/ß.",
+        "Bleiben Sie nicht hängen: Unsicher? Markieren, weitergehen und am Ende zurückkommen.",
+        "Lassen Sie keine Lücke leer. Raten ist besser als nichts – eine leere Lücke bringt sicher keinen Punkt."
+      ],
+      "zeit": "ca. 25 Min. (inkl. Übertragung)",
+      "falle": "Eine Option passt inhaltlich perfekt, aber nicht grammatisch – zum Beispiel „trotz“ (Präposition) statt „obwohl“ (Subjunktion) vor einem Nebensatz."
+    },
+    {
+      "id": "st_hv1", "teil": "hv1",
+      "titel": "Hörverstehen 1: Meinungen zuordnen",
+      "punkte": [
+        "Sie hören jeden Text nur einmal. Nutzen Sie die Lesezeit (1 Minute) für die 10 Aussagen a–j.",
+        "Unterstreichen Sie in jeder Aussage das Wort, das die Haltung zeigt: skeptisch, begeistert, enttäuscht, fordert, bereut …",
+        "Achten Sie beim Hören auf die Haltung der Person, nicht auf einzelne Wörter. Die Aussagen sind mit anderen Worten formuliert.",
+        "Hören Sie jede Person bis zum Ende: Oft kommt das wichtige „aber“ erst im letzten Satz.",
+        "Wenn Sie unsicher sind: zwei Buchstaben notieren und nach der nächsten Person entscheiden.",
+        "Zwei Aussagen bleiben übrig. Streichen Sie benutzte Aussagen durch."
+      ],
+      "zeit": "ca. 8 Min. (davon 1 Min. Lesezeit)",
+      "falle": "Ein Wort aus der Aussage kommt im Hörtext vor, aber die Person meint das Gegenteil – zum Beispiel nennt sie ein Argument nur, um es danach zu widerlegen."
+    },
+    {
+      "id": "st_hv2", "teil": "hv2",
+      "titel": "Hörverstehen 2: Interview mit Multiple Choice",
+      "punkte": [
+        "Nutzen Sie die 3 Minuten Lesezeit: Lesen Sie Satzanfänge und Optionen und markieren Sie, worin sich a, b und c unterscheiden.",
+        "Die Items folgen dem Gespräch. Behalten Sie immer das aktuelle und das nächste Item im Blick.",
+        "Sie hören nur einmal: Haben Sie ein Item verpasst, kreuzen Sie schnell etwas an und konzentrieren Sie sich sofort auf das nächste.",
+        "Die richtige Option ist meistens umformuliert. Wörter, die genau wie im Hörtext klingen, sind oft eine Falle.",
+        "Achten Sie auf Signale wie „im Gegenteil“, „das hat sich geändert“, „früher … heute“, „ich glaube nicht, dass …“."
+      ],
+      "zeit": "ca. 9 Min. (davon 3 Min. Lesezeit)",
+      "falle": "Alle drei Optionen werden im Interview erwähnt – aber nur eine beantwortet genau den Satzanfang."
+    },
+    {
+      "id": "st_hv3", "teil": "hv3",
+      "titel": "Hörverstehen 3: Vortrag mitschreiben",
+      "punkte": [
+        "Lesen Sie in der Lesezeit (1 Minute) die Folien: Die Überschriften zeigen den Aufbau, die Lücken zeigen, welche Information fehlt (Zahl? Grund? Beispiel?).",
+        "Sie hören den Vortrag nur einmal. Schreiben Sie nur Stichworte (ca. 3–6 Wörter), keine ganzen Sätze.",
+        "Achten Sie auf Gliederungssignale: „erstens“, „ein weiterer Punkt“, „ich komme nun zu …“ – dann beginnt meist die nächste Folie.",
+        "Die Notiz muss für eine Person verständlich sein, die nicht da war. Nur „wichtig“ oder „Problem“ genügt nicht.",
+        "Rechtschreib- und Grammatikfehler kosten keine Punkte, wenn die Antwort eindeutig verständlich ist.",
+        "In den 5 Minuten am Ende: Notizen sauber und lesbar in die Zeilen 65–74 des Antwortbogens schreiben."
+      ],
+      "zeit": "ca. 20 Min. (1 Min. Lesezeit, ca. 10 Min. Vortrag, 5 Min. Übertragung für das ganze Hörverstehen)",
+      "falle": "Zu allgemeine Notizen wie „Nachteile“ oder „eine Studie“ bekommen 0 Punkte – es muss der konkrete Inhalt dastehen (Welcher Nachteil? Was zeigt die Studie?)."
+    },
+    {
+      "id": "st_schreiben", "teil": "schreiben",
+      "titel": "Schriftlicher Ausdruck: Erörterung in 70 Minuten",
+      "punkte": [
+        "Wählen Sie schnell (max. 3 Minuten) das Thema, zu dem Ihnen mehr Argumente und Beispiele einfallen.",
+        "Tragen Sie die Nummer der gewählten Aufgabe auf dem Antwortbogen ein – sonst wird Ihr Text nicht bewertet.",
+        "Gehen Sie auf beide Zitate ein: Geben Sie sie mit eigenen Worten wieder und nehmen Sie dazu Stellung.",
+        "Gliedern Sie klar in Einleitung, Hauptteil (Argumente mit Beispielen) und Schluss mit eigener Meinung. Machen Sie Absätze.",
+        "Schreiben Sie mindestens 350 Wörter. Tipp: Zählen Sie die Wörter einer Zeile und rechnen Sie hoch.",
+        "Notizpapier ist nicht erlaubt – planen Sie im Aufgabenheft. Geschrieben wird direkt auf den Antwortbogen, also vorher gut gliedern.",
+        "Benutzen Sie Konnektoren und Redemittel, aber nur solche, die Sie sicher beherrschen."
+      ],
+      "zeit": "70 Min.: ca. 15 Min. planen, ca. 45 Min. schreiben, ca. 10 Min. korrigieren",
+      "falle": "Nur ein Zitat behandeln oder nur allgemein über das Thema schreiben, ohne einen klaren eigenen Standpunkt – das kostet Punkte bei der Aufgabengerechtheit."
+    },
+    {
+      "id": "st_sprechen_1a", "teil": "sprechen_1a",
+      "titel": "Mündlich 1A: Präsentation",
+      "punkte": [
+        "Wählen Sie in der Vorbereitung schnell eines der zwei Themen (max. 2 Minuten).",
+        "Schreiben Sie nur Stichworte auf das Notizpapier, keinen ganzen Text – die Notizen dürfen Sie benutzen, aber nicht ablesen.",
+        "Bearbeiten Sie alle Leitpunkte in einer klaren Reihenfolge.",
+        "Planen Sie einen interessanten Einstieg (Beispiel, eigene Erfahrung, Frage) und einen kurzen Schluss mit Fazit.",
+        "Kündigen Sie die Gliederung an und nutzen Sie Überleitungen: „Damit komme ich zu …“, „Ein weiterer Aspekt ist …“.",
+        "Sprechen Sie zu Ihrem Partner bzw. Ihrer Partnerin und halten Sie Blickkontakt.",
+        "Es gibt kein Wörterbuch. Fehlt Ihnen ein Wort, umschreiben Sie es: „Das ist so etwas wie …“."
+      ],
+      "zeit": "20 Min. Vorbereitung, ca. 3–4 Min. Vortrag",
+      "falle": "Zu lange Einleitung oder zu viel zu einem Punkt – dann fehlen am Ende Zeit und Leitpunkte. Planen Sie ungefähr 40–50 Sekunden pro Leitpunkt."
+    },
+    {
+      "id": "st_sprechen_1b", "teil": "sprechen_1b",
+      "titel": "Mündlich 1B: Zusammenfassen und Nachfragen",
+      "punkte": [
+        "Machen Sie während der Präsentation Ihres Partners Notizen: Thema, 2–3 wichtige Punkte, seine Meinung.",
+        "Fassen Sie mit eigenen Worten zusammen, was Sie besonders interessant fanden – wiederholen Sie nicht nur seinen Schluss.",
+        "Redemittel: „Du hast gesagt, dass …“, „Besonders interessant fand ich …“, „Wenn ich dich richtig verstanden habe, …“.",
+        "Stellen Sie mindestens eine echte Anschlussfrage, am besten zu einem konkreten Punkt.",
+        "Wenn Sie gefragt werden: zuerst kurz und direkt antworten, dann begründen und ein Beispiel geben.",
+        "Verstehen Sie eine Frage nicht genau, fragen Sie nach: „Meinst du damit, dass …?“"
+      ],
+      "zeit": "ca. 2–3 Min. pro Person",
+      "falle": "Nur „Das war sehr interessant“ sagen, ohne Inhalt. Die Zusammenfassung muss so sein, dass eine Person, die nicht dabei war, informiert wäre."
+    },
+    {
+      "id": "st_sprechen_2", "teil": "sprechen_2",
+      "titel": "Mündlich 2: Diskussion über ein Zitat",
+      "punkte": [
+        "Lesen Sie das Zitat und erklären Sie zuerst kurz, wie Sie es verstehen.",
+        "Sagen Sie klar Ihre Position und begründen Sie sie mit Argumenten und Beispielen.",
+        "Hören Sie Ihrem Partner zu und reagieren Sie auf seine Argumente: zustimmen, widersprechen, nachfragen.",
+        "Sprechen Sie mit dem Partner, nicht mit den Prüfenden. Lassen Sie ihn auch zu Wort kommen.",
+        "Sie müssen sich nicht einigen – aber ein Kompromissvorschlag zeigt, dass Sie gut diskutieren können.",
+        "Die Leitpunkte sind eine Hilfe. Sie müssen nicht alle abarbeiten."
+      ],
+      "zeit": "ca. 6 Min. (keine Vorbereitungszeit – das Blatt bekommen Sie erst im Prüfungsraum)",
+      "falle": "Zwei Monologe statt eines Gesprächs: Jeder sagt nur seine eigene Meinung, ohne auf den anderen einzugehen."
+    },
+    {
+      "id": "st_zeitmanagement", "teil": "zeitmanagement",
+      "titel": "Zeitplan für die schriftliche Prüfung",
+      "punkte": [
+        "Block 1 – Lesen + Sprachbausteine (90 Min., Reihenfolge frei). Vorschlag inklusive Übertragung: LV1 14 Min., LV2 14 Min., LV3 33 Min., Sprachbausteine 22 Min., 7 Min. Puffer.",
+        "Übertragen Sie nach jedem Teil sofort auf den Antwortbogen (Felder mit weichem Bleistift ausmalen). Die Übertragung gehört zu den 90 Minuten – es gibt keine Extrazeit.",
+        "Kontrollpunkte mit der Uhr im Raum: nach ca. 28 Min. LV1 und LV2 fertig, nach ca. 61 Min. LV3 fertig, nach ca. 83 Min. Sprachbausteine fertig.",
+        "Pause (20 Min.): etwas essen und trinken, kurz bewegen, nicht über Lösungen sprechen.",
+        "Hören (ca. 40 Min.): Die Zeit steuert die Aufnahme. Nutzen Sie alle Lesezeiten voll. Am Ende haben Sie 5 Min., um alles zu übertragen – auch die HV3-Notizen.",
+        "Schreiben (70 Min.): ca. 15 Min. planen (Thema wählen, Aufgabennummer eintragen, Ideen zu beiden Zitaten, Gliederung), ca. 45 Min. schreiben, ca. 10 Min. korrigieren (Verbposition, Endungen, Groß-/Kleinschreibung, Kommas).",
+        "Hängen Sie bei einem Item fest? Kein Item ist mehr als 2 Punkte wert: raten, markieren, weitergehen."
+      ],
+      "zeit": "200 Min. Bearbeitungszeit (90 + 40 + 70) plus 20 Min. Pause",
+      "falle": "In Block 1 alles zuerst im Aufgabenheft lösen und am Ende keine Zeit mehr für den Antwortbogen haben – gewertet wird nur, was auf dem Antwortbogen steht."
+    },
+    {
+      "id": "st_notizen", "teil": "notizen",
+      "titel": "Notiztechnik für Hörverstehen 3",
+      "punkte": [
+        "Notieren Sie nur Schlüsselwörter: Nomen, Zahlen, wichtige Verben – keine Artikel und keine Füllwörter.",
+        "Abkürzungen: Entw. = Entwicklung, Ges. = Gesellschaft, Wiss. = Wissenschaft, Stud. = Studierende, Probl. = Problem, Unters. = Untersuchung, bzgl. = bezüglich.",
+        "Symbole: ↑ steigt/mehr, ↓ sinkt/weniger, → führt zu/Folge, ← wegen/Ursache, = ist/bedeutet, ≠ anders/Gegensatz, + Vorteil, – Nachteil, ! wichtig, ? unklar.",
+        "Schreiben Sie Zahlen sofort als Ziffern: „zwanzig Prozent“ → 20 %, „im Jahr zweitausendzehn“ → 2010.",
+        "Reservieren Sie im Aufgabenheft für jede Folie einen eigenen Bereich. Wechselt der Sprecher das Thema, springen Sie zur nächsten Folie.",
+        "Üben Sie Ihre Abkürzungen vorher und benutzen Sie sie immer gleich – neue Abkürzungen in der Prüfung zu erfinden ist riskant.",
+        "Bei der Übertragung: Schreiben Sie Abkürzungen und Symbole aus, wenn andere sie nicht sicher verstehen würden."
+      ],
+      "zeit": "während des Vortrags (ca. 10 Min.) + Übertragung in den 5 Min. am Ende",
+      "falle": "Symbole und private Abkürzungen auf den Antwortbogen übernehmen, die nur Sie verstehen. Maßstab ist eine Person, die beim Vortrag nicht dabei war."
+    }
+  ],
+  "pruefungstag": [
+    {
+      "gruppe": "Eine Woche vorher",
+      "punkte": [
+        "Einladung bzw. Anmeldebestätigung genau lesen: Datum, Uhrzeit, Adresse, Raum. Ist die Uhrzeit der Einlass oder der Prüfungsbeginn?",
+        "Ausweis oder Reisepass prüfen: Ist er noch gültig? Welche Dokumente akzeptiert werden – beim Prüfungszentrum nachfragen.",
+        "Klären, wann die mündliche Prüfung ist. Sie kann an einem anderen Tag stattfinden.",
+        "Welche Stifte sind erlaubt bzw. vorgeschrieben (z. B. weicher Bleistift für die Antwortfelder, Kugelschreiber oder Bleistift für den Schreibteil)? Beim Prüfungszentrum nachfragen.",
+        "Anreise planen: Verbindung heraussuchen, Fahrzeit realistisch einschätzen, Plan B für Zugausfall oder Stau.",
+        "Einen kompletten Übungstest mit den echten Zeiten machen. Danach nur noch wiederholen, nichts Neues mehr lernen.",
+        "Schlafrhythmus anpassen: zu der Zeit aufstehen, zu der Sie am Prüfungstag aufstehen müssen."
+      ]
+    },
+    {
+      "gruppe": "Am Vorabend",
+      "punkte": [
+        "Tasche packen: Ausweis, Anmeldebestätigung, gespitzte Bleistifte, Spitzer, Radiergummi, Taschentücher.",
+        "Getränk vorbereiten: laut telc-Regeln in einer durchsichtigen Flasche ohne Etikett. Einen Snack für die Pause einpacken.",
+        "Uhr: Laut telc-Regeln sind Uhren und Wearables im Prüfungsraum nicht erlaubt – auch keine einfache Armbanduhr. Ob es im Raum eine sichtbare Uhr gibt, beim Prüfungszentrum nachfragen.",
+        "Wecker stellen (am besten zwei) und Kleidung bereitlegen – mehrere Schichten, denn Prüfungsräume sind manchmal kalt, manchmal warm.",
+        "Nur noch locker wiederholen, zum Beispiel Redemittel für die mündliche Prüfung. Keinen neuen Stoff.",
+        "Früh ins Bett gehen."
+      ]
+    },
+    {
+      "gruppe": "Am Morgen",
+      "punkte": [
+        "Normal frühstücken – nichts Neues ausprobieren.",
+        "Nicht zu viel Kaffee, aber genug Wasser trinken.",
+        "Früh losfahren: lieber 30 Minuten zu früh als 5 Minuten zu spät. Wer zu spät kommt, wird eventuell nicht mehr eingelassen.",
+        "Deutsch „aufwärmen“: auf dem Weg einen kurzen Podcast hören oder einen Artikel lesen.",
+        "Letzte Kontrolle: Ausweis? Anmeldebestätigung? Stifte? Getränk?"
+      ]
+    },
+    {
+      "gruppe": "Im Prüfungsraum (schriftlich)",
+      "punkte": [
+        "Handy ausschalten und dort ablegen, wo die Aufsicht es sagt. Handys, Uhren und Wearables sind nicht erlaubt.",
+        "Auf dem Tisch nur erlaubte Dinge: Stifte, Spitzer, Radiergummi, Getränk, Taschentücher und den Ausweis.",
+        "Kein Wörterbuch und kein Notizpapier: Notizen machen Sie nur im Aufgabenheft.",
+        "Antwortbogen sorgfältig ausfüllen. Bei Fragen zum Formular sofort die Aufsicht fragen.",
+        "Nur der Antwortbogen zählt: Lesen und Sprachbausteine innerhalb der 90 Minuten übertragen.",
+        "Beim Schreiben die Nummer der gewählten Aufgabe auf dem Antwortbogen eintragen.",
+        "Ruhe bewahren: Ist ein Teil schwer, tief durchatmen und zum nächsten Item gehen. Jeder Teil ist eine neue Chance."
+      ]
+    },
+    {
+      "gruppe": "In der Pause",
+      "punkte": [
+        "Etwas essen und trinken, kurz an die frische Luft gehen.",
+        "Nicht über Lösungen diskutieren – das macht nur nervös, und der Teil ist ohnehin abgeschlossen.",
+        "Zur Toilette gehen: Das Hörverstehen läuft danach ohne Unterbrechung.",
+        "Kurz an die Hörstrategie denken: Lesezeiten nutzen, jeder Text kommt nur einmal."
+      ]
+    },
+    {
+      "gruppe": "Mündliche Prüfung",
+      "punkte": [
+        "Pünktlich da sein und den Ausweis mitbringen. Uhrzeit und Raum vorher prüfen.",
+        "Vorbereitung (20 Min.): Thema schnell wählen, nur Stichworte auf das Notizpapier schreiben, kein Wörterbuch, nicht mit anderen sprechen.",
+        "Die Notizen dürfen Sie in den Prüfungsraum mitnehmen und benutzen, aber nicht ablesen. Danach werden sie eingesammelt.",
+        "Beim kurzen Kennenlernen am Anfang locker und freundlich antworten – das hilft gegen Nervosität.",
+        "Mit dem Partner sprechen, Blickkontakt halten, ruhig und deutlich sprechen.",
+        "Etwas nicht verstanden? Nachfragen ist erlaubt und zeigt, dass Sie gut kommunizieren können.",
+        "Fehlt ein Wort, umschreiben Sie es, statt zu schweigen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+[
+ {
+  "id": "partizip",
+  "titel": "Partizipialattribute (erweitertes Attribut)",
+  "kurz": "Ein Partizip kann wie ein Adjektiv **vor dem Nomen** stehen und bekommt dann eine **Adjektivendung**. Davor können weitere Wörter stehen (das „erweiterte Attribut“): *die **seit Jahren steigenden** Mieten*.\n\n**Partizip I** (Infinitiv + **-d**: *steigend*) ist **aktiv** und **gleichzeitig**: Die Mieten steigen gerade.\n\n**Partizip II** (*geprüft*, *gestiegen*) ist bei transitiven Verben **passiv**: *der geprüfte Antrag* = der Antrag, der geprüft wurde. Bei Verben mit „sein“ (*steigen, erkranken*) ist es aktiv und **abgeschlossen**: *die gestiegenen Mieten*.\n\n**zu + Partizip I** bedeutet „muss/kann gemacht werden“: *die **zu lösenden** Probleme* = die Probleme, die gelöst werden müssen.\n\nSo findest du die Lösung: 1. Aktiv oder passiv? 2. Welche Endung (Artikel, Kasus)? Tipp: Forme das Attribut im Kopf in einen **Relativsatz** um.",
+  "tabelle": [
+   ["Form", "Bedeutung", "Beispiel", "Relativsatz"],
+   ["Partizip I", "aktiv, gleichzeitig", "die anhaltende Diskussion", "die Diskussion, die anhält"],
+   ["Partizip II (transitiv)", "passiv", "die vorgeschlagenen Maßnahmen", "die Maßnahmen, die vorgeschlagen wurden"],
+   ["Partizip II (Verb mit „sein“)", "aktiv, abgeschlossen", "die erkrankten Kinder", "die Kinder, die erkrankt sind"],
+   ["zu + Partizip I", "Notwendigkeit/Möglichkeit", "die zu lösenden Probleme", "die Probleme, die gelöst werden müssen"]
+  ],
+  "beispiele": [
+   "Eine an mehreren Hochschulen durchgeführte Befragung zeigt große Unterschiede.",
+   "Die im Labor arbeitenden Studierenden tragen Schutzbrillen.",
+   "Die bis Freitag einzureichenden Unterlagen finden Sie im Anhang."
+  ],
+  "falle": "Typische Falle in den Sprachbausteinen: Partizip I und Partizip II derselben Form stehen nebeneinander (z. B. „erzeugende / erzeugte“). Frage: Macht das Nomen die Handlung selbst (→ Partizip I) oder passiert sie mit ihm (→ Partizip II)? Danach die Endung prüfen: „eine durchgeführte Befragung“, aber „der durchgeführten Befragung“."
+ },
+ {
+  "id": "relativsatz",
+  "titel": "Relativsätze und Relativpronomen",
+  "kurz": "Ein Relativsatz beschreibt ein Nomen genauer. Das **Verb steht am Ende**.\n\nDas Relativpronomen bekommt **Genus und Zahl vom Bezugswort**, aber den **Kasus vom Verb im Relativsatz**: *die Kollegin, **der** ich geholfen habe* (helfen + Dativ).\n\n**Genitiv** zeigt Besitz: **dessen** (maskulin/neutrum), **deren** (feminin/Plural). Danach kommt das Nomen **ohne Artikel**: *der Professor, **dessen** Seminar …*\n\nMit **Präposition** steht die Präposition vorne: *das Thema, **mit dem** sich …*\n\nNach **alles, etwas, nichts, das Beste** und nach einem **ganzen Satz** steht **was**. Mit Präposition dann **wo(r) + Präposition**: *Alles, **worüber** wir gesprochen haben …*; *Sie hat bestanden, **worüber** sich alle freuen.*\n\nBei Orten ist auch **wo** möglich: *die Stadt, **wo** / **in der** ich wohne*.",
+  "tabelle": [
+   ["Kasus", "maskulin", "feminin", "neutrum", "Plural"],
+   ["Nominativ", "der", "die", "das", "die"],
+   ["Akkusativ", "den", "die", "das", "die"],
+   ["Dativ", "dem", "der", "dem", "denen"],
+   ["Genitiv", "dessen", "deren", "dessen", "deren"]
+  ],
+  "beispiele": [
+   "Kinder, deren Erstsprache gut entwickelt ist, lernen leichter eine Zweitsprache.",
+   "Das sind die Leitlinien, denen zufolge die Abwägung unzulässig ist.",
+   "Wissen, das verloren zu gehen droht, wird in Reparaturcafés weitergegeben."
+  ],
+  "falle": "Typische Falle in den Sprachbausteinen: „denen“ (Dativ Plural) und „deren“ (Genitiv Plural) werden verwechselt. Steht direkt ein Nomen nach der Lücke („… Server“, „… Hilfe“), ist es fast immer der Genitiv: „dessen/deren“. Achtung auch bei „das“ (Relativpronomen) und „dass“ (Konjunktion) sowie „das“ vs. „was“ nach „alles“."
+ },
+ {
+  "id": "nominalisierung",
+  "titel": "Nominalisierung und Verbalisierung",
+  "kurz": "Wissenschaftliche Texte benutzen oft den **Nominalstil**: Aus einem Nebensatz wird eine **Präposition + Nomen**.\n\n*Weil die Mieten gestiegen sind, …* → **Wegen des Anstiegs** der Mieten …\n\nSo funktioniert es:\n- Konnektor → Präposition (**weil → wegen**, **obwohl → trotz**, **wenn → bei**, **nachdem → nach**, **um … zu → zu/zur**).\n- Verb → Nomen (meist **-ung**: *prüfen → die Prüfung*; oft ohne Endung: *steigen → der Anstieg*; Infinitiv: *das Überschreiten*).\n- Subjekt oder Akkusativobjekt → **Genitiv** (*die Unterlagen prüfen → die Prüfung **der Unterlagen***).\n- Adverb → **Adjektiv** (*stark steigen → der **starke** Anstieg*).\n\n**Verbalisierung** ist der umgekehrte Weg: Präposition + Nomen → Nebensatz mit Verb. In den Sprachbausteinen musst du vor allem das **richtige Nomen** (Genus!) erkennen.",
+  "tabelle": [
+   ["Verbalstil (Nebensatz)", "Nominalstil (Präposition)", "Beispiel"],
+   ["weil, da", "wegen, aufgrund + G", "aufgrund der hohen Nachfrage"],
+   ["obwohl", "trotz + G", "trotz intensiver Vorbereitung"],
+   ["wenn, falls", "bei + D", "bei Überschreitung der Frist"],
+   ["nachdem", "nach + D", "nach Abschluss des Studiums"],
+   ["um … zu, damit", "zu + D, zwecks + G", "zur Verbesserung der Qualität"]
+  ],
+  "beispiele": [
+   "Zur Eindämmung des Problems setzt die Politik an mehreren Stellen an.",
+   "Bei regelmäßiger Teilnahme erhalten Sie ein Zertifikat. (= Wenn Sie regelmäßig teilnehmen, …)",
+   "Vor Beginn der Datenerhebung müssen die Hypothesen registriert werden."
+  ],
+  "falle": "Typische Falle in den Sprachbausteinen: Vier Wörter aus derselben Wortfamilie stehen zur Auswahl (z. B. „Umsetzung / Umsatz / Umsetzen / Versetzung“). Der Artikel vor der Lücke entscheidet: „die/der/zur“ → feminin (-ung), „das/dem/zum“ → nominalisierter Infinitiv. Danach die Bedeutung prüfen."
+ },
+ {
+  "id": "deklination",
+  "titel": "Deklination: Artikel, Adjektive, Nomen",
+  "kurz": "Die Adjektivendung hängt davon ab, **was vor dem Adjektiv steht**.\n\n1. Nach **der/die/das, dieser, alle, keine (Plural)** → **schwache** Endung: fast immer **-e** oder **-en**: *die neue Studie, alle Studierenden*.\n2. Nach **ein, kein, mein** (ohne Endung) → das Adjektiv zeigt das Genus: **-er** (maskulin Nominativ), **-es** (neutrum Nom./Akk.): *ein ausgewachsener Baum, ein verzerrtes Bild*.\n3. **Ohne Artikel** (auch nach **viele, einige, mehrere**, Zahlen) → **starke** Endung wie der Artikel: *mit großem Engagement (dem), große Mengen feiner Fasern (der)*.\n\n**Genitiv ohne Artikel** bei maskulin/neutrum: Das Nomen zeigt schon **-s**, deshalb **-en**: *trotz schlechten Wetters*.\n\n**n-Deklination**: Maskuline Nomen wie *der Student, Kandidat, Kollege, Mensch* bekommen **-(e)n** in allen Fällen außer Nominativ Singular: *mit dem Studenten*.",
+  "tabelle": [
+   ["", "nach der/die/das", "nach ein/kein", "ohne Artikel"],
+   ["Nom. mask.", "der neue Antrag", "ein neuer Antrag", "neuer Antrag"],
+   ["Akk. mask.", "den neuen Antrag", "einen neuen Antrag", "neuen Antrag"],
+   ["Dat. neutr.", "dem neuen Gesetz", "einem neuen Gesetz", "neuem Gesetz"],
+   ["Gen. Plural", "der neuen Regeln", "keiner neuen Regeln", "neuer Regeln"]
+  ],
+  "beispiele": [
+   "Eine Folge höherer Geburtenraten ist der Anstieg der Schülerzahlen.",
+   "Viele ältere Menschen leben allein, aber alle älteren Menschen brauchen Kontakt.",
+   "Sie ist eine der bekanntesten Forscherinnen auf diesem Gebiet."
+  ],
+  "falle": "Typische Falle in den Sprachbausteinen: Plural ohne Artikel. „rechtswidrige Inhalte“ (Akkusativ) – aber „mit rechtswidrigen Inhalten“ (Dativ) und „eine Reihe rechtswidriger Inhalte“ (Genitiv). Erst den Kasus bestimmen (Präposition, Verb), dann die Endung wählen."
+ },
+ {
+  "id": "pronomen",
+  "titel": "Pronomen, Reflexivpronomen und Pronominaladverbien",
+  "kurz": "**Personalpronomen** ersetzen ein Nomen – Genus, Zahl und Kasus müssen passen: *die Anträge → **sie** (Akk.)*, *den Schülern → **ihnen** (Dat.)*.\n\n**Reflexivpronomen**: In der 3. Person immer **sich**. Bei *ich/du* gibt es Akkusativ und Dativ: *ich freue **mich***, aber *ich stelle **mir** etwas vor* (wenn es schon ein Akkusativobjekt gibt).\n\n**Pronominaladverbien** ersetzen **Präposition + Sache**: **da(r) + Präposition**. Das „r“ kommt vor Vokal: *dafür, damit, **darauf**, **darüber***. Sie kündigen oft einen **dass-, ob- oder Infinitivsatz** an: *Es hängt **davon** ab, ob …*\n\n**Fragen und Relativsätze** über Sachen: **wo(r) + Präposition**: ***Woran** denkst du?*, *…, **worüber** sich alle freuen.*\n\nBei **Personen** benutzt man Präposition + Pronomen: *Ich denke **an sie**.* (nicht: *daran*).",
+  "tabelle": [
+   ["Verb + Präposition", "Pronominaladverb", "Fragewort", "Person"],
+   ["sich freuen auf", "darauf", "worauf?", "auf ihn/sie"],
+   ["sich beschweren über", "darüber", "worüber?", "über ihn/sie"],
+   ["abhängen von", "davon", "wovon?", "von ihm/ihr"],
+   ["erinnern an", "daran", "woran?", "an ihn/sie"],
+   ["plädieren für", "dafür", "wofür?", "für ihn/sie"]
+  ],
+  "beispiele": [
+   "Viele Studierende beschweren sich darüber, dass morgens keine Räder da sind.",
+   "Wir möchten Sie darauf hinweisen, dass die Frist am Freitag endet.",
+   "Kritiker halten dem entgegen, dass der Ort weniger wichtig ist."
+  ],
+  "falle": "Typische Falle in den Sprachbausteinen: Vier Pronominaladverbien stehen zur Wahl (darauf / darüber / daran / davon). Die Lösung hängt nur von der Präposition des Verbs oder Adjektivs ab – deshalb Rektion lernen: „sich freuen auf“ (Zukunft), „sich freuen über“ (Gegenwart/Vergangenheit), „überzeugt von“, „hinweisen auf“."
+ },
+ {
+  "id": "wortstellung",
+  "titel": "Wortstellung im Satz",
+  "kurz": "**Hauptsatz:** Das konjugierte Verb steht auf **Position 2**. Auf Position 1 kann das Subjekt, eine Zeitangabe, ein Adverb (*deshalb, trotzdem, außerdem*) oder ein **ganzer Nebensatz** stehen – danach kommt **sofort das Verb**: *Obwohl es schwer war, **hat** sie bestanden.*\n\n**Satzklammer:** Trennbare Vorsilben, Partizipien und Infinitive stehen **am Ende**: *Sie **fängt** um 18 Uhr **an**.* / *Kritiker **halten dagegen**, dass …*\n\n**Nebensatz** (*dass, weil, ob, wenn*, Relativsatz, indirekte Frage): Das konjugierte Verb steht **ganz am Ende**: *…, dass sie die Stelle bekommen **wird**.* Ausnahme: zwei Infinitive (*lesen können*) → *…, dass er es **hätte** lesen können.*\n\n**Mittelfeld:** Pronomen stehen früh, direkt nach dem Verb bzw. Subjekt. Zwei Pronomen: **Akkusativ vor Dativ** (*sie ihnen*). Zwei Nomen: **Dativ vor Akkusativ** (*den Schülern die Tests*).",
+  "tabelle": [
+   ["Satztyp", "Position 1", "Position 2", "Mittelfeld", "Ende"],
+   ["Hauptsatz", "Deshalb", "möchte", "ich ein Auslandssemester", "machen."],
+   ["Nach Nebensatz", "Wenn ich Zeit hätte,", "würde", "ich mehr", "lesen."],
+   ["Nebensatz", "…, dass", "—", "sie die Stelle", "bekommen wird."],
+   ["Trennbares Verb", "Die Veranstaltung", "fängt", "um 18 Uhr", "an."]
+  ],
+  "beispiele": [
+   "Beim Fahren lösen sich von den Reifen winzige Partikel.",
+   "Schließlich seien es Forschende selbst gewesen, die die Probleme aufgedeckt hätten.",
+   "Ihrer Ansicht nach ließe sich das Ziel auch anders erreichen."
+  ],
+  "falle": "Typische Falle in den Sprachbausteinen: Die Optionen enthalten dieselben Wörter in anderer Reihenfolge („ließe sich / sich ließe“). Zähle die Positionen: Was steht schon auf Position 1? Dann muss in einem Hauptsatz direkt das konjugierte Verb folgen."
+ },
+ {
+  "id": "wortbildung",
+  "titel": "Wortbildung: Präfixe und Suffixe",
+  "kurz": "Viele C1-Wörter entstehen aus einem **Stamm** + **Präfix** oder **Suffix**. Wer die Bausteine kennt, kann die Bedeutung erschließen.\n\n**Suffixe für Nomen:** **-ung** (Vorgang: *die Prüfung*), **-heit/-keit** (Eigenschaft: *die Flexibilität, die Wirksamkeit*), **-schaft** (Gruppe/Eigenschaft: *die Hilfsbereitschaft*). Alle sind **feminin**!\n\n**Suffixe für Adjektive:** **-bar** (kann gemacht werden: *lösbar, nachweisbar*), **-los** (ohne: *wirkungslos*), **-voll** (mit viel: *verständnisvoll*), **-lich** (*verständlich, gelegentlich*), **-ig** (*vielschichtig, aussagekräftig*).\n\n**Präfixe für Verben** ändern die Bedeutung stark: **ent-** (weg/rückgängig: *entsperren, entsorgen*), **ver-** (anders/woandershin: *verändern, verlagern*), **be-** (+ Akkusativ: *beantworten*), **zer-** (in Teile: *zerlegen*).\n\n**un-** verneint: *unbegründet, unverzichtbar*.",
+  "tabelle": [
+   ["Baustein", "Bedeutung", "Beispiele"],
+   ["-bar", "kann … werden", "lösbar, reproduzierbar, nachweisbar"],
+   ["-los", "ohne", "wirkungslos, grundlos"],
+   ["-ung / -heit / -keit / -schaft", "Nomen (immer feminin)", "Bearbeitung, Trockenheit, Wirksamkeit, Bereitschaft"],
+   ["ent-", "weg, rückgängig", "entsorgen, entsperren, entziehen"],
+   ["un-", "Gegenteil", "unbegründet, unzureichend"]
+  ],
+  "beispiele": [
+   "Mikroplastik ist inzwischen nahezu überall nachweisbar.",
+   "Schlaf ist eine unverzichtbare Voraussetzung für erfolgreiches Lernen.",
+   "Mit der App kann man jedes Rad entsperren."
+  ],
+  "falle": "Typische Falle in den Sprachbausteinen: Vier Wörter aus derselben Wortfamilie (z. B. „verständlich / verständig / verstanden / verständnisvoll“ oder „entsorgt / versorgt / besorgt / gesorgt“). Nicht nur auf die Form achten – die Bedeutung des Präfixes bzw. Suffixes entscheidet."
+ }
+]

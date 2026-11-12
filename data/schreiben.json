@@ -1,0 +1,882 @@
+[
+  {
+    "id": "sa01",
+    "paar": "P1",
+    "thema": "bildung_hochschule",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "textsorte": "Erörterung",
+    "situation": "Für das Seminar „Wissenschaftliches Arbeiten“ schreiben Sie eine Erörterung: Soll es an Hochschulen eine Anwesenheitspflicht geben?",
+    "zitate": [
+      {
+        "text": "Ohne Anwesenheit keine Diskussion – und die Diskussion ist das Herz jedes Seminars.",
+        "person": "Dr. Petra Hahn, Dozentin für Soziologie"
+      },
+      {
+        "text": "Wir sind erwachsen. Wer nebenher jobben muss, braucht flexible Lernwege.",
+        "person": "Malik S., Student der Betriebswirtschaft"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Seminare leben vom Austausch: Ohne Teilnehmende gibt es keine Diskussion.",
+      "Regelmäßige Teilnahme verbessert den Lernerfolg und senkt das Risiko eines Studienabbruchs.",
+      "Gruppenarbeiten und Referate brauchen verlässliche Partnerinnen und Partner.",
+      "Vor allem Erstsemester finden über die Präsenz Kontakte und Lerngruppen.",
+      "Bei Laborpraktika und Sprachkursen ist Anwesenheit fachlich notwendig."
+    ],
+    "ideen_contra": [
+      "Studierende sind erwachsen und tragen Verantwortung für ihr eigenes Lernen.",
+      "Viele müssen neben dem Studium arbeiten, Kinder betreuen oder Angehörige pflegen.",
+      "Körperliche Anwesenheit bedeutet nicht automatisch Aufmerksamkeit.",
+      "Gute Lehre überzeugt von selbst; eine Pflicht verdeckt schwache Veranstaltungen.",
+      "Skripte, Aufzeichnungen und Online-Material ermöglichen flexibles Lernen."
+    ],
+    "gliederung": [
+      "Einleitung: aktuelle Debatte an Hochschulen, Leitfrage, Ankündigung der Abwägung",
+      "Hauptteil 1: Argumente für eine Pflicht (Diskussion, Gruppenarbeit, soziale Kontakte) mit Bezug auf Dr. Hahn",
+      "Hauptteil 2: Argumente gegen eine Pflicht (Eigenverantwortung, Nebenjob, Anwesenheit ≠ Aufmerksamkeit) mit Bezug auf Malik S.",
+      "Hauptteil 3: eigene Abwägung – Unterscheidung nach Veranstaltungsart, Ausnahmeregeln",
+      "Schluss: Fazit (flexible Regelung) und Ausblick auf gute Lehre"
+    ],
+    "musterloesung": "An vielen deutschen Hochschulen wird seit Jahren darüber gestritten, ob Studierende zur Teilnahme an Lehrveranstaltungen verpflichtet werden sollten. Während einige Bundesländer die Anwesenheitspflicht zeitweise weitgehend abgeschafft haben, fordern Lehrende immer wieder ihre Rückkehr. Im Folgenden möchte ich die wichtigsten Argumente beider Seiten abwägen und anschließend meinen eigenen Standpunkt darlegen.\n\nFür eine Anwesenheitspflicht spricht vor allem der Charakter des Seminars als Lernform. Die Soziologin Petra Hahn betont zu Recht, dass die Diskussion das Herzstück jedes Seminars sei und ohne Teilnehmende schlicht nicht stattfinden könne. Tatsächlich lernt man in einem Seminar nicht nur aus Texten, sondern vor allem dadurch, dass man eigene Thesen formuliert, Gegenargumente hört und seine Position gegebenenfalls korrigiert. Hinzu kommt, dass Gruppenarbeiten und Referate auf verlässliche Partner angewiesen sind. Wer schon einmal ein Referat allein vorbereiten musste, weil zwei Gruppenmitglieder nie erschienen sind, weiß, wie frustrierend das sein kann. Nicht zuletzt profitieren gerade Erstsemester davon, regelmäßig Kommilitonen und Lehrende zu treffen, denn so entstehen Lerngruppen und Kontakte, die durch das ganze Studium tragen.\n\nAndererseits ist der Einwand des Studenten Malik S. ernst zu nehmen. Er weist darauf hin, dass Studierende erwachsene Menschen sind, die selbst über ihr Lernen entscheiden sollten, und dass viele von ihnen neben dem Studium Geld verdienen müssen. Studierendenbefragungen zufolge arbeitet mehr als die Hälfte der Studierenden in Deutschland nebenbei, manche betreuen außerdem Kinder oder pflegen Angehörige. Für diese Gruppe kann eine starre Pflicht bedeuten, dass sie ihr Studium verlängern oder sogar abbrechen muss. Darüber hinaus garantiert körperliche Anwesenheit noch lange keine Aufmerksamkeit: Wer nur kommt, um auf der Liste zu unterschreiben, und dann am Laptop andere Dinge erledigt, trägt ebenfalls nichts zur Diskussion bei.\n\nMeines Erachtens lässt sich der Konflikt nicht pauschal lösen, sondern nur, indem man zwischen verschiedenen Veranstaltungsformen unterscheidet. Bei Vorlesungen, deren Inhalte auch über Skripte oder Aufzeichnungen zugänglich sind, halte ich eine Pflicht für überflüssig. In Seminaren, Laborpraktika und Sprachkursen hingegen, in denen die gemeinsame Arbeit selbst der Lerngegenstand ist, erscheint mir eine Mindestanwesenheit von etwa 80 Prozent durchaus angemessen. Entscheidend ist allerdings, dass es begründete Ausnahmen für Erwerbstätige und Studierende mit Familienpflichten gibt, beispielsweise durch Ersatzleistungen wie ein schriftliches Protokoll.\n\nZusammenfassend bin ich der Ansicht, dass Hochschulen weder auf eine generelle Pflicht noch auf völlige Freiwilligkeit setzen sollten. Eine flexible Regelung würde sowohl der Bedeutung des Austauschs als auch der Lebensrealität vieler Studierender gerecht werden. Am wirkungsvollsten wäre es jedoch, Lehrveranstaltungen so zu gestalten, dass man sie gar nicht verpassen möchte.",
+    "checkliste": [
+      "Inhalt: Habe ich beide Zitate (Dr. Hahn und Malik S.) mit eigenen Worten wiedergegeben?",
+      "Inhalt: Ist mein eigener Standpunkt zur Anwesenheitspflicht im Schluss klar formuliert?",
+      "Inhalt: Habe ich mindestens zwei konkrete Beispiele genannt (z. B. Gruppenreferat, Nebenjob)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Steht das Verb in Nebensätzen mit dass, weil, wenn am Ende?",
+      "Korrektheit: Steht ein Komma vor dass, weil, obwohl und vor jedem Relativsatz?",
+      "Wortschatz: Habe ich Wiederholungen vermieden (z. B. Anwesenheit, Präsenz, Teilnahme abwechselnd)?",
+      "Wortschatz: Ist mein Stil sachlich, ohne Umgangssprache wie „blöd“ oder „total“?",
+      "Aufbau: Sind Einleitung, Hauptteil und Schluss als eigene Absätze erkennbar?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. während, hinzu kommt, andererseits, darüber hinaus, zusammenfassend)?"
+    ]
+  },
+  {
+    "id": "sa02",
+    "paar": "P1",
+    "thema": "klima_nachhaltigkeit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "textsorte": "Stellungnahme",
+    "situation": "Der Studierendenrat schlägt vor, dass die Mensa nur noch vegetarisch kocht. Für seinen Blog schreiben Sie eine Stellungnahme.",
+    "zitate": [
+      {
+        "text": "Die Mensa muss beim Klimaschutz vorangehen. Fleisch gehört nicht mehr auf den Teller.",
+        "person": "Jana W., Referentin für Nachhaltigkeit im Studierendenrat"
+      },
+      {
+        "text": "Eine Mensa soll alle satt machen, nicht erziehen. Die Wahl muss frei bleiben.",
+        "person": "Tobias K., Student der Elektrotechnik"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Fleisch, vor allem Rindfleisch, verursacht viel mehr Treibhausgase als pflanzliche Lebensmittel.",
+      "Eine große Mensa mit Tausenden Essen pro Tag hat einen spürbaren Einfluss auf die Klimabilanz.",
+      "Die Hochschule hat eine Vorbildfunktion; gute vegetarische Gerichte verändern Gewohnheiten.",
+      "Pflanzliche Gerichte sind oft gesünder und in der Herstellung günstiger.",
+      "Weniger Massentierhaltung bedeutet auch mehr Tierschutz."
+    ],
+    "ideen_contra": [
+      "Die Mensa soll alle günstig versorgen; viele Studierende sind auf sie angewiesen.",
+      "Verbote wirken bevormundend und führen eher zu Trotz als zu Einsicht.",
+      "Wer Fleisch essen will, geht zum Imbiss – dem Klima ist damit nicht geholfen.",
+      "Manche brauchen aus gesundheitlichen Gründen bestimmte Nährstoffe oder Gerichte.",
+      "Ein freiwilliges, attraktives Angebot erreicht oft mehr als ein Verbot."
+    ],
+    "gliederung": [
+      "Einleitung: Vorschlag des Studierendenrats, Diskussion auf dem Campus, Ankündigung der Stellungnahme",
+      "Hauptteil 1: berechtigtes Anliegen von Jana W. (Klimabilanz, Vorbildfunktion) mit Beispiel",
+      "Hauptteil 2: Einwand von Tobias K. (Wahlfreiheit, soziale Funktion der Mensa, Trotzreaktion)",
+      "Hauptteil 3: eigener Vorschlag – vegetarisch als attraktivste Wahl, Fleisch seltener und teurer",
+      "Schluss: Fazit (Ziel ja, Verbot nein) und Appell an den Studierendenrat"
+    ],
+    "musterloesung": "Der Vorschlag des Studierendenrats, das Angebot unserer Mensa vollständig auf vegetarische Gerichte umzustellen, sorgt derzeit auf dem Campus für hitzige Diskussionen. Da die Entscheidung uns alle betrifft, möchte ich in diesem Beitrag Stellung beziehen.\n\nZunächst ist anzuerkennen, dass Jana W. vom Studierendenrat ein berechtigtes Anliegen vertritt. Sie fordert, dass die Mensa beim Klimaschutz eine Vorreiterrolle übernehmen und Fleisch ganz vom Speiseplan streichen solle. In der Tat verursacht die Produktion von Rindfleisch ein Vielfaches der Treibhausgase, die beim Anbau von Hülsenfrüchten oder Getreide entstehen. Eine Mensa, die täglich mehrere tausend Essen ausgibt, könnte daher einen spürbaren Beitrag zur Klimabilanz der Hochschule leisten. Hinzu kommt, dass pflanzliche Gerichte in der Regel gesünder sind und sich mit regionalen Zutaten kostengünstig zubereiten lassen. Außerdem hat eine öffentliche Einrichtung Vorbildfunktion: Wer jeden Tag erlebt, dass ein Linsencurry oder eine Gemüselasagne satt macht und schmeckt, ändert womöglich auch zu Hause seine Gewohnheiten.\n\nDennoch kann ich mich der Forderung in dieser radikalen Form nicht anschließen. Tobias K. gibt zu bedenken, dass die Mensa in erster Linie dafür da sei, alle Studierenden günstig zu versorgen, und nicht, sie zu erziehen. Dieses Argument halte ich für überzeugend. Viele Kommilitoninnen und Kommilitonen sind auf das preiswerte Mittagessen angewiesen, weil sie sich kaum etwas anderes leisten können. Auch wer aus gesundheitlichen Gründen auf bestimmte Lebensmittel angewiesen ist, hätte es schwerer. Verschwindet das Fleisch aus der Mensa, gehen manche vermutlich einfach zur Imbissbude gegenüber, sodass für das Klima wenig gewonnen wäre. Darüber hinaus führen Verbote erfahrungsgemäß eher zu Trotzreaktionen als zu echter Einsicht. Eine Maßnahme, die als Bevormundung wahrgenommen wird, könnte dem Klimaschutz sogar schaden.\n\nAus meiner Sicht gibt es einen sinnvolleren Weg, der beide Positionen verbindet. Die Mensa sollte das vegetarische und vegane Angebot deutlich ausbauen und es bewusst zur attraktivsten Wahl machen, etwa indem diese Gerichte günstiger sind und an erster Stelle der Ausgabe stehen. Fleisch könnte es dagegen nur noch an zwei oder drei Tagen pro Woche geben, und zwar zu einem Preis, der seine tatsächlichen Kosten widerspiegelt. Einige Studierendenwerke haben mit ähnlichen Modellen bereits gute Erfahrungen gemacht: Der Fleischanteil ist dort deutlich gesunken, ohne dass die Zufriedenheit der Gäste abgenommen hätte.\n\nAlles in allem teile ich das Ziel des Studierendenrats, halte ein vollständiges Fleischverbot jedoch für den falschen Weg. Statt die Wahlfreiheit abzuschaffen, sollten wir sie klug gestalten. Ich hoffe daher, dass der Studierendenrat seinen Vorschlag noch einmal überdenkt und gemeinsam mit dem Studierendenwerk ein Konzept entwickelt, das klimafreundlich ist und trotzdem niemanden ausschließt.",
+    "checkliste": [
+      "Inhalt: Habe ich die Positionen von Jana W. und Tobias K. mit eigenen Worten wiedergegeben?",
+      "Inhalt: Wird klar, ob ich für oder gegen eine rein vegetarische Mensa bin?",
+      "Inhalt: Habe ich konkrete Beispiele genannt (z. B. Gerichte, Preise, Imbiss gegenüber)?",
+      "Inhalt: Passt der Text zu einem Blog (Leserinnen und Leser ansprechen, aber trotzdem sachlich)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I bei der Wiedergabe der Zitate richtig gebildet (z. B. „sie solle“, „sie sei“)?",
+      "Korrektheit: Nomen großgeschrieben und Adjektivendungen geprüft (z. B. „das vegetarische Angebot“)?",
+      "Wortschatz: Habe ich Fachwörter wie „Klimabilanz“, „Treibhausgase“, „Wahlfreiheit“ verwendet?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. da, dennoch, sodass, darüber hinaus, alles in allem)?",
+      "Aufbau: Endet der Text mit einem klaren Fazit oder Appell?"
+    ]
+  },
+  {
+    "id": "sa03",
+    "paar": "P2",
+    "thema": "ki_digitalisierung",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "In einem Seminar zur Hochschuldidaktik erörtern Sie, ob KI-Textgeneratoren bei Hausarbeiten erlaubt sein sollten.",
+    "zitate": [
+      {
+        "text": "Wer die KI schreiben lässt, verlernt das eigene Denken. Sie gehört verboten.",
+        "person": "Prof. Dr. Ulrich Brenner, Germanist"
+      },
+      {
+        "text": "KI ist ein Werkzeug wie der Taschenrechner. Hochschulen müssen ihren Gebrauch lehren.",
+        "person": "Lea M., Studentin der Informatik"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Beziehen Sie beide Aussagen ein, führen Sie Beispiele an und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Ein Verbot ist praktisch kaum durchsetzbar und fördert Heimlichkeit.",
+      "In fast allen Berufen wird später mit KI gearbeitet; die Hochschule muss darauf vorbereiten.",
+      "KI kann bei Ideenfindung, Recherche und sprachlicher Überarbeitung sinnvoll helfen.",
+      "Gerade Studierende mit einer anderen Erstsprache profitieren von sprachlicher Unterstützung.",
+      "Ein kritischer Umgang mit KI-Fehlern ist selbst eine wichtige wissenschaftliche Kompetenz."
+    ],
+    "ideen_contra": [
+      "Hausarbeiten sollen Denken, Argumentieren und Quellenarbeit schulen – das geht verloren.",
+      "KI-Texte lassen sich kaum nachweisen; ehrliche Studierende sind benachteiligt.",
+      "Sprachmodelle erfinden manchmal Quellen und Fakten.",
+      "Der Vergleich mit dem Taschenrechner hinkt: Dieser liefert nachprüfbar richtige Ergebnisse.",
+      "Die Bewertung von Leistung wird unklar: Wessen Arbeit wird eigentlich benotet?"
+    ],
+    "gliederung": [
+      "Einleitung: Verbreitung von Sprachmodellen, Leitfrage, Ankündigung der Erörterung",
+      "Hauptteil 1: Position Brenner – Sinn der Hausarbeit, Kompetenzverlust, Fairness",
+      "Hauptteil 2: Position Lea M. – Durchsetzbarkeit, Berufswelt; Kritik am Taschenrechner-Vergleich",
+      "Hauptteil 3: eigener Standpunkt – erlaubte Teilaufgaben, Offenlegung, ergänzende Prüfungsformate",
+      "Schluss: Fazit – weder Verbot noch freie Nutzung, sondern klare Regeln"
+    ],
+    "musterloesung": "Seit leistungsfähige Sprachmodelle frei verfügbar sind, stehen Hochschulen vor einer grundlegenden Frage: Sollen Studierende diese Programme beim Verfassen von Hausarbeiten verwenden dürfen? Die Meinungen darüber gehen weit auseinander, wie zwei gegensätzliche Stimmen exemplarisch zeigen. Im Folgenden werden beide Positionen erörtert, bevor ich zu einer eigenen Einschätzung gelange.\n\nDer Germanist Ulrich Brenner plädiert für ein Verbot, da Studierende, die ihre Texte von einer KI schreiben ließen, das eigenständige Denken verlernten. Diese Sorge ist keineswegs unbegründet. Das Schreiben einer Hausarbeit dient schließlich nicht primär der Produktion eines Textes, sondern der Schulung zentraler wissenschaftlicher Kompetenzen: der Entwicklung einer Fragestellung, der kritischen Auswertung von Quellen und der schlüssigen Argumentation. Wer diese Arbeitsschritte an eine Maschine delegiert, erwirbt die entsprechenden Fähigkeiten nicht. Hinzu kommt ein Problem der Fairness. Da sich KI-generierte Passagen kaum zuverlässig nachweisen lassen, wären diejenigen benachteiligt, die sich an die Regeln halten.\n\nDemgegenüber vertritt die Informatikstudentin Lea M. die Auffassung, KI sei ein Werkzeug wie der Taschenrechner, weshalb die Hochschulen ihren Gebrauch lehren müssten. Auch dieses Argument hat einiges für sich. Zum einen ist ein Verbot in der Praxis kaum durchsetzbar, sodass es eher Heimlichkeit als Ehrlichkeit fördern würde. Zum anderen werden Absolventinnen und Absolventen in nahezu allen Berufsfeldern mit KI-Anwendungen arbeiten. Eine Hochschule, die diese Entwicklung ignoriert, bereitet ihre Studierenden folglich nur unzureichend auf die Arbeitswelt vor. Studierende mit einer anderen Erstsprache könnten zudem von sprachlicher Unterstützung profitieren, die ihnen hilft, ihre Gedanken präziser auszudrücken. Allerdings hinkt der Vergleich mit dem Taschenrechner: Dieser liefert nachprüfbar korrekte Ergebnisse, während Sprachmodelle plausibel klingende, aber mitunter frei erfundene Angaben produzieren. Gerade deshalb ist ein reflektierter Umgang unverzichtbar.\n\nNach Abwägung der Argumente spreche ich mich für einen kontrollierten Einsatz aus. KI sollte bei klar definierten Teilaufgaben erlaubt sein, etwa bei der Ideenfindung, der Literaturrecherche oder der sprachlichen Überarbeitung, sofern die Studierenden ihre Nutzung offenlegen. Eine solche Kennzeichnungspflicht entspräche der Angabe von Quellen, die im wissenschaftlichen Arbeiten ohnehin selbstverständlich ist. Die eigentliche Argumentation muss hingegen eine eigenständige Leistung bleiben. Um dies sicherzustellen, könnten die Prüfungsformate ergänzt werden, beispielsweise durch ein kurzes mündliches Gespräch über die Hausarbeit oder durch die Dokumentation des Schreibprozesses. Wer seinen Text tatsächlich selbst durchdacht hat, wird ihn problemlos erläutern können.\n\nZusammenfassend lässt sich festhalten, dass weder ein pauschales Verbot noch eine unbegrenzte Freigabe überzeugt. Brenners Warnung vor dem Verlust eigenständigen Denkens ist berechtigt, doch die Lösung liegt nicht im Verbot, sondern in klaren Regeln und einer veränderten Prüfungskultur. Hochschulen sollten KI daher nicht als Bedrohung, sondern als Anlass begreifen, ihre Lehre weiterzuentwickeln.",
+    "checkliste": [
+      "Inhalt: Habe ich die Positionen von Prof. Brenner und Lea M. mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich zu beiden Zitaten Stellung genommen, nicht nur zu einem?",
+      "Inhalt: Ist mein eigener Standpunkt (Verbot, Freigabe oder Regeln) eindeutig?",
+      "Inhalt: Habe ich konkrete Beispiele genannt (z. B. Ideenfindung, mündliche Nachprüfung)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Indirekte Rede richtig (Konjunktiv I, sonst Konjunktiv II: „KI sei …“, „sie verlernten …“)?",
+      "Korrektheit: Kommas bei Infinitivsätzen mit um … zu und bei eingeschobenen Relativsätzen gesetzt?",
+      "Wortschatz: Mindestens zwei Nominalisierungen (z. B. „nach Abwägung der Argumente“, „die Schulung von Kompetenzen“)?",
+      "Wortschatz/Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. da, demgegenüber, zum einen … zum anderen, folglich, sofern)?",
+      "Aufbau: Leitet jeder Absatz mit einem klaren Themensatz ein?"
+    ]
+  },
+  {
+    "id": "sa04",
+    "paar": "P2",
+    "thema": "arbeitswelt",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Für den Senatsausschuss Lehrkräftebildung nehmen Sie Stellung: Sollen zugewanderte Lehrkräfte auch mit nur einem Unterrichtsfach anerkannt werden?",
+    "zitate": [
+      {
+        "text": "Bei diesem Lehrkräftemangel können wir es uns nicht leisten, ausgebildete Fachleute wegzuschicken.",
+        "person": "Sevgi Aydın, Schulleiterin eines Gymnasiums"
+      },
+      {
+        "text": "Zwei Fächer sind deutscher Standard. Wer hier unterrichtet, muss dieselben Anforderungen erfüllen.",
+        "person": "Dr. Rainer Volkmann, Referent im Schulministerium"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren eigenen Standpunkt argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie Ihren Text in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Der Lehrkräftemangel ist groß; qualifizierte Fachleute werden sofort gebraucht.",
+      "Ein zweites Fach nachzustudieren kostet Jahre – viele geben auf und arbeiten unter ihrer Qualifikation.",
+      "Fachliche, didaktische und sprachliche Kompetenz ist wichtiger als die Zahl der Fächer.",
+      "Zugewanderte Lehrkräfte bringen interkulturelle Erfahrung und oft weitere Sprachen mit.",
+      "In vielen Ländern ist das Ein-Fach-Studium üblich; das ist kein Zeichen geringerer Qualität."
+    ],
+    "ideen_contra": [
+      "Gleiche Standards für alle sind eine Frage der Gerechtigkeit gegenüber hier ausgebildeten Lehrkräften.",
+      "Mit zwei Fächern ist die Stundenplanung leichter, vor allem an kleinen Schulen.",
+      "Mit nur einem Fach ist eine volle Stelle manchmal schwer zu füllen.",
+      "Es darf nicht der Eindruck entstehen, Qualität hänge von der Herkunft ab.",
+      "Ausnahmen könnten den Druck erhöhen, auch andere Standards zu senken."
+    ],
+    "gliederung": [
+      "Einleitung: Lehrkräftemangel und Anerkennungsproblem, Leitfrage, Ankündigung der Stellungnahme",
+      "Hauptteil 1: Position Aydın – Mangel, Beispiel einer Biologielehrerin, Zeitverlust, interkulturelle Kompetenz",
+      "Hauptteil 2: Position Volkmann – Standard, Stundenplanung, Gleichbehandlung",
+      "Hauptteil 3: Abwägung – gleiche Anforderungen ≠ gleiche Wege; berufsbegleitendes zweites Fach",
+      "Schluss: Empfehlung an den Ausschuss"
+    ],
+    "musterloesung": "In Deutschland fehlen nach unterschiedlichen Schätzungen bereits heute Tausende Lehrkräfte, und die Lücke dürfte in den kommenden Jahren eher größer als kleiner werden. Gleichzeitig scheitern viele zugewanderte Lehrerinnen und Lehrer bei der Anerkennung ihres Abschlusses, weil sie in ihrem Herkunftsland nur ein Fach studiert haben. Zu der Frage, ob diese Hürde bestehen bleiben sollte, nehme ich im Folgenden Stellung.\n\nDie Schulleiterin Sevgi Aydın vertritt die Auffassung, dass sich das deutsche Schulsystem angesichts des akuten Mangels nicht leisten könne, qualifizierte Fachkräfte abzuweisen. Dieser Einschätzung stimme ich weitgehend zu. Man denke etwa an eine Biologielehrerin von den Philippinen, die dort zehn Jahre lang erfolgreich unterrichtet hat, fachlich hervorragend ausgebildet ist und die deutsche Sprache auf hohem Niveau beherrscht. Muss sie zunächst ein zweites Fach nachstudieren, verliert sie unter Umständen drei bis vier Jahre, in denen sie dringend gebraucht würde. Nicht wenige Betroffene geben in dieser Situation auf und arbeiten fortan weit unter ihrer Qualifikation. Das ist nicht nur für die Einzelnen frustrierend, sondern auch gesellschaftlich eine Verschwendung von Kompetenzen. Darüber hinaus bringen zugewanderte Lehrkräfte wertvolle interkulturelle Erfahrungen mit, von denen gerade Schulen mit vielen mehrsprachigen Kindern profitieren.\n\nGleichwohl ist das Argument von Rainer Volkmann aus dem Schulministerium nicht von der Hand zu weisen. Er betont, dass zwei Unterrichtsfächer in Deutschland der Standard seien und dass für alle Lehrkräfte dieselben Anforderungen gelten müssten. In der Tat erleichtert ein zweites Fach die Unterrichtsplanung erheblich, insbesondere an kleinen Schulen, an denen eine Lehrkraft mit nur einem Fach kaum eine volle Stelle füllen kann. Außerdem darf nicht der Eindruck entstehen, dass Qualitätsstandards je nach Herkunft unterschiedlich ausgelegt werden, denn das wäre gegenüber den hier ausgebildeten Lehrkräften ungerecht.\n\nWägt man beide Positionen gegeneinander ab, so überwiegen meines Erachtens die Gründe für eine Anerkennung mit einem Fach. Gleiche Anforderungen bedeuten nicht zwangsläufig identische Ausbildungswege. Entscheidend ist vielmehr, ob jemand fachlich, didaktisch und sprachlich in der Lage ist, guten Unterricht zu erteilen. Wer in Biologie hervorragend unterrichtet, wird schließlich nicht dadurch zu einer besseren Lehrkraft, dass er zusätzlich Chemie studiert hat. Einige Bundesländer erproben deshalb bereits Modelle, in denen auch Lehrkräfte mit einem Fach eingestellt werden können. Ergänzend sollte den Betroffenen die Möglichkeit eröffnet werden, berufsbegleitend ein zweites Fach zu erwerben, statt sie vor die Wahl zwischen Studium und Beruf zu stellen.\n\nAbschließend empfehle ich dem Ausschuss, sich für eine Anerkennung mit einem Fach einzusetzen und diese mit gezielten Angeboten zur Weiterqualifizierung zu verbinden. Auf diese Weise würden Qualitätsstandards gewahrt und zugleich Potenziale genutzt, auf die unsere Schulen nicht verzichten können.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Frau Aydın und Dr. Volkmann mit eigenen Worten wiedergegeben?",
+      "Inhalt: Richtet sich meine Stellungnahme erkennbar an den Ausschuss (z. B. mit einer Empfehlung am Ende)?",
+      "Inhalt: Habe ich ein konkretes Beispiel genannt (z. B. eine Lehrkraft aus dem Ausland, kleine Schule)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Stimmen die Präpositionen mit Kasus (angesichts + Genitiv, gegenüber + Dativ)?",
+      "Korrektheit: Verbstellung nach „Wägt man … ab, so …“ und nach vorangestellten Nebensätzen richtig?",
+      "Wortschatz: Habe ich Fachwörter wie „Anerkennung“, „Qualifikation“, „Weiterqualifizierung“, „Lehrkräftemangel“ benutzt?",
+      "Wortschatz: Ist das Register formell und sachlich (kein „ich finde das unfair“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. gleichzeitig, darüber hinaus, gleichwohl, außerdem, auf diese Weise)?",
+      "Aufbau: Gibt es einen eigenen Absatz für meine Abwägung vor dem Schluss?"
+    ]
+  },
+  {
+    "id": "sa05",
+    "paar": "P3",
+    "thema": "wissenschaft_ethik",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im fachdidaktischen Seminar Biologie erörtern Sie, ob im Schulunterricht weiterhin Tiere oder Tierorgane seziert werden sollten.",
+    "zitate": [
+      {
+        "text": "Ein echtes Schweineherz lehrt mehr als jede App. Biologie muss man anfassen können.",
+        "person": "Dr. Heike Sommer, Biologielehrerin an einem Gymnasium"
+      },
+      {
+        "text": "Tiere sind kein Unterrichtsmaterial. Digitale Modelle zeigen alles, ohne dass ein Tier stirbt.",
+        "person": "Nils B., Lehramtsstudent und Tierschutzaktivist"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Lernen mit allen Sinnen: Gewebe, Festigkeit und Größenverhältnisse erlebt man nur am echten Organ.",
+      "Praktische Fähigkeiten wie Sorgfalt, genaues Beobachten und Präparieren werden geschult.",
+      "Meist werden Schlachtabfälle verwendet – für den Unterricht stirbt kein zusätzliches Tier.",
+      "Echte Organe zeigen die natürliche Vielfalt; Modelle sind immer idealisiert.",
+      "Solche Stunden wecken oft das Interesse an Medizin- oder Biologieberufen."
+    ],
+    "ideen_contra": [
+      "Ethik: Schule soll Respekt vor Lebewesen vermitteln, nicht Tiere als Material behandeln.",
+      "Manche Jugendliche lehnen das Sezieren aus religiösen oder persönlichen Gründen ab oder ekeln sich.",
+      "3D-Modelle und VR können Strukturen vergrößern, Schichten ausblenden und Abläufe zeigen.",
+      "Digitale Lösungen sind hygienischer und beliebig oft wiederholbar.",
+      "Lehrkräfte sparen Zeit für Beschaffung, Vorbereitung und Entsorgung."
+    ],
+    "gliederung": [
+      "Einleitung: Sezieren als prägende Schulerfahrung, zunehmende Kritik, Leitfrage",
+      "Hauptteil 1: Position Dr. Sommer – Lernen mit den Händen, Beispiel Schweineherz, Schlachtabfälle",
+      "Hauptteil 2: Position Nils B. – ethischer Einwand, Ablehnung durch Lernende, Vorteile digitaler Modelle",
+      "Hauptteil 3: eigene Abwägung – Sezieren behalten, aber vorbereitet, reflektiert und mit Alternative",
+      "Schluss: Fazit – Verbindung von digitalem Modell und echtem Organ"
+    ],
+    "musterloesung": "Das Sezieren eines Fisches oder eines Schweineherzens gehört für viele Erwachsene zu den eindrücklichsten Erinnerungen an den Biologieunterricht. Inzwischen wird diese Praxis jedoch zunehmend infrage gestellt, zumal digitale Alternativen immer ausgereifter werden. Ob das Sezieren noch zeitgemäß ist, soll im Folgenden erörtert werden.\n\nDie Biologielehrerin Heike Sommer hält daran fest, dass ein echtes Organ mehr vermittle als jede App, weil Biologie auch mit den Händen erfahren werden müsse. Aus fachdidaktischer Sicht lässt sich diese Position gut begründen. Beim Präparieren eines Herzens erleben Schülerinnen und Schüler unmittelbar, wie fest der Herzmuskel ist, wie unterschiedlich dick die Wände der Kammern sind und wie die Herzklappen funktionieren. Solche Erfahrungen mit allen Sinnen prägen sich erfahrungsgemäß weit besser ein als ein Bild auf dem Bildschirm. Zudem wird das Interesse an naturwissenschaftlichen oder medizinischen Berufen nicht selten gerade durch solche Unterrichtsstunden geweckt. Hinzu kommt, dass in der Regel Organe vom Schlachthof verwendet werden, die ohnehin als Nebenprodukt der Fleischproduktion anfallen. Für den Unterricht muss also kein zusätzliches Tier sterben.\n\nDer Lehramtsstudent Nils B. argumentiert dagegen, Tiere seien kein Unterrichtsmaterial, und digitale Modelle könnten heute alle relevanten Strukturen darstellen. Dieser ethische Einwand verdient Beachtung, denn die Schule vermittelt nicht nur Fachwissen, sondern auch Werte wie den respektvollen Umgang mit Lebewesen. Außerdem ist zu berücksichtigen, dass manche Jugendliche das Sezieren aus religiösen oder persönlichen Gründen ablehnen oder sich davor ekeln. Diese Haltung sollte respektiert werden, da niemand gezwungen werden darf, gegen seine Überzeugungen zu handeln. Interaktive 3D-Modelle und Virtual-Reality-Anwendungen bieten hier durchaus Vorteile: Man kann Strukturen vergrößern, Schichten ein- und ausblenden und Vorgänge wie den Blutfluss sichtbar machen, die am toten Organ verborgen bleiben. Außerdem lassen sich digitale Anwendungen beliebig oft wiederholen, was besonders bei der Prüfungsvorbereitung hilfreich ist.\n\nWägt man beide Seiten ab, so erscheint mir ein vollständiger Verzicht auf das Sezieren nicht sinnvoll. Die Arbeit am echten Organ vermittelt Kompetenzen, die ein digitales Modell nicht ersetzen kann, insbesondere Sorgfalt, Beobachtungsgenauigkeit und den Umgang mit der Variabilität realer Lebewesen. Allerdings sollte das Sezieren gut vorbereitet und ethisch reflektiert werden. Das heißt konkret: Es sollten ausschließlich Schlachtabfälle oder bereits verstorbene Tiere verwendet werden, die Herkunft der Organe sollte im Unterricht thematisiert werden, und Schülerinnen und Schüler, die nicht teilnehmen möchten, sollten eine gleichwertige digitale Alternative erhalten.\n\nAbschließend lässt sich festhalten, dass sich die beiden Positionen weniger ausschließen, als es zunächst scheint. Digitale Modelle eignen sich hervorragend zur Vorbereitung und Vertiefung, während das echte Organ den Lernprozess erst wirklich greifbar macht. Ein verantwortungsvoller Biologieunterricht sollte deshalb beides verbinden und zugleich Achtung vor dem Leben vermitteln.",
+    "checkliste": [
+      "Inhalt: Habe ich die Positionen von Dr. Sommer und Nils B. mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich ein konkretes Unterrichtsbeispiel genannt (z. B. Herz, Fisch, Auge)?",
+      "Inhalt: Habe ich auch den ethischen Aspekt ernsthaft diskutiert?",
+      "Inhalt: Ist mein Fazit eindeutig (sezieren ja/nein/unter welchen Bedingungen)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Passiv richtig gebildet (z. B. „Organe werden verwendet“, „sollte thematisiert werden“)?",
+      "Korrektheit: Komma vor „zumal“, „weil“, „während“ und vor Relativsätzen gesetzt?",
+      "Wortschatz: Habe ich Fachwörter benutzt (präparieren, Herzklappe, Gewebe, Schlachtabfall) und erklärt, wo nötig?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. zumal, zudem, hinzu kommt, dagegen, allerdings, deshalb)?",
+      "Aufbau: Hat jeder Hauptteil-Absatz nur ein Hauptthema?"
+    ]
+  },
+  {
+    "id": "sa06",
+    "paar": "P3",
+    "thema": "mobilitaet",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Die Hochschulleitung will alle Studierendenparkplätze abschaffen. In der Campuszeitung nehmen Sie dazu Stellung.",
+    "zitate": [
+      {
+        "text": "Ein Campus voller Autos passt nicht zu einer Hochschule, die Klimaneutralität verspricht.",
+        "person": "Prof. Dr. Miriam Kessler, Vizepräsidentin für Nachhaltigkeit"
+      },
+      {
+        "text": "Ohne Auto brauche ich vom Dorf aus zwei Stunden. Wer pendeln muss, wird bestraft.",
+        "person": "Ayşe T., Studentin der Sozialen Arbeit"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren Standpunkt und begründen Sie ihn überzeugend. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Der Verkehr ist ein großer Teil der CO₂-Bilanz einer Hochschule.",
+      "Parkflächen könnten für Grünflächen, Lernorte im Freien oder Wohnheime genutzt werden.",
+      "Weniger Autos bedeuten weniger Lärm, sauberere Luft und mehr Sicherheit für Radfahrende.",
+      "Eine Hochschule, die Klimaneutralität verspricht, muss glaubwürdig handeln.",
+      "Ohne Parkplätze steigt der Druck auf Politik und Verkehrsbetriebe, den Nahverkehr auszubauen."
+    ],
+    "ideen_contra": [
+      "Pendelnde vom Land sind auf das Auto angewiesen, weil Busse selten fahren.",
+      "Studierende mit Kindern, mit Behinderung oder mit Nebenjob trifft das Verbot besonders hart.",
+      "Hohe Mieten zwingen viele, außerhalb der Stadt zu wohnen.",
+      "Klimapolitik, die vor allem finanziell Schwächere belastet, verliert an Akzeptanz.",
+      "Ein abruptes Verbot ohne Alternativen verlagert das Problem in die Wohngebiete."
+    ],
+    "gliederung": [
+      "Einleitung: Plan der Hochschulleitung, Reaktionen, eigene Perspektive als Pendlerin",
+      "Hauptteil 1: Position Prof. Kessler – Klimaziel, Flächennutzung, Aufenthaltsqualität",
+      "Hauptteil 2: Position Ayşe T. – Pendelnde, schlechte Anbindung, soziale Gerechtigkeit",
+      "Hauptteil 3: eigener Vorschlag – schrittweiser Umbau, bessere Busse, Gebühren mit Ausnahmen, Mitfahrbörse",
+      "Schluss: Ziel richtig, Weg überstürzt; Appell an die Hochschulleitung"
+    ],
+    "musterloesung": "Die Ankündigung der Hochschulleitung, sämtliche Parkplätze für Studierende bis zum kommenden Wintersemester abzuschaffen und die Flächen in Fahrradstellplätze und Grünanlagen umzuwandeln, hat auf dem Campus heftige Reaktionen ausgelöst. Als Studentin, die selbst täglich zur Hochschule pendelt, möchte ich zu diesem Vorhaben Stellung nehmen.\n\nDie Vizepräsidentin für Nachhaltigkeit, Miriam Kessler, begründet den Plan damit, dass ein mit Autos überfüllter Campus nicht zu einer Hochschule passe, die sich Klimaneutralität zum Ziel gesetzt habe. Diesem Grundgedanken kann ich mich anschließen. Der Verkehr ist einer der Bereiche, in denen die Emissionen in Deutschland bislang kaum gesunken sind, und ein großer Teil der CO₂-Bilanz einer Hochschule entsteht durch die Anreise ihrer Mitglieder. Hinzu kommt, dass Parkplätze wertvolle Flächen belegen, die sich für Lernorte im Freien, für Grünflächen oder für dringend benötigte Wohnheime nutzen ließen. Auf unserem Campus etwa wäre der große Parkplatz hinter der Bibliothek ideal für studentischen Wohnraum. Nicht zuletzt würde ein autofreier Campus die Aufenthaltsqualität erhöhen: weniger Lärm, sauberere Luft und mehr Sicherheit für Radfahrende.\n\nGleichwohl teile ich die Bedenken von Ayşe T., die darauf hinweist, dass Pendlerinnen und Pendler durch die Maßnahme benachteiligt würden. Ihr Beispiel ist keineswegs ein Einzelfall. Viele Studierende wohnen wegen der hohen Mieten in der Stadt bei ihren Eltern auf dem Land, wo Busse oft nur stündlich und abends gar nicht mehr fahren. Wer für eine Strecke von zwanzig Kilometern mit öffentlichen Verkehrsmitteln zwei Stunden braucht, verliert täglich wertvolle Lernzeit. Besonders hart träfe ein Parkverbot zudem Studierende mit Kindern, mit körperlichen Einschränkungen oder mit Nebenjobs, die sie direkt nach der Vorlesung erreichen müssen. Eine Klimapolitik, die vor allem die finanziell Schwächeren belastet, droht die Akzeptanz für den Klimaschutz insgesamt zu untergraben.\n\nAus diesen Gründen plädiere ich für einen schrittweisen Umbau statt eines abrupten Verbots. Zunächst sollte die Hochschule gemeinsam mit den Verkehrsbetrieben die Busverbindungen ins Umland verbessern und zum Beispiel Expressbusse zu Vorlesungsbeginn einrichten. Auch ein gut ausgebautes Leihradsystem an den Bahnhöfen der Region könnte den Umstieg für viele attraktiver machen. Parallel dazu könnte die Zahl der Parkplätze reduziert und das Parken kostenpflichtig gemacht werden, wobei Ausnahmen für Studierende mit Kindern oder Behinderung gelten müssten. Die Einnahmen ließen sich wiederum in sichere Fahrradabstellanlagen oder in eine Mitfahrbörse investieren, die Pendelnden das Bilden von Fahrgemeinschaften erleichtert.\n\nInsgesamt halte ich das Ziel eines klimafreundlichen Campus für richtig, den eingeschlagenen Weg jedoch für überstürzt. Nur wenn Alternativen zum Auto tatsächlich vorhanden sind, wird die Abschaffung der Parkplätze als gerecht empfunden werden. Ich appelliere daher an die Hochschulleitung, das Vorhaben zu überarbeiten und die Betroffenen in die Planung einzubeziehen.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Prof. Kessler und Ayşe T. mit eigenen Worten wiedergegeben?",
+      "Inhalt: Passt der Text zur Campuszeitung (Leserschaft: Studierende und Lehrende, sachlich, aber persönlich erlaubt)?",
+      "Inhalt: Habe ich konkrete Vorschläge oder Beispiele genannt (z. B. Expressbus, Mitfahrbörse, Ausnahmen)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv II richtig (z. B. „träfe“, „ließen sich nutzen“, „würde erhöhen“)?",
+      "Korrektheit: Relativpronomen im richtigen Kasus (z. B. „die Bereiche, in denen …“, „Flächen, die …“)?",
+      "Wortschatz: Habe ich Wörter zum Thema Mobilität benutzt (pendeln, Anbindung, Nahverkehr, Fahrgemeinschaft)?",
+      "Wortschatz: Habe ich das Wort „Auto“ nicht zu oft wiederholt (Pkw, Fahrzeug, motorisierter Verkehr)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. hinzu kommt, gleichwohl, zudem, aus diesen Gründen, parallel dazu)?",
+      "Aufbau: Endet der Text mit einem klaren Appell?"
+    ]
+  },
+  {
+    "id": "sa07",
+    "paar": "P4",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Die Fachschaftszeitschrift Lehramt fragt, ob Quereinsteiger ohne Lehramtsstudium dauerhaft unterrichten sollten. Verfassen Sie eine Stellungnahme.",
+    "zitate": [
+      {
+        "text": "Eine Chemikerin aus der Industrie bringt Praxis mit, die kein Studienseminar vermitteln kann.",
+        "person": "Frank Ollig, Personalreferent einer Bezirksregierung"
+      },
+      {
+        "text": "Fachwissen allein macht noch keinen guten Unterricht. Pädagogik ist ein eigener Beruf.",
+        "person": "Prof. Dr. Sabine Neumeyer, Schulpädagogin"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Entwickeln Sie Ihren Standpunkt, gehen Sie auf beide Aussagen ein und belegen Sie Ihre Argumente mit Beispielen. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Ohne Quereinsteiger bleiben vor allem in MINT-Fächern viele Stellen unbesetzt.",
+      "Berufserfahrung macht den Unterricht praxisnah und hilft bei der Berufsorientierung.",
+      "Viele wechseln aus Überzeugung in den Schuldienst und sind sehr motiviert.",
+      "Unterschiedliche Lebenswege bereichern das Kollegium.",
+      "Mit guter Begleitung können Quereinsteiger pädagogische Kompetenzen nachholen."
+    ],
+    "ideen_contra": [
+      "Unterrichten heißt mehr als Fachwissen: Diagnose, Differenzierung, Klassenführung, Elterngespräche.",
+      "Ohne Ausbildung geraten viele bei schwierigen Lerngruppen schnell an ihre Grenzen.",
+      "Das Ansehen des Lehrerberufs leidet, wenn scheinbar jeder ihn ausüben kann.",
+      "Die Begleitung von Quereinsteigern belastet die ohnehin knappen erfahrenen Kolleginnen und Kollegen.",
+      "Eine Notlösung darf nicht zum Dauerzustand werden."
+    ],
+    "gliederung": [
+      "Einleitung: Lehrkräftemangel, hoher Anteil an Quereinsteigern, Leitfrage",
+      "Hauptteil 1: Position Ollig – Praxisbezug (Beispiel Chemikerin), Motivation, MINT-Mangel",
+      "Hauptteil 2: Position Neumeyer – Pädagogik als Profession, Klassenführung, Ansehen des Berufs",
+      "Hauptteil 3: eigene Position – Quereinstieg nur mit verbindlicher berufsbegleitender Qualifizierung",
+      "Schluss: beide Aussagen mit wahrem Kern; aus Notlösung kann Gewinn werden"
+    ],
+    "musterloesung": "Der Lehrkräftemangel hat an vielen Schulen inzwischen ein Ausmaß erreicht, das ohne Quereinsteigerinnen und Quereinsteiger kaum noch zu bewältigen wäre. In einigen Bundesländern hat bereits ein erheblicher Teil der neu eingestellten Lehrkräfte kein Lehramt studiert. Ob dieser Weg dauerhaft beschritten werden sollte, ist allerdings umstritten. Im Folgenden lege ich meine Position dar.\n\nFrank Ollig, Personalreferent einer Bezirksregierung, sieht in Quereinsteigern eine Bereicherung, weil sie praktische Erfahrungen mitbrächten, die kein Studienseminar vermitteln könne. Dafür spricht in der Tat einiges. Eine Chemikerin, die zehn Jahre in der pharmazeutischen Industrie gearbeitet hat, kann ihren Schülerinnen und Schülern anschaulich erklären, wofür man Reaktionsgleichungen im Berufsleben tatsächlich braucht. Sie kennt Arbeitsabläufe, Sicherheitsstandards und Berufsfelder aus erster Hand und kann dadurch nicht nur fachlich, sondern auch in der Berufsorientierung wertvolle Impulse geben. Darüber hinaus wechseln viele Quereinsteiger aus Überzeugung in den Schuldienst und sind entsprechend motiviert. Nicht selten bereichern sie zudem das Kollegium durch neue Perspektiven und Arbeitsweisen. Angesichts der Tatsache, dass vor allem in den MINT-Fächern Stellen oft monatelang unbesetzt bleiben, wäre es geradezu fahrlässig, auf diese Menschen zu verzichten.\n\nDie Schulpädagogin Sabine Neumeyer hält dem entgegen, dass Fachwissen allein noch keinen guten Unterricht ausmache, da Pädagogik ein eigenständiger Beruf sei. Auch diesem Einwand kann ich mich nicht verschließen. Unterrichten bedeutet weit mehr, als Inhalte korrekt wiederzugeben. Lehrkräfte müssen Lernstände diagnostizieren, Aufgaben für sehr heterogene Klassen differenzieren, Konflikte moderieren und Gespräche mit Eltern führen. Wer diese Kompetenzen nicht systematisch erworben hat, gerät schnell an seine Grenzen. Nicht ohne Grund berichten Quereinsteiger häufig, dass ihnen in den ersten Monaten weniger das Fach als vielmehr der Umgang mit unruhigen Lerngruppen Schwierigkeiten bereitet habe. Zudem besteht die Gefahr, dass das Ansehen des Lehrerberufs leidet, wenn der Eindruck entsteht, jeder könne ihn ohne Ausbildung ausüben.\n\nMeiner Ansicht nach lautet die entscheidende Frage nicht, ob Quereinsteiger unterrichten dürfen, sondern unter welchen Bedingungen. Ich befürworte den Quereinstieg ausdrücklich, allerdings nur in Verbindung mit einer verbindlichen berufsbegleitenden pädagogischen Qualifizierung. Dazu gehören ein reduziertes Stundendeputat in der Anfangszeit, eine erfahrene Mentorin oder ein erfahrener Mentor an der Schule sowie regelmäßige Seminare zu Didaktik und Klassenführung. Gleichzeitig müssten die Mentorinnen und Mentoren für diese zusätzliche Aufgabe entlastet werden, da sie sonst selbst überfordert wären. Erst wenn diese Qualifizierung erfolgreich abgeschlossen ist, sollte eine unbefristete Einstellung erfolgen.\n\nZusammenfassend lässt sich sagen, dass beide Aussagen einen wahren Kern haben. Quereinsteiger können den Unterricht durch ihre Praxiserfahrung bereichern, sofern man sie pädagogisch nicht allein lässt. Wenn die Bildungspolitik dies ernst nimmt, kann aus einer Notlösung ein dauerhafter Gewinn für die Schulen werden.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Herrn Ollig und Prof. Neumeyer mit eigenen Worten wiedergegeben?",
+      "Inhalt: Ist meine Position zum dauerhaften Quereinstieg klar (ja, nein, unter Bedingungen)?",
+      "Inhalt: Habe ich konkrete Beispiele gebracht (z. B. Chemikerin aus der Industrie, unruhige Klasse)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I/II in der indirekten Rede richtig (z. B. „sie mitbrächten“, „Pädagogik sei“)?",
+      "Korrektheit: Komma bei Infinitivgruppen mit Verweiswort (z. B. „wäre es fahrlässig, … zu verzichten“)?",
+      "Wortschatz: Habe ich Fachwörter aus der Schulpädagogik benutzt (Klassenführung, Differenzierung, Stundendeputat)?",
+      "Wortschatz: Mindestens eine Nomen-Verb-Verbindung (z. B. „Impulse geben“, „in Verbindung mit“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. weil, darüber hinaus, angesichts, zudem, sofern)?",
+      "Aufbau: Leiten die Absätze mit klaren Übergängen ein (z. B. „Dem hält … entgegen“)?"
+    ]
+  },
+  {
+    "id": "sa08",
+    "paar": "P4",
+    "thema": "medien_desinformation",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Die Hochschulzeitschrift bittet um eine Erörterung: Sollten Forschende in sozialen Medien selbst gegen Falschinformationen vorgehen?",
+    "zitate": [
+      {
+        "text": "Wenn wir schweigen, überlassen wir das Feld den Verschwörungstheoretikern.",
+        "person": "Dr. Jonas Reuter, Virologe"
+      },
+      {
+        "text": "Forschende sollen forschen. Für Kommunikation gibt es Pressestellen und Fachjournalisten.",
+        "person": "Prof. Dr. Claudia Brandl, Physikerin"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren eigenen Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie Ihren Text in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Forschende haben Expertise: Sie können Studien einordnen und Fehler erkennen.",
+      "Wissenschaft genießt vergleichsweise hohes Vertrauen in der Bevölkerung.",
+      "In sozialen Medien erreicht man Menschen, die keine Zeitung mehr lesen.",
+      "Forschung wird mit Steuergeld bezahlt; die Öffentlichkeit hat ein Recht auf Information.",
+      "Wenn Fachleute schweigen, füllen andere die Lücke – oft mit Falschinformationen."
+    ],
+    "ideen_contra": [
+      "Die Auseinandersetzung mit Falschbehauptungen kostet viel Zeit für Forschung und Lehre.",
+      "Nicht alle Forschenden können gut kommunizieren; Missverständnisse schaden.",
+      "Wer sich öffentlich äußert, wird oft angefeindet oder sogar bedroht.",
+      "Pressestellen und Wissenschaftsjournalismus sind dafür professionell ausgebildet.",
+      "Journalismus begleitet Forschung unabhängig und kritisch – das kann Selbstdarstellung nicht."
+    ],
+    "gliederung": [
+      "Einleitung: Desinformation seit der Pandemie, Forderung an Forschende, Leitfrage",
+      "Hauptteil 1: Position Reuter – Expertise, Vertrauen, Reichweite, Steuerfinanzierung",
+      "Hauptteil 2: Position Brandl – Zeit, Kommunikationskompetenz, Anfeindungen",
+      "Hauptteil 3: eigene Position – keine Pflicht, aber anerkannte und unterstützte Aufgabe",
+      "Schluss: Verantwortung gemeinsam tragen (Hochschulen, Medien, Wissenschaft)"
+    ],
+    "musterloesung": "Spätestens seit der Coronapandemie ist deutlich geworden, wie schnell sich Falschinformationen über wissenschaftliche Themen in sozialen Netzwerken verbreiten. Ob es um Impfstoffe, den Klimawandel oder die Ernährung geht: Halbwahrheiten erreichen oft mehr Menschen als seriöse Informationen. Vor diesem Hintergrund wird zunehmend gefordert, dass sich Forschende selbst an öffentlichen Debatten beteiligen und Desinformation direkt entgegentreten. Ob dies tatsächlich ihre Aufgabe ist, soll im Folgenden erörtert werden.\n\nDer Virologe Jonas Reuter warnt davor, dass die Wissenschaft das Feld den Verschwörungstheoretikern überlasse, wenn sie schweige. Für diese Position sprechen gewichtige Gründe. Forschende verfügen über eine Expertise, die weder Influencer noch die meisten Journalistinnen und Journalisten besitzen. Sie können Studien einordnen, methodische Schwächen erkennen und erklären, warum ein einzelner Befund noch keinen wissenschaftlichen Konsens darstellt. Darüber hinaus genießen sie Umfragen zufolge nach wie vor ein vergleichsweise hohes Vertrauen in der Bevölkerung. Wenn eine Klimaforscherin auf einer Plattform geduldig erklärt, weshalb ein kalter Winter dem Klimawandel nicht widerspricht, erreicht sie unter Umständen Menschen, die keine Zeitung mehr lesen. Nicht zuletzt wird Forschung zu großen Teilen aus Steuermitteln finanziert, weshalb die Öffentlichkeit einen Anspruch darauf hat, an ihren Ergebnissen teilzuhaben.\n\nDemgegenüber vertritt die Physikerin Claudia Brandl die Ansicht, Forschende sollten sich auf ihre eigentliche Arbeit konzentrieren und die Kommunikation Pressestellen und Fachjournalisten überlassen. Auch dieses Argument ist ernst zu nehmen. Die Auseinandersetzung mit Falschbehauptungen kostet enorm viel Zeit, die in Laboren und Hörsälen fehlt. Zudem ist nicht jede brillante Wissenschaftlerin automatisch eine begabte Kommunikatorin, und missverständliche Aussagen können dem Ansehen der Forschung mehr schaden als nützen. Schwerer noch wiegt die Tatsache, dass Forschende, die sich öffentlich äußern, immer häufiger Anfeindungen und sogar Drohungen ausgesetzt sind. Viele ziehen sich deshalb aus den sozialen Medien zurück, was angesichts der Belastung nur allzu verständlich ist.\n\nMeines Erachtens sollte die Beteiligung an der öffentlichen Debatte keine Pflicht, sehr wohl aber eine anerkannte und unterstützte Aufgabe sein. Hochschulen sollten Forschende, die kommunizieren möchten, durch Medientrainings, rechtliche Beratung und Schutz vor Hassangriffen stärken. Denkbar wären auch gemeinsame Formate mit Wissenschaftsjournalisten, etwa Podcasts oder Faktenchecks, die Forschende entlasten und zugleich ihre Expertise sichtbar machen. Außerdem müsste Wissenschaftskommunikation bei Berufungen und bei der Vergabe von Fördermitteln stärker berücksichtigt werden, damit sie nicht als Freizeitbeschäftigung gilt. Gleichzeitig bleiben professionelle Wissenschaftsjournalisten unverzichtbar, weil sie Forschung unabhängig und kritisch begleiten.\n\nZusammenfassend bin ich der Überzeugung, dass beide Aussagen zu kurz greifen. Schweigen ist angesichts der Flut von Falschinformationen keine Option, doch die Verantwortung darf nicht allein auf den Schultern einzelner Forschender lasten. Nur wenn Hochschulen, Medien und Wissenschaft zusammenarbeiten, lässt sich der Desinformation wirksam begegnen.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Reuter und Prof. Brandl mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich mindestens ein konkretes Beispiel für Desinformation oder gute Wissenschaftskommunikation genannt?",
+      "Inhalt: Ist mein eigener Standpunkt im Schluss klar und begründet?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Verben mit fester Präposition richtig (sich beteiligen an, verfügen über, warnen vor)?",
+      "Korrektheit: Stehen Kommas vor „weshalb“, „wenn“, „damit“ und vor Relativsätzen?",
+      "Wortschatz: Habe ich Wörter zum Thema Medien benutzt (Desinformation, Reichweite, Plattform, Wissenschaftskommunikation)?",
+      "Wortschatz: Mindestens zwei Nominalisierungen (z. B. „die Auseinandersetzung mit …“, „die Vergabe von Fördermitteln“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. vor diesem Hintergrund, darüber hinaus, demgegenüber, zudem, zusammenfassend)?",
+      "Aufbau: Ist der Text sachlich wie ein Artikel und nicht wie ein privater Kommentar geschrieben?"
+    ]
+  },
+  {
+    "id": "sa09",
+    "paar": "P5",
+    "thema": "gesundheit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Gesundheit im Studium“ erörtern Sie, ob die Einnahme leistungssteigernder Medikamente vor Prüfungen akzeptabel ist.",
+    "zitate": [
+      {
+        "text": "Kaffee steigert auch die Leistung. Jeder sollte selbst über seinen Körper entscheiden.",
+        "person": "Felix R., Student der Medizin"
+      },
+      {
+        "text": "Hirndoping ist gesundheitlich riskant und unfair gegenüber allen, die ohne Tabletten lernen.",
+        "person": "Dr. Anne Lorenz, Leiterin der Psychologischen Beratungsstelle"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Beziehen Sie beide Aussagen ein, führen Sie Beispiele an und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Selbstbestimmung: Erwachsene entscheiden selbst über ihren Körper.",
+      "Die Grenze zu erlaubten Mitteln (Kaffee, Energydrinks) ist fließend.",
+      "Der Staat sollte nur eingreifen, wenn andere geschädigt werden.",
+      "Ein Verbot ist an Hochschulen kaum kontrollierbar.",
+      "Manche Studierende fühlen sich mit Medikamenten weniger gestresst."
+    ],
+    "ideen_contra": [
+      "Gesundheitliche Risiken: Herzrasen, Schlafstörungen, Angst, Abhängigkeit.",
+      "Der Nutzen für Gesunde ist wissenschaftlich umstritten.",
+      "Unfairness: Prüfungen sollen unter gleichen Bedingungen stattfinden.",
+      "Indirekter Zwang: Andere geraten unter Druck, ebenfalls Tabletten zu nehmen.",
+      "Das eigentliche Problem – Prüfungsdruck und schlechte Organisation – wird nicht gelöst."
+    ],
+    "gliederung": [
+      "Einleitung: Prüfungsdruck, Verbreitung von Neuroenhancement, Leitfrage",
+      "Hauptteil 1: Position Felix R. – Selbstbestimmung, Vergleich mit Kaffee",
+      "Hauptteil 2: Position Dr. Lorenz – Gesundheitsrisiken, geringer Nutzen, Fairness, indirekter Zwang",
+      "Hauptteil 3: eigene Position – nicht akzeptabel, aber kein Kontrollsystem; Ursachen bekämpfen",
+      "Schluss: Neuroenhancement als Symptom; gesundes Lernen ermöglichen"
+    ],
+    "musterloesung": "Prüfungsphasen sind für viele Studierende mit enormem Druck verbunden. Umfragen zufolge greift ein kleiner, aber nicht zu vernachlässigender Teil von ihnen deshalb zu verschreibungspflichtigen Medikamenten wie Methylphenidat, um sich länger konzentrieren zu können. Ob ein solches Neuroenhancement akzeptabel ist, wird kontrovers diskutiert und soll im Folgenden erörtert werden.\n\nDer Medizinstudent Felix R. vergleicht die Einnahme solcher Mittel mit dem Konsum von Kaffee und betont das Recht jedes Menschen, selbst über seinen Körper zu bestimmen. Zweifellos ist das Prinzip der Selbstbestimmung ein hohes Gut. In einer liberalen Gesellschaft sollte der Staat Erwachsenen nur dann Vorschriften machen, wenn sie anderen schaden. Zudem ist die Grenze zwischen erlaubten und unerlaubten Hilfsmitteln tatsächlich fließend: Koffein, Energydrinks oder Traubenzucker werden ebenfalls genutzt, um die Leistungsfähigkeit zu steigern, ohne dass jemand daran Anstoß nimmt. Wer also jede Form der Leistungssteigerung verurteilt, müsste konsequenterweise auch den Kaffeeautomaten in der Bibliothek abschaffen.\n\nDennoch überzeugt mich dieser Vergleich nicht. Wie die Psychologin Anne Lorenz zu Recht hervorhebt, ist sogenanntes Hirndoping mit erheblichen gesundheitlichen Risiken verbunden. Medikamente wie Methylphenidat wurden für die Behandlung von ADHS entwickelt; bei gesunden Menschen können sie Herzrasen, Schlafstörungen und Angstzustände auslösen und im schlimmsten Fall abhängig machen. Hinzu kommt, dass ihr Nutzen für gesunde Personen wissenschaftlich umstritten ist. Viele Konsumenten fühlen sich zwar wacher und leistungsfähiger, schneiden in Tests aber kaum besser ab. Schwer wiegt auch das Argument der Fairness. Prüfungen sollen die Leistung der Studierenden unter vergleichbaren Bedingungen messen. Wenn ein Teil der Kandidatinnen und Kandidaten auf pharmakologische Unterstützung zurückgreift, geraten die übrigen unter Druck, es ihnen gleichzutun. Aus der vermeintlich freien Entscheidung kann so ein indirekter Zwang werden.\n\nNach Abwägung der Argumente halte ich die Einnahme leistungssteigernder Medikamente ohne medizinische Notwendigkeit für nicht akzeptabel. Ein generelles Verbot mit Kontrollen, wie es im Sport üblich ist, erscheint mir an Hochschulen allerdings weder praktikabel noch verhältnismäßig. Schließlich ließe sich kaum überprüfen, wer während der Lernphase oder vor einer Hausarbeit Tabletten eingenommen hat. Wirkungsvoller wäre es, an den Ursachen anzusetzen. Hochschulen sollten über Risiken aufklären, Beratungsangebote ausbauen und vor allem ihre Prüfungsorganisation überdenken. Wenn sich beispielsweise sämtliche Klausuren eines Semesters auf zwei Wochen konzentrieren, ist es kaum verwunderlich, dass manche zu riskanten Mitteln greifen. Auch Kurse zu Lerntechniken und Zeitmanagement können helfen, Prüfungsphasen ohne pharmakologische Hilfsmittel zu bewältigen.\n\nAbschließend lässt sich festhalten, dass Neuroenhancement eher ein Symptom als das eigentliche Problem darstellt. Selbstbestimmung bedeutet nicht, gesundheitliche Gefahren zu verharmlosen. Eine Hochschule, die ihren Studierenden gesundes Lernen ermöglicht, macht Tabletten am Ende überflüssig.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Felix R. und Dr. Lorenz mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich den Vergleich mit Kaffee kritisch geprüft und nicht nur wiederholt?",
+      "Inhalt: Ist mein Standpunkt (akzeptabel oder nicht) im Schluss eindeutig?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Nach „Wenn …“ am Satzanfang steht das Verb direkt nach dem Komma („…, geraten die übrigen …“)?",
+      "Korrektheit: Zweiteilige Konnektoren richtig (zwar … aber, weder … noch)?",
+      "Wortschatz: Habe ich Fachwörter benutzt (Neuroenhancement, verschreibungspflichtig, Nebenwirkung, Abhängigkeit)?",
+      "Wortschatz: Habe ich „ich finde“ durch abwechslungsreiche Redemittel ersetzt (meines Erachtens, nach Abwägung der Argumente)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. zudem, dennoch, hinzu kommt, allerdings, abschließend)?",
+      "Aufbau: Ist der Übergang von den Argumenten zur eigenen Meinung deutlich markiert?"
+    ]
+  },
+  {
+    "id": "sa10",
+    "paar": "P5",
+    "thema": "wohnen_stadt",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Für eine Anhörung im Stadtrat sammelt der Studierendenrat Stellungnahmen: Sollen Ferienwohnungen in der Innenstadt verboten werden?",
+    "zitate": [
+      {
+        "text": "Jede Ferienwohnung ist eine Wohnung, die einer Studentin oder einer Pflegekraft fehlt.",
+        "person": "Lukas H., Sprecher der Initiative „Wohnraum für alle“"
+      },
+      {
+        "text": "Ferienwohnungen bringen Touristen und Geld in die Stadt. Ein Verbot schafft kaum neuen Wohnraum.",
+        "person": "Dr. Petra Engels, Leiterin des Stadtmarketings"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Der Wohnungsmarkt in Hochschulstädten ist extrem angespannt.",
+      "Kurzzeitvermietung ist lukrativer – Wohnungen gehen dem regulären Markt verloren.",
+      "Betroffen sind auch Menschen mit geringem Einkommen, z. B. Pflegekräfte oder Auszubildende.",
+      "Ständig wechselnde Gäste verändern Nachbarschaften und Viertel.",
+      "Bezahlbarer Wohnraum ist ein Grundbedürfnis und wichtiger als zusätzliche Übernachtungen."
+    ],
+    "ideen_contra": [
+      "Gastronomie, Handel und Kultur profitieren vom Tourismus.",
+      "Manche Familien brauchen die Einnahmen aus einer Einliegerwohnung.",
+      "Ein Verbot schafft nur begrenzt neuen Wohnraum.",
+      "Kontrollen sind aufwendig und brauchen viel Personal.",
+      "Eingriffe in das Eigentum müssen gut begründet sein."
+    ],
+    "gliederung": [
+      "Einleitung: Zimmersuche zum Semesterbeginn, Ferienwohnungen in der Innenstadt, Anlass der Stellungnahme",
+      "Hauptteil 1: Position Lukas H. – angespannter Markt, Lukrativität, Folgen für Geringverdienende und Viertel",
+      "Hauptteil 2: Position Dr. Engels – Tourismus als Wirtschaftsfaktor, Zusatzeinnahmen, Kontrollaufwand",
+      "Hauptteil 3: eigene Position – strenge Regulierung statt Totalverbot (Tageslimit, Registrierung, Bußgelder)",
+      "Schluss: Forderung an den Stadtrat"
+    ],
+    "musterloesung": "Wer zu Semesterbeginn in unserer Stadt ein Zimmer sucht, braucht vor allem eines: Geduld. Während Studierende wochenlang auf Matratzen bei Freunden übernachten, werden in der Innenstadt zahlreiche Wohnungen dauerhaft an Touristen vermietet. Der Stadtrat erwägt daher ein Verbot von Ferienwohnungen im Zentrum. Zu diesem Vorhaben möchte ich im Namen vieler Kommilitoninnen und Kommilitonen Stellung nehmen.\n\nLukas H. von der Initiative „Wohnraum für alle“ bringt das Problem auf den Punkt, wenn er sagt, jede Ferienwohnung fehle einer Studentin oder einer Pflegekraft. Tatsächlich ist der Wohnungsmarkt in vielen Universitätsstädten so angespannt, dass schon wenige hundert zusätzliche Wohnungen eine spürbare Entlastung bringen könnten. Für Eigentümer ist die Kurzzeitvermietung jedoch oft deutlich lukrativer als ein regulärer Mietvertrag, weshalb mitunter ganze Häuser dem Wohnungsmarkt entzogen werden. Die Folgen spüren nicht nur Studierende, sondern auch Menschen mit geringem Einkommen, auf die eine Stadt dringend angewiesen ist, etwa Pflegekräfte oder Busfahrer. Darüber hinaus verändern ständig wechselnde Gäste den Charakter von Wohnvierteln: Nachbarschaften lösen sich auf, und Bäckereien weichen Souvenirläden.\n\nAndererseits gibt die Leiterin des Stadtmarketings, Petra Engels, zu bedenken, dass Ferienwohnungen Besucher und damit Einnahmen in die Stadt brächten, während ein Verbot nur wenig zusätzlichen Wohnraum schaffe. Dieser Einwand ist nicht völlig unbegründet. Gastronomie, Einzelhandel und Kultureinrichtungen profitieren von Touristen, und manche Familien sind auf die Zusatzeinnahmen aus der Vermietung einer Einliegerwohnung angewiesen. Erfahrungen aus Städten wie Berlin zeigen zudem, dass Verbote nur dann wirken, wenn sie konsequent kontrolliert werden, was einen erheblichen Personalaufwand erfordert.\n\nWägt man die Argumente gegeneinander ab, überwiegen meiner Meinung nach eindeutig die Gründe für eine strenge Regulierung. Das Recht auf bezahlbaren Wohnraum wiegt schwerer als das Interesse an zusätzlichen Übernachtungsgästen, zumal der Tourismus nicht zusammenbricht, wenn Besucher in Hotels und Pensionen übernachten. Ein pauschales Verbot halte ich dennoch nicht für die beste Lösung. Sinnvoller wäre ein Modell, das die gelegentliche Vermietung der eigenen Wohnung, beispielsweise während des Urlaubs, an wenigen Tagen im Jahr erlaubt, die gewerbliche Dauervermietung ganzer Wohnungen jedoch untersagt. Eine Registrierungspflicht und empfindliche Bußgelder würden dafür sorgen, dass die Regeln auch eingehalten werden. Die Einnahmen aus den Bußgeldern könnten wiederum in den Bau von Wohnheimen fließen.\n\nZusammenfassend fordere ich den Stadtrat auf, die Zweckentfremdung von Wohnraum wirksam zu begrenzen. Eine Stadt, in der Studierende, Auszubildende und Pflegekräfte keine Wohnung mehr finden, verliert langfristig mehr, als ihr die Einnahmen aus dem Tourismus jemals einbringen können. Ich bitte die Ratsmitglieder daher eindringlich, bei ihrer Entscheidung die Interessen derjenigen in den Mittelpunkt zu stellen, die hier leben, lernen und arbeiten.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Lukas H. und Dr. Engels mit eigenen Worten wiedergegeben?",
+      "Inhalt: Richtet sich der Text erkennbar an den Stadtrat (Forderung oder Bitte am Ende)?",
+      "Inhalt: Habe ich konkrete Beispiele genannt (z. B. Zimmersuche, Einliegerwohnung, Regeln aus anderen Städten)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Indirekte Rede im Konjunktiv (z. B. „jede Ferienwohnung fehle“, „ein Verbot schaffe“)?",
+      "Korrektheit: Nach „Wägt man … ab,“ folgt sofort das Verb („überwiegen …“)?",
+      "Wortschatz: Habe ich Wörter zum Thema Wohnen benutzt (Wohnungsmarkt, Zweckentfremdung, Kurzzeitvermietung, bezahlbarer Wohnraum)?",
+      "Wortschatz: Mindestens eine Redewendung (z. B. „auf den Punkt bringen“, „zu bedenken geben“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. während, daher, darüber hinaus, andererseits, zumal)?",
+      "Aufbau: Beginnt der Text mit einem interessanten Einstieg (z. B. einer typischen Situation)?"
+    ]
+  },
+  {
+    "id": "sa11",
+    "paar": "P6",
+    "thema": "biotechnologie",
+    "bezug": true,
+    "pruefung": 1,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar Biologiedidaktik erörtern Sie, ob Schülerinnen und Schüler der Oberstufe selbst gentechnische Experimente durchführen sollten.",
+    "zitate": [
+      {
+        "text": "Wer Gentechnik nur aus dem Lehrbuch kennt, kann später nicht mündig darüber mitentscheiden.",
+        "person": "Dr. Katrin Wolff, Leiterin eines Schülerlabors"
+      },
+      {
+        "text": "Gentechnik gehört ins Hochsicherheitslabor, nicht in den Klassenraum. Das Risiko ist unnötig.",
+        "person": "Bernd Kaltenbach, Elternvertreter"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Eigene Experimente machen abstrakte Konzepte anschaulich (z. B. Bakterien mit Leuchtgen).",
+      "Wer Verfahren kennt, kann in politischen Debatten fundierter urteilen.",
+      "Ängste und übertriebene Versprechen werden durch Erfahrung realistischer eingeordnet.",
+      "Praktische Laborarbeit weckt Interesse an MINT-Studiengängen.",
+      "Die verwendeten Bakterienstämme gelten als harmlos und überleben außerhalb des Labors kaum."
+    ],
+    "ideen_contra": [
+      "Gentechnische Arbeiten sind nur in angemeldeten Anlagen erlaubt; normale Schulen haben diese nicht.",
+      "Vielen Lehrkräften fehlt die nötige Qualifikation als Projektleitung.",
+      "Eltern und Jugendliche haben teilweise Ängste, die ernst genommen werden müssen.",
+      "Ausstattung und Material sind teuer.",
+      "Fehler im Umgang mit Mikroorganismen sind nie ganz auszuschließen."
+    ],
+    "gliederung": [
+      "Einleitung: Bedeutung von CRISPR und Co., Bildungsauftrag, Leitfrage",
+      "Hauptteil 1: Position Dr. Wolff – Anschaulichkeit (Beispiel Leuchtgen), Mündigkeit, Interesse",
+      "Hauptteil 2: Position Kaltenbach – Sicherheitsbedenken; Einordnung: geringe Risiken, aber rechtliche Hürden",
+      "Hauptteil 3: eigene Position – ja, aber in Schülerlaboren mit Vor- und Nachbereitung inkl. Ethik",
+      "Schluss: Sicherheit ernst nehmen, Erfahrung nicht vorenthalten"
+    ],
+    "musterloesung": "Gentechnische Verfahren wie die Genschere CRISPR/Cas9 verändern Medizin und Landwirtschaft in rasantem Tempo. Umso wichtiger ist es, dass künftige Bürgerinnen und Bürger die Grundlagen dieser Technologien verstehen. Ob Jugendliche dafür selbst gentechnische Experimente durchführen sollten, ist jedoch umstritten und soll im Folgenden erörtert werden.\n\nFür praktische Erfahrungen plädiert Katrin Wolff, die Leiterin eines Schülerlabors. Sie argumentiert, dass nur derjenige mündig über Gentechnik mitentscheiden könne, der sie nicht ausschließlich aus dem Lehrbuch kenne. Dieser Gedanke ist überzeugend. Wenn Schülerinnen und Schüler beispielsweise Bakterien ein Gen für ein grün leuchtendes Protein übertragen und anschließend beobachten, wie die Kolonien unter UV-Licht fluoreszieren, wird ein abstraktes Konzept unmittelbar anschaulich. Sie erfahren, dass Gentechnik kein Hexenwerk ist, sondern auf nachvollziehbaren Arbeitsschritten beruht, die sorgfältig geplant und kontrolliert werden müssen. Gerade diese Einsicht ist eine wichtige Voraussetzung, um später in politischen Debatten, etwa über gentechnisch veränderte Pflanzen, fundiert zu urteilen, statt sich von Ängsten oder Werbeversprechen leiten zu lassen. Darüber hinaus wecken solche Versuche erfahrungsgemäß das Interesse an naturwissenschaftlichen Studiengängen.\n\nDemgegenüber vertritt der Elternvertreter Bernd Kaltenbach die Auffassung, Gentechnik gehöre ins Hochsicherheitslabor und nicht in den Klassenraum, da das Risiko unnötig sei. Diese Besorgnis ist nachvollziehbar, zumal viele Menschen mit dem Begriff Gentechnik vor allem Gefahren verbinden. Bei genauerer Betrachtung erweist sich der Einwand jedoch als teilweise unbegründet. Die für solche Versuche verwendeten Bakterienstämme sind gezielt so verändert, dass sie außerhalb des Labors kaum überleben können, und die Versuche entsprechen der niedrigsten Sicherheitsstufe. Berechtigt ist allerdings der Hinweis auf die rechtlichen und organisatorischen Anforderungen. In Deutschland dürfen gentechnische Arbeiten nur in behördlich angemeldeten Anlagen stattfinden, über die gewöhnliche Schulen in der Regel nicht verfügen. Zudem fehlt vielen Lehrkräften die entsprechende Qualifikation als Projektleitung.\n\nNach Abwägung beider Positionen befürworte ich gentechnische Experimente für Oberstufenschüler, allerdings nicht im regulären Klassenraum, sondern in Kooperation mit außerschulischen Lernorten. Schülerlabore an Universitäten und Forschungsinstituten verfügen über die nötige Ausstattung und Genehmigung sowie über geschultes Personal. Viele dieser Einrichtungen bieten bereits Kurstage für Schulklassen an, die sich gut in den regulären Unterricht einbinden lassen. Ein solcher Labortag sollte im Unterricht gründlich vorbereitet und nachbereitet werden, wobei neben den Methoden auch ethische Fragen, etwa die Veränderung menschlicher Embryonen, zur Sprache kommen sollten.\n\nZusammenfassend lässt sich sagen, dass die Sorge um die Sicherheit ernst genommen werden muss, aber kein Grund ist, Jugendlichen die praktische Erfahrung vorzuenthalten. Wer Gentechnik selbst erlebt hat, kann ihre Chancen und Risiken realistischer einschätzen. Genau darin besteht der Bildungsauftrag eines modernen Biologieunterrichts.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Wolff und Herrn Kaltenbach mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich ein konkretes Experiment oder Unterrichtsbeispiel beschrieben?",
+      "Inhalt: Habe ich das Sicherheitsargument fair geprüft und nicht einfach abgelehnt?",
+      "Inhalt: Ist mein Fazit klar (ja, nein, unter welchen Bedingungen)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Relativsätze mit Präposition richtig (z. B. „Anlagen, über die … verfügen“)?",
+      "Korrektheit: Fachbegriffe richtig geschrieben (Gentechnik, gentechnisch verändert, Schülerlabor, Bakterienstamm)?",
+      "Wortschatz: Habe ich Redemittel zum Abwägen benutzt (bei genauerer Betrachtung, berechtigt ist allerdings …)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. umso, darüber hinaus, demgegenüber, zumal, zudem)?",
+      "Aufbau: Verweist der Schluss auf die Einleitung zurück (z. B. auf den Bildungsauftrag)?"
+    ]
+  },
+  {
+    "id": "sa12",
+    "paar": "P6",
+    "thema": "demografie",
+    "bezug": false,
+    "pruefung": 1,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Der Senat will ältere Gasthörer wegen überfüllter Seminare nur noch in Vorlesungen zulassen. Nehmen Sie im Hochschulblog dazu Stellung.",
+    "zitate": [
+      {
+        "text": "Ich habe Steuern für diese Universität gezahlt. Lernen kennt keine Altersgrenze.",
+        "person": "Gerhard P., 71 Jahre, Gasthörer im Fach Geschichte"
+      },
+      {
+        "text": "Wenn Rentner die Plätze belegen, muss ich mein Pflichtseminar ein Jahr später machen.",
+        "person": "Mira S., Studentin der Geschichte"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Reguläre Studierende brauchen bestimmte Seminare für ihren Abschluss.",
+      "Verzögerungen verlängern das Studium, gefährden das BAföG und den Berufseinstieg.",
+      "Der Kernauftrag der Hochschule ist die Ausbildung von Studierenden.",
+      "In Vorlesungen ist meist genug Platz für Gasthörende.",
+      "Überfüllte Seminare verschlechtern die Qualität für alle."
+    ],
+    "ideen_contra": [
+      "Lebenslanges Lernen ist politisch gewollt und gesellschaftlich wertvoll.",
+      "Geistige Aktivität schützt Ältere vor Vereinsamung und kognitivem Abbau.",
+      "Ältere bringen Lebenserfahrung und Zeitzeugenwissen in Seminare ein.",
+      "Ein pauschaler Ausschluss sendet ein diskriminierendes Signal.",
+      "Gasthörende zahlen Gebühren und haben die Hochschule über Steuern mitfinanziert."
+    ],
+    "gliederung": [
+      "Einleitung: demografischer Wandel, Seniorenstudium, Vorschlag des Senats",
+      "Hauptteil 1: Position Gerhard P. – lebenslanges Lernen, Gesundheit, Bereicherung (Beispiel Zeitgeschichte)",
+      "Hauptteil 2: Position Mira S. – Studienverzögerung, BAföG, Vorrang des Abschlusses",
+      "Hauptteil 3: eigener Vorschlag – Rangfolge bei der Platzvergabe, eigene Seniorenseminare, generationenübergreifende Formate",
+      "Schluss: fairer Kompromiss, Hochschule für alle Generationen"
+    ],
+    "musterloesung": "In Deutschland leben immer mehr Menschen, die nach dem Berufsleben noch viele aktive Jahre vor sich haben. Nicht wenige von ihnen nutzen diese Zeit, um als Gasthörerinnen und Gasthörer an der Universität zu lernen. Da Seminare an unserer Hochschule jedoch zunehmend überfüllt sind, möchte der Senat ältere Gäste künftig nur noch zu Vorlesungen zulassen. Zu diesem Vorschlag möchte ich hier Stellung beziehen.\n\nGerhard P., der mit 71 Jahren Geschichte hört, wendet ein, er habe diese Universität mit seinen Steuern mitfinanziert, und Lernen kenne keine Altersgrenze. Diesem Grundsatz kann man kaum widersprechen. Lebenslanges Lernen wird von Politik und Hochschulen seit Jahren gefordert, und gerade für ältere Menschen ist geistige Aktivität ein wichtiger Schutzfaktor gegen Vereinsamung und kognitiven Abbau. Hinzu kommt, dass Seniorenstudierende Seminare oft bereichern. Wer den Mauerfall als Erwachsener erlebt hat, kann in einem Seminar zur deutschen Zeitgeschichte Perspektiven einbringen, die in keinem Lehrbuch stehen. Ein generelles Seminarverbot für Gasthörer würde zudem ein fragwürdiges Signal senden, nämlich dass ältere Menschen an der Universität nur geduldet sind.\n\nGleichwohl ist die Situation, die die Studentin Mira S. schildert, ein ernstes Problem. Sie befürchtet, ihr Pflichtseminar erst ein Jahr später belegen zu können, weil Plätze von Rentnerinnen und Rentnern besetzt würden. Für reguläre Studierende hat eine solche Verzögerung erhebliche Folgen: Das Studium verlängert sich, das BAföG läuft womöglich aus, und der Berufseinstieg verschiebt sich. Anders als Gasthörer sind sie auf bestimmte Veranstaltungen angewiesen, um ihren Abschluss zu erreichen. Es wäre daher ungerecht, wenn ihr Studienfortschritt hinter einem Interesse zurückstehen müsste, das zwar legitim, aber nicht existenziell ist.\n\nAus meiner Sicht schießt der Vorschlag des Senats dennoch über das Ziel hinaus. Statt Gasthörer pauschal auszuschließen, sollte eine klare Rangfolge gelten. Bei der Platzvergabe in Seminaren sollten Studierende, für die die Veranstaltung verpflichtend ist, stets Vorrang haben. Verbleibende Plätze könnten anschließend an Gasthörerinnen und Gasthörer vergeben werden. Darüber hinaus wäre es sinnvoll, eigene Seminare für das Seniorenstudium anzubieten oder generationenübergreifende Formate zu entwickeln, in denen der Austausch zwischen Jung und Alt ausdrücklich erwünscht ist. Finanziert werden könnten solche Angebote teilweise über die Gebühren, die Gasthörer ohnehin entrichten.\n\nAlles in allem plädiere ich für einen fairen Kompromiss, der die Interessen beider Gruppen berücksichtigt. Hochschulen sollten Orte bleiben, an denen Menschen jeden Alters willkommen sind. Ihr Kernauftrag ist es jedoch, Studierende zu einem Abschluss zu führen. Eine kluge Platzvergabe kann beides miteinander vereinbaren. Ich würde mich freuen, wenn der Senat seinen Vorschlag in diesem Sinne überarbeitet und Studierende wie Gasthörende an der Lösung beteiligt.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Gerhard P. und Mira S. mit eigenen Worten wiedergegeben?",
+      "Inhalt: Passt der Text zum Hochschulblog (Leserschaft direkt im Blick, aber sachlich)?",
+      "Inhalt: Habe ich konkrete Beispiele genannt (z. B. Zeitzeugen im Seminar, BAföG-Problem)?",
+      "Inhalt: Mache ich einen eigenen, realistischen Vorschlag?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Passiv mit Modalverb richtig (z. B. „könnten vergeben werden“, „finanziert werden könnten“)?",
+      "Korrektheit: Komma bei eingeschobenen Relativsätzen auch am Ende gesetzt?",
+      "Wortschatz: Habe ich Wörter zum Thema benutzt (lebenslanges Lernen, Gasthörer, Platzvergabe, Vorrang, generationenübergreifend)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. da, hinzu kommt, gleichwohl, darüber hinaus, alles in allem)?",
+      "Aufbau: Ist in jedem Absatz klar, auf welches Zitat ich mich beziehe?"
+    ]
+  },
+  {
+    "id": "sa13",
+    "paar": "P7",
+    "thema": "gleichberechtigung_diversitaet",
+    "bezug": false,
+    "pruefung": 2,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Hochschule und Gesellschaft“ erörtern Sie, ob Hochschulen eine verbindliche Frauenquote für Professuren einführen sollten.",
+    "zitate": [
+      {
+        "text": "Ohne Quote dauert es noch Jahrzehnte, bis Frauen in der Wissenschaft wirklich gleichgestellt sind.",
+        "person": "Prof. Dr. Ines Hartmann, Gleichstellungsbeauftragte"
+      },
+      {
+        "text": "Bei Berufungen darf nur die wissenschaftliche Leistung zählen, nicht das Geschlecht.",
+        "person": "Prof. Dr. Markus Albers, Mathematiker"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Der Frauenanteil an Professuren steigt trotz Förderprogrammen nur sehr langsam.",
+      "Informelle Netzwerke bevorzugen Kandidaten, die den Entscheidern ähneln.",
+      "Die Qualifikationsphase fällt oft mit der Familiengründung zusammen – Frauen sind stärker betroffen.",
+      "Eine Quote zwingt Kommissionen, aktiv nach qualifizierten Frauen zu suchen.",
+      "Professorinnen sind Vorbilder für Studentinnen und Nachwuchsforscherinnen."
+    ],
+    "ideen_contra": [
+      "Das Prinzip der Bestenauslese ist im Grundgesetz verankert.",
+      "Berufene Frauen könnten als „Quotenfrauen“ abgewertet werden.",
+      "In manchen Fächern gibt es zu wenige Bewerberinnen für eine starre Quote.",
+      "Eine Quote ändert nichts an den eigentlichen Ursachen (Arbeitsbedingungen, Befristungen).",
+      "Auch andere Gruppen sind unterrepräsentiert – eine Quote nur nach Geschlecht greift zu kurz."
+    ],
+    "gliederung": [
+      "Einleitung: Zahlen zu Promotionen und Professuren, Leitfrage",
+      "Hauptteil 1: Position Prof. Hartmann – langsame Entwicklung, Netzwerke, Familiengründung, Vorbilder",
+      "Hauptteil 2: Position Prof. Albers – Bestenauslese, Stigma, Fächerunterschiede",
+      "Hauptteil 3: eigene Position – fachspezifische Zielvorgaben (Kaskadenmodell), Leistungsbegriff überprüfen",
+      "Schluss: Leistung bleibt zentral, Gleichberechtigung braucht verbindliche Schritte"
+    ],
+    "musterloesung": "An deutschen Hochschulen stammt mittlerweile fast die Hälfte aller Doktorarbeiten von Frauen, doch nur etwas mehr als ein Viertel der Professuren ist mit Frauen besetzt. Diese Diskrepanz wirft die Frage auf, ob eine verbindliche Frauenquote bei Berufungen das geeignete Mittel ist, um mehr Gleichberechtigung herzustellen. Im Folgenden sollen die Argumente beider Seiten gegeneinander abgewogen werden.\n\nDie Gleichstellungsbeauftragte Ines Hartmann ist überzeugt, dass es ohne Quote noch Jahrzehnte dauern werde, bis Frauen in der Wissenschaft tatsächlich gleichgestellt seien. Für diese Einschätzung spricht die bisherige Entwicklung: Trotz zahlreicher Förderprogramme steigt der Frauenanteil an Professuren nur sehr langsam. Als Ursache gelten unter anderem informelle Netzwerke, in denen etablierte Professoren eher Kandidaten fördern, die ihnen selbst ähneln. Hinzu kommt, dass die entscheidende Qualifikationsphase nach der Promotion häufig mit der Familiengründung zusammenfällt, was Wissenschaftlerinnen nach wie vor stärker benachteiligt als ihre männlichen Kollegen. Eine Quote könnte diese strukturellen Hürden zwar nicht beseitigen, würde Berufungskommissionen aber zwingen, gezielt nach qualifizierten Frauen zu suchen. Außerdem entstünden Vorbilder, die jüngeren Forscherinnen zeigen, dass eine wissenschaftliche Karriere für sie erreichbar ist.\n\nDem hält der Mathematiker Markus Albers entgegen, dass bei Berufungen ausschließlich die wissenschaftliche Leistung ausschlaggebend sein dürfe. Dieses Prinzip der Bestenauslese ist zweifellos richtig und für den öffentlichen Dienst sogar im Grundgesetz verankert. Kritikerinnen und Kritiker der Quote befürchten zudem, dass berufene Frauen dem Verdacht ausgesetzt sein könnten, ihre Stelle nicht aufgrund ihrer Leistung, sondern lediglich wegen ihres Geschlechts erhalten zu haben. Ein solches Stigma würde gerade jene Wissenschaftlerinnen treffen, die eine Quote eigentlich stärken soll. Schließlich ist zu bedenken, dass in manchen Fächern, etwa in der Elektrotechnik, schlicht zu wenige Bewerberinnen zur Verfügung stehen, um eine starre Quote zu erfüllen.\n\nNach Abwägung dieser Argumente halte ich eine starre, für alle Fächer einheitliche Quote nicht für sinnvoll, wohl aber verbindliche, fachspezifische Zielvorgaben. Man könnte sich beispielsweise am sogenannten Kaskadenmodell orientieren, bei dem sich der angestrebte Frauenanteil einer Karrierestufe nach dem Anteil auf der jeweils darunterliegenden Stufe richtet. So würde berücksichtigt, wie viele qualifizierte Frauen in einem Fach tatsächlich vorhanden sind. Entscheidend ist darüber hinaus, dass das Leistungsprinzip selbst kritisch überprüft wird. Wer die Zahl der Publikationen höher gewichtet als ihre Qualität, benachteiligt unweigerlich Menschen mit Erziehungszeiten. Ebenso wichtig wären verlässliche Kinderbetreuung und weniger befristete Verträge in der Postdoc-Phase.\n\nZusammenfassend lässt sich festhalten, dass beide Aussagen einen berechtigten Kern haben. Leistung muss das zentrale Kriterium bleiben, doch Gleichberechtigung stellt sich offenkundig nicht von allein ein. Verbindliche Zielvorgaben, transparente Berufungsverfahren und eine familienfreundliche Wissenschaftskultur bilden meines Erachtens den vielversprechendsten Weg zu mehr Chancengleichheit.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Prof. Hartmann und Prof. Albers mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich Ursachen für den geringen Frauenanteil genannt, nicht nur Meinungen?",
+      "Inhalt: Ist mein Standpunkt zur Quote eindeutig (ja, nein, andere Lösung)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I in der indirekten Rede (z. B. „es dauere“, „sie seien“, „dürfe“)?",
+      "Korrektheit: Präpositionen mit Genitiv richtig (trotz zahlreicher Förderprogramme, aufgrund ihrer Leistung)?",
+      "Wortschatz: Habe ich Fachwörter benutzt (Berufung, Gleichstellung, Bestenauslese, Zielvorgabe, Chancengleichheit)?",
+      "Wortschatz: Habe ich geschlechtergerechte Formen sinnvoll und einheitlich verwendet?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. doch, hinzu kommt, zwar … aber, zudem, schließlich, darüber hinaus)?",
+      "Aufbau: Bezieht sich der Schluss ausdrücklich auf beide Zitate?"
+    ]
+  },
+  {
+    "id": "sa14",
+    "paar": "P7",
+    "thema": "migration_interkulturalitaet",
+    "bezug": true,
+    "pruefung": 2,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Für die Zeitschrift des Zentrums für Lehrkräftebildung nehmen Sie Stellung: Sollen Kinder im Unterricht auch ihre Herkunftssprachen verwenden dürfen?",
+    "zitate": [
+      {
+        "text": "In der Schule wird Deutsch gesprochen. Nur so lernen alle die Sprache schnell.",
+        "person": "Hans-Peter Kraus, Schulleiter einer Realschule"
+      },
+      {
+        "text": "Wer seine Erstsprache nutzen darf, versteht Fachinhalte besser und lernt auch besser Deutsch.",
+        "person": "Dr. Leyla Demir, Sprachwissenschaftlerin"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Die Erstsprache hilft, schwierige Fachinhalte zu verstehen; danach gelingen die deutschen Begriffe besser.",
+      "Wer den Anschluss behält, bleibt motiviert.",
+      "Ein Verbot signalisiert, dass ein Teil der Identität unerwünscht ist.",
+      "Mehrsprachigkeit ist eine Ressource für Einzelne und für die Gesellschaft.",
+      "Methoden wie Partnerarbeit oder mehrsprachige Wortlisten verbinden Erstsprache und Deutsch."
+    ],
+    "ideen_contra": [
+      "Gute Deutschkenntnisse sind der Schlüssel zu Schulerfolg und Beruf.",
+      "Für manche Kinder ist die Schule der einzige Ort, an dem sie Deutsch hören.",
+      "Lehrkräfte verstehen nicht, was in Gruppen besprochen wird.",
+      "Es könnten sich Gruppen nach Herkunft bilden.",
+      "Eine gemeinsame Sprache stärkt das Gemeinschaftsgefühl in der Klasse."
+    ],
+    "gliederung": [
+      "Einleitung: sprachliche Vielfalt im Klassenzimmer, Leitfrage, eigene Perspektive",
+      "Hauptteil 1: Position Kraus – Deutsch als Schlüssel, Kontrolle im Unterricht, keine Gruppenbildung",
+      "Hauptteil 2: Position Demir – Verstehen über die Erstsprache (Beispiel Fotosynthese), Motivation, Identität",
+      "Hauptteil 3: eigene Position – Deutsch als Unterrichtssprache, Herkunftssprachen als gezielte Brücke",
+      "Schluss: Deutschförderung und Mehrsprachigkeit ergänzen sich; Forderung an die Lehrkräftebildung"
+    ],
+    "musterloesung": "In vielen deutschen Klassenzimmern sitzen heute Kinder, die zu Hause Arabisch, Türkisch, Ukrainisch oder Tagalog sprechen. Diese sprachliche Vielfalt stellt Lehrkräfte vor die Frage, ob die Herkunftssprachen im Unterricht Platz haben sollten oder ob ausschließlich Deutsch gesprochen werden sollte. Als angehende Lehrkraft, die selbst mit mehreren Sprachen aufgewachsen ist, möchte ich dazu Stellung nehmen.\n\nDer Schulleiter Hans-Peter Kraus vertritt die Ansicht, in der Schule müsse Deutsch gesprochen werden, da nur so alle Kinder die Sprache schnell lernten. Dieses Anliegen ist durchaus nachvollziehbar. Gute Deutschkenntnisse sind der Schlüssel zum Schulerfolg und später zum Beruf, und für manche Kinder ist die Schule der einzige Ort, an dem sie überhaupt Deutsch hören. Außerdem befürchten einige Lehrkräfte, die Kontrolle über das Unterrichtsgeschehen zu verlieren, wenn Gruppen in Sprachen kommunizieren, die sie selbst nicht verstehen. Nicht zuletzt kann eine gemeinsame Sprache dazu beitragen, dass sich keine abgeschlossenen Gruppen nach Herkunft bilden.\n\nDennoch halte ich eine strikte Deutschpflicht für verfehlt. Die Sprachwissenschaftlerin Leyla Demir weist darauf hin, dass Kinder, die ihre Erstsprache nutzen dürfen, Fachinhalte besser verstünden und sogar besser Deutsch lernten. Diese Einschätzung deckt sich mit meinen eigenen Erfahrungen. Im Biologieunterricht habe ich erlebt, wie eine Schülerin aus Syrien das Prinzip der Fotosynthese erst begriff, nachdem eine Mitschülerin es ihr kurz auf Arabisch erklärt hatte. Anschließend konnte sie den Vorgang auch auf Deutsch beschreiben, denn erst das Verständnis ermöglichte es ihr, die deutschen Fachbegriffe sinnvoll einzuordnen. Wer hingegen gezwungen ist, komplexe Inhalte ausschließlich in einer Sprache zu bewältigen, die er noch nicht beherrscht, verliert schnell den Anschluss und die Motivation. Hinzu kommt ein weiterer Aspekt: Ein Verbot der Herkunftssprache vermittelt Kindern die Botschaft, dass ein wichtiger Teil ihrer Identität in der Schule unerwünscht ist. Mehrsprachigkeit ist jedoch keine Schwäche, sondern eine wertvolle Ressource, und zwar für den Einzelnen wie für die Gesellschaft.\n\nMeines Erachtens sollte Deutsch selbstverständlich die gemeinsame Unterrichtssprache bleiben. Herkunftssprachen sollten aber gezielt als Brücke genutzt werden dürfen, etwa in Partnerarbeit, bei der Klärung schwieriger Begriffe oder in mehrsprachigen Wortlisten zu einem neuen Thema. Wichtig ist, dass die Ergebnisse anschließend auf Deutsch gesichert und vorgestellt werden. So bleibt das Ziel, die deutsche Sprache zu erwerben, im Mittelpunkt, ohne dass das Vorwissen der Kinder ungenutzt bleibt.\n\nAbschließend möchte ich betonen, dass sich Deutschförderung und Wertschätzung der Mehrsprachigkeit nicht ausschließen, sondern gegenseitig verstärken. Damit Lehrkräfte diesen Ansatz umsetzen können, sollte das Thema allerdings verbindlich in der Lehrkräftebildung verankert werden. Nur wer selbst gelernt hat, mehrsprachige Lerngruppen professionell zu begleiten, kann ihr Potenzial auch wirklich nutzen.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Herrn Kraus und Dr. Demir mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich ein konkretes Beispiel aus dem Unterricht (z. B. aus meinem Fach Biologie) genannt?",
+      "Inhalt: Ist mein Standpunkt klar und praktisch umsetzbar beschrieben?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Plusquamperfekt richtig bei „nachdem“ (z. B. „nachdem sie es erklärt hatte“)?",
+      "Korrektheit: Konjunktiv in der indirekten Rede (z. B. „müsse“, „verstünden“, „lernten“)?",
+      "Wortschatz: Habe ich Wörter zum Thema benutzt (Herkunftssprache, Erstsprache, Mehrsprachigkeit, Ressource, Unterrichtssprache)?",
+      "Wortschatz: Habe ich das Wort „Sprache“ nicht in jedem Satz wiederholt?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. da, außerdem, nicht zuletzt, dennoch, hingegen, damit)?",
+      "Aufbau: Ist meine eigene Erfahrung sinnvoll in die Argumentation eingebaut (nicht nur erzählt)?"
+    ]
+  },
+  {
+    "id": "sa15",
+    "paar": "P8",
+    "thema": "wirtschaft",
+    "bezug": false,
+    "pruefung": 3,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Ein Automobilkonzern will an Ihrer Hochschule einen Lehrstuhl finanzieren. Der Akademische Senat bittet um Stellungnahmen.",
+    "zitate": [
+      {
+        "text": "Ohne Geld aus der Wirtschaft verlieren wir den Anschluss an die internationale Spitzenforschung.",
+        "person": "Prof. Dr. Henrik Lange, Dekan der Fakultät für Maschinenbau"
+      },
+      {
+        "text": "Wer zahlt, bestimmt die Forschungsfragen. Damit ist die Freiheit der Wissenschaft in Gefahr.",
+        "person": "Clara F., Mitglied im Studierendenparlament"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Die Grundfinanzierung durch die Länder ist knapp; moderne Forschung ist teuer.",
+      "Unternehmen bieten Zugang zu Daten, Prototypen und Praxisfragen.",
+      "Studierende profitieren von Praktika, Abschlussarbeiten und Berufskontakten.",
+      "Lehnt die Hochschule ab, geht der Lehrstuhl an eine andere Universität.",
+      "Kooperationen fördern den Transfer von Forschung in die Praxis."
+    ],
+    "ideen_contra": [
+      "Geldgeber beeinflussen, welche Fragen erforscht werden – kritische Themen fallen weg.",
+      "Es gab Fälle von Einflussnahme auf Berufungen und Veröffentlichungen.",
+      "Geheime Verträge zerstören Transparenz und Glaubwürdigkeit.",
+      "Die Hochschule wird abhängig; nach Vertragsende fehlt das Geld.",
+      "Die Politik wird aus der Verantwortung für eine ausreichende Finanzierung entlassen."
+    ],
+    "gliederung": [
+      "Einleitung: Angebot des Konzerns (Stiftungslehrstuhl), Entscheidung des Senats, Anlass der Stellungnahme",
+      "Hauptteil 1: Position Prof. Lange – Unterfinanzierung, Praxisnähe, Vorteile für Studierende",
+      "Hauptteil 2: Position Clara F. – Einfluss auf Forschungsfragen, bekannte Fälle, Transparenz",
+      "Hauptteil 3: Empfehlung – Annahme nur unter Bedingungen (Veröffentlichung des Vertrags, kein Mitspracherecht, Publikationsfreiheit, Kontrollgremium)",
+      "Schluss: Hochschule setzt die Bedingungen; Politik muss Grundfinanzierung sichern"
+    ],
+    "musterloesung": "Ein großer Automobilkonzern hat angeboten, an unserer Hochschule für zunächst zehn Jahre einen Stiftungslehrstuhl für Batterietechnik zu finanzieren. Der Akademische Senat muss nun entscheiden, ob er dieses Angebot annimmt. Da die Frage weit über den Einzelfall hinausweist und das Selbstverständnis unserer Hochschule berührt, möchte ich hierzu Stellung nehmen.\n\nDer Dekan der Fakultät für Maschinenbau, Henrik Lange, gibt zu bedenken, dass die Hochschule ohne Geld aus der Wirtschaft den Anschluss an die internationale Spitzenforschung verlieren werde. Diese Befürchtung ist nicht aus der Luft gegriffen. Die Grundfinanzierung der Hochschulen durch die Länder ist seit Jahren knapp bemessen, während moderne Labore und Forschungsgeräte immer teurer werden. Gerade in anwendungsnahen Bereichen wie der Batterieforschung bietet die Zusammenarbeit mit Unternehmen zudem Zugang zu Daten, Prototypen und Fragestellungen aus der Praxis. Auch die Studierenden profitieren, etwa durch Praktika, Abschlussarbeiten in Kooperation mit der Industrie und bessere Berufsaussichten. Würde die Hochschule das Angebot ablehnen, ginge der Lehrstuhl vermutlich an eine andere Universität.\n\nAuf der anderen Seite warnt Clara F. aus dem Studierendenparlament, dass derjenige, der zahle, auch die Forschungsfragen bestimme, und dass damit die Wissenschaftsfreiheit gefährdet sei. Auch dieser Einwand wiegt schwer. Es ist kaum zu erwarten, dass ein Autohersteller Forschung finanziert, die seinem Geschäftsmodell schadet, etwa Studien über die Umweltbilanz von Elektroautos im Vergleich zum öffentlichen Nahverkehr. In der Vergangenheit sind zudem Fälle bekannt geworden, in denen Unternehmen versucht haben, Einfluss auf die Besetzung von Professuren oder auf die Veröffentlichung unliebsamer Ergebnisse zu nehmen. Wenn solche Verträge geheim bleiben, kann die Öffentlichkeit nicht beurteilen, wie unabhängig die Forschung tatsächlich ist, und die Glaubwürdigkeit der gesamten Hochschule leidet.\n\nNach sorgfältiger Abwägung empfehle ich dem Senat, das Angebot anzunehmen, jedoch nur unter klar definierten Bedingungen. Erstens muss der Kooperationsvertrag vollständig veröffentlicht werden. Zweitens darf das Unternehmen weder bei der Berufung der Professorin oder des Professors noch bei der Auswahl der Forschungsthemen ein Mitspracherecht erhalten. Drittens muss vertraglich gesichert sein, dass alle Ergebnisse ohne Zustimmung des Geldgebers publiziert werden dürfen. Darüber hinaus sollte der Senat ein unabhängiges Gremium einrichten, das die Einhaltung dieser Regeln regelmäßig überprüft. Sollte der Konzern diese Bedingungen nicht akzeptieren, wäre dies ein deutliches Signal, das Angebot abzulehnen.\n\nZusammenfassend bin ich der Auffassung, dass Kooperationen mit der Wirtschaft weder pauschal abgelehnt noch unkritisch begrüßt werden sollten. Entscheidend ist, dass die Hochschule die Bedingungen festlegt und nicht der Geldgeber. Langfristig bleibt es allerdings Aufgabe der Politik, die Hochschulen so auszustatten, dass sie nicht auf private Mittel angewiesen sind.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Prof. Lange und Clara F. mit eigenen Worten wiedergegeben?",
+      "Inhalt: Richtet sich die Stellungnahme erkennbar an den Senat (klare Empfehlung)?",
+      "Inhalt: Habe ich konkrete Beispiele genannt (z. B. Batterieforschung, unliebsame Studien, Praktika)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konditionalsätze ohne „wenn“ richtig gebaut (z. B. „Würde die Hochschule ablehnen, ginge …“)?",
+      "Korrektheit: Zweiteilige Konnektoren richtig (weder … noch, nicht … sondern)?",
+      "Wortschatz: Habe ich Fachwörter benutzt (Drittmittel, Stiftungslehrstuhl, Wissenschaftsfreiheit, Grundfinanzierung, Transparenz)?",
+      "Wortschatz: Habe ich mindestens eine Redewendung benutzt (z. B. „nicht aus der Luft gegriffen“, „schwer wiegen“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren und Gliederungssignale (z. B. da, zudem, auf der anderen Seite, erstens … zweitens … drittens)?",
+      "Aufbau: Ist der Ton formell und dem Gremium angemessen?"
+    ]
+  },
+  {
+    "id": "sa16",
+    "paar": "P8",
+    "thema": "allgemein_akademisch",
+    "bezug": false,
+    "pruefung": 3,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Wissenschaftssprachen“ erörtern Sie, ob Masterstudiengänge an deutschen Hochschulen nur noch auf Englisch angeboten werden sollten.",
+    "zitate": [
+      {
+        "text": "Englisch ist die Wissenschaftssprache. Nur so bleiben wir international konkurrenzfähig.",
+        "person": "Prof. Dr. Thomas Wieland, Biochemiker"
+      },
+      {
+        "text": "Wer nur Englisch hört, bleibt in Deutschland fremd. Und die Forschung verliert ihr Publikum.",
+        "person": "Dr. Rosa Martín, Linguistin"
+      }
+    ],
+    "anweisung": "Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Beziehen Sie beide Aussagen ein, führen Sie Beispiele an und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "In vielen Fächern erscheint die Fachliteratur fast nur auf Englisch.",
+      "Internationale Konferenzen und Kooperationen laufen auf Englisch.",
+      "Englischsprachige Programme ziehen internationale Talente an.",
+      "Absolventinnen und Absolventen sind besser auf eine Forschungskarriere vorbereitet.",
+      "Deutsche Studierende verbessern ihr Englisch für den internationalen Arbeitsmarkt."
+    ],
+    "ideen_contra": [
+      "Ohne Deutsch bleiben internationale Studierende sozial und beruflich außen vor und verlassen das Land.",
+      "Die Wissenschaft verliert den Kontakt zur Öffentlichkeit.",
+      "In vielen Berufen (Recht, Pädagogik, Medizin) muss man Fachliches auf Deutsch erklären.",
+      "Deutsch als Wissenschaftssprache verkümmert, wenn keine neuen Fachbegriffe entstehen.",
+      "Nicht alle Lehrenden und Studierenden beherrschen Englisch auf hohem Niveau – die Qualität leidet."
+    ],
+    "gliederung": [
+      "Einleitung: Zunahme englischsprachiger Masterprogramme, Leitfrage",
+      "Hauptteil 1: Position Prof. Wieland – Fachliteratur, Konferenzen, Attraktivität für internationale Talente",
+      "Hauptteil 2: Position Dr. Martín – Integration, Abwanderung, Kontakt zur Öffentlichkeit, Fachsprache",
+      "Hauptteil 3: eigene Position – zweisprachiges, fachabhängiges Modell mit verpflichtenden Deutschkursen",
+      "Schluss: Internationalität und Mehrsprachigkeit sind keine Gegensätze"
+    ],
+    "musterloesung": "Die Zahl englischsprachiger Studiengänge an deutschen Hochschulen ist in den vergangenen Jahren stark gestiegen, insbesondere im Masterbereich. Manche fordern bereits, Masterprogramme grundsätzlich nur noch auf Englisch anzubieten. Ob diese Entwicklung wünschenswert ist, soll im Folgenden erörtert werden.\n\nDer Biochemiker Thomas Wieland hält Englisch für die Wissenschaftssprache schlechthin und sieht darin die Voraussetzung für internationale Konkurrenzfähigkeit. In der Tat lässt sich nicht bestreiten, dass in den Naturwissenschaften der überwiegende Teil der Fachliteratur auf Englisch erscheint und internationale Konferenzen fast ausnahmslos auf Englisch stattfinden. Wer bereits im Studium in dieser Sprache liest, diskutiert und schreibt, ist auf eine wissenschaftliche Laufbahn besser vorbereitet. Darüber hinaus machen englischsprachige Studiengänge deutsche Hochschulen für ausländische Talente attraktiv, die angesichts des Fachkräftemangels dringend gebraucht werden. Für eine Studentin aus Indien oder Brasilien ist ein Masterprogramm auf Englisch häufig überhaupt erst die Eintrittskarte in das deutsche Hochschulsystem.\n\nDie Linguistin Rosa Martín warnt hingegen, dass Studierende, die ausschließlich Englisch hörten, in Deutschland fremd blieben und die Wissenschaft ihr Publikum verliere. Dieses Argument verdient besondere Aufmerksamkeit. Zahlreiche internationale Absolventinnen und Absolventen verlassen Deutschland nach dem Studium wieder, unter anderem weil ihnen die Sprachkenntnisse fehlen, die für den Arbeitsmarkt und das soziale Leben unverzichtbar sind. Eine Hochschule, die zwar Fachkräfte ausbildet, sie aber sprachlich nicht integriert, verfehlt somit ein wichtiges gesellschaftliches Ziel. Hinzu kommt, dass eine Wissenschaft, die nur noch auf Englisch kommuniziert, den Kontakt zur breiten Öffentlichkeit verliert. Gerade in Disziplinen wie Rechtswissenschaft, Pädagogik oder Medizin müssen Fachleute komplexe Sachverhalte auch auf Deutsch präzise erklären können, sei es gegenüber Mandanten, Eltern oder Patienten. Nicht zuletzt verkümmert eine Sprache als Wissenschaftssprache, wenn in ihr keine neuen Fachbegriffe mehr entwickelt werden.\n\nWägt man beide Positionen gegeneinander ab, so erscheint mir ein ausschließlich englischsprachiges Masterstudium nicht sinnvoll, ein ausschließlich deutschsprachiges allerdings ebenso wenig. Ich plädiere für ein zweisprachiges Modell, das sich nach dem jeweiligen Fach richtet. In stark international ausgerichteten Fächern kann Englisch durchaus die Hauptsprache sein, sofern internationale Studierende parallel verpflichtend Deutschkurse besuchen und einzelne Module auf Deutsch absolvieren. Umgekehrt sollten deutschsprachige Studiengänge englische Fachtexte und Präsentationen gezielt einbeziehen. Auf diese Weise würden alle Studierenden in beiden Sprachen handlungsfähig werden.\n\nZusammenfassend lässt sich festhalten, dass Internationalität und Mehrsprachigkeit keine Gegensätze sind. Hochschulen sollten Absolventinnen und Absolventen ausbilden, die in der internationalen Forschung ebenso zu Hause sind wie in der deutschen Gesellschaft. Ein zweisprachiges Studium wäre dafür meines Erachtens der überzeugendste Weg.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Prof. Wieland und Dr. Martín mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich Beispiele aus verschiedenen Fächern oder Berufen genannt?",
+      "Inhalt: Ist mein eigener Vorschlag konkret (z. B. welche Sprache wann)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Sprachen als Nomen großgeschrieben („auf Englisch“, „auf Deutsch“), Adjektive klein („englischsprachig“)?",
+      "Korrektheit: Komma vor „sofern“, „weil“, „wenn“ und vor Relativsätzen?",
+      "Wortschatz: Habe ich Wörter zum Thema benutzt (Wissenschaftssprache, Konkurrenzfähigkeit, Integration, Fachbegriff, zweisprachig)?",
+      "Wortschatz: Mindestens zwei Strukturen auf C1-Niveau (z. B. „sei es … oder …“, „Wägt man … ab, so …“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. darüber hinaus, hingegen, somit, hinzu kommt, nicht zuletzt, umgekehrt)?",
+      "Aufbau: Wiederholt der Schluss nicht nur, sondern zieht er ein klares Fazit?"
+    ]
+  }
+]

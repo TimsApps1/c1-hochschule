@@ -1,0 +1,1279 @@
+[
+ {
+  "id": "dr_deklination_01",
+  "kategorie": "deklination",
+  "niveau": "B2+",
+  "satz": "Wir wünschen Ihnen einen ___ Start ins neue Semester.",
+  "optionen": [
+   "guter",
+   "guten",
+   "gutes",
+   "gute"
+  ],
+  "loesung": 1,
+  "erklaerung": "„wünschen“ + Akkusativ; „Start“ ist maskulin → „einen guten Start“. Nach „einen“ endet das Adjektiv auf „-en“."
+ },
+ {
+  "id": "dr_deklination_02",
+  "kategorie": "deklination",
+  "niveau": "B2+",
+  "satz": "Die Ergebnisse ___ Studie sind überraschend.",
+  "optionen": [
+   "dem neuen",
+   "der neuen",
+   "den neuen",
+   "die neue"
+  ],
+  "loesung": 1,
+  "erklaerung": "Besitz/Zugehörigkeit („die Ergebnisse von wem?“) → Genitiv; „Studie“ ist feminin → „der neuen Studie“."
+ },
+ {
+  "id": "dr_deklination_03",
+  "kategorie": "deklination",
+  "niveau": "B2+",
+  "satz": "Sie unterrichtet seit fünf Jahren an einer ___ Schule.",
+  "optionen": [
+   "öffentlichen",
+   "öffentlicher",
+   "öffentliche",
+   "öffentliches"
+  ],
+  "loesung": 0,
+  "erklaerung": "„an“ (wo?) + Dativ; „einer … Schule“ ist feminin → Endung „-en“ nach „einer“."
+ },
+ {
+  "id": "dr_deklination_04",
+  "kategorie": "deklination",
+  "niveau": "C1",
+  "satz": "Trotz ___ Wetters fand das Sommerfest statt.",
+  "optionen": [
+   "schlechtem",
+   "schlechter",
+   "schlechtes",
+   "schlechten"
+  ],
+  "loesung": 3,
+  "erklaerung": "„trotz“ + Genitiv. Ohne Artikel, aber das Nomen zeigt den Genitiv schon („Wetters“) → Adjektiv mit „-en“. „schlechtes“ wäre Nominativ/Akkusativ."
+ },
+ {
+  "id": "dr_deklination_05",
+  "kategorie": "deklination",
+  "niveau": "C1",
+  "satz": "Mit ___ Engagement hat sie das Projekt geleitet.",
+  "optionen": [
+   "großen",
+   "großes",
+   "großem",
+   "großer"
+  ],
+  "loesung": 2,
+  "erklaerung": "„mit“ + Dativ; „Engagement“ ist neutrum und steht ohne Artikel → starke Endung „-em“ (wie „dem“)."
+ },
+ {
+  "id": "dr_deklination_06",
+  "kategorie": "deklination",
+  "niveau": "C1",
+  "satz": "Die Bewerbung ___ Kandidaten wurde abgelehnt.",
+  "optionen": [
+   "des jungen",
+   "des junges",
+   "dem jungen",
+   "den jungen"
+  ],
+  "loesung": 0,
+  "erklaerung": "Genitiv maskulin: „des jungen Kandidaten“. „Kandidat“ gehört zur n-Deklination (Endung „-en“ in allen Fällen außer Nominativ Singular)."
+ },
+ {
+  "id": "dr_deklination_07",
+  "kategorie": "deklination",
+  "niveau": "C1",
+  "satz": "Wir haben gestern mit dem ___ aus Manila gesprochen.",
+  "optionen": [
+   "Studentes",
+   "Studente",
+   "Studenten",
+   "Student"
+  ],
+  "loesung": 2,
+  "erklaerung": "„Student“ gehört zur n-Deklination: Im Dativ heißt es „dem Studenten“. „dem Student“ ist ein häufiger Fehler."
+ },
+ {
+  "id": "dr_deklination_08",
+  "kategorie": "deklination",
+  "niveau": "C1",
+  "satz": "Das ist ein Problem, das viele ___ betrifft.",
+  "optionen": [
+   "Studierende",
+   "Studierender",
+   "Studierendes",
+   "Studierenden"
+  ],
+  "loesung": 0,
+  "erklaerung": "Nach „viele“ hat das nominalisierte Partizip die starke Endung: Akkusativ Plural „viele Studierende“. „-en“ steht nur nach „die“ oder „alle“."
+ },
+ {
+  "id": "dr_deklination_09",
+  "kategorie": "deklination",
+  "niveau": "C1",
+  "satz": "Alle ___ müssen sich bis Freitag anmelden.",
+  "optionen": [
+   "Studierendem",
+   "Studierender",
+   "Studierende",
+   "Studierenden"
+  ],
+  "loesung": 3,
+  "erklaerung": "Nach „alle“ steht die schwache Endung „-en“ (wie nach „die“): „alle Studierenden“. Vergleiche: „viele Studierende“."
+ },
+ {
+  "id": "dr_deklination_10",
+  "kategorie": "deklination",
+  "niveau": "C1",
+  "satz": "Wir danken allen ___ für ihre Unterstützung.",
+  "optionen": [
+   "Beteiligte",
+   "Beteiligtem",
+   "Beteiligter",
+   "Beteiligten"
+  ],
+  "loesung": 3,
+  "erklaerung": "„danken“ + Dativ; nach „allen“ (Dativ Plural) → „-en“: „allen Beteiligten“."
+ },
+ {
+  "id": "dr_deklination_11",
+  "kategorie": "deklination",
+  "niveau": "C1+",
+  "satz": "Die Meinungen ___ Expertinnen gehen weit auseinander.",
+  "optionen": [
+   "einiger",
+   "einiges",
+   "einige",
+   "einigen"
+  ],
+  "loesung": 0,
+  "erklaerung": "Genitiv Plural ohne Artikel: „einiger Expertinnen“ (= die Meinungen von einigen Expertinnen). „einigen“ wäre Dativ."
+ },
+ {
+  "id": "dr_deklination_12",
+  "kategorie": "deklination",
+  "niveau": "C1+",
+  "satz": "Sie ist eine der ___ Forscherinnen auf diesem Gebiet.",
+  "optionen": [
+   "bekannteste",
+   "bekanntestes",
+   "bekanntesten",
+   "bekanntester"
+  ],
+  "loesung": 2,
+  "erklaerung": "„eine der …“ = eine von den … → Genitiv Plural nach „der“ → Endung „-en“: „eine der bekanntesten Forscherinnen“."
+ },
+ {
+  "id": "dr_deklination_13",
+  "kategorie": "deklination",
+  "niveau": "C1+",
+  "satz": "Das Gutachten eines ___ Sachverständigen fehlt noch.",
+  "optionen": [
+   "unabhängiger",
+   "unabhängigen",
+   "unabhängiges",
+   "unabhängigem"
+  ],
+  "loesung": 1,
+  "erklaerung": "Genitiv maskulin nach „eines“ → Adjektiv mit „-en“: „eines unabhängigen Sachverständigen“."
+ },
+ {
+  "id": "dr_nominalisierung_01",
+  "kategorie": "nominalisierung",
+  "niveau": "B2+",
+  "satz": "Nach der ___ des Antrags erhalten Sie eine Bestätigung per E-Mail.",
+  "optionen": [
+   "Prüfer",
+   "Prüfen",
+   "Prüfung",
+   "Geprüfte"
+  ],
+  "loesung": 2,
+  "erklaerung": "„der“ zeigt ein feminines Nomen (Dativ nach „nach“) → „die Prüfung“ (Verb + „-ung“). „Prüfen“ ist neutrum („das Prüfen“), „Prüfer“ ist eine Person."
+ },
+ {
+  "id": "dr_nominalisierung_02",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "satz": "Die ___ der Mieten trifft vor allem Studierende.",
+  "optionen": [
+   "Erhöhung",
+   "Erhöhte",
+   "Erhöhtheit",
+   "Erhöhen"
+  ],
+  "loesung": 0,
+  "erklaerung": "„erhöhen“ → „die Erhöhung“ (Vorgang). „das Erhöhen“ passt nicht zum Artikel „die“."
+ },
+ {
+  "id": "dr_nominalisierung_03",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "satz": "Bei ___ der Frist wird eine Gebühr fällig.",
+  "optionen": [
+   "Überschreitens",
+   "Überschritt",
+   "Überschreitung",
+   "Überschrift"
+  ],
+  "loesung": 2,
+  "erklaerung": "„die Frist überschreiten“ → „bei Überschreitung der Frist“ (Nominalstil ohne Artikel). „Überschrift“ ist der Titel eines Textes."
+ },
+ {
+  "id": "dr_nominalisierung_04",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "satz": "Die Studierenden protestierten gegen die ___ von Studiengebühren.",
+  "optionen": [
+   "Einführen",
+   "Einführung",
+   "Einfuhr",
+   "Einführer"
+  ],
+  "loesung": 1,
+  "erklaerung": "„Gebühren einführen“ → „die Einführung“. „die Einfuhr“ bedeutet „Import von Waren“."
+ },
+ {
+  "id": "dr_nominalisierung_05",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "satz": "Durch die ___ neuer Lehrkräfte soll der Mangel verringert werden.",
+  "optionen": [
+   "Einsteller",
+   "Einstellen",
+   "Einstand",
+   "Einstellung"
+  ],
+  "loesung": 3,
+  "erklaerung": "„Lehrkräfte einstellen“ (= anstellen) → „die Einstellung neuer Lehrkräfte“. „Einstand“ bedeutet „Beginn in einer neuen Stelle (mit Feier)“."
+ },
+ {
+  "id": "dr_nominalisierung_06",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "satz": "Zur ___ der Ergebnisse wurde ein Statistikprogramm genutzt.",
+  "optionen": [
+   "Auswert",
+   "Auswertung",
+   "Auswerter",
+   "Auswerten"
+  ],
+  "loesung": 1,
+  "erklaerung": "„zur“ = „zu der“ → feminines Nomen: „die Auswertung“ (von „auswerten“). „Auswerten“ ist neutrum („zum Auswerten“)."
+ },
+ {
+  "id": "dr_nominalisierung_07",
+  "kategorie": "nominalisierung",
+  "niveau": "C1+",
+  "satz": "Nach Abschluss ihres Studiums ging sie nach Deutschland. = ___ sie ihr Studium abgeschlossen hatte, ging sie nach Deutschland.",
+  "optionen": [
+   "Bevor",
+   "Danach",
+   "Nach",
+   "Nachdem"
+  ],
+  "loesung": 3,
+  "erklaerung": "Verbalstil: Präposition „nach“ → Subjunktion „nachdem“ (Verb am Ende, Plusquamperfekt für das frühere Ereignis). „Danach“ ist ein Adverb und kann keinen Nebensatz einleiten."
+ },
+ {
+  "id": "dr_nominalisierung_08",
+  "kategorie": "nominalisierung",
+  "niveau": "C1+",
+  "satz": "Trotz intensiver Vorbereitung bestand er die Prüfung nicht. = ___ er sich intensiv vorbereitet hatte, bestand er die Prüfung nicht.",
+  "optionen": [
+   "Obwohl",
+   "Trotz",
+   "Trotzdem",
+   "Weil"
+  ],
+  "loesung": 0,
+  "erklaerung": "Präposition „trotz“ → Subjunktion „obwohl“ (Verb am Ende). „Trotzdem“ ist ein Adverb und verlangt einen Hauptsatz."
+ },
+ {
+  "id": "dr_nominalisierung_09",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie den Nebensatz in eine Präpositionalgruppe um.",
+  "ausgang": "Wenn man die Frist überschreitet, wird eine Gebühr fällig.",
+  "vorgabe": "___ wird eine Gebühr fällig.",
+  "loesung": "Bei Überschreitung der Frist",
+  "akzeptiert": [
+   "Bei Überschreiten der Frist",
+   "Bei einer Überschreitung der Frist",
+   "Bei Fristüberschreitung"
+  ],
+  "erklaerung": "„wenn“ (Bedingung) → „bei + Dativ“. Das Verb „überschreiten“ wird zum Nomen „die Überschreitung“, das Objekt „die Frist“ wird zum Genitivattribut."
+ },
+ {
+  "id": "dr_nominalisierung_10",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie den Nebensatz in eine Präpositionalgruppe um.",
+  "ausgang": "Nachdem die Behörde die Unterlagen geprüft hatte, schickte sie einen Bescheid.",
+  "vorgabe": "___ schickte die Behörde einen Bescheid.",
+  "loesung": "Nach der Prüfung der Unterlagen",
+  "akzeptiert": [
+   "Nach Prüfung der Unterlagen"
+  ],
+  "erklaerung": "„nachdem“ → „nach + Dativ“; „prüfen“ → „die Prüfung“; das Akkusativobjekt „die Unterlagen“ wird zum Genitiv „der Unterlagen“."
+ },
+ {
+  "id": "dr_nominalisierung_11",
+  "kategorie": "nominalisierung",
+  "niveau": "C1+",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie den Nebensatz in eine Präpositionalgruppe um.",
+  "ausgang": "Obwohl die Mieten stark gestiegen sind, ziehen viele Studierende in die Stadt.",
+  "vorgabe": "___ ziehen viele Studierende in die Stadt.",
+  "loesung": "Trotz des starken Anstiegs der Mieten",
+  "akzeptiert": [
+   "Trotz der stark gestiegenen Mieten",
+   "Ungeachtet des starken Anstiegs der Mieten",
+   "Trotz des starken Mietanstiegs"
+  ],
+  "erklaerung": "„obwohl“ → „trotz + Genitiv“; „stark steigen“ → „der starke Anstieg“ (Adverb wird zum Adjektiv); das Subjekt „die Mieten“ wird zum Genitivattribut."
+ },
+ {
+  "id": "dr_nominalisierung_12",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie die Präpositionalgruppe in einen Nebensatz um (Verbalisierung).",
+  "ausgang": "Zur Verbesserung der Unterrichtsqualität werden Fortbildungen angeboten.",
+  "vorgabe": "Fortbildungen werden angeboten, ___.",
+  "loesung": "um die Unterrichtsqualität zu verbessern",
+  "akzeptiert": [
+   "damit die Unterrichtsqualität verbessert wird",
+   "damit sich die Unterrichtsqualität verbessert",
+   "damit die Unterrichtsqualität besser wird"
+  ],
+  "erklaerung": "„zur + Nomen“ (Ziel) → „um … zu + Infinitiv“ oder „damit“. „die Verbesserung“ → „verbessern“; der Genitiv „der Unterrichtsqualität“ wird zum Akkusativobjekt."
+ },
+ {
+  "id": "dr_nominalisierung_13",
+  "kategorie": "nominalisierung",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie die Präpositionalgruppe in einen Nebensatz um (Verbalisierung).",
+  "ausgang": "Bei regelmäßiger Teilnahme erhalten Sie ein Zertifikat.",
+  "vorgabe": "___, erhalten Sie ein Zertifikat.",
+  "loesung": "Wenn Sie regelmäßig teilnehmen",
+  "akzeptiert": [
+   "Falls Sie regelmäßig teilnehmen",
+   "Sofern Sie regelmäßig teilnehmen",
+   "Wenn Sie regelmäßig daran teilnehmen"
+  ],
+  "erklaerung": "„bei + Nomen“ (Bedingung) → „wenn“-Satz. „die Teilnahme“ → „teilnehmen“; das Adjektiv „regelmäßig“ wird zum Adverb."
+ },
+ {
+  "id": "dr_partizip_01",
+  "kategorie": "partizip",
+  "niveau": "B2+",
+  "satz": "Ein ___ Hund beißt nicht, sagt ein deutsches Sprichwort.",
+  "optionen": [
+   "gebellte",
+   "bellender",
+   "bellende",
+   "gebellter"
+  ],
+  "loesung": 1,
+  "erklaerung": "Der Hund bellt selbst (aktiv, gleichzeitig) → Partizip I „bellend“. Nach „ein“ im Nominativ maskulin → Endung „-er“. „gebellter“ (Partizip II) wäre passiv – das ergibt keinen Sinn."
+ },
+ {
+  "id": "dr_partizip_02",
+  "kategorie": "partizip",
+  "niveau": "B2+",
+  "satz": "Die ___ Ergebnisse der Studie wurden gestern vorgestellt.",
+  "optionen": [
+   "lang erwarteten",
+   "lang erwartenden",
+   "lang erwartete",
+   "lang erwartet"
+  ],
+  "loesung": 0,
+  "erklaerung": "Die Ergebnisse werden erwartet (passiv) → Partizip II. Nach „die“ im Nominativ Plural → Endung „-en“. „erwartenden“ (Partizip I) hieße, dass die Ergebnisse selbst etwas erwarten."
+ },
+ {
+  "id": "dr_partizip_03",
+  "kategorie": "partizip",
+  "niveau": "C1",
+  "satz": "Das in der Mensa ___ Essen stammt überwiegend aus der Region.",
+  "optionen": [
+   "anbietende",
+   "angeboten",
+   "angebotene",
+   "angebotenen"
+  ],
+  "loesung": 2,
+  "erklaerung": "Das Essen wird angeboten (passiv) → Partizip II. Nach „das“ im Nominativ neutrum → „-e“. „anbietende“ wäre aktiv: Das Essen bietet aber nichts an."
+ },
+ {
+  "id": "dr_partizip_04",
+  "kategorie": "partizip",
+  "niveau": "C1",
+  "satz": "Die Zahl der an Diabetes ___ Kinder nimmt seit Jahren zu.",
+  "optionen": [
+   "erkrankter",
+   "erkrankten",
+   "erkrankt",
+   "erkrankte"
+  ],
+  "loesung": 1,
+  "erklaerung": "„der … Kinder“ ist Genitiv Plural mit Artikel → Endung „-en“: „der erkrankten Kinder“ (= der Kinder, die erkrankt sind). Ohne Endung („erkrankt“) kann das Partizip nicht vor dem Nomen stehen."
+ },
+ {
+  "id": "dr_partizip_05",
+  "kategorie": "partizip",
+  "niveau": "C1",
+  "satz": "Wir suchen eine Lehrkraft mit ___ Kenntnissen in Biologie.",
+  "optionen": [
+   "fundierenden",
+   "fundiert",
+   "fundierte",
+   "fundierten"
+  ],
+  "loesung": 3,
+  "erklaerung": "Die Kenntnisse sind fundiert (= gut begründet) → Partizip II als Adjektiv. „mit“ + Dativ Plural ohne Artikel → „-en“."
+ },
+ {
+  "id": "dr_partizip_06",
+  "kategorie": "partizip",
+  "niveau": "C1",
+  "satz": "Die ___ Diskussion über Studiengebühren zeigt, wie umstritten das Thema ist.",
+  "optionen": [
+   "anhaltende",
+   "anhaltenden",
+   "angehaltene",
+   "anhaltend"
+  ],
+  "loesung": 0,
+  "erklaerung": "Die Diskussion hält an, sie dauert noch (aktiv, gleichzeitig) → Partizip I „anhaltend“. Nach „die“ im Nominativ Singular → „-e“. „angehaltene“ hieße „gestoppt“."
+ },
+ {
+  "id": "dr_partizip_07",
+  "kategorie": "partizip",
+  "niveau": "C1",
+  "satz": "Die von der Kommission ___ Maßnahmen sind umstritten.",
+  "optionen": [
+   "vorgeschlagene",
+   "vorschlagenden",
+   "vorgeschlagenen",
+   "vorgeschlagen"
+  ],
+  "loesung": 2,
+  "erklaerung": "„von der Kommission“ zeigt das Passiv (die Kommission schlägt vor) → Partizip II. Nach „die“ im Nominativ Plural → „-en“."
+ },
+ {
+  "id": "dr_partizip_08",
+  "kategorie": "partizip",
+  "niveau": "C1+",
+  "satz": "Der vollständig ___ Antrag muss bis Ende Mai eingereicht werden.",
+  "optionen": [
+   "ausfüllende",
+   "ausgefüllt",
+   "ausgefüllten",
+   "ausgefüllte"
+  ],
+  "loesung": 3,
+  "erklaerung": "Der Antrag wird ausgefüllt (passiv, abgeschlossen) → Partizip II. Nach „der“ im Nominativ maskulin → „-e“."
+ },
+ {
+  "id": "dr_partizip_09",
+  "kategorie": "partizip",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie den Relativsatz in ein Partizipialattribut um.",
+  "ausgang": "Die Studie, die im letzten Jahr veröffentlicht wurde, hat viel Aufmerksamkeit erregt.",
+  "vorgabe": "Die ___ Studie hat viel Aufmerksamkeit erregt.",
+  "loesung": "im letzten Jahr veröffentlichte",
+  "akzeptiert": [
+   "letztes Jahr veröffentlichte"
+  ],
+  "erklaerung": "Passiv im Relativsatz („veröffentlicht wurde“) → Partizip II. Die Zusatzinformation („im letzten Jahr“) steht vor dem Partizip; Endung nach „die“ im Nominativ: „-e“."
+ },
+ {
+  "id": "dr_partizip_10",
+  "kategorie": "partizip",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie den Relativsatz in ein Partizipialattribut um.",
+  "ausgang": "Die Zahl der Studierenden, die ein Auslandssemester absolvieren, steigt.",
+  "vorgabe": "Die Zahl der ___ Studierenden steigt.",
+  "loesung": "ein Auslandssemester absolvierenden",
+  "akzeptiert": [],
+  "erklaerung": "Aktiv und gleichzeitig („absolvieren“) → Partizip I („absolvierend“). Genitiv Plural nach „der“ → Endung „-en“. Das Objekt „ein Auslandssemester“ steht vor dem Partizip."
+ },
+ {
+  "id": "dr_partizip_11",
+  "kategorie": "partizip",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie das Partizipialattribut in einen Relativsatz um.",
+  "ausgang": "Die seit Jahren steigenden Mieten belasten viele Studierende.",
+  "vorgabe": "Die Mieten, ___, belasten viele Studierende.",
+  "loesung": "die seit Jahren steigen",
+  "akzeptiert": [
+   "die seit Jahren ansteigen",
+   "die seit Jahren immer weiter steigen"
+  ],
+  "erklaerung": "Partizip I („steigend“) = Aktiv und gleichzeitig → Präsens Aktiv im Relativsatz: „die … steigen“. Das Relativpronomen richtet sich nach „die Mieten“ (Plural, Nominativ)."
+ },
+ {
+  "id": "dr_partizip_12",
+  "kategorie": "partizip",
+  "niveau": "C1+",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie das Partizipialattribut in einen Relativsatz um.",
+  "ausgang": "Der von der Bezirksregierung geprüfte Antrag wurde genehmigt.",
+  "vorgabe": "Der Antrag, ___, wurde genehmigt.",
+  "loesung": "der von der Bezirksregierung geprüft wurde",
+  "akzeptiert": [
+   "der von der Bezirksregierung geprüft worden war",
+   "der von der Bezirksregierung geprüft worden ist",
+   "den die Bezirksregierung geprüft hat",
+   "den die Bezirksregierung geprüft hatte"
+  ],
+  "erklaerung": "Partizip II eines transitiven Verbs = Passiv → „der … geprüft wurde“. Im Aktiv wird die Bezirksregierung zum Subjekt und das Relativpronomen steht im Akkusativ: „den die Bezirksregierung geprüft hat“."
+ },
+ {
+  "id": "dr_partizip_13",
+  "kategorie": "partizip",
+  "niveau": "C1+",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie den Relativsatz in ein Partizipialattribut um.",
+  "ausgang": "Die Probleme, die gelöst werden müssen, sind komplex.",
+  "vorgabe": "Die ___ Probleme sind komplex.",
+  "loesung": "zu lösenden",
+  "akzeptiert": [],
+  "erklaerung": "„die gelöst werden müssen“ (= sein + zu) wird zu „zu + Partizip I“: „die zu lösenden Probleme“. Endung nach „die“ im Nominativ Plural: „-en“."
+ },
+ {
+  "id": "dr_pronomen_01",
+  "kategorie": "pronomen",
+  "niveau": "B2+",
+  "satz": "Ich freue mich schon jetzt ___, dich nächste Woche wiederzusehen.",
+  "optionen": [
+   "darüber",
+   "worauf",
+   "darauf",
+   "dafür"
+  ],
+  "loesung": 2,
+  "erklaerung": "„sich freuen auf“ = auf etwas in der Zukunft („nächste Woche“). „sich freuen über“ benutzt man für etwas, das schon passiert ist oder gerade passiert."
+ },
+ {
+  "id": "dr_pronomen_02",
+  "kategorie": "pronomen",
+  "niveau": "B2+",
+  "satz": "___ denkst du gerade? – An meine Prüfung morgen.",
+  "optionen": [
+   "Woran",
+   "Worauf",
+   "Daran",
+   "Wovon"
+  ],
+  "loesung": 0,
+  "erklaerung": "„denken an“ → Fragewort für Sachen: „wo(r) + an“ = „woran“. „Daran“ ist kein Fragewort."
+ },
+ {
+  "id": "dr_pronomen_03",
+  "kategorie": "pronomen",
+  "niveau": "B2+",
+  "satz": "Hast du schon mit deiner Betreuerin gesprochen? – Nein, ich habe noch nicht mit ___ gesprochen.",
+  "optionen": [
+   "sie",
+   "ihr",
+   "ihnen",
+   "ihrer"
+  ],
+  "loesung": 1,
+  "erklaerung": "„mit“ + Dativ; „die Betreuerin“ (feminin, Singular) → „mit ihr“. „ihnen“ wäre Plural."
+ },
+ {
+  "id": "dr_pronomen_04",
+  "kategorie": "pronomen",
+  "niveau": "C1",
+  "satz": "Die Kommission hat die Anträge geprüft und ___ dann an die Fakultät weitergeleitet.",
+  "optionen": [
+   "sie",
+   "ihr",
+   "ihnen",
+   "es"
+  ],
+  "loesung": 0,
+  "erklaerung": "Das Pronomen ersetzt „die Anträge“ (Plural) als Akkusativobjekt → „sie“. „ihnen“ wäre Dativ."
+ },
+ {
+  "id": "dr_pronomen_05",
+  "kategorie": "pronomen",
+  "niveau": "C1",
+  "satz": "Viele Studierende beschweren sich ___, dass die Bibliothek zu früh schließt.",
+  "optionen": [
+   "dafür",
+   "darum",
+   "worüber",
+   "darüber"
+  ],
+  "loesung": 3,
+  "erklaerung": "„sich beschweren über“ → Pronominaladverb „darüber“ (es weist auf den „dass“-Satz). „worüber“ wäre ein Fragewort."
+ },
+ {
+  "id": "dr_pronomen_06",
+  "kategorie": "pronomen",
+  "niveau": "C1",
+  "satz": "Ich kann ___ gut vorstellen, in Deutschland als Lehrerin zu arbeiten.",
+  "optionen": [
+   "sich",
+   "mich",
+   "ich",
+   "mir"
+  ],
+  "loesung": 3,
+  "erklaerung": "„sich etwas vorstellen“ hat ein Akkusativobjekt (hier den Infinitivsatz), deshalb steht das Reflexivpronomen im Dativ: „ich stelle mir vor“."
+ },
+ {
+  "id": "dr_pronomen_07",
+  "kategorie": "pronomen",
+  "niveau": "C1",
+  "satz": "Die Studierenden haben ___ gegenseitig bei der Vorbereitung geholfen.",
+  "optionen": [
+   "sich",
+   "ihrer",
+   "sie",
+   "ihnen"
+  ],
+  "loesung": 0,
+  "erklaerung": "Reflexivpronomen in der 3. Person Plural ist immer „sich“, auch im Dativ. „ihnen“ würde andere Personen meinen."
+ },
+ {
+  "id": "dr_pronomen_08",
+  "kategorie": "pronomen",
+  "niveau": "C1",
+  "satz": "Es hängt ___ ab, ob wir die Förderung bekommen.",
+  "optionen": [
+   "daran",
+   "wovon",
+   "davon",
+   "darauf"
+  ],
+  "loesung": 2,
+  "erklaerung": "„abhängen von“ → „davon“; es kündigt den „ob“-Satz an. „daran“ passt zu „liegen an“."
+ },
+ {
+  "id": "dr_pronomen_09",
+  "kategorie": "pronomen",
+  "niveau": "C1",
+  "satz": "Die Lehrerin erinnerte die Klasse ___, dass morgen der Test stattfindet.",
+  "optionen": [
+   "davon",
+   "darüber",
+   "darauf",
+   "daran"
+  ],
+  "loesung": 3,
+  "erklaerung": "„jemanden an etwas erinnern“ → „daran“. „darauf“ passt zu „hinweisen auf“."
+ },
+ {
+  "id": "dr_pronomen_10",
+  "kategorie": "pronomen",
+  "niveau": "C1",
+  "satz": "Alles, ___ wir in der Sitzung gesprochen haben, bleibt vertraulich.",
+  "optionen": [
+   "darüber",
+   "worüber",
+   "über was",
+   "was"
+  ],
+  "loesung": 1,
+  "erklaerung": "Nach „alles“ steht bei Präpositionen „wo(r) + Präposition“: „sprechen über“ → „worüber“. „über was“ ist umgangssprachlich und in der Prüfung falsch."
+ },
+ {
+  "id": "dr_pronomen_11",
+  "kategorie": "pronomen",
+  "niveau": "C1+",
+  "satz": "Er hat die Prüfung nicht bestanden, ___ er sich sehr geärgert hat.",
+  "optionen": [
+   "wovon",
+   "worüber",
+   "über das",
+   "darüber"
+  ],
+  "loesung": 1,
+  "erklaerung": "Bezug auf den ganzen Satz davor + „sich ärgern über“ → „worüber“. „über das“ geht nur mit einem Nomen als Bezugswort."
+ },
+ {
+  "id": "dr_pronomen_12",
+  "kategorie": "pronomen",
+  "niveau": "C1+",
+  "satz": "Die Forscherin ist ___ überzeugt, dass die Ergebnisse stimmen.",
+  "optionen": [
+   "davon",
+   "daran",
+   "darüber",
+   "dafür"
+  ],
+  "loesung": 0,
+  "erklaerung": "„von etwas überzeugt sein“ → „davon“. „überzeugt“ steht nicht mit „über“."
+ },
+ {
+  "id": "dr_pronomen_13",
+  "kategorie": "pronomen",
+  "niveau": "C1+",
+  "satz": "Wir möchten Sie ___ hinweisen, dass die Frist am Freitag endet.",
+  "optionen": [
+   "dazu",
+   "daran",
+   "darauf",
+   "darüber"
+  ],
+  "loesung": 2,
+  "erklaerung": "„jemanden auf etwas hinweisen“ → „darauf“. Das ist eine typische Formel in offiziellen E-Mails."
+ },
+ {
+  "id": "dr_relativsatz_01",
+  "kategorie": "relativsatz",
+  "niveau": "B2+",
+  "satz": "Das ist die Kollegin, ___ ich meine Unterlagen gegeben habe.",
+  "optionen": [
+   "denen",
+   "deren",
+   "der",
+   "die"
+  ],
+  "loesung": 2,
+  "erklaerung": "„jemandem etwas geben“ → Dativ; „die Kollegin“ ist feminin → Dativ-Relativpronomen „der“. „die“ wäre Nominativ oder Akkusativ."
+ },
+ {
+  "id": "dr_relativsatz_02",
+  "kategorie": "relativsatz",
+  "niveau": "B2+",
+  "satz": "Die Stadt, in ___ ich aufgewachsen bin, liegt auf Cebu.",
+  "optionen": [
+   "dem",
+   "der",
+   "die",
+   "welche"
+  ],
+  "loesung": 1,
+  "erklaerung": "„in“ + Dativ (wo?); „die Stadt“ ist feminin → „in der“. „in die“ wäre Akkusativ (wohin?)."
+ },
+ {
+  "id": "dr_relativsatz_03",
+  "kategorie": "relativsatz",
+  "niveau": "C1",
+  "satz": "Die Schüler, ___ Eltern nicht beim Elternabend waren, bekommen einen Brief.",
+  "optionen": [
+   "deren",
+   "die",
+   "denen",
+   "dessen"
+  ],
+  "loesung": 0,
+  "erklaerung": "Besitz (die Eltern der Schüler) → Genitiv-Relativpronomen; Bezugswort Plural → „deren“. „dessen“ steht nur für maskulin/neutrum Singular."
+ },
+ {
+  "id": "dr_relativsatz_04",
+  "kategorie": "relativsatz",
+  "niveau": "C1",
+  "satz": "Der Professor, ___ Seminar ich besuche, forscht über Insekten.",
+  "optionen": [
+   "dem",
+   "sein",
+   "deren",
+   "dessen"
+  ],
+  "loesung": 3,
+  "erklaerung": "Besitz (das Seminar des Professors) → Genitiv; Bezugswort maskulin Singular → „dessen“. „sein“ ist kein Relativpronomen."
+ },
+ {
+  "id": "dr_relativsatz_05",
+  "kategorie": "relativsatz",
+  "niveau": "C1",
+  "satz": "Das Thema, ___ sich die Arbeitsgruppe beschäftigt, ist sehr aktuell.",
+  "optionen": [
+   "mit denen",
+   "mit dem",
+   "mit der",
+   "mit das"
+  ],
+  "loesung": 1,
+  "erklaerung": "„sich beschäftigen mit“ + Dativ; „das Thema“ ist neutrum → „mit dem“. „mit das“ ist falsch, weil „mit“ immer den Dativ verlangt."
+ },
+ {
+  "id": "dr_relativsatz_06",
+  "kategorie": "relativsatz",
+  "niveau": "C1",
+  "satz": "Alles, ___ in dem Bericht steht, wurde sorgfältig geprüft.",
+  "optionen": [
+   "welches",
+   "dass",
+   "was",
+   "das"
+  ],
+  "loesung": 2,
+  "erklaerung": "Nach „alles“, „etwas“, „nichts“ steht das Relativpronomen „was“. „das“ verwendet man nur nach einem Nomen im Neutrum."
+ },
+ {
+  "id": "dr_relativsatz_07",
+  "kategorie": "relativsatz",
+  "niveau": "C1+",
+  "satz": "Sie hat die Prüfung bestanden, ___ sich alle sehr gefreut haben.",
+  "optionen": [
+   "worüber",
+   "über die",
+   "darüber",
+   "was"
+  ],
+  "loesung": 0,
+  "erklaerung": "Der Relativsatz bezieht sich auf den ganzen Satz davor → „wo(r) + Präposition“: „sich freuen über“ → „worüber“. „darüber“ würde einen Hauptsatz verlangen."
+ },
+ {
+  "id": "dr_relativsatz_08",
+  "kategorie": "relativsatz",
+  "niveau": "C1+",
+  "satz": "Das Labor, ___ Ausstattung modernisiert werden soll, bleibt bis März geschlossen.",
+  "optionen": [
+   "das",
+   "dem",
+   "deren",
+   "dessen"
+  ],
+  "loesung": 3,
+  "erklaerung": "„die Ausstattung des Labors“ → Genitiv; „das Labor“ ist neutrum → „dessen“. „deren“ wäre feminin oder Plural."
+ },
+ {
+  "id": "dr_relativsatz_09",
+  "kategorie": "relativsatz",
+  "niveau": "B2+",
+  "typ": "umformung",
+  "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+  "ausgang": "Ich habe eine Kollegin. Ihr Mann ist auch Lehrer.",
+  "vorgabe": "Ich habe eine Kollegin, ___ auch Lehrer ist.",
+  "loesung": "deren Mann",
+  "akzeptiert": [],
+  "erklaerung": "„ihr Mann“ zeigt Besitz → Genitiv-Relativpronomen. Bezugswort „eine Kollegin“ (feminin) → „deren Mann“."
+ },
+ {
+  "id": "dr_relativsatz_10",
+  "kategorie": "relativsatz",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+  "ausgang": "Das ist das Projekt. Wir haben lange darauf gewartet.",
+  "vorgabe": "Das ist das Projekt, ___ wir lange gewartet haben.",
+  "loesung": "auf das",
+  "akzeptiert": [
+   "worauf"
+  ],
+  "erklaerung": "„warten auf“ + Akkusativ; „das Projekt“ ist neutrum → „auf das“. Bei Sachen ist auch „worauf“ möglich."
+ },
+ {
+  "id": "dr_relativsatz_11",
+  "kategorie": "relativsatz",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+  "ausgang": "Die Biologielehrerin kommt von den Philippinen. Den Schülern gefällt ihr Unterricht sehr.",
+  "vorgabe": "Die Biologielehrerin, ___ den Schülern sehr gefällt, kommt von den Philippinen.",
+  "loesung": "deren Unterricht",
+  "akzeptiert": [],
+  "erklaerung": "„ihr Unterricht“ (Besitz) → Genitiv-Relativpronomen für ein feminines Bezugswort: „deren Unterricht“. „Unterricht“ ist hier Subjekt von „gefällt“."
+ },
+ {
+  "id": "dr_relativsatz_12",
+  "kategorie": "relativsatz",
+  "niveau": "C1",
+  "typ": "umformung",
+  "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+  "ausgang": "Wir besuchen ein Museum. In dem Museum gibt es eine Ausstellung über Insekten.",
+  "vorgabe": "Wir besuchen ein Museum, ___ es eine Ausstellung über Insekten gibt.",
+  "loesung": "in dem",
+  "akzeptiert": [
+   "in welchem",
+   "wo"
+  ],
+  "erklaerung": "Ortsangabe mit „in“ + Dativ; „ein Museum“ ist neutrum → „in dem“. Bei Orten ist auch „wo“ möglich."
+ },
+ {
+  "id": "dr_relativsatz_13",
+  "kategorie": "relativsatz",
+  "niveau": "C1+",
+  "typ": "umformung",
+  "aufgabe": "Formen Sie das Partizipialattribut in einen Relativsatz um.",
+  "ausgang": "Die im Labor arbeitenden Studierenden tragen Schutzbrillen.",
+  "vorgabe": "Die Studierenden, ___, tragen Schutzbrillen.",
+  "loesung": "die im Labor arbeiten",
+  "akzeptiert": [],
+  "erklaerung": "Partizip I („arbeitend“) = Aktiv und gleichzeitig → Präsens Aktiv: „die im Labor arbeiten“. Das Relativpronomen ist Nominativ Plural."
+ },
+ {
+  "id": "dr_wortbildung_01",
+  "kategorie": "wortbildung",
+  "niveau": "B2+",
+  "satz": "Die Erklärung ist sehr ___; man versteht sie sofort.",
+  "optionen": [
+   "verständlich",
+   "verständig",
+   "verständnisvoll",
+   "verstanden"
+  ],
+  "loesung": 0,
+  "erklaerung": "„verständlich“ = leicht zu verstehen. „verständnisvoll“ beschreibt eine Person, die Verständnis für andere hat."
+ },
+ {
+  "id": "dr_wortbildung_02",
+  "kategorie": "wortbildung",
+  "niveau": "B2+",
+  "satz": "Diese Aufgabe ist leider nicht ___ – es gibt keine Lösung.",
+  "optionen": [
+   "loslösend",
+   "lösbar",
+   "löslich",
+   "lösend"
+  ],
+  "loesung": 1,
+  "erklaerung": "„-bar“ = man kann es tun: „lösbar“ = kann gelöst werden. „löslich“ benutzt man in der Chemie (Zucker ist in Wasser löslich)."
+ },
+ {
+  "id": "dr_wortbildung_03",
+  "kategorie": "wortbildung",
+  "niveau": "B2+",
+  "satz": "Die ___ des Antrags dauert etwa sechs Wochen.",
+  "optionen": [
+   "Arbeitung",
+   "Bearbeitung",
+   "Bearbeitbarkeit",
+   "Bearbeiter"
+  ],
+  "loesung": 1,
+  "erklaerung": "Verb „bearbeiten“ + „-ung“ = der Vorgang: „die Bearbeitung“. „der Bearbeiter“ ist eine Person und passt nicht zum Artikel „die“."
+ },
+ {
+  "id": "dr_wortbildung_04",
+  "kategorie": "wortbildung",
+  "niveau": "C1",
+  "satz": "Die Ergebnisse sind nicht ___, weil die Stichprobe zu klein war.",
+  "optionen": [
+   "aussagend",
+   "aussagbar",
+   "aussagekräftig",
+   "ausgesagt"
+  ],
+  "loesung": 2,
+  "erklaerung": "„aussagekräftig“ = hat eine klare Bedeutung, ist überzeugend. „ausgesagt“ (Partizip II) passt nicht zu „Ergebnisse“."
+ },
+ {
+  "id": "dr_wortbildung_05",
+  "kategorie": "wortbildung",
+  "niveau": "C1",
+  "satz": "Viele Pflanzen reagieren ___ auf Trockenheit.",
+  "optionen": [
+   "empfindend",
+   "empfunden",
+   "empfehlenswert",
+   "empfindlich"
+  ],
+  "loesung": 3,
+  "erklaerung": "„empfindlich“ = reagiert schnell und stark auf etwas (negativ). „empfehlenswert“ heißt „gut, man sollte es nehmen“."
+ },
+ {
+  "id": "dr_wortbildung_06",
+  "kategorie": "wortbildung",
+  "niveau": "C1",
+  "satz": "Das ist eine ___ Entscheidung, die man nicht rückgängig machen kann.",
+  "optionen": [
+   "endlose",
+   "endliche",
+   "beendete",
+   "endgültige"
+  ],
+  "loesung": 3,
+  "erklaerung": "„endgültig“ = kann nicht mehr geändert werden. „endlos“ bedeutet „ohne Ende“."
+ },
+ {
+  "id": "dr_wortbildung_07",
+  "kategorie": "wortbildung",
+  "niveau": "C1",
+  "satz": "Die Behörde hat den Einspruch als ___ zurückgewiesen.",
+  "optionen": [
+   "ungegründet",
+   "unbegrenzt",
+   "unbegründet",
+   "begründend"
+  ],
+  "loesung": 2,
+  "erklaerung": "„unbegründet“ = ohne ausreichenden Grund. „unbegrenzt“ heißt „ohne Grenze“."
+ },
+ {
+  "id": "dr_wortbildung_08",
+  "kategorie": "wortbildung",
+  "niveau": "C1",
+  "satz": "Die Lehrerin ist für ihre ___ bekannt.",
+  "optionen": [
+   "Hilfsbereitschaft",
+   "Hilfsbereitheit",
+   "Hilfsbereitung",
+   "Hilfsbereit"
+  ],
+  "loesung": 0,
+  "erklaerung": "Adjektiv „hilfsbereit“ → Nomen mit „-schaft“: „die Hilfsbereitschaft“. „-heit“ und „-ung“ passen hier nicht."
+ },
+ {
+  "id": "dr_wortbildung_09",
+  "kategorie": "wortbildung",
+  "niveau": "C1",
+  "satz": "Ohne ausreichende Sprachkenntnisse ist eine ___ in den Schuldienst kaum möglich.",
+  "optionen": [
+   "Einstellung",
+   "Einsteller",
+   "Eingestellte",
+   "Einstellbarkeit"
+  ],
+  "loesung": 0,
+  "erklaerung": "„jemanden einstellen“ (= eine Arbeitsstelle geben) → „die Einstellung“. „der Einsteller“ gibt es in dieser Bedeutung nicht."
+ },
+ {
+  "id": "dr_wortbildung_10",
+  "kategorie": "wortbildung",
+  "niveau": "C1",
+  "satz": "Diese Pflanzenart ist ___: Sie kommt nur auf einer einzigen Insel vor.",
+  "optionen": [
+   "einsam",
+   "einzigartig",
+   "einzig",
+   "einzeln"
+  ],
+  "loesung": 1,
+  "erklaerung": "„einzigartig“ = es gibt sie nur einmal, sie ist besonders. „einzeln“ bedeutet „getrennt, nicht zusammen“."
+ },
+ {
+  "id": "dr_wortbildung_11",
+  "kategorie": "wortbildung",
+  "niveau": "C1+",
+  "satz": "Die Ergebnisse sind ___: Andere Forschungsgruppen kommen zu denselben Werten.",
+  "optionen": [
+   "reproduktiv",
+   "Reproduktion",
+   "reproduzierbar",
+   "reproduzierend"
+  ],
+  "loesung": 2,
+  "erklaerung": "„-bar“ = kann man tun: „reproduzierbar“ = man kann die Ergebnisse wiederholen. „reproduktiv“ bezieht sich auf Fortpflanzung."
+ },
+ {
+  "id": "dr_wortbildung_12",
+  "kategorie": "wortbildung",
+  "niveau": "C1+",
+  "satz": "Die Maßnahme erwies sich als ___: Sie hatte keinerlei Wirkung.",
+  "optionen": [
+   "wirkungslos",
+   "wirkend",
+   "wirksam",
+   "wirklich"
+  ],
+  "loesung": 0,
+  "erklaerung": "„-los“ = ohne: „wirkungslos“ = ohne Wirkung. „wirksam“ bedeutet das Gegenteil."
+ },
+ {
+  "id": "dr_wortbildung_13",
+  "kategorie": "wortbildung",
+  "niveau": "C1+",
+  "satz": "Das neue Gesetz soll die ___ ausländischer Abschlüsse erleichtern.",
+  "optionen": [
+   "Bekenntnis",
+   "Erkenntnis",
+   "Kenntnis",
+   "Anerkennung"
+  ],
+  "loesung": 3,
+  "erklaerung": "„einen Abschluss anerkennen“ → „die Anerkennung“. „die Erkenntnis“ ist neues Wissen."
+ },
+ {
+  "id": "dr_wortstellung_01",
+  "kategorie": "wortstellung",
+  "niveau": "B2+",
+  "satz": "Deshalb ___ im nächsten Jahr ein Auslandssemester machen.",
+  "optionen": [
+   "möchte",
+   "möchte ich",
+   "ich möchten",
+   "ich möchte"
+  ],
+  "loesung": 1,
+  "erklaerung": "„deshalb“ steht auf Position 1, dann folgt sofort das konjugierte Verb (Position 2), danach das Subjekt: „Deshalb möchte ich …“."
+ },
+ {
+  "id": "dr_wortstellung_02",
+  "kategorie": "wortstellung",
+  "niveau": "B2+",
+  "satz": "Ich weiß nicht, ob ___.",
+  "optionen": [
+   "er kommt morgen",
+   "er morgen kommt",
+   "morgen er kommt",
+   "kommt er morgen"
+  ],
+  "loesung": 1,
+  "erklaerung": "Im Nebensatz (mit „ob“, „dass“, „weil“ …) steht das konjugierte Verb am Ende: „ob er morgen kommt“."
+ },
+ {
+  "id": "dr_wortstellung_03",
+  "kategorie": "wortstellung",
+  "niveau": "B2+",
+  "satz": "Die Veranstaltung ___.",
+  "optionen": [
+   "fängt um 18 Uhr ab",
+   "um 18 Uhr fängt an",
+   "anfängt um 18 Uhr",
+   "fängt um 18 Uhr an"
+  ],
+  "loesung": 3,
+  "erklaerung": "Trennbares Verb im Hauptsatz: „fängt“ auf Position 2, die Vorsilbe „an“ am Ende (Satzklammer). „abfangen“ hat eine andere Bedeutung."
+ },
+ {
+  "id": "dr_wortstellung_04",
+  "kategorie": "wortstellung",
+  "niveau": "B2+",
+  "satz": "Die Tests? Die Lehrerin hat ___ gestern zurückgegeben.",
+  "optionen": [
+   "sie sie",
+   "ihnen sie",
+   "sie ihnen",
+   "ihnen die"
+  ],
+  "loesung": 2,
+  "erklaerung": "Zwei Pronomen: Akkusativ vor Dativ („sie“ = die Tests, „ihnen“ = den Schülern). Bei zwei Nomen ist es umgekehrt (Dativ vor Akkusativ)."
+ },
+ {
+  "id": "dr_wortstellung_05",
+  "kategorie": "wortstellung",
+  "niveau": "C1",
+  "satz": "Obwohl die Prüfung schwer war, ___.",
+  "optionen": [
+   "sie sie hat bestanden",
+   "hat bestanden sie sie",
+   "hat sie sie bestanden",
+   "sie hat sie bestanden"
+  ],
+  "loesung": 2,
+  "erklaerung": "Steht der Nebensatz vorne, zählt er als Position 1. Danach folgt direkt das konjugierte Verb: „…, hat sie sie bestanden.“"
+ },
+ {
+  "id": "dr_wortstellung_06",
+  "kategorie": "wortstellung",
+  "niveau": "C1",
+  "satz": "Sie hat sich entschieden, ___.",
+  "optionen": [
+   "in Deutschland bleiben zu",
+   "zu bleiben in Deutschland",
+   "in Deutschland zu bleiben",
+   "bleiben in Deutschland"
+  ],
+  "loesung": 2,
+  "erklaerung": "Im Infinitivsatz steht „zu + Infinitiv“ am Ende: „in Deutschland zu bleiben“."
+ },
+ {
+  "id": "dr_wortstellung_07",
+  "kategorie": "wortstellung",
+  "niveau": "C1",
+  "satz": "Gestern ___ zufällig in der Mensa getroffen.",
+  "optionen": [
+   "ihn habe ich",
+   "ich habe ihn",
+   "habe ihn ich",
+   "habe ich ihn"
+  ],
+  "loesung": 3,
+  "erklaerung": "Zeitangabe auf Position 1 → Verb auf Position 2 → Subjekt „ich“ → Pronomen „ihn“. Kurze Pronomen stehen direkt nach dem Subjekt."
+ },
+ {
+  "id": "dr_wortstellung_08",
+  "kategorie": "wortstellung",
+  "niveau": "C1",
+  "satz": "Ich glaube, dass sie die Stelle ___.",
+  "optionen": [
+   "bekommen wird",
+   "bekommen werden",
+   "bekommt wird",
+   "wird bekommen"
+  ],
+  "loesung": 0,
+  "erklaerung": "Im Nebensatz steht das konjugierte Verb ganz am Ende, nach dem Infinitiv: „bekommen wird“."
+ },
+ {
+  "id": "dr_wortstellung_09",
+  "kategorie": "wortstellung",
+  "niveau": "C1",
+  "satz": "Kannst du mir sagen, wann ___?",
+  "optionen": [
+   "Kurs der beginnt",
+   "der Kurs beginnt",
+   "der beginnt Kurs",
+   "beginnt der Kurs"
+  ],
+  "loesung": 1,
+  "erklaerung": "Indirekte Frage = Nebensatz → Verb am Ende: „wann der Kurs beginnt“."
+ },
+ {
+  "id": "dr_wortstellung_10",
+  "kategorie": "wortstellung",
+  "niveau": "C1",
+  "satz": "Je mehr man liest, ___.",
+  "optionen": [
+   "desto größer wird der Wortschatz",
+   "der Wortschatz wird desto größer",
+   "desto größer der Wortschatz wird",
+   "desto der Wortschatz wird größer"
+  ],
+  "loesung": 0,
+  "erklaerung": "Nach „desto + Komparativ“ folgt das konjugierte Verb, dann das Subjekt: „desto größer wird der Wortschatz“."
+ },
+ {
+  "id": "dr_wortstellung_11",
+  "kategorie": "wortstellung",
+  "niveau": "C1",
+  "satz": "Leider habe ich das Buch ___.",
+  "optionen": [
+   "noch nicht gelesen",
+   "gelesen noch nicht",
+   "nicht noch gelesen",
+   "noch gelesen nicht"
+  ],
+  "loesung": 0,
+  "erklaerung": "„noch nicht“ steht zusammen vor dem Partizip am Satzende: „noch nicht gelesen“."
+ },
+ {
+  "id": "dr_wortstellung_12",
+  "kategorie": "wortstellung",
+  "niveau": "C1+",
+  "satz": "Er sagte, dass er das Buch nicht ___.",
+  "optionen": [
+   "hätte lesen können",
+   "lesen können hätte",
+   "können lesen hätte",
+   "hätte können lesen"
+  ],
+  "loesung": 0,
+  "erklaerung": "Sonderregel bei zwei Infinitiven (Modalverb im Perfekt/Konjunktiv): Im Nebensatz steht das Hilfsverb „hätte“ VOR den beiden Infinitiven: „dass er … hätte lesen können“."
+ },
+ {
+  "id": "dr_wortstellung_13",
+  "kategorie": "wortstellung",
+  "niveau": "C1+",
+  "satz": "Wenn ich mehr Zeit gehabt hätte, ___.",
+  "optionen": [
+   "hätte ich die Arbeit früher abgeben",
+   "die Arbeit hätte ich früher abgegeben",
+   "ich hätte die Arbeit früher abgegeben",
+   "hätte ich die Arbeit früher abgegeben"
+  ],
+  "loesung": 3,
+  "erklaerung": "Der „wenn“-Satz ist Position 1, danach steht sofort das Verb: „hätte ich … abgegeben“. Das Partizip II steht am Ende."
+ }
+]

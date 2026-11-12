@@ -1,0 +1,1263 @@
+[
+  {
+    "id": "hv1_01",
+    "teil": "hv1",
+    "titel": "Online- oder Präsenzlehre?",
+    "thema": "bildung_hochschule",
+    "bezug": false,
+    "pruefung": 0,
+    "einstufung": true,
+    "niveau": "B2+",
+    "situation": "Sie hören Äußerungen von acht Personen aus dem Hochschulbereich zum Thema „Online- oder Präsenzlehre?“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Lena, Studentin der Psychologie",
+        "sp": "A",
+        "text": "Also, ich habe mein Studium ja komplett vor dem Bildschirm angefangen, weil die Uni damals fast alles online angeboten hat. Fachlich war das eigentlich okay, die Unterlagen waren gut, die Videos auch. Aber nach dem ersten Semester kannte ich wirklich niemanden aus meinem Jahrgang persönlich. Man sieht Namen in einem Chat, mehr nicht. Wenn ich eine Frage hatte, wusste ich gar nicht, wen ich anschreiben soll. Erst im dritten Semester, als wir endlich im Hörsaal saßen, habe ich Leute kennengelernt, mit denen ich jetzt zusammen lerne. Ehrlich gesagt hätte ich am Anfang beinahe abgebrochen, nicht wegen des Stoffs, sondern weil ich mich so allein gefühlt habe. Das darf man, finde ich, nicht unterschätzen."
+      },
+      {
+        "nr": 2,
+        "name": "Tobias, Student der Elektrotechnik",
+        "sp": "B",
+        "text": "Für mich ist die Sache ziemlich klar. Ich arbeite zwanzig Stunden pro Woche in einem Elektrobetrieb, sonst könnte ich mir die Miete gar nicht leisten. Und die Vorlesungen liegen natürlich oft genau dann, wenn ich Schicht habe. Seit die meisten Professoren ihre Veranstaltungen aufzeichnen, schaue ich mir alles abends oder am Wochenende an. Ich kann auch mal zurückspulen, wenn ich etwas nicht verstanden habe, das geht im Hörsaal ja nicht. Ohne diese Möglichkeit, na ja, müsste ich wahrscheinlich ein, zwei Semester länger studieren oder den Job aufgeben. Und beides kann ich mir schlicht nicht erlauben, weder finanziell noch zeitlich. Deshalb hoffe ich sehr, dass das Angebot bleibt."
+      },
+      {
+        "nr": 3,
+        "name": "Petra Hollstein, Dozentin für Chemie",
+        "sp": "C",
+        "text": "Ich sehe das differenzierter, als man vielleicht denkt. Für meine Einführungsvorlesung sind Videos durchaus brauchbar, die Studierenden können sich die Formeln in ihrem eigenen Tempo anschauen. Aber im Labor, da hört es einfach auf. Man muss lernen, wie man eine Pipette hält, wie eine Lösung riecht, wenn etwas schiefgeht, und vor allem, wie man sicher mit gefährlichen Stoffen umgeht. Das kann man sich nicht über einen Bildschirm aneignen, das muss man mit den eigenen Händen machen. Wir haben es während der Schließung mit Videos von Versuchen probiert, und das Ergebnis war, ehrlich gesagt, ernüchternd. Die Leute kamen danach ins Labor und wussten nicht mal, wo die Schutzbrille liegt."
+      },
+      {
+        "nr": 4,
+        "name": "Sabine Krämer, Professorin für Geschichte",
+        "sp": "A",
+        "text": "Was mich an Online-Seminaren am meisten stört, ist diese Stille. Ich stelle eine Frage und schaue auf zwanzig schwarze Kacheln, weil fast alle die Kamera ausgeschaltet haben. Ich sehe nicht, ob jemand nickt, ob jemand die Stirn runzelt oder ob jemand längst etwas anderes macht. Im Raum merke ich sofort, wenn ich zu schnell bin oder wenn ein Begriff unklar ist, und kann dann gegensteuern. Online rede ich praktisch ins Leere. Ich will die Studierenden aber auf keinen Fall zwingen, die Kamera anzuschalten, manche haben dafür ja gute Gründe, zum Beispiel ein volles Wohnheimzimmer. Trotzdem, für Diskussionen, und davon lebt mein Fach, ist das Format wirklich nicht ideal."
+      },
+      {
+        "nr": 5,
+        "name": "Murat, Mitglied im Fachschaftsrat",
+        "sp": "B",
+        "text": "Wir bekommen in der Fachschaft ständig Beschwerden, und zwar nicht unbedingt über Online- oder Präsenzlehre an sich. Das Problem ist das Durcheinander. Bei der einen Dozentin gibt es Aufzeichnungen, beim nächsten Dozenten nicht, der dritte bietet hybride Sitzungen an, aber nur, wenn die Technik funktioniert. Die Studierenden können so überhaupt nicht vernünftig planen, und das ist für alle, die Familie haben, ein echtes Problem. Das liegt nicht daran, dass die Lehrenden das nicht können, viele machen das richtig gut. Aber es fehlt eine klare Linie von oben. Wir haben deshalb einen Antrag an den Senat geschrieben. Wir wollen, dass die Hochschule festlegt, welche Veranstaltungen in welcher Form angeboten werden, und dass man das schon vor Semesterbeginn erfährt."
+      },
+      {
+        "nr": 6,
+        "name": "Stefan Becker, Mitarbeiter im Rechenzentrum",
+        "sp": "C",
+        "text": "Ich arbeite im Rechenzentrum und kann mich noch gut an das erste Online-Semester erinnern. Da ist unsere Lernplattform am ersten Tag zusammengebrochen, weil plötzlich zehntausend Leute gleichzeitig drauf wollten. Das war ein Albtraum, für uns und für alle anderen auch. Aber seitdem hat sich enorm viel getan. Wir haben die Server ausgebaut, die Hörsäle haben Kameras und Mikrofone bekommen, und es gibt Schulungen für alle Lehrenden. Wenn heute jemand bei uns anruft, dann geht es meistens um ein vergessenes Passwort oder darum, dass jemand das Mikrofon nicht eingeschaltet hat. Also, wer heute noch sagt, digitale Lehre scheitert an der Technik, der hat, glaube ich, ein veraltetes Bild."
+      },
+      {
+        "nr": 7,
+        "name": "Sophie, Studentin der Sozialen Arbeit",
+        "sp": "A",
+        "text": "Ich wohne in einem kleinen Dorf, weil ich mir in der Stadt keine Wohnung leisten kann, und bin mit Bus und Bahn jeden Weg etwa anderthalb Stunden unterwegs. Wenn ich für eine einzige Vorlesung am Vormittag reinfahre, ist praktisch der halbe Tag weg. Seit ich viele Veranstaltungen von zu Hause aus besuchen kann, habe ich plötzlich drei, vier Stunden mehr am Tag. Die nutze ich zum Lesen und zum Nacharbeiten, und meine Noten sind tatsächlich besser geworden. Ich gehe trotzdem gern an die Uni, zum Beispiel für Gruppenarbeiten. Aber jeden Tag pendeln, nur um in einem vollen Hörsaal zu sitzen und zuzuhören, das muss nicht sein."
+      },
+      {
+        "nr": 8,
+        "name": "Felix, Student der Betriebswirtschaftslehre",
+        "sp": "B",
+        "text": "Ich muss ehrlich zugeben, ich bin nicht gut darin, online zu lernen. Ich sitze dann vor dem Laptop, die Vorlesung läuft, und nach zehn Minuten habe ich nebenbei schon das Handy in der Hand oder räume die Spülmaschine aus. Am Ende des Tages habe ich zwar drei Vorlesungen gesehen, aber, na ja, mitbekommen habe ich vielleicht eine halbe. Im Hörsaal bin ich gezwungen, aufmerksam zu sein, da sitzen ja auch die anderen um mich herum. Ich weiß, das ist eigentlich mein Problem und nicht das der Uni. Aber ich habe für mich beschlossen: Wenn es eine Präsenzveranstaltung gibt, gehe ich hin, auch wenn es bequemer wäre, zu Hause zu bleiben."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Manche Fertigkeiten lassen sich nur durch eigenes praktisches Tun vor Ort erwerben."
+      },
+      {
+        "b": "b",
+        "text": "Weil weite Fahrten wegfallen, bleibt mehr Zeit für die Vertiefung des Stoffes."
+      },
+      {
+        "b": "c",
+        "text": "Wegen der digitalen Lehre war es schwer, zu Studienbeginn Kontakte zu knüpfen."
+      },
+      {
+        "b": "d",
+        "text": "Teilnehmende sollten verpflichtet werden, in Videokonferenzen im Bild sichtbar zu sein."
+      },
+      {
+        "b": "e",
+        "text": "Die Hochschulleitung sollte verbindliche Vorgaben machen, damit Studierende wissen, woran sie sind."
+      },
+      {
+        "b": "f",
+        "text": "Zu Hause gelingt es kaum, sich dauerhaft auf den Lernstoff zu konzentrieren."
+      },
+      {
+        "b": "g",
+        "text": "Wer nebenbei Geld verdienen muss, ist auf zeitversetztes Lernen angewiesen."
+      },
+      {
+        "b": "h",
+        "text": "Viele Lehrende kommen mit den digitalen Lehrformen fachlich nicht zurecht."
+      },
+      {
+        "b": "i",
+        "text": "In digitalen Sitzungen fehlt eine direkte Rückmeldung, ob die Teilnehmenden folgen können."
+      },
+      {
+        "b": "j",
+        "text": "An der Ausstattung liegt es heute kaum noch, wenn digitale Lehre nicht gelingt."
+      }
+    ],
+    "loesungen": {
+      "1": "c",
+      "2": "g",
+      "3": "a",
+      "4": "i",
+      "5": "e",
+      "6": "j",
+      "7": "b",
+      "8": "f"
+    },
+    "erklaerungen": {
+      "1": "Lena sagt, sie kannte „nach dem ersten Semester … niemanden persönlich“ und hat sich „so allein gefühlt“. Das ist c. Den Stoff findet sie in Ordnung, es geht ihr um Kontakte.",
+      "2": "Tobias arbeitet „zwanzig Stunden pro Woche“ und schaut die Aufzeichnungen „abends oder am Wochenende“ an. Das ist g. Sophie (b) spart Fahrzeit, Tobias braucht die Videos wegen seines Jobs.",
+      "3": "Sie sagt über das Labor: „das muss man mit den eigenen Händen machen“. Das ist a. Videos findet sie für die Vorlesung sogar brauchbar.",
+      "4": "Sie sieht „schwarze Kacheln“ und weiß nicht, „ob jemand nickt“. Das ist i. Nicht d: Sie will die Studierenden ausdrücklich „nicht zwingen“, die Kamera anzuschalten.",
+      "5": "Murat kritisiert „das Durcheinander“ und will, dass „die Hochschule festlegt“, welche Form gilt. Das ist e. Nicht h: Er sagt, die Lehrenden machen es „richtig gut“.",
+      "6": "Er sagt, heute geht es meist nur um „ein vergessenes Passwort“; wer sagt, die Lehre scheitere an der Technik, hat „ein veraltetes Bild“. Das ist j.",
+      "7": "Sophie ist pro Weg „anderthalb Stunden unterwegs“ und hat jetzt „drei, vier Stunden mehr“ zum Lernen. Das ist b. Sie hat keinen Job, also nicht g.",
+      "8": "Felix gibt zu: Nach zehn Minuten hat er „das Handy in der Hand“. Das ist f. Er spricht über sich selbst, nicht über Rückmeldungen von anderen (i)."
+    },
+    "distraktoren": {
+      "d": "Das Wort „Kamera“ kommt bei Sabine Krämer vor, aber sie lehnt einen Zwang gerade ab.",
+      "h": "Murat spricht über die Lehrenden, sagt aber, dass viele es „richtig gut“ machen. Stefan Becker erwähnt Schulungen, kritisiert aber niemanden."
+    }
+  },
+  {
+    "id": "hv1_02",
+    "teil": "hv1",
+    "titel": "Wohnungssuche zu Semesterbeginn",
+    "thema": "wohnen_stadt",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "situation": "Sie hören Äußerungen von acht Personen aus dem Hochschulbereich zum Thema „Wohnungssuche zu Semesterbeginn“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Hannah, Studentin der Medizin",
+        "sp": "A",
+        "text": "Ich habe meine Zusage für den Studienplatz erst Anfang September bekommen, und da war in der Stadt praktisch schon alles weg. Ich war bei, ich glaube, fünfunddreißig Besichtigungen, manchmal standen da vierzig Leute im Treppenhaus. Die ersten sechs Wochen habe ich bei einer Freundin auf dem Sofa geschlafen. Das war ziemlich anstrengend, gerade in der Zeit, in der man sich ja eigentlich ans Studium gewöhnen muss. Was ich jedem raten würde: Fangt nicht erst an zu suchen, wenn ihr den Bescheid in der Hand habt. Schreibt schon vorher Leute an, schaut euch Anzeigen an, fahrt zu Besichtigungen, auch wenn ihr noch gar nicht wisst, ob es mit dieser Stadt überhaupt klappt. Im schlimmsten Fall sagt man eben wieder ab."
+      },
+      {
+        "nr": 2,
+        "name": "Kwame, Masterstudent aus Ghana",
+        "sp": "B",
+        "text": "Ich bin seit drei Monaten hier und suche immer noch etwas Festes. Mein Deutsch ist ganz gut, ich habe ja zwei Jahre lang Kurse gemacht. Aber ich habe eine Erfahrung gemacht, die mich wirklich nachdenklich macht. Wenn ich bei einer Anzeige anrufe, ist das Zimmer oft plötzlich schon vergeben, sobald ich meinen Namen sage. Ein deutscher Freund hat dann, als Test, bei derselben Nummer angerufen, eine Stunde später, und er wurde sofort zur Besichtigung eingeladen. Ich will nicht sagen, dass alle Vermieter so sind, auf keinen Fall, ich habe auch sehr nette Leute getroffen. Aber es passiert zu oft, um Zufall zu sein. Und das ist, ehrlich gesagt, schon ziemlich bitter, wenn man hier eigentlich willkommen sein möchte."
+      },
+      {
+        "nr": 3,
+        "name": "Gisela Albers, Mitarbeiterin des Studierendenwerks",
+        "sp": "C",
+        "text": "Wir haben zu Semesterbeginn über zweitausend Namen auf unserer Warteliste, und es werden vielleicht zweihundert Plätze frei. Das ist die Realität. Ich verstehe jeden, der hier am Schalter steht und verzweifelt ist, wirklich. Es wird zwar ein neues Wohnheim gebaut, mit gut dreihundert Plätzen, aber das ist frühestens in drei Jahren fertig. Bis dahin können wir leider keine Wunder vollbringen. Was wir tun können, ist Folgendes: Wir stellen im Oktober wieder Notbetten in einer Turnhalle auf, damit niemand auf der Straße steht, und wir vermitteln private Zimmer, die uns Bürgerinnen und Bürger melden. Das ist keine schöne Lösung, das weiß ich selbst. Aber es ist besser als nichts, und mehr ist im Moment einfach nicht drin."
+      },
+      {
+        "nr": 4,
+        "name": "Clara, Studentin der Sozialwissenschaften",
+        "sp": "A",
+        "text": "Bei uns in der Wohngemeinschaft wird gerade ein Zimmer frei, und wir haben innerhalb von zwei Tagen über achtzig Nachrichten bekommen. Wir haben dann zwölf Leute zum Kennenlernen eingeladen, jeweils eine halbe Stunde, Tee, ein bisschen quatschen. Und ganz ehrlich, am Ende entscheiden wir aus dem Bauch heraus. Wer passt zu uns, mit wem würde ich gern abends in der Küche sitzen? Ob jemand ordentlich ist oder pünktlich die Miete zahlt, kann man in einer halben Stunde ja eh nicht rausfinden. Mir ist schon klar, dass das für die anderen elf ziemlich frustrierend ist. Manche haben sich sicher große Mühe gegeben und sich richtig gut vorbereitet. Aber ich wüsste auch nicht, wie man es besser machen sollte."
+      },
+      {
+        "nr": 5,
+        "name": "Paul, Student der Informatik",
+        "sp": "B",
+        "text": "Viele schauen mich komisch an, wenn ich erzähle, dass ich mit dreiundzwanzig noch in meinem alten Kinderzimmer wohne. Aber ich habe mir das gut überlegt. Meine Eltern wohnen vierzig Minuten mit dem Zug von der Uni entfernt, und das Semesterticket habe ich sowieso. Ein Zimmer in der Stadt würde mich sechshundert Euro im Monat kosten, und dafür müsste ich nebenher richtig viel jobben. So kann ich mich voll aufs Studium konzentrieren und spare sogar etwas für den Master. Klar, Partys in der Stadt sind schwieriger, und manchmal nervt es, wenn meine Mutter fragt, wann ich nach Hause komme. Aber unterm Strich bereue ich das überhaupt nicht, im Gegenteil."
+      },
+      {
+        "nr": 6,
+        "name": "Dietrich Hahn, Professor für Stadtplanung",
+        "sp": "C",
+        "text": "Was wir gerade erleben, kommt nicht überraschend. Wir Stadtplaner haben schon vor fünfzehn Jahren davor gewarnt, dass die Studierendenzahlen steigen und gleichzeitig kaum noch bezahlbarer Wohnraum entsteht. Passiert ist wenig. Die Kommunen haben Grundstücke lieber an Investoren verkauft, die teure Apartments bauen, und die Förderung von Wohnheimen wurde jahrelang kaum erhöht. Jetzt konkurrieren Studierende mit Familien und Rentnern um dieselben kleinen Wohnungen. Manche fordern nun, die Mieten einfach zu deckeln. Das halte ich für zu kurz gedacht, denn dadurch entsteht keine einzige neue Wohnung. Wir müssen bauen, und zwar viel, und zwar jetzt. Dafür braucht es aber politischen Willen, und den sehe ich bisher nicht."
+      },
+      {
+        "nr": 7,
+        "name": "Mareike, Studentin der Pharmazie",
+        "sp": "A",
+        "text": "Ich wohne seit einem Jahr bei Frau Schulte. Sie ist neunundachtzig und lebt allein in einem großen Haus. Das läuft über ein Projekt, das heißt Wohnen für Hilfe. Ich zahle nur die Nebenkosten und helfe ihr dafür ein paar Stunden pro Woche, ich gehe einkaufen, mähe den Rasen, und abends spielen wir manchmal Karten. Am Anfang war ich skeptisch, ich dachte, das wird bestimmt anstrengend, so mit einer alten Dame. Aber es ist ganz anders gekommen. Sie erzählt unglaublich spannende Geschichten aus ihrem Leben, und ich glaube, sie ist froh, dass jemand im Haus ist. Für mich ist das inzwischen viel mehr als nur ein günstiges Zimmer, fast so etwas wie eine zweite Familie."
+      },
+      {
+        "nr": 8,
+        "name": "Jonas, Student der Geschichte",
+        "sp": "B",
+        "text": "Mir ist letzten Sommer was richtig Dummes passiert. Ich habe im Internet eine Wohnung gefunden, schön, hell, zentral und wirklich günstig. Der Vermieter hat geschrieben, er lebe gerade im Ausland und könne leider keine Besichtigung machen. Ich solle die Kaution überweisen, dann schicke er mir den Schlüssel per Post. Tja, und ich war so verzweifelt, dass ich es gemacht habe. Achthundert Euro. Den Schlüssel habe ich natürlich nie bekommen, und die Wohnung gehörte jemand ganz anderem. Die Polizei hat gesagt, diese Masche ist gerade total verbreitet. Also, mein Tipp an alle: Niemals Geld überweisen, bevor man die Wohnung mit eigenen Augen gesehen und einen Vertrag unterschrieben hat."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Die heutige Lage ist das Ergebnis von Fehlentscheidungen, die lange zurückliegen."
+      },
+      {
+        "b": "b",
+        "text": "Menschen aus dem Ausland werden auf dem Mietmarkt anscheinend nicht gleich behandelt."
+      },
+      {
+        "b": "c",
+        "text": "Wohnheime sind für Neuankömmlinge an der Hochschule die beste Lösung."
+      },
+      {
+        "b": "d",
+        "text": "Ein Wohnmodell, das auf gegenseitiger Unterstützung beruht, hat sich als Bereicherung erwiesen."
+      },
+      {
+        "b": "e",
+        "text": "Man sollte sich um eine Bleibe kümmern, noch bevor der Studienplatz feststeht."
+      },
+      {
+        "b": "f",
+        "text": "Wer als neuer Mitbewohner ausgewählt wird, hängt vor allem von spontaner Sympathie ab."
+      },
+      {
+        "b": "g",
+        "text": "Wer online nach einer Unterkunft sucht, sollte niemandem vorschnell vertrauen."
+      },
+      {
+        "b": "h",
+        "text": "Eine schnelle Lösung des Platzproblems ist von offizieller Seite nicht zu erwarten."
+      },
+      {
+        "b": "i",
+        "text": "Eine gesetzliche Obergrenze für Mieten würde das Problem wirksam lösen."
+      },
+      {
+        "b": "j",
+        "text": "Weiterhin in der Familie zu wohnen, wird hier als vernünftige Wahl dargestellt."
+      }
+    ],
+    "loesungen": {
+      "1": "e",
+      "2": "b",
+      "3": "h",
+      "4": "f",
+      "5": "j",
+      "6": "a",
+      "7": "d",
+      "8": "g"
+    },
+    "erklaerungen": {
+      "1": "Hannah rät: „Fangt nicht erst an zu suchen, wenn ihr den Bescheid in der Hand habt.“ Der Bescheid ist die Zusage für den Studienplatz. Das ist e. Auch Jonas gibt einen Tipp, aber über Betrug (g).",
+      "2": "Kwame erzählt: Das Zimmer ist vergeben, „sobald ich meinen Namen sage“, sein deutscher Freund wird aber eingeladen. Das ist b.",
+      "3": "Frau Albers sagt, das neue Wohnheim ist „frühestens in drei Jahren fertig“ und „wir können keine Wunder vollbringen“. Das ist h. Nicht c: Sie sagt nicht, dass Wohnheime die beste Lösung sind.",
+      "4": "Clara sagt: „am Ende entscheiden wir aus dem Bauch heraus“ – also nach Gefühl. Das ist f.",
+      "5": "Paul wohnt noch „in meinem alten Kinderzimmer“ und sagt: „ich habe mir das gut überlegt … bereue das überhaupt nicht“. Das ist j.",
+      "6": "Er sagt: „Wir … haben schon vor fünfzehn Jahren davor gewarnt … Passiert ist wenig.“ Das ist a. Nicht i: Eine Mietgrenze hält er für „zu kurz gedacht“.",
+      "7": "Mareike hilft Frau Schulte und zahlt dafür wenig Miete; es ist für sie „viel mehr als nur ein günstiges Zimmer“. Das ist d.",
+      "8": "Jonas hat Geld für eine Wohnung aus dem Internet überwiesen, die es nicht gab. Sein Tipp: „Niemals Geld überweisen, bevor man die Wohnung … gesehen“ hat. Das ist g."
+    },
+    "distraktoren": {
+      "c": "Das Wort „Wohnheim“ kommt bei Frau Albers und Professor Hahn vor, aber niemand sagt, dass ein Wohnheim die beste Lösung ist.",
+      "i": "Professor Hahn erwähnt die Forderung, Mieten zu „deckeln“, lehnt sie aber ab."
+    }
+  },
+  {
+    "id": "hv1_03",
+    "teil": "hv1",
+    "titel": "Das Praxissemester im Lehramtsstudium",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "situation": "Sie hören Äußerungen von acht Personen aus Hochschule und Schule zum Thema „Das Praxissemester im Lehramtsstudium“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Lea, Lehramtsstudentin für Biologie und Chemie",
+        "sp": "A",
+        "text": "Ich hatte vor dem Praxissemester ehrlich gesagt ziemlich Angst. Ich war mir nicht sicher, ob ich vor einer achten Klasse überhaupt bestehen kann. In der ersten Woche habe ich dann eine Stunde über Zellen gehalten, mit Mikroskopen, und es ging ein bisschen chaotisch zu. Aber irgendwann hat ein Junge, der sonst nie mitmacht, laut gerufen: Das sieht ja aus wie Bienenwaben! Und in dem Moment wusste ich, warum ich das machen will. Natürlich war nicht jeder Tag so schön, es gab auch Stunden, die total danebengegangen sind. Aber ich gehe jetzt mit viel mehr Sicherheit in die letzten Semester, weil ich weiß, dass dieser Beruf zu mir passt. Die Angst von damals ist eigentlich weg."
+      },
+      {
+        "nr": 2,
+        "name": "Niklas, Student der Mathematik und Sport",
+        "sp": "B",
+        "text": "Für mich war das Praxissemester, na ja, eine Art Weckruf. Ich habe Lehramt studiert, weil mein Vater Lehrer ist und weil ich gut in Mathe war. So richtig darüber nachgedacht habe ich nie. An der Schule habe ich dann gemerkt, dass mich das ständige Reden vor Gruppen und vor allem die vielen Konflikte mit Eltern und Schülern unglaublich viel Kraft kosten. Ich bin jeden Abend total erschöpft nach Hause gekommen, und Spaß hat es mir kaum gemacht. Ich wechsle jetzt in einen fachwissenschaftlichen Master, ohne Lehramt. Viele finden das schade, auch meine Familie, aber ich bin eigentlich erleichtert. Lieber merke ich das jetzt als nach zehn Jahren im Beruf, oder?"
+      },
+      {
+        "nr": 3,
+        "name": "Monika Weiß, Mentorin an einer Gesamtschule",
+        "sp": "C",
+        "text": "Ich betreue jedes Jahr zwei, manchmal drei Studierende im Praxissemester, und ich mache das grundsätzlich gern. Die jungen Leute bringen frische Ideen mit, davon profitiere ich auch. Aber die Rahmenbedingungen sind, ehrlich gesagt, eine Zumutung. Ich bekomme dafür keine einzige Stunde weniger Unterricht. Die Vorbesprechungen, die Nachbesprechungen, die Gutachten, das mache ich alles in meiner Freizeit, abends oder am Wochenende. Und dann heißt es von oben immer, die Ausbildung des Nachwuchses sei so wichtig. Wenn das wirklich so wichtig ist, dann sollte man das auch zeigen, mit Zeit oder mit Geld für uns Mentorinnen und Mentoren. Sonst finden die Schulen bald niemanden mehr, der diese Aufgabe übernimmt."
+      },
+      {
+        "nr": 4,
+        "name": "Maricel Santos, Lehrerin aus den Philippinen im Anerkennungsverfahren",
+        "sp": "A",
+        "text": "Ich habe auf den Philippinen zwölf Jahre Biologie unterrichtet, und für meine Anerkennung mache ich gerade einen Anpassungslehrgang an einer Realschule hier. Fachlich ist das kein Problem für mich. Was mich am Anfang wirklich überrascht hat, ist das Verhältnis zwischen Lehrkräften und Jugendlichen. Bei uns stehen die Schüler auf, wenn die Lehrerin hereinkommt, und man widerspricht ihr nicht. Hier sagt ein Vierzehnjähriger ganz selbstverständlich: Frau Santos, das sehe ich anders. In der ersten Woche dachte ich, das ist respektlos. Inzwischen verstehe ich, dass das hier gewünscht ist, die Schüler sollen ja lernen, ihre Meinung zu begründen. Aber ich musste meine eigene Rolle wirklich neu denken."
+      },
+      {
+        "nr": 5,
+        "name": "Thomas Brandt, Professor für Didaktik der Biologie",
+        "sp": "B",
+        "text": "Das Praxissemester ist eine große Chance für unsere Studierenden, keine Frage. Aber ich beobachte etwas, das mir Sorgen macht. Viele Studierende kommen zurück und sagen: In der Schule läuft das ganz anders, die Theorie aus dem Studium kann man vergessen. Und dann übernehmen sie eins zu eins, was ihr Mentor macht, auch Dinge, die wir aus guten Gründen kritisch sehen, zum Beispiel reinen Frontalunterricht oder Arbeitsblätter, auf denen man nur Lücken ausfüllt. Deshalb sind unsere Begleitseminare so wichtig. Dort sollen die Studierenden genau das hinterfragen, was sie in der Schule erleben. Wer nur nachmacht, was er sieht, wird kein guter Lehrer, sondern bleibt eine Kopie."
+      },
+      {
+        "nr": 6,
+        "name": "Elif, Lehramtsstudentin für Deutsch und Geschichte",
+        "sp": "C",
+        "text": "Was bei der ganzen Diskussion oft vergessen wird, ist das Geld. Das Praxissemester ist ja praktisch ein Vollzeitjob. Ich bin morgens um sieben in der Schule, und abends bereite ich die Stunden vor. Meinen Job im Café musste ich aufgeben, dafür war einfach keine Zeit mehr. Fünf Monate ohne Einkommen, das muss man sich erst mal leisten können. Ich hatte Glück, meine Großeltern haben mir etwas geliehen. Aber andere aus meinem Jahrgang mussten Schulden machen oder haben das Studium sogar unterbrochen. In anderen Berufen bekommen Praktikanten wenigstens eine kleine Vergütung. Warum eigentlich nicht bei uns? Wir arbeiten doch auch, und zwar richtig viel, und die Schulen profitieren davon."
+      },
+      {
+        "nr": 7,
+        "name": "Katrin Vogel, Leiterin eines Gymnasiums",
+        "sp": "A",
+        "text": "Ich sage es ganz offen: Für mich als Schulleiterin ist das Praxissemester auch eine Gelegenheit, Leute kennenzulernen. Wir haben an meiner Schule seit Jahren zu wenig Lehrkräfte, vor allem in Physik und Informatik. Wenn ich merke, dass eine Studentin oder ein Student richtig gut ist, dann spreche ich die Person an. Ich sage: Bleiben Sie mit uns in Kontakt, kommen Sie nach dem Referendariat zu uns. Wir laden die Praktikantinnen und Praktikanten auch zu Konferenzen und Schulfesten ein, damit sie das Kollegium kennenlernen. Manche Kollegen finden das ein bisschen berechnend. Aber ehrlich gesagt kann ich es mir in der aktuellen Lage nicht leisten, gute Leute einfach ziehen zu lassen."
+      },
+      {
+        "nr": 8,
+        "name": "Moritz, Lehramtsstudent für Physik",
+        "sp": "B",
+        "text": "Bei mir lief das leider ganz anders als geplant. Eigentlich sollte ich in den ersten Wochen nur hospitieren und dann langsam einzelne Stunden übernehmen. Aber dann ist mein Mentor krank geworden, für fast zwei Monate, und die Schule hatte keinen Ersatz. Also stand ich plötzlich allein vor drei Klassen, inklusive Noten und Elterngesprächen. Ich habe das irgendwie geschafft, und ich will auch immer noch Lehrer werden, daran hat sich nichts geändert. Aber eigentlich ist das nicht der Sinn der Sache. Ich bin ja in der Ausbildung und nicht als billige Vertretung da. Ich hätte mir gewünscht, dass die Uni da eingreift und mit der Schule spricht."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Angehende Lehrkräfte neigen dazu, das Verhalten erfahrener Kollegen ohne Prüfung zu imitieren."
+      },
+      {
+        "b": "b",
+        "text": "Die Praxisphase sollte deutlich früher im Studium stattfinden."
+      },
+      {
+        "b": "c",
+        "text": "Diese Person musste sich an einen offeneren Umgang in der Klasse gewöhnen."
+      },
+      {
+        "b": "d",
+        "text": "Anfängliche Unsicherheit ist durch die Erfahrungen in der Klasse Zuversicht gewichen."
+      },
+      {
+        "b": "e",
+        "text": "Die Praxisphase dient auch dazu, zukünftige Mitarbeitende an die eigene Schule zu binden."
+      },
+      {
+        "b": "f",
+        "text": "Die Begleitung von Praktikanten wird von offizieller Seite nicht angemessen ausgeglichen."
+      },
+      {
+        "b": "g",
+        "text": "Die Begleitseminare an der Universität bereiten kaum auf den echten Schulalltag vor."
+      },
+      {
+        "b": "h",
+        "text": "Es mussten Aufgaben übernommen werden, für die man eigentlich noch nicht zuständig war."
+      },
+      {
+        "b": "i",
+        "text": "Diese Person ist froh, früh gemerkt zu haben, dass ein anderer Weg besser passt."
+      },
+      {
+        "b": "j",
+        "text": "Für die Zeit an der Schule sollten Studierende bezahlt werden."
+      }
+    ],
+    "loesungen": {
+      "1": "d",
+      "2": "i",
+      "3": "f",
+      "4": "c",
+      "5": "a",
+      "6": "j",
+      "7": "e",
+      "8": "h"
+    },
+    "erklaerungen": {
+      "1": "Lea hatte vorher „ziemlich Angst“, jetzt geht sie „mit viel mehr Sicherheit“ weiter. Das ist d. Moritz will auch Lehrer bleiben, aber er hatte keine Angst am Anfang.",
+      "2": "Niklas wechselt in einen Master „ohne Lehramt“ und ist „erleichtert“: „Lieber merke ich das jetzt.“ Das ist i. Nicht b: Er sagt nicht, dass das Praxissemester früher sein soll.",
+      "3": "Frau Weiß bekommt „keine einzige Stunde weniger Unterricht“ und macht alles „in meiner Freizeit“. Das ist f. Sie spricht über Geld für Mentoren, nicht für Studierende (j).",
+      "4": "Frau Santos erzählt, dass Schüler hier sagen „das sehe ich anders“; sie musste ihre „Rolle wirklich neu denken“. Das ist c.",
+      "5": "Professor Brandt sagt, viele Studierende „übernehmen … eins zu eins, was ihr Mentor macht“. Das ist a. Nicht g: Er verteidigt die Begleitseminare, er kritisiert sie nicht.",
+      "6": "Elif hatte „fünf Monate ohne Einkommen“ und fragt, warum es keine „Vergütung“ gibt. Das ist j. Frau Weiß will dagegen Geld für die Mentoren (f).",
+      "7": "Frau Vogel spricht gute Studierende an: „kommen Sie nach dem Referendariat zu uns“. Das ist e.",
+      "8": "Moritz stand „plötzlich allein vor drei Klassen“, obwohl er „in der Ausbildung“ ist. Das ist h. Er will weiter Lehrer werden, also nicht i."
+    },
+    "distraktoren": {
+      "b": "Niklas sagt „lieber jetzt als nach zehn Jahren“, fordert aber keine frühere Praxisphase.",
+      "g": "Professor Brandt zitiert Studierende, die sagen, die Theorie könne man vergessen. Er selbst hält die Begleitseminare aber für „so wichtig“."
+    }
+  },
+  {
+    "id": "hv1_04",
+    "teil": "hv1",
+    "titel": "KI-Werkzeuge im Studium",
+    "thema": "ki_digitalisierung",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören Äußerungen von acht Personen aus dem Hochschulbereich zum Thema „Künstliche Intelligenz im Studium“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Johanna, Studentin der Germanistik",
+        "sp": "A",
+        "text": "Ich nutze solche Programme durchaus, aber sehr gezielt. Wenn ich am Anfang einer Hausarbeit festhänge, lasse ich mir manchmal ein paar mögliche Fragestellungen vorschlagen, einfach um überhaupt in Gang zu kommen. Den Text selbst schreibe ich aber grundsätzlich allein. Ich habe nämlich gemerkt, dass sich nach ein paar Wochen, in denen ich mir Sätze habe glätten lassen, meine eigenen Formulierungen irgendwie verändert haben. Alles klang plötzlich gleich, so seltsam austauschbar, als hätte es irgendwer geschrieben. Und gerade in meinem Fach ist doch der persönliche Stil, die eigene Art, einen Gedanken zu entwickeln, das, worum es eigentlich geht. Den möchte ich mir nicht von einer Maschine abschleifen lassen."
+      },
+      {
+        "nr": 2,
+        "name": "Daniel Kurz, Professor für Informatik",
+        "sp": "B",
+        "text": "Ich halte die Debatte, ob man diese Werkzeuge erlauben oder verbieten sollte, offen gestanden für eine Scheindebatte. Die Studierenden nutzen sie längst, ob wir das wollen oder nicht, und im späteren Berufsleben werden sie selbstverständlich damit arbeiten. Wer das untersagt, treibt die Nutzung nur in den Untergrund und verschenkt die Chance, einen reflektierten Umgang zu vermitteln. In meinen Übungen lasse ich deshalb bewusst Code generieren und anschließend Fehler darin suchen. Da merken die Studierenden sehr schnell, wo die Grenzen liegen. In Klausuren sieht das natürlich anders aus, da will ich sehen, was jemand ohne Hilfsmittel kann. Aber im Semester so zu tun, als gäbe es diese Technik nicht, wäre absurd."
+      },
+      {
+        "nr": 3,
+        "name": "Ursula Lorenz, Leiterin der Schreibberatung",
+        "sp": "C",
+        "text": "In unsere Beratung kommen zunehmend Studierende mit Texten, die auf den ersten Blick tadellos aussehen. Keine Rechtschreibfehler, elegante Übergänge, ein schöner akademischer Ton. Wenn ich dann aber nachfrage, was genau die zentrale These ist und wie der dritte Abschnitt mit dem zweiten zusammenhängt, wird es oft still. Die Gedankenführung fehlt, es gibt keinen roten Faden. Das ist für mich eine neue und, offen gesagt, beunruhigende Entwicklung. Früher hat man einem schwachen Text die Schwäche sofort angesehen, das war für uns als Beraterinnen eigentlich hilfreich. Heute muss man viel genauer hinschauen, weil die Oberfläche so überzeugend wirkt. Und ich befürchte, dass manche Studierende selbst gar nicht mehr merken, dass ihnen das eigentliche Denken abhandengekommen ist."
+      },
+      {
+        "nr": 4,
+        "name": "Amira, Masterstudentin der Pharmazie",
+        "sp": "A",
+        "text": "Ich komme aus Ägypten und schreibe meine Masterarbeit auf Deutsch. Fachlich bin ich mir meiner Sache sicher, aber bei Artikeln und Präpositionen mache ich immer noch Fehler, und früher hat das meine Noten spürbar gedrückt. Jetzt lasse ich meine Texte sprachlich überarbeiten, wohlgemerkt nicht inhaltlich, das ist mir wichtig. Ich bezahle dafür sogar jeden Monat ein Abonnement, und das ist es mir wert. Meine deutschen Kommilitonen haben einfach von Geburt an einen Vorsprung, den ich mir mühsam erarbeiten muss. Wenn ein Programm diesen Abstand ein bisschen verkleinert, empfinde ich das nicht als Betrug, sondern eher als ein Stück Gerechtigkeit. Ich verstehe ehrlich gesagt nicht, was daran verwerflich sein soll."
+      },
+      {
+        "nr": 5,
+        "name": "Lukas, Student der Betriebswirtschaftslehre",
+        "sp": "B",
+        "text": "Mir ist im letzten Semester etwas passiert, das mich immer noch ärgert. Ich habe eine Seminararbeit abgegeben, komplett selbst geschrieben, mit viel Mühe. Und dann bekomme ich eine Mail, die Arbeit sei von einer Software zu achtzig Prozent als maschinell erzeugt eingestuft worden, ich solle zu einem Gespräch kommen. Ich musste dann meine Notizen und alte Entwürfe vorzeigen, um zu beweisen, dass ich das wirklich selbst gemacht habe. Am Ende wurde die Sache fallen gelassen, aber dieses Gefühl, unter Generalverdacht zu stehen, das bleibt. Inzwischen weiß ich, dass diese Erkennungsprogramme ständig danebenliegen. Trotzdem verlassen sich manche Lehrende blind darauf, und das finde ich, gelinde gesagt, fahrlässig."
+      },
+      {
+        "nr": 6,
+        "name": "Martin Seidl, Datenschutzbeauftragter der Hochschule",
+        "sp": "C",
+        "text": "Mich beschäftigt an dem Thema vor allem eine Frage, über die erstaunlich wenige reden: Was passiert eigentlich mit den Daten? Ich erlebe, dass Doktoranden unveröffentlichte Forschungsergebnisse in solche Programme kopieren, um sich eine Zusammenfassung schreiben zu lassen. Oder dass Lehrende Klausuren mit den Namen der Studierenden hochladen, um sich beim Korrigieren helfen zu lassen. Das landet dann auf Servern eines Unternehmens im Ausland, und niemand weiß genau, ob es zum Trainieren weiterer Modelle verwendet wird. Das ist rechtlich hochproblematisch, und zwar für Studierende genauso wie für Lehrende. Wir arbeiten deshalb an einer hochschuleigenen Lösung, bei der die Daten im Haus bleiben. Bis dahin kann ich nur dringend zur Vorsicht raten."
+      },
+      {
+        "nr": 7,
+        "name": "Nora, Doktorandin der Biologie",
+        "sp": "A",
+        "text": "Ich war anfangs ziemlich begeistert. Ich habe das Programm gebeten, mir Studien zum Einfluss von Mikroplastik auf Muscheln herauszusuchen, und bekam innerhalb von Sekunden eine wunderbare Liste mit Autoren, Zeitschriften, Jahreszahlen, alles. Nur: Als ich die Artikel herunterladen wollte, gab es die Hälfte davon gar nicht. Die Quellen waren schlicht erfunden, aber so plausibel formuliert, dass ich es fast nicht gemerkt hätte. Das war ein ziemlicher Schreck, weil ich kurz davor war, sie in einen Projektantrag zu übernehmen. Seitdem nutze ich das Programm zwar weiterhin, zum Beispiel für erste Ideen, aber jede einzelne Angabe prüfe ich selbst nach. Ohne Ausnahme. Das war mir wirklich eine Lehre."
+      },
+      {
+        "nr": 8,
+        "name": "Rainer Stolz, Dozent für Philosophie",
+        "sp": "B",
+        "text": "Ich habe für mich ziemlich pragmatische Konsequenzen gezogen. Früher bestand die Prüfungsleistung in meinen Seminaren aus einer Hausarbeit von fünfzehn Seiten, die man zu Hause in aller Ruhe schreiben konnte. Das mache ich so nicht mehr. Stattdessen gibt es jetzt ein mündliches Gespräch von zwanzig Minuten und einen kurzen Essay, den die Studierenden im Seminarraum mit der Hand schreiben, ohne Laptop. Das ist mehr Aufwand für mich, keine Frage. Aber so sehe ich wirklich, ob jemand einen Gedanken selbstständig entwickeln und verteidigen kann. Einige Studierende haben sich anfangs beschwert, inzwischen finden viele das Gespräch sogar angenehmer als die Hausarbeit. Und ganz nebenbei üben sie dabei, frei zu sprechen, was ihnen später ja auch nützt."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Die Hochschule sollte die Kosten für solche Programme übernehmen."
+      },
+      {
+        "b": "b",
+        "text": "Sprachlich makellose Arbeiten verbergen mitunter, dass die Argumentation kaum trägt."
+      },
+      {
+        "b": "c",
+        "text": "Die Form, in der Leistungen nachgewiesen werden, wurde grundlegend umgestellt."
+      },
+      {
+        "b": "d",
+        "text": "Vertrauliche Inhalte sollten nicht bei kommerziellen Anbietern eingegeben werden."
+      },
+      {
+        "b": "e",
+        "text": "Um die eigene sprachliche Handschrift nicht zu verlieren, wird beim Schreiben auf Hilfe verzichtet."
+      },
+      {
+        "b": "f",
+        "text": "Der Einsatz solcher Programme sollte auch in Prüfungen ausdrücklich gestattet sein."
+      },
+      {
+        "b": "g",
+        "text": "Für Studierende, die in einer Fremdsprache schreiben, schaffen die Programme mehr Chancengleichheit."
+      },
+      {
+        "b": "h",
+        "text": "Wer den Gebrauch der Programme unterbindet, vergibt nach dieser Auffassung eine Lernchance."
+      },
+      {
+        "b": "i",
+        "text": "Nach einer bösen Überraschung werden alle Ergebnisse grundsätzlich selbst kontrolliert."
+      },
+      {
+        "b": "j",
+        "text": "Auf Werkzeuge, die Täuschungsversuche aufdecken sollen, ist kein Verlass."
+      }
+    ],
+    "loesungen": {
+      "1": "e",
+      "2": "h",
+      "3": "b",
+      "4": "g",
+      "5": "j",
+      "6": "d",
+      "7": "i",
+      "8": "c"
+    },
+    "erklaerungen": {
+      "1": "Johanna schreibt den Text „grundsätzlich allein“, weil ihr persönlicher Stil sonst „austauschbar“ wird. Das ist e. Ihr geht es um ihren Stil, nicht um schwache Argumente (b).",
+      "2": "Professor Kurz sagt: Wer es „untersagt“, „verschenkt die Chance, einen reflektierten Umgang zu vermitteln“. Das ist h. Nicht f: In Klausuren will er sehen, was jemand „ohne Hilfsmittel kann“.",
+      "3": "Frau Lorenz sieht Texte, die „tadellos aussehen“, aber „es gibt keinen roten Faden“. Das ist b.",
+      "4": "Amira schreibt auf Deutsch, nicht in ihrer Muttersprache; das Programm verkleinert den „Abstand“ – für sie „ein Stück Gerechtigkeit“. Das ist g. Nicht a: Sie zahlt selbst und findet das in Ordnung.",
+      "5": "Lukas wurde fälschlich verdächtigt und sagt, die „Erkennungsprogramme“ liegen „ständig daneben“. Das ist j.",
+      "6": "Herr Seidl warnt, dass „unveröffentlichte Forschungsergebnisse“ und Namen auf Servern „eines Unternehmens“ landen. Das ist d.",
+      "7": "Nora bekam erfundene Quellen und prüft seitdem „jede einzelne Angabe … selbst nach“. Das ist i. Lukas hatte auch eine schlechte Erfahrung, aber mit einer Prüfsoftware.",
+      "8": "Herr Stolz ersetzt die Hausarbeit durch „ein mündliches Gespräch“ und einen Essay „mit der Hand“. Das ist c."
+    },
+    "distraktoren": {
+      "a": "Amira spricht über ein „Abonnement“, aber sie zahlt es gern selbst und fordert nichts von der Hochschule.",
+      "f": "Professor Kurz ist für die Programme im Semester, aber gerade nicht in Klausuren."
+    }
+  },
+  {
+    "id": "hv1_05",
+    "teil": "hv1",
+    "titel": "Jobben neben dem Studium",
+    "thema": "arbeitswelt",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören Äußerungen von acht Personen aus dem Hochschulbereich zum Thema „Jobben neben dem Studium“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Svenja, Studentin der Medienwissenschaft",
+        "sp": "A",
+        "text": "Ich arbeite seit zwei Jahren als Werkstudentin bei einer Produktionsfirma fürs Fernsehen, sechzehn Stunden die Woche. Und ehrlich gesagt nehme ich dort mehr mit als aus so manchem Seminar. Im Seminar diskutieren wir drei Wochen lang einen Aufsatz über Nachrichtenformate, in der Redaktion sehe ich jeden Tag, wie so eine Sendung tatsächlich entsteht, unter Zeitdruck, mit echten Problemen. Ich will das Studium nicht schlechtreden, die Theorie hilft mir schon, Dinge einzuordnen. Aber das, was mich wirklich weiterbringt, passiert eher im Büro als im Hörsaal. Und mein Chef hat schon angedeutet, dass er mich nach dem Abschluss gern übernehmen würde. Besser kann es eigentlich nicht laufen."
+      },
+      {
+        "nr": 2,
+        "name": "Ahmed, Student des Maschinenbaus",
+        "sp": "B",
+        "text": "Bei mir ist das keine Frage von Lust oder Karriere, ich muss arbeiten. Meine Eltern können mich nicht unterstützen, und die staatliche Förderung, die ich bekomme, deckt gerade mal die Miete. Also kellnere ich am Wochenende, und unter der Woche gebe ich Nachhilfe. Zusammen sind das locker fünfundzwanzig Stunden. Mein Studium dauert dadurch natürlich länger, ich bin jetzt im neunten Semester und habe noch einiges vor mir. Was mich stört, ist, dass das in der Öffentlichkeit oft so dargestellt wird, als würden Studierende nur jobben, um sich Urlaub oder ein Auto zu leisten. Für viele geht es schlicht ums Überleben. Ohne die Jobs müsste ich morgen aufhören, so einfach ist das."
+      },
+      {
+        "nr": 3,
+        "name": "Barbara Engel, Professorin für Volkswirtschaftslehre",
+        "sp": "C",
+        "text": "Ich sehe in meinen Vorlesungen jedes Semester Studierende, die Abgabefristen verpassen, in Seminaren unvorbereitet sind und dann irgendwann einfach nicht mehr erscheinen. Wenn ich nachfrage, steckt fast immer ein Job dahinter, oft sogar zwei. Das Problem ist aus meiner Sicht nicht, dass junge Menschen arbeiten, das ist völlig legitim. Das Problem ist, dass unsere Studiengänge so konstruiert sind, als würden alle ihre gesamte Woche dem Studium widmen. Die Regelstudienzeit ist eng getaktet, und wer länger braucht, gerät unter Druck. Ich plädiere seit Jahren dafür, dass wir ein echtes Teilzeitstudium anbieten, ganz offiziell, mit angepassten Fristen. Das wäre ehrlicher als die jetzige Situation, in der alle so tun, als gäbe es das Problem nicht."
+      },
+      {
+        "nr": 4,
+        "name": "Lisa, studentische Hilfskraft am Institut für Biochemie",
+        "sp": "A",
+        "text": "Ich arbeite als Hilfskraft an einem Lehrstuhl, zehn Stunden pro Woche. Reich wird man davon nicht, ehrlich gesagt verdiene ich in der Kneipe nebenan pro Stunde mehr. Aber ich habe mich ganz bewusst dafür entschieden. Wenn Klausurenphase ist, sagt meine Chefin einfach: Lisa, mach die nächsten zwei Wochen nur das Nötigste, wir holen das danach nach. Das würde mir in der Gastronomie niemand zugestehen, da heißt es dann: Entweder du kommst am Samstag, oder wir suchen jemand anderen. Für mich ist das am Ende wichtiger als ein paar Euro mehr. Ich habe gesehen, wie Freundinnen wegen ihrer Jobs durch Prüfungen gefallen sind, und das will ich unbedingt vermeiden."
+      },
+      {
+        "nr": 5,
+        "name": "Henning Krüger, Mitarbeiter im Career Service",
+        "sp": "B",
+        "text": "In unseren Beratungen höre ich oft: Ich habe ja nur an der Kasse im Supermarkt gearbeitet, das gehört nicht in den Lebenslauf. Doch, unbedingt! Das ist vielen gar nicht bewusst. Arbeitgeber schauen sehr genau darauf, ob jemand neben dem Studium Verantwortung übernommen hat. Wer drei Jahre lang zuverlässig Schichten geschafft, mit schwierigen Kunden umgegangen und nebenbei seinen Abschluss gemacht hat, zeigt Belastbarkeit und Organisationstalent. Das muss man allerdings auch so formulieren. Nicht einfach nur Aushilfe hinschreiben, sondern konkret beschreiben, was man dort gelernt hat. Ich würde sogar sagen, ein Lebenslauf ganz ohne Nebenjob wirft bei manchen Personalverantwortlichen eher Fragen auf, als dass er Eindruck macht."
+      },
+      {
+        "nr": 6,
+        "name": "Jakob, Student der Physik",
+        "sp": "C",
+        "text": "Ich habe keinen Nebenjob, und das ist eine bewusste Entscheidung. Meine Eltern unterstützen mich, wofür ich ihnen sehr dankbar bin, und wir haben vereinbart: Dafür ziehe ich das Studium konsequent durch. Ich sitze von morgens bis abends in der Bibliothek oder im Labor, das sind locker vierzig Stunden pro Woche, eher mehr. Manchmal habe ich schon ein schlechtes Gewissen, wenn ich sehe, wie Kommilitonen nach der Vorlesung zur Arbeit hetzen. Aber ich betrachte das Studium eben als meinen Job. Physik ist so anspruchsvoll, dass ich ehrlich nicht wüsste, wie ich das mit zwanzig Stunden Arbeit nebenher schaffen sollte. Das ist keine Faulheit, das ist eine Prioritätensetzung."
+      },
+      {
+        "nr": 7,
+        "name": "Nadine Roth, Psychologin der psychologischen Beratungsstelle",
+        "sp": "A",
+        "text": "Bei uns in der Beratung hat sich in den letzten Jahren etwas verändert. Wir sehen deutlich mehr Studierende mit Erschöpfungssymptomen, Schlafstörungen, Konzentrationsproblemen, und auffallend viele von ihnen arbeiten sehr viel nebenher. Das Tückische ist, dass die Belastung schleichend zunimmt. Man denkt, ach, die paar Stunden mehr schaffe ich schon, und plötzlich hat man seit Monaten keinen freien Tag mehr gehabt. Ich möchte niemandem vorschreiben, wie viel er arbeiten soll, die Gründe sind ja oft finanzieller Natur. Aber ich rate dringend dazu, regelmäßig ehrlich zu prüfen, ob man sich noch erholt. Wenn der Körper Warnsignale sendet, sollte man sie ernst nehmen und nicht einfach weitermachen."
+      },
+      {
+        "nr": 8,
+        "name": "Tim, Student der Informatik",
+        "sp": "B",
+        "text": "Ich habe im zweiten Semester angefangen, nebenbei kleine Apps für Restaurants und Arztpraxen zu programmieren. Erst nur für Freunde, dann kamen immer mehr Aufträge über Empfehlungen. Inzwischen habe ich zwei Leute angestellt und verdiene, ehrlich gesagt, mehr als meine Eltern. Das Studium läuft nur noch nebenher, ich schaffe vielleicht zwei Prüfungen pro Semester. Und jetzt stehe ich vor der Frage: Mache ich das noch fertig, oder konzentriere ich mich ganz auf die Firma? Meine Eltern sind natürlich entsetzt, wenn ich das nur andeute. Auf der anderen Seite ist ein Abschluss eine Sicherheit, falls es mit den Aufträgen mal nicht mehr läuft. Ich bin wirklich hin- und hergerissen."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Wer sich dauerhaft zu viel zumutet, gefährdet sein seelisches und körperliches Wohlbefinden."
+      },
+      {
+        "b": "b",
+        "text": "Das Studium wäre ohne zusätzlichen Verdienst nicht zu finanzieren."
+      },
+      {
+        "b": "c",
+        "text": "Auch Tätigkeiten ohne Bezug zum Fach können bei Bewerbungen ein Pluspunkt sein."
+      },
+      {
+        "b": "d",
+        "text": "Diese Person überlegt ernsthaft, die Hochschule ohne Abschluss zu verlassen."
+      },
+      {
+        "b": "e",
+        "text": "Arbeitgeber nutzen die finanzielle Notlage von Studierenden häufig aus."
+      },
+      {
+        "b": "f",
+        "text": "Im Arbeitsalltag wird mehr Nützliches gelernt als in manchen Lehrveranstaltungen."
+      },
+      {
+        "b": "g",
+        "text": "Das Studium wird hier wie eine Beschäftigung mit voller Arbeitszeit betrachtet."
+      },
+      {
+        "b": "h",
+        "text": "Eltern sollten stärker in die Pflicht genommen werden, das Studium ihrer Kinder zu bezahlen."
+      },
+      {
+        "b": "i",
+        "text": "Studiengänge sollten offiziell auch mit reduziertem Zeitaufwand absolviert werden können."
+      },
+      {
+        "b": "j",
+        "text": "Ein Arbeitgeber, der in Lernphasen Rücksicht nimmt, ist wichtiger als ein höherer Lohn."
+      }
+    ],
+    "loesungen": {
+      "1": "f",
+      "2": "b",
+      "3": "i",
+      "4": "j",
+      "5": "c",
+      "6": "g",
+      "7": "a",
+      "8": "d"
+    },
+    "erklaerungen": {
+      "1": "Svenja sagt: „ehrlich gesagt nehme ich dort mehr mit als aus so manchem Seminar“. Das ist f. Tim arbeitet auch viel, vergleicht aber nicht, wo er mehr lernt.",
+      "2": "Ahmed sagt: „ich muss arbeiten … Ohne die Jobs müsste ich morgen aufhören.“ Das ist b. Nicht h: Er sagt nur, dass seine Eltern ihn nicht unterstützen können.",
+      "3": "Professorin Engel will „ein echtes Teilzeitstudium … ganz offiziell“. Das ist i. Sie kritisiert nicht das Arbeiten, sondern die Struktur der Studiengänge.",
+      "4": "Lisa verdient woanders mehr, aber ihre Chefin gibt ihr in der „Klausurenphase“ frei. Das ist „wichtiger als ein paar Euro mehr“ – also j.",
+      "5": "Herr Krüger sagt, auch ein Job „an der Kasse im Supermarkt“ gehört in den Lebenslauf. Das ist c.",
+      "6": "Jakob sagt: „ich betrachte das Studium eben als meinen Job“ und arbeitet „locker vierzig Stunden pro Woche“ dafür. Das ist g.",
+      "7": "Frau Roth sieht „Erschöpfungssymptome, Schlafstörungen“ und warnt: „Wenn der Körper Warnsignale sendet, sollte man sie ernst nehmen.“ Das ist a.",
+      "8": "Tim fragt sich: „Mache ich das noch fertig, oder konzentriere ich mich ganz auf die Firma?“ Das ist d."
+    },
+    "distraktoren": {
+      "e": "Lisa erzählt, dass man in der Gastronomie wenig Rücksicht nimmt, aber von Ausnutzen einer Notlage spricht niemand.",
+      "h": "Ahmed und Jakob sprechen über ihre Eltern, aber keiner fordert, dass Eltern mehr zahlen müssen."
+    }
+  },
+  {
+    "id": "hv1_06",
+    "teil": "hv1",
+    "titel": "Anerkennung ausländischer Abschlüsse",
+    "thema": "migration_interkulturalitaet",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören Äußerungen von acht Personen aus dem Hochschul- und Schulbereich zum Thema „Anerkennung ausländischer Abschlüsse“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Ligaya, Pflegefachkraft aus den Philippinen",
+        "sp": "A",
+        "text": "Ich habe auf den Philippinen vier Jahre Pflege studiert und danach sechs Jahre auf einer Intensivstation gearbeitet. Als ich nach Deutschland kam, habe ich sofort alle Unterlagen eingereicht, übersetzt und beglaubigt. Und dann habe ich gewartet, fast eineinhalb Jahre. In dieser Zeit durfte ich nur als Pflegehelferin arbeiten, also Betten machen, Essen verteilen, aber keine Medikamente geben, obwohl ich das jahrelang selbstständig gemacht habe. Ich verstehe ja, dass man prüfen muss, wer hier mit Patienten arbeitet, das ist völlig richtig. Aber in dieser langen Zeit habe ich viel verlernt, und mein Selbstvertrauen hat wirklich gelitten. Ich hatte das Gefühl, meine Karriere steht einfach still, und ich werde jeden Monat ein bisschen kleiner."
+      },
+      {
+        "nr": 2,
+        "name": "Andreas Feld, Berater für Anerkennungsfragen an der Hochschule",
+        "sp": "B",
+        "text": "Ich bekomme oft den Vorwurf zu hören, wir seien zu langsam und zu bürokratisch. Ein Stück weit verstehe ich den Ärger, ganz ehrlich. Aber man muss sich klarmachen, was da eigentlich passiert. Wir vergleichen Ausbildungsinhalte, Stundenzahlen und Praxisanteile mit dem, was hier verlangt wird, und das für Hunderte von Ländern und Hochschulen. Bei Berufen wie Ärztin oder Lehrer geht es außerdem um Verantwortung für andere Menschen. Da kann ich nicht einfach einen Stempel daraufsetzen, nur weil die Person sympathisch ist und dringend arbeiten möchte. Was sich allerdings verbessern muss, ist die Kommunikation. Die Leute sollten wenigstens jederzeit wissen, wo ihr Antrag gerade steht und was noch fehlt."
+      },
+      {
+        "nr": 3,
+        "name": "Oksana, Lehrerin aus der Ukraine",
+        "sp": "C",
+        "text": "Ich bin Mathematiklehrerin und habe in Charkiw fünfzehn Jahre an einem Gymnasium unterrichtet. In der Ukraine studiert man auf Lehramt normalerweise nur ein Fach, und genau das ist hier mein Problem. In Nordrhein-Westfalen braucht man zwei Fächer, und deshalb gilt meine Ausbildung nur als teilweise gleichwertig. Ich soll jetzt also ein zweites Fach nachstudieren, Physik vielleicht, mit Mitte vierzig, neben Familie und Deutschkurs. Dabei war ich in meinem Fach wirklich gut, meine Schüler haben Wettbewerbe gewonnen. Es geht also gar nicht darum, ob ich unterrichten kann, sondern darum, dass mein Abschluss nicht in das deutsche Schema passt. Das finde ich, ehrlich gesagt, ziemlich absurd, gerade wenn überall Lehrkräfte fehlen."
+      },
+      {
+        "nr": 4,
+        "name": "Claudia Neumann, Professorin für Erziehungswissenschaft",
+        "sp": "A",
+        "text": "Wir bieten an unserer Universität seit einigen Jahren ein Programm für zugewanderte Lehrkräfte an. Ein Jahr lang gibt es Unterricht in Bildungssprache, Seminare zum deutschen Schulsystem und Hospitationen an Schulen. Und die Ergebnisse unserer Begleitforschung sind, wenn ich das so sagen darf, wirklich erfreulich. Rund drei Viertel unserer Absolventinnen und Absolventen arbeiten heute an einer Schule, viele davon unbefristet. Gerade Lehrkräfte für Naturwissenschaften werden händeringend gesucht. Ich möchte deshalb alle, die eine ausländische Lehrerausbildung haben, ausdrücklich ermutigen, sich bei uns zu bewerben. Die nächste Bewerbungsrunde beginnt im Frühjahr, und wir haben in diesem Jahr sogar mehr Plätze als bisher. Alle Informationen dazu gibt es auf unserer Webseite, und man kann sich auch gern persönlich beraten lassen."
+      },
+      {
+        "nr": 5,
+        "name": "Samir, Bauingenieur aus Syrien",
+        "sp": "B",
+        "text": "Ich hatte, ehrlich gesagt, mit dem Schlimmsten gerechnet, weil ich so viele Horrorgeschichten gehört hatte. Monate warten, Papiere, die verloren gehen, und so weiter. Bei mir war es dann ganz anders. Ingenieur ist in Deutschland kein reglementierter Beruf, das wusste ich vorher gar nicht. Ich habe eine sogenannte Zeugnisbewertung beantragt, alles online, und nach etwa acht Wochen hatte ich ein Dokument in der Hand, das bestätigt, dass mein Abschluss einem deutschen Bachelor entspricht. Damit habe ich mich dann für den Master beworben und wurde sofort angenommen. Also, man sollte sich nicht von vornherein entmutigen lassen. Es kommt sehr auf den Beruf an, und manchmal geht es schneller, als man denkt."
+      },
+      {
+        "nr": 6,
+        "name": "Diego, Arzt aus Kolumbien",
+        "sp": "C",
+        "text": "Das Medizinische war für mich nie das Problem. Ein Herzinfarkt ist in Bogotá dasselbe wie in Bochum. Aber die Fachsprachprüfung, puh, die habe ich beim ersten Mal nicht bestanden. Da muss man ein Gespräch mit einem Patienten führen, der natürlich nicht sagt, ich habe Dyspnoe, sondern: Mir bleibt beim Treppensteigen die Luft weg. Und dann muss man einen Arztbrief schreiben und den Fall einem Oberarzt vorstellen, in ganz anderer Sprache. Dieses ständige Hin und Her zwischen Alltagssprache und Fachsprache, das ist unglaublich anspruchsvoll. Ich habe danach ein halbes Jahr lang jeden Abend mit einer Kollegin geübt. Beim zweiten Versuch hat es dann geklappt, zum Glück, und heute arbeite ich in der Notaufnahme."
+      },
+      {
+        "nr": 7,
+        "name": "Sabine Ott, Mitarbeiterin im International Office",
+        "sp": "A",
+        "text": "Viele Menschen, die zu uns in die Sprechstunde kommen, sind vor allem eines: völlig verwirrt. Für den einen Beruf ist die Bezirksregierung zuständig, für den nächsten die Handwerkskammer, für ein Studium wieder die Hochschule selbst. Jedes Bundesland hat eigene Regeln, jede Stelle eigene Formulare. Die Gebühren sind dabei gar nicht das Hauptproblem, die sind meistens überschaubar. Das Problem ist, dass man monatelang von einer Behörde zur nächsten geschickt wird. Ich wünsche mir wirklich, dass es irgendwann eine einzige Stelle gibt, bei der man seine Unterlagen abgibt und die sich dann um alles kümmert. Andere Länder, Kanada zum Beispiel, zeigen ja, dass das funktionieren kann. Warum sollte das bei uns unmöglich sein?"
+      },
+      {
+        "nr": 8,
+        "name": "Kai Hoffmann, Lehrer und Mentor an einer Grundschule",
+        "sp": "B",
+        "text": "Bei uns an der Schule macht gerade eine Kollegin aus dem Iran ihren Anpassungslehrgang, und ich begleite sie als Mentor. Ich muss sagen, ich lerne mindestens genauso viel von ihr wie sie von mir. Sie hat zwanzig Jahre unterrichtet, in Klassen mit über vierzig Kindern, und sie hat Methoden, die ich so noch nie gesehen habe. Außerdem spricht sie Farsi, und wir haben viele Kinder aus Afghanistan, deren Eltern jetzt zum ersten Mal wirklich verstanden werden. Leider gibt es im Kollegium auch Skepsis, so nach dem Motto: Kann die das überhaupt? Ich finde, wir sollten froh sein, dass solche Leute zu uns kommen, gerade jetzt, wo überall Lehrkräfte fehlen."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Entgegen den eigenen Befürchtungen ging alles schnell und reibungslos."
+      },
+      {
+        "b": "b",
+        "text": "Die lange Wartezeit hat sowohl Kompetenzen als auch das Selbstwertgefühl geschwächt."
+      },
+      {
+        "b": "c",
+        "text": "Ausländische Abschlüsse sollten ohne weitere Prüfung automatisch gelten."
+      },
+      {
+        "b": "d",
+        "text": "Die Zuständigkeiten sollten bei einer einzigen Einrichtung gebündelt werden."
+      },
+      {
+        "b": "e",
+        "text": "Ein formaler Unterschied im Ausbildungssystem wiegt schwerer als die tatsächliche Berufserfahrung."
+      },
+      {
+        "b": "f",
+        "text": "Die Zusammenarbeit mit einer Lehrkraft aus dem Ausland wird als großer Gewinn erlebt."
+      },
+      {
+        "b": "g",
+        "text": "Hier wird das Vorgehen der zuständigen Stellen gegen Kritik verteidigt."
+      },
+      {
+        "b": "h",
+        "text": "Die eigentliche Schwierigkeit lag im Wechsel zwischen verschiedenen sprachlichen Ebenen."
+      },
+      {
+        "b": "i",
+        "text": "Diese Person möchte für ein erfolgreiches Unterstützungsangebot Teilnehmende gewinnen."
+      },
+      {
+        "b": "j",
+        "text": "Die hohen Kosten des Verfahrens schrecken viele Betroffene ab."
+      }
+    ],
+    "loesungen": {
+      "1": "b",
+      "2": "g",
+      "3": "e",
+      "4": "i",
+      "5": "a",
+      "6": "h",
+      "7": "d",
+      "8": "f"
+    },
+    "erklaerungen": {
+      "1": "Ligaya sagt: „habe ich viel verlernt, und mein Selbstvertrauen hat wirklich gelitten“. Das ist b. Nicht c: Sie findet die Prüfung „völlig richtig“.",
+      "2": "Herr Feld antwortet auf den „Vorwurf“, man sei zu langsam, und erklärt, warum die Prüfung nötig ist. Das ist g.",
+      "3": "Oksana hat nur ein Fach studiert, darum gilt ihr Abschluss nur „teilweise“ – obwohl sie „fünfzehn Jahre“ unterrichtet hat. Das ist e.",
+      "4": "Professorin Neumann lobt ihr Programm („wirklich erfreulich“) und will alle „ermutigen, sich bei uns zu bewerben“. Das ist i.",
+      "5": "Samir „hatte … mit dem Schlimmsten gerechnet“, bekam aber nach „etwa acht Wochen“ seine Bewertung. Das ist a.",
+      "6": "Diego sagt: „Das Medizinische war für mich nie das Problem“, schwierig war das „Hin und Her zwischen Alltagssprache und Fachsprache“. Das ist h.",
+      "7": "Frau Ott wünscht sich „eine einzige Stelle … die sich dann um alles kümmert“. Das ist d. Nicht j: Die Gebühren sind für sie „gar nicht das Hauptproblem“.",
+      "8": "Herr Hoffmann sagt: „ich lerne mindestens genauso viel von ihr wie sie von mir“. Das ist f."
+    },
+    "distraktoren": {
+      "c": "Ligaya ärgert sich über die Wartezeit, sagt aber ausdrücklich, dass man prüfen muss. Herr Feld will gründlich prüfen.",
+      "j": "Frau Ott erwähnt die Gebühren, sagt aber, sie sind „meistens überschaubar“."
+    }
+  },
+  {
+    "id": "hv1_07",
+    "teil": "hv1",
+    "titel": "Nachhaltigkeit auf dem Campus",
+    "thema": "klima_nachhaltigkeit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1+",
+    "situation": "Sie hören Äußerungen von acht Personen aus dem Hochschulbereich zum Thema „Wie nachhaltig ist unsere Hochschule?“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Marlene, Mitglied der studentischen Klimagruppe",
+        "sp": "A",
+        "text": "Die Hochschulleitung redet seit Jahren von Nachhaltigkeit, und ja, es gibt jetzt Mehrwegbecher in der Cafeteria und ein paar Fahrradständer mehr. Das ist nett, aber das ist doch Kosmetik. Wir fordern seit drei Semestern, dass sich die Hochschule auf ein konkretes Datum festlegt, bis wann sie klimaneutral sein will, und dass es dafür einen überprüfbaren Fahrplan mit Zwischenzielen gibt. Jedes Mal heißt es, man prüfe das, man arbeite daran, man wolle nichts überstürzen. Ich verstehe ja, dass so etwas komplex ist. Aber wenn man sich nie auf etwas festlegt, kann man auch nie an etwas scheitern, und genau das ist, glaube ich, der eigentliche Grund für dieses ewige Zögern."
+      },
+      {
+        "nr": 2,
+        "name": "Rolf Schäfer, Leiter des Gebäudemanagements",
+        "sp": "B",
+        "text": "Ich teile das Ziel ja, aber man muss die Dimensionen sehen. Ein Großteil unserer Gebäude stammt aus den siebziger Jahren, Beton, einfach verglaste Fenster, Heizungen, die eigentlich ins Museum gehören. Allein die energetische Sanierung des Chemiegebäudes würde nach unseren Schätzungen über sechzig Millionen Euro kosten. Unser Budget für bauliche Maßnahmen liegt bei einem Bruchteil davon, und das Land hat die Mittel in den letzten Jahren eher gekürzt als erhöht. Wir machen, was wir können, sparsamere Beleuchtung, eine bessere Steuerung der Heizung, Photovoltaik auf den Dächern, wo die Statik es zulässt. Aber zaubern kann ich nicht, solange das Geld fehlt. Da sind andere gefragt, vor allem die Landesregierung."
+      },
+      {
+        "nr": 3,
+        "name": "Ingrid Paulsen, Leiterin der Mensa",
+        "sp": "C",
+        "text": "Als wir vor zwei Jahren beschlossen haben, montags und donnerstags nur noch vegetarische und vegane Gerichte anzubieten, war hier, gelinde gesagt, die Hölle los. Wir bekamen wütende Mails, es gab eine Unterschriftenliste, und ein Professor hat sich sogar beim Präsidenten beschwert. Ich hatte ehrlich gesagt Sorge, dass die Leute an diesen Tagen einfach wegbleiben. Das Gegenteil ist eingetreten. Die Besucherzahlen sind stabil, und inzwischen bekommen wir eher Beschwerden, wenn das Linsencurry ausverkauft ist. Wir haben den Fleischverbrauch insgesamt um fast ein Drittel gesenkt. Ich glaube, viele brauchten einfach ein bisschen Zeit, um sich daran zu gewöhnen. Und gute Rezepte natürlich, das gehört auch dazu."
+      },
+      {
+        "nr": 4,
+        "name": "Helga Brenner, Professorin für Umweltökonomie",
+        "sp": "A",
+        "text": "Mich irritiert an der Debatte, dass sie sich so stark auf Becher, Strohhalme und das Mensaessen konzentriert. Das ist alles nicht falsch, aber es lenkt vom eigentlichen Elefanten im Raum ab. Wir haben an unserer Hochschule die Emissionen einmal genau aufgeschlüsselt, und ein erheblicher Teil geht auf Dienstreisen zurück, vor allem auf Flüge zu internationalen Konferenzen. Da sind wir Professorinnen und Professoren selbst gefragt, und darüber redet man natürlich ungern. Ich bin im letzten Jahr zu keiner einzigen Tagung mehr geflogen und habe mich zweimal per Video zuschalten lassen. Das war nicht dasselbe, zugegeben. Aber wenn wir glaubwürdig bleiben wollen, müssen wir bei uns selbst anfangen."
+      },
+      {
+        "nr": 5,
+        "name": "Leon, Student der Agrarwissenschaften",
+        "sp": "B",
+        "text": "Ich fahre jeden Tag mit dem Auto zur Uni, und ich weiß, dass das bei manchen hier fast als Verbrechen gilt. Aber der Campus liegt nun mal am Stadtrand, und ich wohne auf einem Dorf, in dem der Bus zweimal am Tag fährt, morgens um sechs und nachmittags um vier. Mit dem Rad wären es fünfundzwanzig Kilometer über eine Landstraße ohne Radweg. Ich würde sofort umsteigen, wenn es eine vernünftige Verbindung gäbe, das ist kein Witz. Aber solange das nicht der Fall ist, finde ich es ziemlich unfair, wenn man mir ständig ein schlechtes Gewissen machen will. Man kann nicht von Einzelnen verlangen, was die Infrastruktur nicht hergibt."
+      },
+      {
+        "nr": 6,
+        "name": "Felix Lange, wissenschaftlicher Mitarbeiter in der Biologie",
+        "sp": "C",
+        "text": "Mein Lieblingsprojekt ist eigentlich ganz unscheinbar. Wir haben vor drei Jahren damit begonnen, die kurz gemähten Rasenflächen auf dem Campus in Blühwiesen umzuwandeln. Das war gar nicht so aufwendig, man muss im Grunde nur seltener mähen und die richtigen Samen ausbringen. Inzwischen haben wir dort über vierzig Wildbienenarten nachgewiesen, und es gibt Schmetterlinge, die vorher niemand hier gesehen hat. Das Schöne ist, dass Studierende aus den ersten Semestern die Bestandsaufnahme übernehmen. Sie lernen dabei, Arten zu bestimmen, Daten zu erheben und auszuwerten, also genau das, was sie später im Beruf brauchen. Der Campus ist sozusagen zu einem Freilandlabor geworden. Ökologie zum Anfassen, wenn man so will."
+      },
+      {
+        "nr": 7,
+        "name": "Pia, Studentin der Politikwissenschaft",
+        "sp": "A",
+        "text": "Auf der Webseite der Uni sieht man lauter grüne Bilder, Bienen, Solaranlagen, lachende Studierende auf Fahrrädern. Gleichzeitig hat sich die Universität im letzten Jahr einen neuen Hörsaal von einem großen Energiekonzern finanzieren lassen, der sein Geld nach wie vor überwiegend mit Öl und Gas verdient. Sein Logo hängt jetzt in riesigen Buchstaben über dem Eingang. Ich will gar nicht sagen, dass man mit der Wirtschaft nicht zusammenarbeiten darf. Aber da passen Anspruch und Wirklichkeit eben nicht zusammen. Man kann nicht einerseits mit Nachhaltigkeit werben und sich andererseits von genau den Unternehmen sponsern lassen, die das Problem verursachen. Das ist für mich reines Marketing, nichts weiter."
+      },
+      {
+        "nr": 8,
+        "name": "Jörg Mertens, Vizepräsident für Forschung",
+        "sp": "B",
+        "text": "Ich halte es für richtig, dass wir unseren eigenen Betrieb klimafreundlicher machen, keine Frage. Aber ich warne davor, die Rolle einer Universität darauf zu reduzieren. Unser Energieverbrauch ist im Vergleich zu einem Stahlwerk eine Randnotiz. Unser eigentlicher Hebel liegt woanders, und zwar ganz eindeutig. Hier werden neue Batteriespeicher entwickelt, hier wird an hitzebeständigen Getreidesorten gearbeitet, und hier werden jedes Jahr Tausende junger Menschen ausgebildet, die später in Unternehmen, Behörden und Schulen Entscheidungen treffen. Wenn wir darin gut sind, tragen wir zum Klimaschutz ein Vielfaches dessen bei, was wir mit ein paar gedämmten Dächern je erreichen könnten. Das sollte man in der aktuellen, manchmal etwas aufgeregten Diskussion bitte nicht vergessen."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Der fleischlose Speiseplan stößt bei vielen Gästen bis heute auf Ablehnung."
+      },
+      {
+        "b": "b",
+        "text": "Wissenschaftlerinnen und Wissenschaftler sollten vor allem ihr eigenes Reiseverhalten überdenken."
+      },
+      {
+        "b": "c",
+        "text": "Der größte Klimanutzen der Hochschule liegt in den Erkenntnissen und Fachkräften, die sie hervorbringt."
+      },
+      {
+        "b": "d",
+        "text": "Ohne festen Zeitrahmen und messbare Etappen bleiben Absichtserklärungen wirkungslos."
+      },
+      {
+        "b": "e",
+        "text": "Eine Maßnahme fördert die Artenvielfalt und dient gleichzeitig der praktischen Ausbildung."
+      },
+      {
+        "b": "f",
+        "text": "Die anfängliche Empörung über eine Neuerung ist inzwischen weitgehend verflogen."
+      },
+      {
+        "b": "g",
+        "text": "Eine Lehrveranstaltung zur Nachhaltigkeit sollte für alle Studiengänge verpflichtend werden."
+      },
+      {
+        "b": "h",
+        "text": "Ein umweltfreundlicherer Weg zum Campus scheitert nicht am Willen, sondern am fehlenden Angebot."
+      },
+      {
+        "b": "i",
+        "text": "Die Hochschule präsentiert sich nach dieser Ansicht umweltbewusster, als sie tatsächlich handelt."
+      },
+      {
+        "b": "j",
+        "text": "Die veraltete Bausubstanz lässt sich mit den verfügbaren Mitteln kaum modernisieren."
+      }
+    ],
+    "loesungen": {
+      "1": "d",
+      "2": "j",
+      "3": "f",
+      "4": "b",
+      "5": "h",
+      "6": "e",
+      "7": "i",
+      "8": "c"
+    },
+    "erklaerungen": {
+      "1": "Marlene fordert „ein konkretes Datum“ und „einen überprüfbaren Fahrplan mit Zwischenzielen“. Das ist d. Pia kritisiert das Image der Hochschule (i), Marlene das fehlende Ziel.",
+      "2": "Herr Schäfer nennt Gebäude „aus den siebziger Jahren“ und sagt: „zaubern kann ich nicht, solange das Geld fehlt“. Das ist j.",
+      "3": "Frau Paulsen erzählt von „wütenden Mails“ am Anfang; heute gibt es eher Beschwerden, wenn das Linsencurry ausverkauft ist. Das ist f. Nicht a: Die Ablehnung ist vorbei.",
+      "4": "Professorin Brenner sagt, ein großer Teil der Emissionen kommt von „Flügen zu internationalen Konferenzen“; „wir Professorinnen und Professoren“ sind gefragt. Das ist b.",
+      "5": "Leon würde „sofort umsteigen, wenn es eine vernünftige Verbindung gäbe“. Das ist h. Es fehlt nicht der Wille, sondern der Bus. Herr Schäfer spricht über Gebäude, nicht über den Weg zur Uni.",
+      "6": "Herr Lange erzählt von Blühwiesen mit „über vierzig Wildbienenarten“, und Studierende lernen dort, „was sie später im Beruf brauchen“. Das ist e.",
+      "7": "Pia sagt: „da passen Anspruch und Wirklichkeit eben nicht zusammen … reines Marketing“. Das ist i.",
+      "8": "Herr Mertens sagt, der „eigentliche Hebel“ der Universität sind Forschung und Ausbildung, nicht der eigene Energieverbrauch. Das ist c. Nicht g: Er fordert keine Pflichtveranstaltung."
+    },
+    "distraktoren": {
+      "a": "Frau Paulsen spricht über die fleischlosen Tage, aber die Ablehnung gab es nur am Anfang.",
+      "g": "Herr Mertens und Herr Lange sprechen über Ausbildung, aber niemand fordert ein Pflichtseminar."
+    }
+  },
+  {
+    "id": "hv1_08",
+    "teil": "hv1",
+    "titel": "Prüfungsangst und Leistungsdruck",
+    "thema": "gesundheit",
+    "bezug": false,
+    "pruefung": 1,
+    "niveau": "C1",
+    "situation": "Sie hören Äußerungen von acht Personen aus dem Hochschulbereich zum Thema „Prüfungsangst und Leistungsdruck“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Melanie, Studentin der Rechtswissenschaft",
+        "sp": "A",
+        "text": "Im dritten Semester hatte ich in einer Klausur einen kompletten Blackout. Ich saß da, hatte wochenlang gelernt, und plötzlich war in meinem Kopf einfach nichts mehr, nur noch Rauschen. Ich habe nach einer Stunde ein fast leeres Blatt abgegeben. Danach habe ich mich monatelang geschämt und mit niemandem darüber geredet, weil ich dachte, alle anderen haben das im Griff, nur ich nicht. Irgendwann habe ich es in meiner Lerngruppe doch erzählt, und dann kam heraus, dass zwei andere ganz Ähnliches erlebt hatten. Das hat mir unglaublich geholfen. Das Problem ist nicht weg, aber seitdem fühle ich mich nicht mehr wie eine Versagerin, und das macht schon einen riesigen Unterschied."
+      },
+      {
+        "nr": 2,
+        "name": "Bernd Vogt, Professor für Mathematik",
+        "sp": "B",
+        "text": "Ich möchte vorausschicken, dass ich echte Angststörungen sehr ernst nehme. Wer darunter leidet, braucht professionelle Hilfe, keine Frage, und die vermittle ich auch, wenn jemand zu mir kommt. Aber ich habe manchmal den Eindruck, dass inzwischen jede normale Aufregung gleich zum Problem erklärt wird. Ein bisschen Herzklopfen vor einer Prüfung ist völlig gesund. Das schärft die Aufmerksamkeit, man ist wacher, konzentrierter und oft auch schneller im Kopf. Ich selbst bin nach dreißig Jahren im Beruf vor jeder großen Vorlesung noch nervös, und ich glaube, das ist auch gut so. Wenn wir den Studierenden vermitteln, dass jede Anspannung etwas Krankhaftes ist, tun wir ihnen, fürchte ich, keinen Gefallen."
+      },
+      {
+        "nr": 3,
+        "name": "Anke Hollmann, Leiterin der psychosozialen Beratungsstelle",
+        "sp": "C",
+        "text": "Ein Muster, das wir in der Beratung sehr häufig sehen, ist das Vermeiden. Jemand hat Angst vor einer Klausur und meldet sich kurz vorher krank. Das bringt sofort Erleichterung, ganz klar. Aber das Gehirn lernt daraus: Die Situation war tatsächlich gefährlich, gut, dass wir ihr ausgewichen sind. Beim nächsten Mal ist die Angst dann noch größer, und irgendwann traut man sich gar nicht mehr hin. Das ist ein Teufelskreis. Wir arbeiten deshalb mit kleinen Schritten. Probeklausuren unter echten Bedingungen, Referate vor einer kleinen, wohlwollenden Gruppe, solche Dinge. Das ist anfangs unangenehm, aber nur so macht man die Erfahrung, dass man die Situation bewältigen kann. Dieses Erleben ist durch nichts zu ersetzen."
+      },
+      {
+        "nr": 4,
+        "name": "Mai, Austauschstudentin aus Vietnam",
+        "sp": "A",
+        "text": "In Vietnam habe ich sehr viele Prüfungen geschrieben, und ich hatte nie große Probleme damit. Man lernt den Stoff sehr genau, oft auswendig, und dann schreibt man ihn auf. Hier in Deutschland hatte ich jetzt meine erste mündliche Prüfung, und das war für mich ein ganz neues Gefühl. Der Professor hat nicht gefragt, was in Kapitel drei steht, sondern: Wie würden Sie das bewerten? Was halten Sie von dieser Theorie? Ich kannte die Fakten, aber ich musste spontan argumentieren, und das auf Deutsch. Ich war so nervös, dass meine Hände gezittert haben. Mit dem Inhalt hatte das gar nichts zu tun, sondern mit dieser Art zu prüfen, die ich einfach nicht kannte."
+      },
+      {
+        "nr": 5,
+        "name": "Timo, Student der Elektrotechnik",
+        "sp": "B",
+        "text": "Was mich wirklich fertigmacht, ist gar nicht die Prüfung an sich, sondern das, was drumherum passiert. Nach jeder Klausur geht es in unserer Semestergruppe im Chat sofort los: Wer hat was, wer hat eine Eins, wer hat schon ein Praktikum bei einem großen Konzern. Und in den sozialen Netzwerken sieht man dann Leute, die angeblich sechzehn Stunden am Tag lernen und trotzdem noch Sport machen und nebenbei eine Firma gründen. Ich weiß, das ist zum großen Teil Inszenierung. Trotzdem fühle ich mich danach immer, als wäre ich zu langsam, zu faul, einfach nicht gut genug. Ich habe den Chat jetzt stummgeschaltet. Das hilft ein bisschen, aber ganz los werde ich das Gefühl nicht."
+      },
+      {
+        "nr": 6,
+        "name": "Karl Winter, Mitarbeiter im Prüfungsamt",
+        "sp": "C",
+        "text": "Wir haben im Prüfungsamt über Jahre beobachtet, dass sich in der Woche vor den Klausuren die Krankmeldungen häufen, teilweise um das Dreifache. Seit dem letzten Jahr gilt bei uns eine neue Regel: Der erste Versuch in jeder Klausur ist ein Freiversuch. Wer durchfällt, dem wird das nicht angerechnet, und wer besteht, kann sich trotzdem noch einmal verbessern. Ehrlich gesagt war ich skeptisch, ich dachte, dann lernt keiner mehr richtig. Aber das Gegenteil ist passiert. Die Zahl der Krankmeldungen ist deutlich zurückgegangen, und die Durchschnittsnoten sind sogar leicht besser geworden. Offenbar nimmt das vielen einfach diesen enormen Druck, dass alles beim ersten Mal sitzen muss."
+      },
+      {
+        "nr": 7,
+        "name": "Julia, Studentin der Biologie",
+        "sp": "A",
+        "text": "Ich bin die Erste in meiner Familie, die studiert. Meine Eltern haben beide eine Ausbildung gemacht, mein Vater ist Busfahrer, meine Mutter arbeitet im Einzelhandel. Sie sind unglaublich stolz auf mich und erzählen allen Verwandten von ihrer Tochter, die an der Uni ist. Das ist natürlich schön. Aber es setzt mich auch total unter Druck. Wenn ich eine Prüfung nicht bestehe, habe ich das Gefühl, ich lasse nicht nur mich selbst im Stich, sondern die ganze Familie. Und ich kann mit ihnen auch nicht wirklich darüber reden, weil sie nicht wissen, wie so ein Studium funktioniert. Sie sagen dann nur: Du schaffst das schon. Gut gemeint, aber das hilft mir leider nicht."
+      },
+      {
+        "nr": 8,
+        "name": "Christian Brückner, Dozent für Soziologie",
+        "sp": "B",
+        "text": "Ich glaube, wir machen es uns zu leicht, wenn wir Prüfungsangst nur als individuelles Problem betrachten, das man mit Atemübungen oder einem Workshop löst. Schauen Sie sich die Studienordnungen an: Seit der Bologna-Reform wird fast jede Lehrveranstaltung mit einer Prüfung abgeschlossen, und fast jede Note geht in die Abschlussnote ein. Die Studierenden haben praktisch kein Semester, in dem sie einfach mal ausprobieren, Fehler machen, sich für etwas begeistern können, ohne dass es zählt. Natürlich entsteht da Dauerstress, das ist doch keine Überraschung. Ich plädiere deshalb dafür, die Zahl der benoteten Prüfungen drastisch zu reduzieren und mehr Leistungen nur mit bestanden oder nicht bestanden zu bewerten."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Eine geänderte Prüfungsvorschrift hat sich entgegen anfänglicher Zweifel bewährt."
+      },
+      {
+        "b": "b",
+        "text": "Eine moderate Aufgeregtheit kann nach dieser Ansicht sogar die Leistung steigern."
+      },
+      {
+        "b": "c",
+        "text": "Erst als das Schweigen gebrochen wurde, ließ der innere Druck nach."
+      },
+      {
+        "b": "d",
+        "text": "Es sollten deutlich weniger Leistungen in die Gesamtbewertung einfließen."
+      },
+      {
+        "b": "e",
+        "text": "Sich ständig an anderen zu messen, verstärkt das Gefühl, nicht zu genügen."
+      },
+      {
+        "b": "f",
+        "text": "Lehrende nehmen die Sorgen der Studierenden häufig nicht ernst genug."
+      },
+      {
+        "b": "g",
+        "text": "Nicht der Lernstoff, sondern das unbekannte Prüfungsformat sorgt für Unsicherheit."
+      },
+      {
+        "b": "h",
+        "text": "Die Hoffnungen der Eltern werden nicht nur als Ansporn, sondern auch als Last empfunden."
+      },
+      {
+        "b": "i",
+        "text": "Mündliche Prüfungen sind nach dieser Ansicht grundsätzlich gerechter als schriftliche."
+      },
+      {
+        "b": "j",
+        "text": "Wer belastenden Situationen aus dem Weg geht, verschlimmert das Problem auf Dauer."
+      }
+    ],
+    "loesungen": {
+      "1": "c",
+      "2": "b",
+      "3": "j",
+      "4": "g",
+      "5": "e",
+      "6": "a",
+      "7": "h",
+      "8": "d"
+    },
+    "erklaerungen": {
+      "1": "Melanie hat lange „mit niemandem darüber geredet“; als sie es der Lerngruppe erzählte, „hat mir unglaublich geholfen“. Das ist c.",
+      "2": "Professor Vogt sagt: „Ein bisschen Herzklopfen … ist völlig gesund. Das schärft die Aufmerksamkeit.“ Das ist b. Nicht f: Er nimmt echte Angststörungen „sehr ernst“.",
+      "3": "Frau Hollmann erklärt: Wer sich krankmeldet, hat beim nächsten Mal „noch größere“ Angst – „ein Teufelskreis“. Das ist j. Herr Winter nennt nur Zahlen zu Krankmeldungen.",
+      "4": "Mai sagt: „Mit dem Inhalt hatte das gar nichts zu tun, sondern mit dieser Art zu prüfen.“ Das ist g. Nicht i: Sie sagt nicht, dass mündliche Prüfungen gerechter sind.",
+      "5": "Timo liest im Chat, „wer hat eine Eins“, und fühlt sich dann „nicht gut genug“. Das ist e.",
+      "6": "Herr Winter war „skeptisch“, aber nach dem Freiversuch gibt es weniger Krankmeldungen und bessere Noten. Das ist a.",
+      "7": "Julias Eltern sind „unglaublich stolz“, aber das „setzt mich auch total unter Druck“. Das ist h.",
+      "8": "Herr Brückner will „die Zahl der benoteten Prüfungen drastisch … reduzieren“, weil fast jede Note in die Abschlussnote eingeht. Das ist d."
+    },
+    "distraktoren": {
+      "f": "Professor Vogt hält normale Aufregung für gesund, sagt aber ausdrücklich, dass er echte Ängste ernst nimmt.",
+      "i": "Mai spricht über ihre erste mündliche Prüfung, sagt aber nichts darüber, welche Prüfungsform gerechter ist."
+    }
+  },
+  {
+    "id": "hv1_09",
+    "teil": "hv1",
+    "titel": "Seiteneinstieg ins Lehramt",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 2,
+    "niveau": "C1+",
+    "situation": "Sie hören Äußerungen von acht Personen aus Hochschule und Schule zum Thema „Seiteneinsteiger an Schulen – Notlösung oder Chance?“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Kerstin Albrecht, Chemikerin und Seiteneinsteigerin an einer Gesamtschule",
+        "sp": "A",
+        "text": "Ich habe nach meiner Promotion zwölf Jahre in der Pharmaindustrie gearbeitet, gut bezahlt, sicherer Job, alles bestens, zumindest auf dem Papier. Aber irgendwann habe ich mich gefragt, wofür ich eigentlich jeden Morgen aufstehe. Seit zwei Jahren unterrichte ich jetzt Chemie und Biologie an einer Gesamtschule. Mein Gehalt ist um gut ein Drittel geschrumpft, und wir mussten als Familie einiges umstellen, das will ich gar nicht beschönigen. Aber wenn eine Schülerin, die vorher behauptet hat, Chemie sei nichts für Mädchen, plötzlich fragt, ob sie in den Ferien ein Praktikum im Labor machen kann, dann weiß ich, warum ich das tue. Diesen Schritt würde ich jederzeit wieder gehen, ohne zu zögern."
+      },
+      {
+        "nr": 2,
+        "name": "Jan, Lehramtsstudent im Master",
+        "sp": "B",
+        "text": "Ich will niemandem zu nahe treten, und ich verstehe auch, dass die Schulen in der aktuellen Notlage kaum eine andere Wahl haben. Aber man muss sich das mal vorstellen: Ich studiere jetzt im zehnten Semester, habe Fachdidaktik, Entwicklungspsychologie und Diagnostik belegt, ein Praxissemester gemacht, und vor mir liegen noch anderthalb Jahre Referendariat. Und dann kommt jemand, der vorher Versicherungen verkauft hat, macht einen Kurs von ein paar Wochen und steht vor einer Klasse. Da frage ich mich schon, wozu ich mir das alles antue. Wenn es offenbar auch ohne geht, was ist meine Ausbildung dann eigentlich noch wert? Das ist, ehrlich gesagt, ziemlich demotivierend, nicht nur für mich."
+      },
+      {
+        "nr": 3,
+        "name": "Ruth Kessler, Professorin für Schulpädagogik",
+        "sp": "C",
+        "text": "Fachwissen ist bei Seiteneinsteigern meist reichlich vorhanden, daran zweifelt niemand. Was fehlt, ist etwas anderes. Wie gehe ich mit einer Klasse um, in der drei Kinder kaum Deutsch sprechen, zwei einen Förderbedarf haben und einer jede Stunde stört? Wie erkläre ich etwas, das für mich selbstverständlich ist, einem Dreizehnjährigen, der damit noch nie in Berührung gekommen ist? Das lernt man nicht nebenbei, und schon gar nicht in ein paar Wochen. Die derzeitige Praxis, Menschen erst in die Klasse zu stellen und sie parallel zu qualifizieren, halte ich für hochriskant, für die Lehrkräfte und vor allem für die Kinder. Eine solide pädagogische Grundausbildung muss vor dem ersten Unterrichtstag stehen, nicht irgendwann danach."
+      },
+      {
+        "nr": 4,
+        "name": "Grace, Biologielehrerin aus Kenia",
+        "sp": "A",
+        "text": "Ich habe in Nairobi Biologie und Chemie auf Lehramt studiert und acht Jahre an einer weiterführenden Schule unterrichtet. Hier warte ich seit fast zwei Jahren auf meine Anerkennung, und man verlangt von mir noch einen Anpassungslehrgang und eine Sprachprüfung auf hohem Niveau. Das akzeptiere ich, die Sprache ist wichtig. Aber gleichzeitig sehe ich an der Schule, an der ich als Vertretungskraft aushelfe, einen Ingenieur, der nie eine pädagogische Ausbildung hatte und nach wenigen Wochen eine volle Stelle bekommen hat. Verstehen Sie mich nicht falsch, er ist nett und macht das gut. Aber irgendwie passt das nicht zusammen. Ich bin ausgebildete Lehrerin und muss warten, er ist es nicht und darf sofort."
+      },
+      {
+        "nr": 5,
+        "name": "Matthias Roth, Fachleiter in der Lehrerausbildung",
+        "sp": "B",
+        "text": "Ich begleite seit Jahren Seiteneinsteigerinnen und Seiteneinsteiger, und viele von ihnen bringen etwas mit, das man in keinem Seminar lernt: Lebenserfahrung, Gelassenheit, Geschichten aus der Arbeitswelt, die die Jugendlichen faszinieren. Das Problem ist ein anderes. Diese Menschen unterrichten vom ersten Tag an fast die volle Stundenzahl und sollen nebenher noch ihre Ausbildung absolvieren, mit Unterrichtsbesuchen, Seminaren und Prüfungen. Das ist eine enorme Doppelbelastung. Wir verlieren deshalb leider einen erheblichen Teil im ersten Jahr, gerade die Gewissenhaften, die alles perfekt machen wollen. Wenn man ihnen anfangs deutlich weniger Unterrichtsstunden geben würde, könnten wir viele von ihnen halten. Davon bin ich nach all den Jahren fest überzeugt."
+      },
+      {
+        "nr": 6,
+        "name": "Erik, Student der Physik",
+        "sp": "C",
+        "text": "Ich studiere Physik im Bachelor, ganz klassisch, ohne Lehramt. Mein Ziel ist eigentlich die Forschung, vielleicht eine Promotion. Aber ich weiß natürlich, wie unsicher das ist, befristete Verträge, ständige Umzüge, das volle Programm. Insofern finde ich es ehrlich gesagt ziemlich entlastend zu wissen, dass ich als Physiker notfalls auch noch an eine Schule wechseln könnte. Gerade in meinem Fach werden ja händeringend Leute gesucht. Ich habe sogar schon ein paar Nachhilfeschüler gehabt und gemerkt, dass mir das Erklären Spaß macht. Ob ich diesen Weg wirklich gehe, weiß ich nicht, das wird sich zeigen. Aber es ist ein gutes Gefühl, dass diese Tür offensteht, falls es mit der Wissenschaft nicht klappt."
+      },
+      {
+        "nr": 7,
+        "name": "Sevgi Aydin, Mitarbeiterin der Zentralen Studienberatung",
+        "sp": "A",
+        "text": "In meine Sprechstunde kommen inzwischen viele, die sagen: Ich habe Germanistik studiert, ich will jetzt in die Schule, das geht ja heute ganz leicht. Und dann muss ich die Erwartungen oft etwas dämpfen. Der Seiteneinstieg ist kein offenes Tor für alle. Er wird vor allem in Fächern und Schulformen angeboten, in denen der Mangel besonders groß ist, also zum Beispiel Mathematik, Physik oder Informatik, an Berufskollegs oder an Grundschulen. Mit Deutsch oder Geschichte für das Gymnasium hat man in der Regel kaum eine Chance, weil es dort genug regulär ausgebildete Bewerberinnen und Bewerber gibt. Das sorgt dann für Enttäuschung, aber es ist besser, das früh zu wissen."
+      },
+      {
+        "nr": 8,
+        "name": "Holger Brandes, Bildungsforscher an der Universität",
+        "sp": "B",
+        "text": "In der öffentlichen Debatte wird oft so getan, als wäre klar, dass Seiteneinsteiger schlechter unterrichten. Die Datenlage ist da aber deutlich differenzierter, als viele glauben. Wir haben in einer größeren Studie Klassen über mehrere Jahre begleitet. Im ersten Jahr schneiden die Schülerinnen und Schüler bei Seiteneinsteigern tatsächlich etwas schwächer ab, vor allem, was das Klassenklima angeht. Nach drei bis vier Jahren sind diese Unterschiede aber weitgehend verschwunden. Das heißt nicht, dass die Ausbildung egal ist, das wäre ein völlig falscher Schluss. Es heißt nur, dass wir bei diesem Thema mit pauschalen Urteilen vorsichtig sein sollten, in die eine wie in die andere Richtung."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Hier wird klargestellt, dass dieser Weg nur unter bestimmten Bedingungen möglich ist."
+      },
+      {
+        "b": "b",
+        "text": "Quereinsteiger sollten genauso bezahlt werden wie regulär ausgebildete Lehrkräfte."
+      },
+      {
+        "b": "c",
+        "text": "Ein reduziertes Pensum am Anfang würde verhindern, dass so viele wieder aufgeben."
+      },
+      {
+        "b": "d",
+        "text": "Der Aufwand eines vollständigen Lehramtsstudiums erscheint durch die Abkürzung fragwürdig."
+      },
+      {
+        "b": "e",
+        "text": "Der Seiteneinstieg sollte möglichst bald wieder abgeschafft werden."
+      },
+      {
+        "b": "f",
+        "text": "Die Befürchtung dauerhaft schlechterer Ergebnisse wird durch Forschungsbefunde relativiert."
+      },
+      {
+        "b": "g",
+        "text": "Trotz deutlich geringerer Einkünfte erlebt diese Person den Berufswechsel als sinnvoll."
+      },
+      {
+        "b": "h",
+        "text": "Zugewanderte Fachkräfte mit pädagogischem Abschluss haben es schwerer als Einheimische ohne einen solchen."
+      },
+      {
+        "b": "i",
+        "text": "Die Option eines späteren Berufswechsels wird als eine Art Sicherheitsnetz betrachtet."
+      },
+      {
+        "b": "j",
+        "text": "Die erziehungswissenschaftliche Qualifizierung müsste dem ersten Einsatz in der Schule vorausgehen."
+      }
+    ],
+    "loesungen": {
+      "1": "g",
+      "2": "d",
+      "3": "j",
+      "4": "h",
+      "5": "c",
+      "6": "i",
+      "7": "a",
+      "8": "f"
+    },
+    "erklaerungen": {
+      "1": "Frau Albrecht sagt, ihr „Gehalt ist um gut ein Drittel geschrumpft“, aber sie „weiß, warum ich das tue“. Das ist g. Nicht b: Sie vergleicht ihr Gehalt mit der Industrie, nicht mit anderen Lehrkräften.",
+      "2": "Jan fragt: „was ist meine Ausbildung dann eigentlich noch wert?“ Das ist d. Nicht e: Er versteht, dass die Schulen „kaum eine andere Wahl haben“.",
+      "3": "Professorin Kessler sagt: Die pädagogische Grundausbildung „muss vor dem ersten Unterrichtstag stehen“. Das ist j. Herr Roth will dagegen weniger Stunden während der Ausbildung (c).",
+      "4": "Grace sagt: „Ich bin ausgebildete Lehrerin und muss warten, er ist es nicht und darf sofort.“ Das ist h.",
+      "5": "Herr Roth sagt: „Wenn man ihnen anfangs deutlich weniger Unterrichtsstunden geben würde, könnten wir viele von ihnen halten.“ Das ist c.",
+      "6": "Erik findet es „entlastend“, dass er „notfalls“ an eine Schule wechseln könnte. Das ist i.",
+      "7": "Frau Aydin sagt: „Der Seiteneinstieg ist kein offenes Tor für alle“, sondern nur in bestimmten Fächern und Schulformen möglich. Das ist a.",
+      "8": "Herr Brandes berichtet aus einer Studie: Nach „drei bis vier Jahren“ sind die Unterschiede „weitgehend verschwunden“. Das ist f."
+    },
+    "distraktoren": {
+      "b": "Frau Albrecht spricht über ihr Gehalt, fordert aber keine gleiche Bezahlung.",
+      "e": "Jan ist frustriert, sagt aber, dass die Schulen in der Notlage keine andere Wahl haben. Niemand will den Seiteneinstieg abschaffen."
+    }
+  },
+  {
+    "id": "hv1_10",
+    "teil": "hv1",
+    "titel": "Geschlechtergerechte Sprache an der Hochschule",
+    "thema": "gleichberechtigung_diversitaet",
+    "bezug": false,
+    "pruefung": 3,
+    "niveau": "C1+",
+    "situation": "Sie hören Äußerungen von acht Personen aus dem Hochschulbereich zum Thema „Gendern an der Hochschule“.",
+    "sprecher": [
+      {
+        "nr": 1,
+        "name": "Annika, Studentin der Sprachwissenschaft",
+        "sp": "A",
+        "text": "Für mich ist das keine Geschmacksfrage, sondern eine empirische. Es gibt inzwischen eine ganze Reihe von Experimenten, in denen Versuchspersonen zum Beispiel gebeten werden, berühmte Musiker oder Politiker zu nennen. Wenn die Frage im generischen Maskulinum gestellt wird, nennen sie deutlich weniger Frauen, als wenn beide Formen genannt werden. Es gibt sogar Studien mit Kindern, die zeigen, dass sie sich bestimmte Berufe eher zutrauen, wenn diese in beiden Formen beschrieben werden. Sprache beeinflusst also offenbar, welche Bilder in unseren Köpfen entstehen. Natürlich kann man über die Methoden einzelner Studien streiten, das gehört zur Wissenschaft dazu. Aber die Tendenz ist ziemlich eindeutig, und die sollte man nicht einfach ignorieren."
+      },
+      {
+        "nr": 2,
+        "name": "Wolfgang Heller, Professor für Maschinenbau",
+        "sp": "B",
+        "text": "Damit kein Missverständnis entsteht: Ich habe überhaupt nichts dagegen, wenn jemand Studentinnen und Studenten sagt oder diese kleine Pause mitten im Wort spricht. Soll jeder machen, wie er möchte. Was mich stört, ist etwas anderes. Es kursieren an unserer Fakultät inzwischen Leitfäden, in denen steht, wie Lehrende in ihren Vorlesungen und Skripten zu formulieren haben. Und da hört es für mich auf. Ich bin seit fünfundzwanzig Jahren Hochschullehrer, und die Freiheit, meine Lehre selbst zu gestalten, ist ein hohes Gut, übrigens auch vom Grundgesetz geschützt. Wenn mir jemand vorschreiben will, wie ich zu sprechen habe, dann wehre ich mich dagegen, ganz egal, worum es inhaltlich geht."
+      },
+      {
+        "nr": 3,
+        "name": "Merve, Studentin der Informatik",
+        "sp": "C",
+        "text": "Ich bin in meinem Jahrgang eine von ganz wenigen Frauen, und ich sag mal so: Ob in der Mail vom Prüfungsamt ein Sternchen steht oder nicht, ist mir ziemlich egal. Was mir nicht egal ist: dass es in unserem Gebäude bis letztes Jahr keine einzige Damentoilette auf dem Stockwerk mit den Rechnerräumen gab. Dass es kaum Kinderbetreuung gibt, wenn Lehrveranstaltungen abends stattfinden. Dass Kommilitoninnen in Lerngruppen ständig unterbrochen werden. Da würde ich mir wünschen, dass dieselbe Energie, die in die Sprachdebatte fließt, in solche Dinge gesteckt wird. Ich bin nicht gegen das Gendern, wirklich nicht. Aber für mich hat es einfach keine Priorität, solange solche Probleme bestehen."
+      },
+      {
+        "nr": 4,
+        "name": "Dagmar Fink, Gleichstellungsbeauftragte der Hochschule",
+        "sp": "A",
+        "text": "Ich muss in diesen Tagen leider viel Zeit damit verbringen, Gerüchte richtigzustellen. Nein, an unserer Hochschule bekommt niemand Punktabzug in einer Hausarbeit, weil er nicht gendert. Und nein, es gibt auch keine Pflicht für Lehrende, in ihren Vorlesungen bestimmte Formen zu verwenden. Was es gibt, ist ein Leitfaden für die offizielle Kommunikation der Verwaltung, also für Formulare, Webseiten und Rundschreiben. Für alles andere ist er eine Empfehlung, mehr nicht. Das kann übrigens jeder auf unserer Webseite selbst nachlesen. Ich verstehe, dass manche bei dem Thema empfindlich reagieren. Aber die meisten Konflikte, mit denen ich zu tun habe, beruhen schlicht auf Missverständnissen und nicht auf echten Regeln."
+      },
+      {
+        "nr": 5,
+        "name": "Noah, Student der Soziologie",
+        "sp": "B",
+        "text": "Ich gebe zu, ich war am Anfang ziemlich genervt. Als im ersten Semester eine Dozentin konsequent mit dieser kurzen Sprechpause gegendert hat, fand ich das gekünstelt und irgendwie anstrengend, und ich habe mit Freunden auch ein paar Witze darüber gemacht. Aber dann passierte etwas Merkwürdiges. Nach ein paar Wochen ist es mir überhaupt nicht mehr aufgefallen. Und irgendwann habe ich gemerkt, dass ich in Referaten selbst automatisch beide Formen benutze, ohne darüber nachzudenken. Heute klingt es für mich eher seltsam, wenn jemand nur von Studenten spricht und alle meint. Ich glaube, vieles an der Aufregung ist einfach Gewohnheitssache. Sprache verändert sich eben, das hat sie immer getan."
+      },
+      {
+        "nr": 6,
+        "name": "Peter Lindner, Mitarbeiter der Hochschulkommunikation",
+        "sp": "C",
+        "text": "Wir haben in unserer Abteilung lange diskutiert, wie wir mit dem Thema umgehen. Sternchen, Doppelpunkt, großes I in der Wortmitte, all das hat Nachteile. Vorlesesoftware für blinde Menschen liest Sonderzeichen zum Teil laut vor, das ist dann kaum verständlich. Und in langen Texten leidet die Lesbarkeit. Wir haben uns deshalb entschieden, möglichst neutrale Begriffe zu verwenden, also Studierende, Lehrende, Beschäftigte, oder Formulierungen, die ganz ohne Personenbezeichnung auskommen. Das ist nicht immer elegant, zugegeben. Aber es ist ein Weg, mit dem die meisten leben können, und es ist barrierefrei. Ein perfekter Kompromiss ist es nicht, aber ein brauchbarer, und darauf kommt es im Alltag an."
+      },
+      {
+        "nr": 7,
+        "name": "Ana, Masterstudentin aus Brasilien",
+        "sp": "A",
+        "text": "Als Deutschlernerin war das für mich am Anfang ehrlich gesagt eine echte Herausforderung. Im Deutschkurs habe ich mühsam gelernt: der Student, die Studentin, die Studenten. Und dann sitze ich in der ersten Vorlesung, die Professorin macht mitten im Wort eine kleine Pause, und ich dachte, sie hat sich versprochen. In Texten sah ich dann Doppelpunkte und Sternchen mitten im Wort, und ich wusste nicht, wie man das ausspricht oder wie die Artikel dann funktionieren. Inzwischen verstehe ich das System, aber beim Schreiben bin ich immer noch unsicher. Ich finde das Anliegen richtig, in Brasilien gibt es übrigens eine ähnliche Debatte. Aber für Menschen, die die Sprache gerade erst lernen, ist das eine zusätzliche Schwierigkeit."
+      },
+      {
+        "nr": 8,
+        "name": "Ulrich Sommer, Dozent für Rechtswissenschaft",
+        "sp": "B",
+        "text": "Was mich an dieser Debatte wirklich beunruhigt, ist weniger die Frage selbst als der Ton, in dem sie geführt wird. Auf der einen Seite wird jemandem, der nicht gendert, schnell unterstellt, er sei rückständig oder frauenfeindlich. Auf der anderen Seite wird so getan, als wäre die deutsche Sprache in Gefahr, nur weil manche eine andere Form bevorzugen. Beides halte ich für maßlos übertrieben. In meinem Seminar habe ich Studierende, die gendern, und andere, die es nicht tun, und das funktioniert wunderbar, solange man sich gegenseitig zugesteht, dass man es unterschiedlich sehen kann. Ich würde mir wünschen, dass wir alle ein bisschen weniger aufgeregt miteinander umgehen."
+      }
+    ],
+    "aussagen": [
+      {
+        "b": "a",
+        "text": "Hier wird eine pragmatische Lösung vorgestellt, die möglichst viele Bedürfnisse berücksichtigt."
+      },
+      {
+        "b": "b",
+        "text": "Handfeste Verbesserungen im Hochschulalltag wären wichtiger als sprachliche Fragen."
+      },
+      {
+        "b": "c",
+        "text": "Hier wird an beide Lager appelliert, die Frage mit mehr Gelassenheit und Respekt zu behandeln."
+      },
+      {
+        "b": "d",
+        "text": "Prüfungsarbeiten ohne geschlechtergerechte Sprache sollten schlechter bewertet werden."
+      },
+      {
+        "b": "e",
+        "text": "Zur Begründung wird angeführt, dass Formulierungen die Vorstellungen der Menschen nachweislich prägen."
+      },
+      {
+        "b": "f",
+        "text": "Was zunächst als störend empfunden wurde, ist inzwischen selbstverständlich geworden."
+      },
+      {
+        "b": "g",
+        "text": "Diese Person tritt dem Eindruck entgegen, es gebe für Lehrende und Studierende verpflichtende Sprachregeln."
+      },
+      {
+        "b": "h",
+        "text": "Für Menschen, die Deutsch als Fremdsprache erwerben, bedeuten die neuen Formen eine weitere Hürde."
+      },
+      {
+        "b": "i",
+        "text": "Hier wird jede Vorgabe abgelehnt, die in die selbstbestimmte Gestaltung der Lehre eingreift."
+      },
+      {
+        "b": "j",
+        "text": "Vor allem ältere Lehrende lehnen geschlechtergerechte Formulierungen grundsätzlich ab."
+      }
+    ],
+    "loesungen": {
+      "1": "e",
+      "2": "i",
+      "3": "b",
+      "4": "g",
+      "5": "f",
+      "6": "a",
+      "7": "h",
+      "8": "c"
+    },
+    "erklaerungen": {
+      "1": "Annika nennt „Experimente“ und „Studien“ und sagt: „Sprache beeinflusst also offenbar, welche Bilder in unseren Köpfen entstehen.“ Das ist e.",
+      "2": "Professor Heller hat „überhaupt nichts dagegen“, wenn andere gendern; ihn stören die „Leitfäden“, weil sie seine Freiheit in der Lehre einschränken. Das ist i. Nicht j: Er lehnt das Gendern selbst nicht ab.",
+      "3": "Merve ist das Sternchen „ziemlich egal“; wichtiger sind ihr Toiletten, Kinderbetreuung und Respekt in Lerngruppen. Das ist b.",
+      "4": "Frau Fink sagt: „niemand bekommt Punktabzug“ und „es gibt auch keine Pflicht für Lehrende“. Das ist g. Sie widerspricht damit auch Aussage d.",
+      "5": "Noah war „am Anfang ziemlich genervt“, heute benutzt er beide Formen „automatisch“. Das ist f. Ana ist dagegen beim Schreiben „immer noch unsicher“.",
+      "6": "Herr Lindner nutzt „neutrale Begriffe“ als Lösung, „mit dem die meisten leben können“, und die auch „barrierefrei“ ist. Das ist a.",
+      "7": "Ana sagt: „für Menschen, die die Sprache gerade erst lernen, ist das eine zusätzliche Schwierigkeit“. Das ist h.",
+      "8": "Herr Sommer kritisiert Übertreibungen „auf der einen Seite“ und „auf der anderen Seite“ und wünscht sich, dass „wir alle ein bisschen weniger aufgeregt“ sind. Das ist c."
+    },
+    "distraktoren": {
+      "d": "Frau Fink sagt das Gegenteil: Niemand bekommt Punktabzug.",
+      "j": "Professor Heller ist älter und kritisch, aber er hat „überhaupt nichts dagegen“, wenn andere gendern; er lehnt nur Vorschriften ab."
+    }
+  }
+]

@@ -1,0 +1,7088 @@
+[
+  {
+    "id": "w0201",
+    "wort": "das Anerkennungsverfahren",
+    "wortart": "Nomen",
+    "formen": "die Anerkennungsverfahren",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Ein offizielles Verfahren, in dem eine Behörde prüft, ob ein ausländischer Abschluss einem deutschen Abschluss entspricht.",
+    "synonyme": [
+      "die Gleichwertigkeitsprüfung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "anerkennen",
+      "die Anerkennung",
+      "anerkannt"
+    ],
+    "kollokationen": [
+      "ein Anerkennungsverfahren einleiten",
+      "das Anerkennungsverfahren durchlaufen"
+    ],
+    "beispiel": "Für das Anerkennungsverfahren muss ich beglaubigte Kopien meiner philippinischen Zeugnisse einreichen.",
+    "luecke": {
+      "satz": "Das ___ für ausländische Lehramtsabschlüsse dauert in NRW oft mehrere Monate.",
+      "loesung": "Anerkennungsverfahren",
+      "optionen": [
+        "Anerkennungsverfahren",
+        "Bewerbungsgespräch",
+        "Gerichtsverfahren",
+        "Aufnahmegespräch"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0202",
+    "wort": "die Zeugnisbewertung",
+    "wortart": "Nomen",
+    "formen": "die Zeugnisbewertungen",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Ein offizielles Dokument, das einen ausländischen Hochschulabschluss beschreibt und ihn mit einem deutschen Abschluss vergleicht.",
+    "synonyme": [
+      "die Abschlussbewertung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "bewerten",
+      "die Bewertung",
+      "das Zeugnis"
+    ],
+    "kollokationen": [
+      "eine Zeugnisbewertung beantragen",
+      "eine Zeugnisbewertung der ZAB"
+    ],
+    "beispiel": "Für Stellen außerhalb der Schule reicht oft eine Zeugnisbewertung der Zentralstelle für ausländisches Bildungswesen (ZAB).",
+    "luecke": {
+      "satz": "Bei nicht reglementierten Berufen hilft eine ___, damit Arbeitgeber einen ausländischen Abschluss besser einschätzen können.",
+      "loesung": "Zeugnisbewertung",
+      "optionen": [
+        "Zeugnisbewertung",
+        "Zeugenaussage",
+        "Notenkonferenz",
+        "Zeitungsanzeige"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0203",
+    "wort": "der Integrationskurs",
+    "wortart": "Nomen",
+    "formen": "die Integrationskurse",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Ein staatlich geförderter Kurs für Zugewanderte mit Deutschunterricht und einem Orientierungskurs über Recht, Geschichte und Kultur in Deutschland.",
+    "synonyme": [
+      "der Sprach- und Orientierungskurs"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Integration",
+      "integrieren",
+      "sich integrieren"
+    ],
+    "kollokationen": [
+      "einen Integrationskurs besuchen",
+      "zur Teilnahme am Integrationskurs verpflichtet sein"
+    ],
+    "beispiel": "Im Integrationskurs lernte sie nicht nur Deutsch, sondern auch viel über das politische System in Deutschland.",
+    "luecke": {
+      "satz": "Der ___ endet mit dem Test „Leben in Deutschland“ und einer Sprachprüfung.",
+      "loesung": "Integrationskurs",
+      "optionen": [
+        "Wechselkurs",
+        "Integrationskurs",
+        "Börsenkurs",
+        "Kollisionskurs"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0204",
+    "wort": "der Anpassungslehrgang",
+    "wortart": "Nomen",
+    "formen": "die Anpassungslehrgänge",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Eine betreute Praxisphase, z. B. an einer Schule, mit der ausländische Fachkräfte Unterschiede zur deutschen Ausbildung ausgleichen.",
+    "synonyme": [
+      "die Anpassungsqualifizierung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "sich anpassen",
+      "die Anpassung",
+      "der Lehrgang"
+    ],
+    "kollokationen": [
+      "einen Anpassungslehrgang absolvieren",
+      "den Anpassungslehrgang an einer Schule ableisten"
+    ],
+    "beispiel": "Während des Anpassungslehrgangs unterrichtet sie Biologie an einem Gymnasium in Köln und wird von einer Mentorin begleitet.",
+    "luecke": {
+      "satz": "Statt der Prüfung entschied sie sich für einen zwölfmonatigen ___ an einer Gesamtschule.",
+      "loesung": "Anpassungslehrgang",
+      "optionen": [
+        "Sprachurlaub",
+        "Anpassungslehrgang",
+        "Elternabend",
+        "Schulausflug"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0205",
+    "wort": "die Bleibeperspektive",
+    "wortart": "Nomen",
+    "formen": "die Bleibeperspektiven",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Die Aussicht, ob eine zugewanderte oder geflüchtete Person dauerhaft im Land bleiben darf.",
+    "synonyme": [
+      "die Aufenthaltsperspektive"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "bleiben",
+      "die Perspektive"
+    ],
+    "kollokationen": [
+      "eine gute Bleibeperspektive haben",
+      "Menschen mit unsicherer Bleibeperspektive"
+    ],
+    "beispiel": "Geflüchtete mit guter Bleibeperspektive können oft schon früh an einem Integrationskurs teilnehmen.",
+    "luecke": {
+      "satz": "Wer nur eine unsichere ___ hat, findet schwerer eine Wohnung und einen Ausbildungsplatz.",
+      "loesung": "Bleibeperspektive",
+      "optionen": [
+        "Froschperspektive",
+        "Bleistiftspitze",
+        "Bleibeperspektive",
+        "Zentralperspektive"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0206",
+    "wort": "die Zuwanderung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Menschen kommen aus einem anderen Land, um dauerhaft hier zu leben.",
+    "synonyme": [
+      "die Einwanderung",
+      "die Immigration"
+    ],
+    "antonyme": [
+      "die Auswanderung",
+      "die Abwanderung"
+    ],
+    "wortfamilie": [
+      "zuwandern",
+      "der Zuwanderer",
+      "zugewandert"
+    ],
+    "kollokationen": [
+      "die Zuwanderung von Fachkräften",
+      "Zuwanderung steuern"
+    ],
+    "beispiel": "Ohne Zuwanderung würde die Zahl der Erwerbstätigen in Deutschland deutlich sinken.",
+    "luecke": {
+      "satz": "Das Fachkräfteeinwanderungsgesetz soll die ___ qualifizierter Arbeitskräfte nach Deutschland erleichtern.",
+      "loesung": "Zuwanderung",
+      "optionen": [
+        "Auswanderung",
+        "Abschiebung",
+        "Verwandlung",
+        "Zuwanderung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0207",
+    "wort": "der Aufenthaltstitel",
+    "wortart": "Nomen",
+    "formen": "die Aufenthaltstitel",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Eine offizielle Erlaubnis, sich in einem Land aufzuhalten, z. B. ein Visum oder eine Aufenthaltserlaubnis.",
+    "synonyme": [
+      "die Aufenthaltserlaubnis",
+      "die Aufenthaltsgenehmigung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "sich aufhalten",
+      "der Aufenthalt"
+    ],
+    "kollokationen": [
+      "einen Aufenthaltstitel beantragen",
+      "den Aufenthaltstitel verlängern"
+    ],
+    "beispiel": "Ein Aufenthaltstitel kann befristet oder unbefristet sein.",
+    "luecke": {
+      "satz": "Bei der Ausländerbehörde muss man vor Ablauf rechtzeitig den ___ verlängern lassen.",
+      "loesung": "Aufenthaltstitel",
+      "optionen": [
+        "Aufenthaltstitel",
+        "Doktortitel",
+        "Buchtitel",
+        "Zeitungstitel"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0208",
+    "wort": "die Mehrsprachigkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Eine Person oder Gesellschaft benutzt im Alltag mehrere Sprachen.",
+    "synonyme": [
+      "die Vielsprachigkeit"
+    ],
+    "antonyme": [
+      "die Einsprachigkeit"
+    ],
+    "wortfamilie": [
+      "mehrsprachig",
+      "die Sprache"
+    ],
+    "kollokationen": [
+      "Mehrsprachigkeit fördern",
+      "individuelle Mehrsprachigkeit"
+    ],
+    "beispiel": "Auf den Philippinen ist Mehrsprachigkeit normal: Viele Kinder wachsen mit einer Regionalsprache, Filipino und Englisch auf.",
+    "luecke": {
+      "satz": "Schulen sollten die ___ ihrer Schülerinnen und Schüler als Ressource sehen, nicht als Problem.",
+      "loesung": "Mehrsprachigkeit",
+      "optionen": [
+        "Mehrheit",
+        "Mehrdeutigkeit",
+        "Mehrsprachigkeit",
+        "Mehrarbeit"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0209",
+    "wort": "die Herkunftssprache",
+    "wortart": "Nomen",
+    "formen": "die Herkunftssprachen",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Die Sprache, die eine Person in ihrer Familie oder im Herkunftsland zuerst gelernt hat.",
+    "synonyme": [
+      "die Erstsprache",
+      "die Familiensprache"
+    ],
+    "antonyme": [
+      "die Zweitsprache"
+    ],
+    "wortfamilie": [
+      "die Herkunft",
+      "herkommen"
+    ],
+    "kollokationen": [
+      "die Herkunftssprache pflegen",
+      "Unterricht in der Herkunftssprache"
+    ],
+    "beispiel": "Kinder, die ihre Herkunftssprache gut beherrschen, lernen oft auch eine Zweitsprache leichter.",
+    "luecke": {
+      "satz": "Viele Eltern möchten, dass ihre Kinder neben Deutsch auch die ___ der Familie gut beherrschen.",
+      "loesung": "Herkunftssprache",
+      "optionen": [
+        "Fachsprache",
+        "Herkunftssprache",
+        "Programmiersprache",
+        "Amtssprache"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0210",
+    "wort": "die Zugehörigkeit",
+    "wortart": "Nomen",
+    "formen": "die Zugehörigkeiten",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Das Gefühl oder die Tatsache, zu einer Gruppe, einem Ort oder einer Gesellschaft zu gehören.",
+    "synonyme": [
+      "die Verbundenheit",
+      "die Mitgliedschaft"
+    ],
+    "antonyme": [
+      "die Fremdheit"
+    ],
+    "wortfamilie": [
+      "zugehörig",
+      "gehören",
+      "dazugehören"
+    ],
+    "kollokationen": [
+      "ein Gefühl der Zugehörigkeit",
+      "die Zugehörigkeit zu einer Gruppe"
+    ],
+    "beispiel": "Viele Kinder aus Zuwandererfamilien erleben eine doppelte Zugehörigkeit: zum Herkunftsland der Eltern und zu Deutschland.",
+    "luecke": {
+      "satz": "Vereine und Nachbarschaftsprojekte können bei Neuankömmlingen das Gefühl der ___ stärken.",
+      "loesung": "Zugehörigkeit",
+      "optionen": [
+        "Zuständigkeit",
+        "Zahlungsfähigkeit",
+        "Zugehörigkeit",
+        "Zulässigkeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0211",
+    "wort": "die Ausgrenzung",
+    "wortart": "Nomen",
+    "formen": "die Ausgrenzungen",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Man schließt Menschen bewusst aus einer Gruppe oder aus der Gesellschaft aus.",
+    "synonyme": [
+      "der Ausschluss",
+      "die Marginalisierung"
+    ],
+    "antonyme": [
+      "die Einbeziehung",
+      "die Inklusion"
+    ],
+    "wortfamilie": [
+      "ausgrenzen",
+      "die Grenze"
+    ],
+    "kollokationen": [
+      "soziale Ausgrenzung",
+      "Ausgrenzung erfahren"
+    ],
+    "beispiel": "Wer kaum Kontakt zu Nachbarn und Kollegen hat, erlebt Ausgrenzung oft besonders stark.",
+    "luecke": {
+      "satz": "Viele Zugewanderte berichten von ___ bei der Wohnungssuche, etwa wenn sie wegen ihres Namens keine Antwort bekommen.",
+      "loesung": "Ausgrenzung",
+      "optionen": [
+        "Ausgrenzung",
+        "Ausstattung",
+        "Ausbildung",
+        "Ausdauer"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0212",
+    "wort": "der Zusammenhalt",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Menschen in einer Gruppe oder Gesellschaft fühlen sich verbunden und helfen einander.",
+    "synonyme": [
+      "die Solidarität",
+      "die Verbundenheit"
+    ],
+    "antonyme": [
+      "die Spaltung"
+    ],
+    "wortfamilie": [
+      "zusammenhalten",
+      "zusammen"
+    ],
+    "kollokationen": [
+      "der gesellschaftliche Zusammenhalt",
+      "den Zusammenhalt stärken"
+    ],
+    "beispiel": "Gemeinsame Feste im Viertel können den Zusammenhalt zwischen alten und neuen Bewohnern stärken.",
+    "luecke": {
+      "satz": "Eine zunehmende Polarisierung der Debatte über Migration gefährdet den gesellschaftlichen ___.",
+      "loesung": "Zusammenhalt",
+      "optionen": [
+        "Zusammenbruch",
+        "Zusammenhalt",
+        "Zusammenstoß",
+        "Zusammenhang"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0213",
+    "wort": "die Fluchtursache",
+    "wortart": "Nomen",
+    "formen": "die Fluchtursachen",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Ein Grund, warum Menschen ihre Heimat verlassen müssen, z. B. Krieg, Verfolgung oder Armut.",
+    "synonyme": [
+      "der Fluchtgrund"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "fliehen",
+      "die Flucht",
+      "der Flüchtling"
+    ],
+    "kollokationen": [
+      "Fluchtursachen bekämpfen",
+      "Fluchtursachen beseitigen"
+    ],
+    "beispiel": "Entwicklungspolitik soll langfristig Fluchtursachen wie Armut und Gewalt verringern.",
+    "luecke": {
+      "satz": "Die Konferenz diskutierte, wie man ___ in den Herkunftsländern wirksam bekämpfen kann.",
+      "loesung": "Fluchtursachen",
+      "optionen": [
+        "Fluchtwege",
+        "Fluchtpunkte",
+        "Urlaubsziele",
+        "Fluchtursachen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0214",
+    "wort": "die Diaspora",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Eine Gruppe von Menschen, die außerhalb ihres Herkunftslandes lebt, aber mit ihrer Herkunftskultur verbunden bleibt.",
+    "synonyme": [
+      "die Auslandsgemeinde"
+    ],
+    "antonyme": [],
+    "wortfamilie": [],
+    "kollokationen": [
+      "in der Diaspora leben",
+      "die philippinische Diaspora"
+    ],
+    "beispiel": "Die philippinische Diaspora in Deutschland organisiert viele Kultur- und Kirchenfeste.",
+    "luecke": {
+      "satz": "Millionen Filipinos leben in der ___ und halten über soziale Medien engen Kontakt zu ihren Familien.",
+      "loesung": "Diaspora",
+      "optionen": [
+        "Diagnose",
+        "Diaspora",
+        "Diktatur",
+        "Dialektik"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0215",
+    "wort": "die Rücküberweisung",
+    "wortart": "Nomen",
+    "formen": "die Rücküberweisungen",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Geld, das Migrantinnen und Migranten an ihre Familien im Herkunftsland schicken.",
+    "synonyme": [
+      "der Geldtransfer in die Heimat"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "überweisen",
+      "die Überweisung"
+    ],
+    "kollokationen": [
+      "Rücküberweisungen in die Heimat",
+      "von Rücküberweisungen abhängen"
+    ],
+    "beispiel": "Rücküberweisungen von Filipinos im Ausland machen einen bedeutenden Teil der philippinischen Wirtschaftsleistung aus.",
+    "luecke": {
+      "satz": "Viele Familien auf den Philippinen finanzieren mit ___ aus dem Ausland das Studium ihrer Kinder.",
+      "loesung": "Rücküberweisungen",
+      "optionen": [
+        "Rückfahrkarten",
+        "Rückschlägen",
+        "Rücküberweisungen",
+        "Rückblicken"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0216",
+    "wort": "die Willkommenskultur",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Eine offene, freundliche Haltung einer Gesellschaft gegenüber Menschen, die neu ins Land kommen.",
+    "synonyme": [
+      "die Gastfreundschaft",
+      "die Offenheit"
+    ],
+    "antonyme": [
+      "die Abschottung"
+    ],
+    "wortfamilie": [
+      "willkommen",
+      "die Kultur"
+    ],
+    "kollokationen": [
+      "eine Willkommenskultur etablieren",
+      "gelebte Willkommenskultur"
+    ],
+    "beispiel": "Zu einer echten Willkommenskultur gehört auch, dass Behörden mehrsprachig informieren.",
+    "luecke": {
+      "satz": "Wenn Deutschland ausländische Fachkräfte gewinnen will, braucht es eine ___, die über schöne Worte hinausgeht.",
+      "loesung": "Willkommenskultur",
+      "optionen": [
+        "Esskultur",
+        "Monokultur",
+        "Bakterienkultur",
+        "Willkommenskultur"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0217",
+    "wort": "der Spracherwerb",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Der Prozess, in dem man eine Sprache lernt oder (als Kind) natürlich aufnimmt.",
+    "synonyme": [
+      "das Sprachenlernen",
+      "die Sprachaneignung"
+    ],
+    "antonyme": [
+      "der Sprachverlust"
+    ],
+    "wortfamilie": [
+      "erwerben",
+      "der Erwerb"
+    ],
+    "kollokationen": [
+      "der ungesteuerte Spracherwerb",
+      "den Spracherwerb fördern"
+    ],
+    "beispiel": "Der Spracherwerb verläuft bei Erwachsenen anders als bei kleinen Kindern.",
+    "luecke": {
+      "satz": "Kinder, die von Geburt an mit zwei Sprachen aufwachsen, durchlaufen einen doppelten ___.",
+      "loesung": "Spracherwerb",
+      "optionen": [
+        "Spracherwerb",
+        "Sprachfehler",
+        "Sprachgebrauch",
+        "Sprachraum"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0218",
+    "wort": "die Segregation",
+    "wortart": "Nomen",
+    "formen": "die Segregationen",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Bevölkerungsgruppen leben räumlich oder sozial voneinander getrennt, z. B. in verschiedenen Stadtteilen oder Schulen.",
+    "synonyme": [
+      "die Absonderung",
+      "die Trennung"
+    ],
+    "antonyme": [
+      "die Durchmischung"
+    ],
+    "wortfamilie": [
+      "segregiert"
+    ],
+    "kollokationen": [
+      "räumliche Segregation",
+      "Segregation verstärken"
+    ],
+    "beispiel": "Wenn Zugewanderte nur in bestimmten Stadtteilen Wohnungen finden, nimmt die Segregation zu.",
+    "luecke": {
+      "satz": "Studien zeigen, dass ___ an Schulen die Bildungschancen von Kindern aus Zuwandererfamilien verschlechtert.",
+      "loesung": "Segregation",
+      "optionen": [
+        "Sekretion",
+        "Sensation",
+        "Segregation",
+        "Subvention"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0219",
+    "wort": "die Zuständigkeit",
+    "wortart": "Nomen",
+    "formen": "die Zuständigkeiten",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Das Recht und die Pflicht einer Person oder Behörde, sich um eine bestimmte Sache zu kümmern.",
+    "synonyme": [
+      "die Kompetenz",
+      "die Verantwortlichkeit"
+    ],
+    "antonyme": [
+      "die Unzuständigkeit"
+    ],
+    "wortfamilie": [
+      "zuständig",
+      "zustehen"
+    ],
+    "kollokationen": [
+      "in die Zuständigkeit fallen",
+      "die Zuständigkeit klären"
+    ],
+    "beispiel": "Die Anerkennung von Lehramtsabschlüssen fällt in NRW in die Zuständigkeit einer Bezirksregierung.",
+    "luecke": {
+      "satz": "Da Bildung Ländersache ist, liegt die ___ für die Anerkennung von Lehrkräften bei den Bundesländern.",
+      "loesung": "Zuständigkeit",
+      "optionen": [
+        "Zuverlässigkeit",
+        "Zufriedenheit",
+        "Zugehörigkeit",
+        "Zuständigkeit"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0220",
+    "wort": "die Staatsangehörigkeit",
+    "wortart": "Nomen",
+    "formen": "die Staatsangehörigkeiten",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Die rechtliche Zugehörigkeit einer Person zu einem Staat.",
+    "synonyme": [
+      "die Staatsbürgerschaft",
+      "die Nationalität"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "angehören",
+      "der Staat",
+      "der/die Angehörige"
+    ],
+    "kollokationen": [
+      "die doppelte Staatsangehörigkeit",
+      "die Staatsangehörigkeit annehmen"
+    ],
+    "beispiel": "Seit der Reform von 2024 erlaubt Deutschland grundsätzlich die doppelte Staatsangehörigkeit.",
+    "luecke": {
+      "satz": "Nach der Einbürgerung besitzt sie neben der philippinischen auch die deutsche ___.",
+      "loesung": "Staatsangehörigkeit",
+      "optionen": [
+        "Staatsangehörigkeit",
+        "Staatsverschuldung",
+        "Staatsgrenze",
+        "Staatsanwaltschaft"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0221",
+    "wort": "anerkennen",
+    "wortart": "Verb",
+    "formen": "erkennt an, erkannte an, hat anerkannt",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Offiziell bestätigen, dass etwas gültig ist oder einen bestimmten Wert hat.",
+    "synonyme": [
+      "bestätigen",
+      "akzeptieren"
+    ],
+    "antonyme": [
+      "ablehnen",
+      "aberkennen"
+    ],
+    "wortfamilie": [
+      "die Anerkennung",
+      "anerkannt",
+      "das Anerkennungsverfahren"
+    ],
+    "kollokationen": [
+      "einen Abschluss anerkennen",
+      "als gleichwertig anerkennen"
+    ],
+    "beispiel": "Ihr Bachelor in Biologie wurde als Teil eines Lehramtsstudiums anerkannt.",
+    "luecke": {
+      "satz": "Erst wenn das Land ihren Abschluss ___ hat, darf sie dauerhaft als Lehrerin arbeiten.",
+      "loesung": "anerkannt",
+      "optionen": [
+        "erkannt",
+        "anerkannt",
+        "angemeldet",
+        "bekannt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0222",
+    "wort": "beantragen",
+    "wortart": "Verb",
+    "formen": "beantragt, beantragte, hat beantragt",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Bei einer Behörde schriftlich um etwas bitten, z. B. um eine Erlaubnis oder um Geld.",
+    "synonyme": [
+      "einen Antrag stellen",
+      "ersuchen um"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Antrag",
+      "der Antragsteller",
+      "antragsberechtigt"
+    ],
+    "kollokationen": [
+      "ein Visum beantragen",
+      "die Anerkennung beantragen"
+    ],
+    "beispiel": "Wer länger als drei Monate in Deutschland studieren möchte, muss in der Regel ein Visum beantragen.",
+    "luecke": {
+      "satz": "Er hat bei der Ausländerbehörde die Verlängerung seines Visums ___.",
+      "loesung": "beantragt",
+      "optionen": [
+        "beantwortet",
+        "beauftragt",
+        "beobachtet",
+        "beantragt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0223",
+    "wort": "einreichen",
+    "wortart": "Verb",
+    "formen": "reicht ein, reichte ein, hat eingereicht",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Dokumente offiziell an eine Stelle geben oder schicken.",
+    "synonyme": [
+      "vorlegen",
+      "abgeben"
+    ],
+    "antonyme": [
+      "zurückziehen"
+    ],
+    "wortfamilie": [
+      "die Einreichung",
+      "die Einreichungsfrist"
+    ],
+    "kollokationen": [
+      "Unterlagen einreichen",
+      "fristgerecht einreichen"
+    ],
+    "beispiel": "Zusammen mit dem Antrag muss man Übersetzungen aller Zeugnisse einreichen.",
+    "luecke": {
+      "satz": "Bitte ___ Sie Ihre Unterlagen bis spätestens 30. Juni bei der zuständigen Stelle ein.",
+      "loesung": "reichen",
+      "optionen": [
+        "richten",
+        "weisen",
+        "reichen",
+        "führen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0224",
+    "wort": "vorlegen",
+    "wortart": "Verb",
+    "formen": "legt vor, legte vor, hat vorgelegt",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Ein Dokument offiziell zeigen oder abgeben, damit jemand es prüfen kann.",
+    "synonyme": [
+      "einreichen",
+      "präsentieren"
+    ],
+    "antonyme": [
+      "zurückhalten"
+    ],
+    "wortfamilie": [
+      "die Vorlage",
+      "legen"
+    ],
+    "kollokationen": [
+      "Nachweise vorlegen",
+      "ein Zeugnis im Original vorlegen"
+    ],
+    "beispiel": "Bei der Bezirksregierung musste sie ihre Originalzeugnisse aus Manila vorlegen.",
+    "luecke": {
+      "satz": "Bei der Einschreibung muss man das Abiturzeugnis im Original ___.",
+      "loesung": "vorlegen",
+      "optionen": [
+        "vorlesen",
+        "vorlegen",
+        "vorstellen",
+        "vorziehen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0225",
+    "wort": "sich zurechtfinden in + D",
+    "wortart": "Verb",
+    "formen": "findet sich zurecht, fand sich zurecht, hat sich zurechtgefunden",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Sich an einem neuen Ort oder in einer neuen Situation orientieren und gut klarkommen.",
+    "synonyme": [
+      "sich orientieren",
+      "klarkommen"
+    ],
+    "antonyme": [
+      "sich verirren"
+    ],
+    "wortfamilie": [
+      "zurecht",
+      "finden"
+    ],
+    "kollokationen": [
+      "sich im Alltag zurechtfinden",
+      "sich schnell zurechtfinden"
+    ],
+    "beispiel": "Neue Studierende finden sich auf dem großen Campus anfangs oft nur schwer zurecht.",
+    "luecke": {
+      "satz": "Ein Mentoringprogramm hilft Erstsemestern, sich an der Universität schneller ___.",
+      "loesung": "zurechtzufinden",
+      "optionen": [
+        "zurückzufinden",
+        "zurechtzufinden",
+        "zusammenzufinden",
+        "abzufinden"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0226",
+    "wort": "sich anpassen an + A",
+    "wortart": "Verb",
+    "formen": "passt sich an, passte sich an, hat sich angepasst",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Sein Verhalten so ändern, dass es zu neuen Bedingungen passt.",
+    "synonyme": [
+      "sich einstellen auf",
+      "sich angleichen"
+    ],
+    "antonyme": [
+      "sich widersetzen"
+    ],
+    "wortfamilie": [
+      "die Anpassung",
+      "anpassungsfähig",
+      "angepasst"
+    ],
+    "kollokationen": [
+      "sich an neue Umstände anpassen",
+      "sich schnell anpassen"
+    ],
+    "beispiel": "Integration bedeutet nicht, dass sich nur die Zugewanderten an die Mehrheit anpassen müssen.",
+    "luecke": {
+      "satz": "Viele Zugewanderte passen sich schnell ___ die Gewohnheiten ihrer neuen Umgebung an.",
+      "loesung": "an",
+      "optionen": [
+        "auf",
+        "in",
+        "an",
+        "mit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0227",
+    "wort": "benachteiligen",
+    "wortart": "Verb",
+    "formen": "benachteiligt, benachteiligte, hat benachteiligt",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Jemanden schlechter behandeln als andere.",
+    "synonyme": [
+      "diskriminieren",
+      "zurücksetzen"
+    ],
+    "antonyme": [
+      "bevorzugen",
+      "begünstigen"
+    ],
+    "wortfamilie": [
+      "der Nachteil",
+      "die Benachteiligung",
+      "benachteiligt"
+    ],
+    "kollokationen": [
+      "strukturell benachteiligt sein",
+      "jemanden aufgrund seiner Herkunft benachteiligen"
+    ],
+    "beispiel": "Studien zeigen, dass Bewerber mit ausländisch klingendem Namen auf dem Wohnungsmarkt benachteiligt werden.",
+    "luecke": {
+      "satz": "Wer wegen seiner Herkunft bei der Jobsuche ___ wird, kann sich an die Antidiskriminierungsstelle wenden.",
+      "loesung": "benachteiligt",
+      "optionen": [
+        "bevorzugt",
+        "beteiligt",
+        "berücksichtigt",
+        "benachteiligt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0228",
+    "wort": "abschieben",
+    "wortart": "Verb",
+    "formen": "schiebt ab, schob ab, hat abgeschoben",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Eine Person gegen ihren Willen in ihr Herkunftsland oder ein anderes Land zurückbringen, weil sie kein Aufenthaltsrecht hat.",
+    "synonyme": [
+      "ausweisen",
+      "zurückführen"
+    ],
+    "antonyme": [
+      "aufnehmen",
+      "dulden"
+    ],
+    "wortfamilie": [
+      "die Abschiebung",
+      "der Abschiebestopp"
+    ],
+    "kollokationen": [
+      "in das Herkunftsland abschieben",
+      "von Abschiebung bedroht sein"
+    ],
+    "beispiel": "Menschen ohne gültigen Aufenthaltstitel können abgeschoben werden.",
+    "luecke": {
+      "satz": "Der abgelehnte Asylbewerber wurde nach Ablauf der Ausreisefrist ___.",
+      "loesung": "abgeschoben",
+      "optionen": [
+        "aufgeschoben",
+        "abgeschoben",
+        "verschoben",
+        "angeschoben"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0229",
+    "wort": "sich eingliedern in + A",
+    "wortart": "Verb",
+    "formen": "gliedert sich ein, gliederte sich ein, hat sich eingegliedert",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Ein Teil eines größeren Ganzen werden, z. B. einer Gesellschaft, eines Teams oder des Arbeitsmarkts.",
+    "synonyme": [
+      "sich integrieren"
+    ],
+    "antonyme": [
+      "sich absondern"
+    ],
+    "wortfamilie": [
+      "die Eingliederung",
+      "gliedern",
+      "das Glied"
+    ],
+    "kollokationen": [
+      "sich in den Arbeitsmarkt eingliedern",
+      "die berufliche Eingliederung"
+    ],
+    "beispiel": "Sprachkurse helfen Zugewanderten, sich schneller in den Arbeitsmarkt einzugliedern.",
+    "luecke": {
+      "satz": "Wer früh Kontakte knüpft, kann sich leichter in ein neues Team ___.",
+      "loesung": "eingliedern",
+      "optionen": [
+        "einbilden",
+        "eingraben",
+        "eingießen",
+        "eingliedern"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0230",
+    "wort": "sich verständigen mit + D",
+    "wortart": "Verb",
+    "formen": "verständigt sich, verständigte sich, hat sich verständigt",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Sich so ausdrücken, dass andere einen verstehen; auch: sich mit jemandem einigen.",
+    "synonyme": [
+      "kommunizieren",
+      "sich einigen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Verständigung",
+      "verständlich",
+      "verstehen"
+    ],
+    "kollokationen": [
+      "sich auf Englisch verständigen",
+      "sich auf einen Kompromiss verständigen"
+    ],
+    "beispiel": "Die Teilnehmenden aus zwölf Ländern verständigten sich auf Englisch.",
+    "luecke": {
+      "satz": "Beim Arzttermin konnte er sich nur mithilfe einer Dolmetscherin mit der Ärztin ___.",
+      "loesung": "verständigen",
+      "optionen": [
+        "verständlich",
+        "verständigen",
+        "verständnisvoll",
+        "vereinbaren"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0231",
+    "wort": "erteilen",
+    "wortart": "Verb",
+    "formen": "erteilt, erteilte, hat erteilt",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Offiziell geben, z. B. eine Erlaubnis, eine Genehmigung oder eine Auskunft.",
+    "synonyme": [
+      "gewähren",
+      "ausstellen"
+    ],
+    "antonyme": [
+      "verweigern",
+      "entziehen"
+    ],
+    "wortfamilie": [
+      "die Erteilung",
+      "teilen"
+    ],
+    "kollokationen": [
+      "eine Erlaubnis erteilen",
+      "Auskunft erteilen",
+      "Unterricht erteilen"
+    ],
+    "beispiel": "Nach der Anerkennung wurde ihr die Erlaubnis erteilt, als Lehrerin für Biologie zu unterrichten.",
+    "luecke": {
+      "satz": "Die Ausländerbehörde hat ihm eine Aufenthaltserlaubnis für zwei Jahre ___.",
+      "loesung": "erteilt",
+      "optionen": [
+        "verteilt",
+        "erteilt",
+        "mitgeteilt",
+        "beurteilt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0232",
+    "wort": "einbürgern",
+    "wortart": "Verb",
+    "formen": "bürgert ein, bürgerte ein, hat eingebürgert",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Einer Person aus einem anderen Land die Staatsangehörigkeit geben.",
+    "synonyme": [
+      "naturalisieren"
+    ],
+    "antonyme": [
+      "ausbürgern"
+    ],
+    "wortfamilie": [
+      "die Einbürgerung",
+      "der Bürger"
+    ],
+    "kollokationen": [
+      "sich einbürgern lassen",
+      "eingebürgert werden"
+    ],
+    "beispiel": "Im Jahr 2024 wurden in Deutschland so viele Menschen eingebürgert wie seit Jahrzehnten nicht mehr.",
+    "luecke": {
+      "satz": "Wer gut Deutsch spricht und seinen Lebensunterhalt sichert, kann sich nach fünf Jahren ___ lassen.",
+      "loesung": "einbürgern",
+      "optionen": [
+        "einbuchen",
+        "einbilden",
+        "einbrechen",
+        "einbürgern"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0233",
+    "wort": "zugewandert",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Aus einem anderen Land gekommen, um hier zu leben.",
+    "synonyme": [
+      "eingewandert",
+      "migriert"
+    ],
+    "antonyme": [
+      "einheimisch",
+      "alteingesessen"
+    ],
+    "wortfamilie": [
+      "die Zuwanderung",
+      "zuwandern",
+      "der/die Zugewanderte"
+    ],
+    "kollokationen": [
+      "zugewanderte Lehrkräfte",
+      "zugewanderte Familien"
+    ],
+    "beispiel": "Zugewanderte Lehrkräfte bringen wertvolle Erfahrungen aus anderen Schulsystemen mit.",
+    "luecke": {
+      "satz": "Die Beratungsstelle unterstützt ___ Fachkräfte bei der Anerkennung ihrer ausländischen Abschlüsse.",
+      "loesung": "zugewanderte",
+      "optionen": [
+        "zugelassene",
+        "zugespitzte",
+        "zugewanderte",
+        "zugeknöpfte"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0234",
+    "wort": "interkulturell",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Zwischen verschiedenen Kulturen; betrifft den Kontakt von Menschen mit unterschiedlicher Herkunft.",
+    "synonyme": [
+      "kulturübergreifend"
+    ],
+    "antonyme": [
+      "monokulturell"
+    ],
+    "wortfamilie": [
+      "die Kultur",
+      "die Interkulturalität"
+    ],
+    "kollokationen": [
+      "interkulturelle Kompetenz",
+      "interkulturelle Kommunikation"
+    ],
+    "beispiel": "Interkulturelle Trainings bereiten Beschäftigte auf Auslandseinsätze vor.",
+    "luecke": {
+      "satz": "Mitarbeitende mit ___ Kompetenz können Missverständnisse mit Kunden aus anderen Ländern besser lösen.",
+      "loesung": "interkultureller",
+      "optionen": [
+        "intellektueller",
+        "interaktiver",
+        "interner",
+        "interkultureller"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0235",
+    "wort": "fremdenfeindlich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Mit einer negativen oder aggressiven Haltung gegenüber Menschen aus anderen Ländern.",
+    "synonyme": [
+      "ausländerfeindlich",
+      "xenophob"
+    ],
+    "antonyme": [
+      "weltoffen"
+    ],
+    "wortfamilie": [
+      "die Fremdenfeindlichkeit",
+      "fremd",
+      "der Feind"
+    ],
+    "kollokationen": [
+      "fremdenfeindliche Äußerungen",
+      "fremdenfeindlich motiviert"
+    ],
+    "beispiel": "Die Zahl fremdenfeindlicher Straftaten ist im letzten Jahr gestiegen.",
+    "luecke": {
+      "satz": "Die Polizei ermittelt, ob der Angriff ___ motiviert war.",
+      "loesung": "fremdenfeindlich",
+      "optionen": [
+        "fremdsprachlich",
+        "freundschaftlich",
+        "fremdenfeindlich",
+        "fehlerfrei"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0236",
+    "wort": "kultursensibel",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "Mit Rücksicht auf kulturelle Unterschiede und Gewohnheiten anderer Menschen.",
+    "synonyme": [
+      "kulturbewusst",
+      "rücksichtsvoll"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Kultursensibilität",
+      "sensibel"
+    ],
+    "kollokationen": [
+      "kultursensible Pflege",
+      "kultursensibler Umgang"
+    ],
+    "beispiel": "Kultursensible Pflege berücksichtigt Religion, Sprache und Gewohnheiten der Patientinnen und Patienten.",
+    "luecke": {
+      "satz": "Krankenhäuser schulen ihr Personal, damit es ___ mit Patienten aus anderen Kulturen umgeht.",
+      "loesung": "kultursensibel",
+      "optionen": [
+        "kultursensibel",
+        "kulturlos",
+        "kurzsichtig",
+        "kostenlos"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0237",
+    "wort": "weltoffen",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Offen und interessiert gegenüber anderen Ländern, Kulturen und Ideen.",
+    "synonyme": [
+      "aufgeschlossen",
+      "tolerant"
+    ],
+    "antonyme": [
+      "engstirnig",
+      "fremdenfeindlich"
+    ],
+    "wortfamilie": [
+      "die Weltoffenheit",
+      "die Welt",
+      "offen"
+    ],
+    "kollokationen": [
+      "eine weltoffene Stadt",
+      "sich weltoffen zeigen"
+    ],
+    "beispiel": "Köln gilt als weltoffene Stadt mit vielen internationalen Studierenden.",
+    "luecke": {
+      "satz": "Eine ___ Gesellschaft heißt Menschen aus anderen Kulturen willkommen.",
+      "loesung": "weltoffene",
+      "optionen": [
+        "weltfremde",
+        "weltoffene",
+        "weltweite",
+        "weltberühmte"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0238",
+    "wort": "hierzulande",
+    "wortart": "Adverb",
+    "formen": "",
+    "thema": "migration_interkulturalitaet",
+    "register": "schriftlich",
+    "erklaerung": "In diesem Land, hier bei uns (meist: in Deutschland).",
+    "synonyme": [
+      "in Deutschland",
+      "bei uns"
+    ],
+    "antonyme": [
+      "im Ausland"
+    ],
+    "wortfamilie": [
+      "hier",
+      "das Land"
+    ],
+    "kollokationen": [
+      "hierzulande üblich sein",
+      "hierzulande lebende Menschen"
+    ],
+    "beispiel": "Auf den Philippinen tragen fast alle Schülerinnen eine Schuluniform, hierzulande ist das eher selten.",
+    "luecke": {
+      "satz": "Das Schuljahr beginnt auf den Philippinen im Juni, ___ dagegen nach den Sommerferien im August oder September.",
+      "loesung": "hierzulande",
+      "optionen": [
+        "landeinwärts",
+        "hinterher",
+        "hierzulande",
+        "hierbei"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0239",
+    "wort": "Fuß fassen",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "An einem neuen Ort oder in einem neuen Bereich ankommen und sich dort dauerhaft etablieren.",
+    "synonyme": [
+      "sich etablieren",
+      "heimisch werden"
+    ],
+    "antonyme": [
+      "scheitern"
+    ],
+    "wortfamilie": [
+      "der Fuß",
+      "fassen"
+    ],
+    "kollokationen": [
+      "beruflich Fuß fassen",
+      "in Deutschland Fuß fassen"
+    ],
+    "beispiel": "Mit der Anerkennung ihres Lehramtsabschlusses konnte sie auch beruflich in Deutschland Fuß fassen.",
+    "luecke": {
+      "satz": "Es dauerte zwei Jahre, bis sie in der neuen Stadt richtig ___ gefasst hatte.",
+      "loesung": "Fuß",
+      "optionen": [
+        "Bein",
+        "Hand",
+        "Fuß",
+        "Boden"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0240",
+    "wort": "auf Augenhöhe",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "migration_interkulturalitaet",
+    "register": "neutral",
+    "erklaerung": "Als gleichberechtigte Partner, mit gleichem Respekt.",
+    "synonyme": [
+      "gleichberechtigt",
+      "partnerschaftlich"
+    ],
+    "antonyme": [
+      "von oben herab"
+    ],
+    "wortfamilie": [
+      "das Auge",
+      "die Höhe"
+    ],
+    "kollokationen": [
+      "jemandem auf Augenhöhe begegnen",
+      "Gespräche auf Augenhöhe"
+    ],
+    "beispiel": "Entwicklungszusammenarbeit sollte auf Augenhöhe mit den Partnerländern stattfinden.",
+    "luecke": {
+      "satz": "Integration gelingt besser, wenn sich Alteingesessene und Zugewanderte auf ___ begegnen.",
+      "loesung": "Augenhöhe",
+      "optionen": [
+        "Augenblick",
+        "Augenmaß",
+        "Augenhöhe",
+        "Augenweide"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0241",
+    "wort": "der Fachkräftemangel",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Es gibt nicht genug gut ausgebildete Arbeitskräfte für die offenen Stellen.",
+    "synonyme": [
+      "der Personalmangel",
+      "der Arbeitskräftemangel"
+    ],
+    "antonyme": [
+      "der Fachkräfteüberschuss"
+    ],
+    "wortfamilie": [
+      "die Fachkraft",
+      "der Mangel",
+      "mangeln"
+    ],
+    "kollokationen": [
+      "dem Fachkräftemangel entgegenwirken",
+      "unter Fachkräftemangel leiden"
+    ],
+    "beispiel": "Besonders in der Pflege und im Handwerk ist der Fachkräftemangel deutlich spürbar.",
+    "luecke": {
+      "satz": "Um dem ___ zu begegnen, wirbt Deutschland gezielt Pflegekräfte im Ausland an.",
+      "loesung": "Fachkräftemangel",
+      "optionen": [
+        "Fachkräfteüberschuss",
+        "Fachbereich",
+        "Fachkräftemangel",
+        "Fachjargon"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0242",
+    "wort": "der Lehrkräftemangel",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "An den Schulen fehlen Lehrerinnen und Lehrer.",
+    "synonyme": [
+      "der Lehrermangel"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Lehrkraft",
+      "der Mangel"
+    ],
+    "kollokationen": [
+      "den Lehrkräftemangel bekämpfen",
+      "akuter Lehrkräftemangel"
+    ],
+    "beispiel": "Wegen des Lehrkräftemangels fällt an manchen Schulen in NRW regelmäßig Biologieunterricht aus.",
+    "luecke": {
+      "satz": "Der ___ trifft vor allem Grundschulen und die naturwissenschaftlichen Fächer.",
+      "loesung": "Lehrkräftemangel",
+      "optionen": [
+        "Lehrkräftemangel",
+        "Lehrplan",
+        "Lehrauftrag",
+        "Lernerfolg"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0243",
+    "wort": "der Quereinsteiger",
+    "wortart": "Nomen",
+    "formen": "die Quereinsteiger",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Eine Person, die ohne die übliche Ausbildung in einen anderen Beruf wechselt.",
+    "synonyme": [
+      "der Seiteneinsteiger"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Quereinstieg",
+      "die Quereinsteigerin",
+      "einsteigen"
+    ],
+    "kollokationen": [
+      "als Quereinsteiger arbeiten",
+      "Quereinsteiger qualifizieren"
+    ],
+    "beispiel": "In der IT-Branche arbeiten viele Quereinsteiger, die ursprünglich etwas ganz anderes studiert haben.",
+    "luecke": {
+      "satz": "Als ___ arbeitet die ehemalige Journalistin nun in einer Softwarefirma.",
+      "loesung": "Quereinsteigerin",
+      "optionen": [
+        "Querdenkerin",
+        "Quereinsteigerin",
+        "Aussteigerin",
+        "Bergsteigerin"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0244",
+    "wort": "die Unterrichtsverpflichtung",
+    "wortart": "Nomen",
+    "formen": "die Unterrichtsverpflichtungen",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Die Zahl der Unterrichtsstunden, die eine Lehrkraft pro Woche geben muss.",
+    "synonyme": [
+      "das Deputat",
+      "die Pflichtstundenzahl"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "verpflichten",
+      "die Pflicht",
+      "der Unterricht"
+    ],
+    "kollokationen": [
+      "die Unterrichtsverpflichtung erhöhen",
+      "eine reduzierte Unterrichtsverpflichtung"
+    ],
+    "beispiel": "Eine Vollzeitlehrkraft am Gymnasium in NRW hat eine Unterrichtsverpflichtung von gut 25 Wochenstunden.",
+    "luecke": {
+      "satz": "Als Ausgleich für ihre Aufgaben in der Schulleitung wurde ihre ___ um sechs Stunden reduziert.",
+      "loesung": "Unterrichtsverpflichtung",
+      "optionen": [
+        "Unterrichtsmethode",
+        "Unterrichtsstörung",
+        "Unterschrift",
+        "Unterrichtsverpflichtung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0245",
+    "wort": "die Qualifizierung",
+    "wortart": "Nomen",
+    "formen": "die Qualifizierungen",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Kurse oder Maßnahmen, mit denen man sich die Fähigkeiten für eine bestimmte Arbeit aneignet.",
+    "synonyme": [
+      "die Weiterbildung",
+      "die Fortbildung"
+    ],
+    "antonyme": [
+      "die Dequalifizierung"
+    ],
+    "wortfamilie": [
+      "qualifizieren",
+      "die Qualifikation",
+      "qualifiziert"
+    ],
+    "kollokationen": [
+      "berufliche Qualifizierung",
+      "eine Qualifizierung durchlaufen"
+    ],
+    "beispiel": "Die Agentur für Arbeit finanziert Qualifizierungen für Arbeitslose.",
+    "luecke": {
+      "satz": "Die Firma investiert in die ___ ihrer Mitarbeitenden, damit sie mit der neuen Software arbeiten können.",
+      "loesung": "Qualifizierung",
+      "optionen": [
+        "Quantifizierung",
+        "Quarantäne",
+        "Qualifizierung",
+        "Quittung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0246",
+    "wort": "das Homeoffice",
+    "wortart": "Nomen",
+    "formen": "die Homeoffices",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Arbeiten von zu Hause aus statt im Büro; auch der Arbeitsplatz zu Hause.",
+    "synonyme": [
+      "die Telearbeit",
+      "das mobile Arbeiten"
+    ],
+    "antonyme": [
+      "die Präsenzarbeit"
+    ],
+    "wortfamilie": [],
+    "kollokationen": [
+      "im Homeoffice arbeiten",
+      "Anspruch auf Homeoffice"
+    ],
+    "beispiel": "Im Homeoffice fällt der Arbeitsweg weg, aber viele vermissen den Kontakt zu Kollegen.",
+    "luecke": {
+      "satz": "Seit der Pandemie arbeitet sie zwei Tage pro Woche im ___ und drei Tage im Büro.",
+      "loesung": "Homeoffice",
+      "optionen": [
+        "Homeoffice",
+        "Hochhaus",
+        "Hinterhof",
+        "Halbschlaf"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0247",
+    "wort": "die Vereinbarkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Zwei Dinge lassen sich gut miteinander verbinden, z. B. Familie und Beruf.",
+    "synonyme": [
+      "die Kompatibilität",
+      "die Verträglichkeit"
+    ],
+    "antonyme": [
+      "die Unvereinbarkeit"
+    ],
+    "wortfamilie": [
+      "vereinbar",
+      "vereinbaren",
+      "die Vereinbarung"
+    ],
+    "kollokationen": [
+      "die Vereinbarkeit von Familie und Beruf",
+      "die Vereinbarkeit verbessern"
+    ],
+    "beispiel": "Teilzeitstellen im Schuldienst verbessern für viele Lehrerinnen die Vereinbarkeit von Familie und Beruf.",
+    "luecke": {
+      "satz": "Flexible Arbeitszeiten sollen die ___ von Pflege und Beruf erleichtern.",
+      "loesung": "Vereinbarkeit",
+      "optionen": [
+        "Vereinsamung",
+        "Vereinbarkeit",
+        "Verwaltung",
+        "Verbeamtung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0248",
+    "wort": "die Arbeitsverdichtung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "In der gleichen Zeit muss man mehr Arbeit erledigen als früher.",
+    "synonyme": [
+      "die Mehrbelastung"
+    ],
+    "antonyme": [
+      "die Entlastung"
+    ],
+    "wortfamilie": [
+      "verdichten",
+      "dicht",
+      "die Arbeit"
+    ],
+    "kollokationen": [
+      "zunehmende Arbeitsverdichtung",
+      "unter Arbeitsverdichtung leiden"
+    ],
+    "beispiel": "In der Pflege führt die Arbeitsverdichtung dazu, dass kaum Zeit für Gespräche mit Patienten bleibt.",
+    "luecke": {
+      "satz": "Weil frei gewordene Stellen nicht neu besetzt werden, klagen die verbliebenen Beschäftigten über ___.",
+      "loesung": "Arbeitsverdichtung",
+      "optionen": [
+        "Arbeitslosigkeit",
+        "Arbeitserlaubnis",
+        "Arbeitsteilung",
+        "Arbeitsverdichtung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0249",
+    "wort": "die Probezeit",
+    "wortart": "Nomen",
+    "formen": "die Probezeiten",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Die erste Zeit in einer neuen Stelle, in der Arbeitgeber und Arbeitnehmer prüfen, ob die Zusammenarbeit passt.",
+    "synonyme": [
+      "die Erprobungszeit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Probe",
+      "probieren",
+      "erproben"
+    ],
+    "kollokationen": [
+      "die Probezeit bestehen",
+      "in der Probezeit kündigen"
+    ],
+    "beispiel": "In der Probezeit können beide Seiten mit einer Frist von zwei Wochen kündigen.",
+    "luecke": {
+      "satz": "Nach sechs Monaten hatte er die ___ bestanden und bekam einen unbefristeten Vertrag.",
+      "loesung": "Probezeit",
+      "optionen": [
+        "Prüfungsangst",
+        "Freizeit",
+        "Probezeit",
+        "Elternzeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0250",
+    "wort": "die Vertretungsstelle",
+    "wortart": "Nomen",
+    "formen": "die Vertretungsstellen",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Eine meist befristete Stelle, auf der man eine Person vertritt, die z. B. krank oder in Elternzeit ist.",
+    "synonyme": [
+      "die Vertretung"
+    ],
+    "antonyme": [
+      "die Planstelle"
+    ],
+    "wortfamilie": [
+      "vertreten",
+      "die Vertretung",
+      "der Vertreter"
+    ],
+    "kollokationen": [
+      "eine Vertretungsstelle antreten",
+      "auf einer Vertretungsstelle arbeiten"
+    ],
+    "beispiel": "Während des Anerkennungsverfahrens arbeitete sie auf einer Vertretungsstelle an einer Realschule.",
+    "luecke": {
+      "satz": "Weil eine Kollegin in Elternzeit geht, schreibt die Schule eine befristete ___ aus.",
+      "loesung": "Vertretungsstelle",
+      "optionen": [
+        "Haltestelle",
+        "Feuerstelle",
+        "Vertretungsstelle",
+        "Fundstelle"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0251",
+    "wort": "die Planstelle",
+    "wortart": "Nomen",
+    "formen": "die Planstellen",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Eine feste, im öffentlichen Haushalt eingeplante Stelle, z. B. für eine Lehrkraft.",
+    "synonyme": [
+      "die feste Stelle"
+    ],
+    "antonyme": [
+      "die Vertretungsstelle"
+    ],
+    "wortfamilie": [
+      "der Plan",
+      "die Stelle",
+      "planen"
+    ],
+    "kollokationen": [
+      "eine Planstelle besetzen",
+      "auf eine Planstelle kommen"
+    ],
+    "beispiel": "Nach zwei Jahren Vertretungsunterricht bekam sie endlich eine Planstelle an einem Gymnasium.",
+    "luecke": {
+      "satz": "Das Land hat zusätzliche ___ für Lehrkräfte geschaffen, die aber nicht alle besetzt werden können.",
+      "loesung": "Planstellen",
+      "optionen": [
+        "Planeten",
+        "Haltestellen",
+        "Planstellen",
+        "Schnittstellen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0252",
+    "wort": "die Verbeamtung",
+    "wortart": "Nomen",
+    "formen": "die Verbeamtungen",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Eine Person wird Beamtin oder Beamter, arbeitet also dauerhaft für den Staat mit besonderen Rechten und Pflichten.",
+    "synonyme": [
+      "die Ernennung zur Beamtin / zum Beamten"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "verbeamten",
+      "der Beamte",
+      "die Beamtin"
+    ],
+    "kollokationen": [
+      "die Verbeamtung auf Lebenszeit",
+      "die Voraussetzungen für die Verbeamtung"
+    ],
+    "beispiel": "Für die Verbeamtung braucht man in der Regel die deutsche Staatsangehörigkeit oder die eines EU-Staates.",
+    "luecke": {
+      "satz": "Wegen der Altersgrenze kam für die 45-jährige Lehrerin keine ___ mehr in Frage.",
+      "loesung": "Verbeamtung",
+      "optionen": [
+        "Verwandlung",
+        "Beratung",
+        "Verbeamtung",
+        "Vermutung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0253",
+    "wort": "der Tarifvertrag",
+    "wortart": "Nomen",
+    "formen": "die Tarifverträge",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Ein Vertrag zwischen Gewerkschaften und Arbeitgebern über Löhne und Arbeitsbedingungen.",
+    "synonyme": [
+      "das Tarifabkommen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Tarif",
+      "tariflich",
+      "die Tarifverhandlung"
+    ],
+    "kollokationen": [
+      "einen Tarifvertrag aushandeln",
+      "nach Tarifvertrag bezahlt werden"
+    ],
+    "beispiel": "Angestellte Lehrkräfte werden in NRW nach dem Tarifvertrag für den öffentlichen Dienst der Länder bezahlt.",
+    "luecke": {
+      "satz": "Gewerkschaft und Arbeitgeber haben sich auf einen neuen ___ mit höheren Löhnen geeinigt.",
+      "loesung": "Tarifvertrag",
+      "optionen": [
+        "Mietvertrag",
+        "Tarifvertrag",
+        "Kaufvertrag",
+        "Ehevertrag"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0254",
+    "wort": "die Erwerbstätigkeit",
+    "wortart": "Nomen",
+    "formen": "die Erwerbstätigkeiten",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Eine Arbeit, mit der man Geld verdient.",
+    "synonyme": [
+      "die Berufstätigkeit",
+      "die Beschäftigung"
+    ],
+    "antonyme": [
+      "die Erwerbslosigkeit"
+    ],
+    "wortfamilie": [
+      "erwerbstätig",
+      "der Erwerb",
+      "erwerben"
+    ],
+    "kollokationen": [
+      "einer Erwerbstätigkeit nachgehen",
+      "die Erwerbstätigkeit von Frauen"
+    ],
+    "beispiel": "Die Erwerbstätigkeit von Frauen ist in Deutschland in den letzten Jahrzehnten deutlich gestiegen.",
+    "luecke": {
+      "satz": "Studierende aus Nicht-EU-Staaten dürfen neben dem Studium nur begrenzt einer ___ nachgehen.",
+      "loesung": "Erwerbstätigkeit",
+      "optionen": [
+        "Erwerbslosigkeit",
+        "Ehrenamtlichkeit",
+        "Ernsthaftigkeit",
+        "Erwerbstätigkeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0255",
+    "wort": "die Fluktuation",
+    "wortart": "Nomen",
+    "formen": "die Fluktuationen",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Viele Mitarbeitende verlassen ein Unternehmen und neue kommen; das Personal wechselt oft.",
+    "synonyme": [
+      "der Personalwechsel"
+    ],
+    "antonyme": [
+      "die Beständigkeit"
+    ],
+    "wortfamilie": [
+      "fluktuieren"
+    ],
+    "kollokationen": [
+      "eine hohe Fluktuation",
+      "die Fluktuation senken"
+    ],
+    "beispiel": "In der Gastronomie ist die Fluktuation besonders hoch.",
+    "luecke": {
+      "satz": "Schlechte Arbeitsbedingungen führen zu hoher ___: Viele Beschäftigte kündigen schon nach einem Jahr.",
+      "loesung": "Fluktuation",
+      "optionen": [
+        "Fundierung",
+        "Fluktuation",
+        "Funktion",
+        "Fiktion"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0256",
+    "wort": "die Entgrenzung",
+    "wortart": "Nomen",
+    "formen": "die Entgrenzungen",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Die klare Trennung zwischen Arbeit und Freizeit verschwindet.",
+    "synonyme": [
+      "die Vermischung"
+    ],
+    "antonyme": [
+      "die Abgrenzung"
+    ],
+    "wortfamilie": [
+      "entgrenzt",
+      "die Grenze",
+      "abgrenzen"
+    ],
+    "kollokationen": [
+      "die Entgrenzung der Arbeit",
+      "die Entgrenzung von Beruf und Privatleben"
+    ],
+    "beispiel": "Durch ständige E-Mails am Abend kommt es zu einer Entgrenzung von Arbeit und Privatleben.",
+    "luecke": {
+      "satz": "Kritiker warnen, dass das Homeoffice zu einer ___ der Arbeitszeit führen kann.",
+      "loesung": "Entgrenzung",
+      "optionen": [
+        "Entlastung",
+        "Entlohnung",
+        "Entwarnung",
+        "Entgrenzung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0257",
+    "wort": "die Präsenzpflicht",
+    "wortart": "Nomen",
+    "formen": "die Präsenzpflichten",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Die Pflicht, persönlich an einem Ort anwesend zu sein, z. B. im Büro oder in der Schule.",
+    "synonyme": [
+      "die Anwesenheitspflicht"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Präsenz",
+      "präsent",
+      "die Pflicht"
+    ],
+    "kollokationen": [
+      "die Präsenzpflicht aufheben",
+      "Präsenzpflicht im Büro"
+    ],
+    "beispiel": "Einige Firmen haben die Präsenzpflicht nach der Pandemie ganz abgeschafft.",
+    "luecke": {
+      "satz": "Viele Unternehmen führen nach Jahren im Homeoffice wieder eine teilweise ___ im Büro ein.",
+      "loesung": "Präsenzpflicht",
+      "optionen": [
+        "Schweigepflicht",
+        "Präsenzpflicht",
+        "Steuerpflicht",
+        "Schulpflicht"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0258",
+    "wort": "das Arbeitszeugnis",
+    "wortart": "Nomen",
+    "formen": "die Arbeitszeugnisse",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Ein schriftliches Dokument des Arbeitgebers, das die Tätigkeit und Leistung einer Person beschreibt.",
+    "synonyme": [
+      "das Dienstzeugnis"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Zeugnis",
+      "bezeugen"
+    ],
+    "kollokationen": [
+      "ein qualifiziertes Arbeitszeugnis",
+      "ein Arbeitszeugnis ausstellen"
+    ],
+    "beispiel": "Für die Anerkennung reichte sie auch Arbeitszeugnisse ihrer Schule in Manila ein, die ihre Berufserfahrung belegen.",
+    "luecke": {
+      "satz": "Nach dem Ende des Arbeitsverhältnisses hat jede Beschäftigte Anspruch auf ein ___.",
+      "loesung": "Arbeitszeugnis",
+      "optionen": [
+        "Abschlusszeugnis",
+        "Arbeitsamt",
+        "Arbeitszeugnis",
+        "Arbeitsessen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0259",
+    "wort": "sich weiterbilden",
+    "wortart": "Verb",
+    "formen": "bildet sich weiter, bildete sich weiter, hat sich weitergebildet",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Nach der Ausbildung weiter lernen, um im Beruf mehr zu können.",
+    "synonyme": [
+      "sich fortbilden",
+      "sich qualifizieren"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Weiterbildung",
+      "bilden",
+      "die Bildung"
+    ],
+    "kollokationen": [
+      "sich beruflich weiterbilden",
+      "sich regelmäßig weiterbilden"
+    ],
+    "beispiel": "Viele Beschäftigte bilden sich abends in Onlinekursen weiter.",
+    "luecke": {
+      "satz": "Wer sich nicht regelmäßig ___, verliert in vielen Berufen schnell den Anschluss.",
+      "loesung": "weiterbildet",
+      "optionen": [
+        "weiterleitet",
+        "weitergibt",
+        "weiterbildet",
+        "weiterreist"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0260",
+    "wort": "anwerben",
+    "wortart": "Verb",
+    "formen": "wirbt an, warb an, hat angeworben",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Gezielt Personen für eine Arbeit oder Aufgabe gewinnen, oft im Ausland.",
+    "synonyme": [
+      "rekrutieren",
+      "gewinnen"
+    ],
+    "antonyme": [
+      "entlassen"
+    ],
+    "wortfamilie": [
+      "die Anwerbung",
+      "werben",
+      "die Werbung"
+    ],
+    "kollokationen": [
+      "Fachkräfte im Ausland anwerben",
+      "gezielt anwerben"
+    ],
+    "beispiel": "Deutsche Kliniken werben seit Jahren Pflegekräfte von den Philippinen an.",
+    "luecke": {
+      "satz": "In den 1960er-Jahren hat die Bundesrepublik Arbeitskräfte aus Südeuropa und der Türkei ___.",
+      "loesung": "angeworben",
+      "optionen": [
+        "beworben",
+        "angeworben",
+        "erworben",
+        "verdorben"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0261",
+    "wort": "abwerben",
+    "wortart": "Verb",
+    "formen": "wirbt ab, warb ab, hat abgeworben",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Mitarbeitende einer anderen Firma (oder eines anderen Landes) mit besseren Angeboten zu sich holen.",
+    "synonyme": [
+      "weglocken"
+    ],
+    "antonyme": [
+      "halten",
+      "binden"
+    ],
+    "wortfamilie": [
+      "die Abwerbung",
+      "werben",
+      "anwerben"
+    ],
+    "kollokationen": [
+      "Fachkräfte abwerben",
+      "von der Konkurrenz abgeworben werden"
+    ],
+    "beispiel": "Kritiker warnen, dass reiche Länder ärmeren Ländern dringend benötigte Pflegekräfte abwerben.",
+    "luecke": {
+      "satz": "Die Softwarefirma hat drei Spezialisten von einem Konkurrenten ___.",
+      "loesung": "abgeworben",
+      "optionen": [
+        "abgewogen",
+        "abgeworben",
+        "abgewiesen",
+        "abgewandert"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0262",
+    "wort": "befristen",
+    "wortart": "Verb",
+    "formen": "befristet, befristete, hat befristet",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Etwas nur für eine bestimmte Zeit gelten lassen.",
+    "synonyme": [
+      "zeitlich begrenzen"
+    ],
+    "antonyme": [
+      "entfristen"
+    ],
+    "wortfamilie": [
+      "die Frist",
+      "befristet",
+      "unbefristet"
+    ],
+    "kollokationen": [
+      "einen Vertrag befristen",
+      "auf zwei Jahre befristet"
+    ],
+    "beispiel": "Ihr erster Vertrag als Vertretungslehrerin war auf ein Schuljahr befristet.",
+    "luecke": {
+      "satz": "Viele Arbeitsverträge in der Wissenschaft sind auf zwei oder drei Jahre ___.",
+      "loesung": "befristet",
+      "optionen": [
+        "befreit",
+        "befestigt",
+        "befragt",
+        "befristet"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0263",
+    "wort": "entlasten",
+    "wortart": "Verb",
+    "formen": "entlastet, entlastete, hat entlastet",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Jemandem einen Teil seiner Arbeit oder Belastung abnehmen.",
+    "synonyme": [
+      "erleichtern",
+      "unterstützen"
+    ],
+    "antonyme": [
+      "belasten"
+    ],
+    "wortfamilie": [
+      "die Entlastung",
+      "die Last",
+      "belasten"
+    ],
+    "kollokationen": [
+      "Beschäftigte entlasten",
+      "finanziell entlasten"
+    ],
+    "beispiel": "Eine Haushaltshilfe kann pflegende Angehörige im Alltag entlasten.",
+    "luecke": {
+      "satz": "Die Steuerreform soll vor allem Familien mit kleinen Einkommen ___, damit ihnen mehr Geld bleibt.",
+      "loesung": "entlasten",
+      "optionen": [
+        "belasten",
+        "entlassen",
+        "entlasten",
+        "entladen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0264",
+    "wort": "vergüten",
+    "wortart": "Verb",
+    "formen": "vergütet, vergütete, hat vergütet",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Jemanden für eine Arbeit bezahlen.",
+    "synonyme": [
+      "bezahlen",
+      "entlohnen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Vergütung"
+    ],
+    "kollokationen": [
+      "angemessen vergütet werden",
+      "Überstunden vergüten"
+    ],
+    "beispiel": "Das Praktikum wird mit 600 Euro im Monat vergütet.",
+    "luecke": {
+      "satz": "Gute Arbeit sollte auch angemessen ___ werden.",
+      "loesung": "vergütet",
+      "optionen": [
+        "vergiftet",
+        "vergütet",
+        "vergeudet",
+        "vergöttert"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0265",
+    "wort": "umschulen",
+    "wortart": "Verb",
+    "formen": "schult um, schulte um, hat umgeschult",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Jemanden für einen neuen Beruf ausbilden; (sich umschulen lassen) einen neuen Beruf lernen.",
+    "synonyme": [
+      "neu ausbilden"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Umschulung",
+      "die Schule"
+    ],
+    "kollokationen": [
+      "sich umschulen lassen",
+      "zur Pflegefachkraft umschulen"
+    ],
+    "beispiel": "Nach einem Bandscheibenvorfall ließ sich der Dachdecker zum Bürokaufmann umschulen.",
+    "luecke": {
+      "satz": "Die Agentur für Arbeit hat ihn zum IT-Systemelektroniker ___.",
+      "loesung": "umgeschult",
+      "optionen": [
+        "eingeschult",
+        "verschult",
+        "umgeschaltet",
+        "umgeschult"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0266",
+    "wort": "delegieren",
+    "wortart": "Verb",
+    "formen": "delegiert, delegierte, hat delegiert",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Eine Aufgabe an eine andere Person weitergeben.",
+    "synonyme": [
+      "übertragen",
+      "abgeben"
+    ],
+    "antonyme": [
+      "selbst übernehmen"
+    ],
+    "wortfamilie": [
+      "die Delegation",
+      "der/die Delegierte"
+    ],
+    "kollokationen": [
+      "Aufgaben delegieren",
+      "Verantwortung delegieren"
+    ],
+    "beispiel": "Wer alles selbst macht und nichts delegiert, riskiert schnell eine Überlastung.",
+    "luecke": {
+      "satz": "Gute Führungskräfte ___ Aufgaben, statt alles selbst zu erledigen.",
+      "loesung": "delegieren",
+      "optionen": [
+        "degradieren",
+        "delegieren",
+        "dekorieren",
+        "deklinieren"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0267",
+    "wort": "sich spezialisieren auf + A",
+    "wortart": "Verb",
+    "formen": "spezialisiert sich, spezialisierte sich, hat sich spezialisiert",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Sich auf ein bestimmtes, enges Gebiet konzentrieren und dort Expertin oder Experte werden.",
+    "synonyme": [
+      "sich konzentrieren auf"
+    ],
+    "antonyme": [
+      "sich breit aufstellen"
+    ],
+    "wortfamilie": [
+      "die Spezialisierung",
+      "speziell",
+      "der Spezialist"
+    ],
+    "kollokationen": [
+      "sich auf ein Fachgebiet spezialisieren",
+      "hoch spezialisiert"
+    ],
+    "beispiel": "Die Anwältin hat sich auf Arbeitsrecht spezialisiert.",
+    "luecke": {
+      "satz": "Das kleine Unternehmen hat sich auf Software für Arztpraxen ___.",
+      "loesung": "spezialisiert",
+      "optionen": [
+        "spendiert",
+        "sozialisiert",
+        "spezialisiert",
+        "stabilisiert"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0268",
+    "wort": "ausschreiben",
+    "wortart": "Verb",
+    "formen": "schreibt aus, schrieb aus, hat ausgeschrieben",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Eine freie Stelle oder einen Auftrag öffentlich bekannt machen, damit sich Personen oder Firmen bewerben können.",
+    "synonyme": [
+      "öffentlich anbieten",
+      "inserieren"
+    ],
+    "antonyme": [
+      "intern besetzen"
+    ],
+    "wortfamilie": [
+      "die Ausschreibung",
+      "schreiben"
+    ],
+    "kollokationen": [
+      "eine Stelle ausschreiben",
+      "öffentlich ausschreiben"
+    ],
+    "beispiel": "Die Gesamtschule hat eine Stelle für die Fächer Biologie und Chemie ausgeschrieben.",
+    "luecke": {
+      "satz": "Öffentliche Aufträge über einer bestimmten Summe müssen europaweit ___ werden.",
+      "loesung": "ausgeschrieben",
+      "optionen": [
+        "ausgeschrieben",
+        "abgeschrieben",
+        "beschrieben",
+        "umgeschrieben"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0269",
+    "wort": "freistellen",
+    "wortart": "Verb",
+    "formen": "stellt frei, stellte frei, hat freigestellt",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Jemanden für eine bestimmte Zeit von seiner Arbeitspflicht befreien.",
+    "synonyme": [
+      "befreien",
+      "beurlauben"
+    ],
+    "antonyme": [
+      "verpflichten"
+    ],
+    "wortfamilie": [
+      "die Freistellung",
+      "frei"
+    ],
+    "kollokationen": [
+      "vom Dienst freistellen",
+      "für eine Fortbildung freigestellt werden"
+    ],
+    "beispiel": "Für die Pflege eines Angehörigen kann man sich bis zu sechs Monate von der Arbeit freistellen lassen.",
+    "luecke": {
+      "satz": "Betriebsratsmitglieder werden für ihre Aufgaben teilweise von der Arbeit ___.",
+      "loesung": "freigestellt",
+      "optionen": [
+        "freigesprochen",
+        "freigegeben",
+        "freigekauft",
+        "freigestellt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0270",
+    "wort": "mitwirken an + D",
+    "wortart": "Verb",
+    "formen": "wirkt mit, wirkte mit, hat mitgewirkt",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Bei einer Sache aktiv mitmachen und zu ihrem Ergebnis beitragen.",
+    "synonyme": [
+      "sich beteiligen an",
+      "mitarbeiten an"
+    ],
+    "antonyme": [
+      "sich heraushalten"
+    ],
+    "wortfamilie": [
+      "die Mitwirkung",
+      "wirken"
+    ],
+    "kollokationen": [
+      "an einem Projekt mitwirken",
+      "aktiv mitwirken"
+    ],
+    "beispiel": "Über 200 Freiwillige wirkten an der Organisation des Stadtfests mit.",
+    "luecke": {
+      "satz": "Alle Beschäftigten sollen an der Entwicklung des neuen Leitbilds ___.",
+      "loesung": "mitwirken",
+      "optionen": [
+        "mitteilen",
+        "mitwirken",
+        "mitnehmen",
+        "mithalten"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0271",
+    "wort": "aufstocken",
+    "wortart": "Verb",
+    "formen": "stockt auf, stockte auf, hat aufgestockt",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Eine Menge erhöhen, z. B. Arbeitsstunden, Personal oder Geld.",
+    "synonyme": [
+      "erhöhen",
+      "aufbessern"
+    ],
+    "antonyme": [
+      "kürzen",
+      "reduzieren"
+    ],
+    "wortfamilie": [
+      "die Aufstockung",
+      "der Stock"
+    ],
+    "kollokationen": [
+      "die Stundenzahl aufstocken",
+      "das Personal aufstocken"
+    ],
+    "beispiel": "Wegen des Lehrkräftemangels bittet das Schulministerium Teilzeitkräfte, ihre Stunden aufzustocken.",
+    "luecke": {
+      "satz": "Die Kita will ihr Personal um drei Erzieherinnen ___.",
+      "loesung": "aufstocken",
+      "optionen": [
+        "aufstoßen",
+        "aufstocken",
+        "anstoßen",
+        "aufstauen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0272",
+    "wort": "einschlägig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Genau zu einem bestimmten Fachgebiet passend.",
+    "synonyme": [
+      "fachspezifisch",
+      "relevant"
+    ],
+    "antonyme": [
+      "fachfremd"
+    ],
+    "wortfamilie": [],
+    "kollokationen": [
+      "einschlägige Berufserfahrung",
+      "einschlägige Literatur"
+    ],
+    "beispiel": "Ihre zehn Jahre Unterrichtserfahrung in Biologie gelten als einschlägige Berufserfahrung.",
+    "luecke": {
+      "satz": "Für die Stelle werden mindestens drei Jahre ___ Berufserfahrung im Projektmanagement verlangt.",
+      "loesung": "einschlägige",
+      "optionen": [
+        "einseitige",
+        "einmalige",
+        "einschlägige",
+        "einstweilige"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0273",
+    "wort": "hauptberuflich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Als wichtigste, bezahlte Arbeit, nicht nur nebenbei.",
+    "synonyme": [
+      "im Hauptberuf"
+    ],
+    "antonyme": [
+      "nebenberuflich",
+      "ehrenamtlich"
+    ],
+    "wortfamilie": [
+      "der Hauptberuf",
+      "beruflich"
+    ],
+    "kollokationen": [
+      "hauptberuflich tätig sein",
+      "hauptberufliche Mitarbeitende"
+    ],
+    "beispiel": "Er ist hauptberuflich Krankenpfleger und spielt am Wochenende in einer Band.",
+    "luecke": {
+      "satz": "Sie arbeitet ___ als Ingenieurin und schreibt nebenbei Kinderbücher.",
+      "loesung": "hauptberuflich",
+      "optionen": [
+        "berufsunfähig",
+        "hauptberuflich",
+        "berufsbedingt",
+        "nebensächlich"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0274",
+    "wort": "ortsunabhängig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Nicht an einen festen Ort gebunden; man kann überall arbeiten.",
+    "synonyme": [
+      "standortunabhängig",
+      "mobil"
+    ],
+    "antonyme": [
+      "ortsgebunden"
+    ],
+    "wortfamilie": [
+      "der Ort",
+      "unabhängig"
+    ],
+    "kollokationen": [
+      "ortsunabhängiges Arbeiten",
+      "ortsunabhängig tätig sein"
+    ],
+    "beispiel": "Dank Cloud-Diensten können viele Softwareentwickler ortsunabhängig arbeiten.",
+    "luecke": {
+      "satz": "Digitale Nomaden schätzen Jobs, die man ___ vom Laptop aus erledigen kann.",
+      "loesung": "ortsunabhängig",
+      "optionen": [
+        "ortskundig",
+        "ortsüblich",
+        "ortsansässig",
+        "ortsunabhängig"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0275",
+    "wort": "krankheitsbedingt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Wegen einer Krankheit.",
+    "synonyme": [
+      "aufgrund von Krankheit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Krankheit",
+      "bedingt",
+      "krank"
+    ],
+    "kollokationen": [
+      "krankheitsbedingte Ausfälle",
+      "krankheitsbedingt fehlen"
+    ],
+    "beispiel": "Die Zahl der krankheitsbedingten Fehltage ist in Deutschland zuletzt gestiegen.",
+    "luecke": {
+      "satz": "Die hohe Zahl ___ Ausfälle belastet die übrigen Kolleginnen und Kollegen.",
+      "loesung": "krankheitsbedingter",
+      "optionen": [
+        "krankheitsbedingter",
+        "krankhafter",
+        "kränklicher",
+        "krankenversicherter"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0276",
+    "wort": "hybrid",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Aus zwei verschiedenen Formen gemischt, z. B. teils vor Ort und teils online.",
+    "synonyme": [
+      "gemischt",
+      "kombiniert"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Hybridform",
+      "der Hybrid"
+    ],
+    "kollokationen": [
+      "hybrides Arbeiten",
+      "eine hybride Veranstaltung"
+    ],
+    "beispiel": "Die Lehrerfortbildung findet hybrid statt: Man kann vor Ort oder per Video teilnehmen.",
+    "luecke": {
+      "satz": "Bei ___ Arbeitsmodellen verbringen die Beschäftigten einige Tage im Büro und einige zu Hause.",
+      "loesung": "hybriden",
+      "optionen": [
+        "hydraulischen",
+        "hybriden",
+        "hygienischen",
+        "hysterischen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0277",
+    "wort": "ausgebrannt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "neutral",
+    "erklaerung": "Körperlich und seelisch völlig erschöpft, oft durch zu viel Arbeit.",
+    "synonyme": [
+      "erschöpft",
+      "ausgelaugt"
+    ],
+    "antonyme": [
+      "erholt",
+      "ausgeruht"
+    ],
+    "wortfamilie": [
+      "das Burn-out",
+      "ausbrennen",
+      "brennen"
+    ],
+    "kollokationen": [
+      "sich ausgebrannt fühlen",
+      "völlig ausgebrannt sein"
+    ],
+    "beispiel": "Wer sich dauerhaft ausgebrannt fühlt, sollte frühzeitig ärztliche Hilfe suchen.",
+    "luecke": {
+      "satz": "Nach Monaten mit vielen Überstunden war sie völlig ___ und musste eine Pause einlegen.",
+      "loesung": "ausgebrannt",
+      "optionen": [
+        "ausgebildet",
+        "ausgeglichen",
+        "ausgeschlafen",
+        "ausgebrannt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0278",
+    "wort": "systemrelevant",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "So wichtig, dass die Gesellschaft ohne diesen Beruf oder diese Einrichtung nicht funktionieren kann.",
+    "synonyme": [
+      "unverzichtbar",
+      "lebenswichtig"
+    ],
+    "antonyme": [
+      "verzichtbar"
+    ],
+    "wortfamilie": [
+      "das System",
+      "relevant",
+      "die Systemrelevanz"
+    ],
+    "kollokationen": [
+      "systemrelevante Berufe",
+      "als systemrelevant gelten"
+    ],
+    "beispiel": "In der Pandemie wurde deutlich, wie systemrelevant Pflegekräfte, Erzieherinnen und Verkäuferinnen sind.",
+    "luecke": {
+      "satz": "Während des Lockdowns durften Eltern in ___ Berufen ihre Kinder in die Notbetreuung bringen.",
+      "loesung": "systemrelevanten",
+      "optionen": [
+        "systematischen",
+        "sinnlosen",
+        "systemrelevanten",
+        "selbstständigen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0279",
+    "wort": "berufsbegleitend",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Parallel zur Arbeit, also ohne den Beruf aufzugeben.",
+    "synonyme": [
+      "neben dem Beruf"
+    ],
+    "antonyme": [
+      "in Vollzeit"
+    ],
+    "wortfamilie": [
+      "der Beruf",
+      "begleiten"
+    ],
+    "kollokationen": [
+      "ein berufsbegleitendes Studium",
+      "berufsbegleitend studieren"
+    ],
+    "beispiel": "Viele Pflegekräfte studieren berufsbegleitend Pflegemanagement.",
+    "luecke": {
+      "satz": "Sie absolviert einen ___ Masterstudiengang und arbeitet weiterhin 30 Stunden pro Woche.",
+      "loesung": "berufsbegleitenden",
+      "optionen": [
+        "berufsunfähigen",
+        "berufstätigen",
+        "berufsbedingten",
+        "berufsbegleitenden"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0280",
+    "wort": "unter Vorbehalt",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "arbeitswelt",
+    "register": "schriftlich",
+    "erklaerung": "Nicht endgültig; es gilt nur, wenn bestimmte Bedingungen noch erfüllt werden.",
+    "synonyme": [
+      "vorläufig",
+      "unter einer Bedingung"
+    ],
+    "antonyme": [
+      "endgültig",
+      "vorbehaltlos"
+    ],
+    "wortfamilie": [
+      "der Vorbehalt",
+      "vorbehalten"
+    ],
+    "kollokationen": [
+      "eine Zusage unter Vorbehalt",
+      "unter Vorbehalt zustimmen"
+    ],
+    "beispiel": "Die Schule stellte sie unter Vorbehalt ein, bis die Bezirksregierung über ihre Anerkennung entschieden hatte.",
+    "luecke": {
+      "satz": "Die Zulassung erfolgt unter dem ___, dass das Sprachzertifikat bis Oktober nachgereicht wird.",
+      "loesung": "Vorbehalt",
+      "optionen": [
+        "Vorurteil",
+        "Vorbehalt",
+        "Vorwand",
+        "Vorsatz"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0281",
+    "wort": "die Konjunktur",
+    "wortart": "Nomen",
+    "formen": "die Konjunkturen",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Die allgemeine wirtschaftliche Lage und ihre Entwicklung (Aufschwung oder Abschwung).",
+    "synonyme": [
+      "die Wirtschaftslage"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "konjunkturell",
+      "das Konjunkturprogramm"
+    ],
+    "kollokationen": [
+      "die Konjunktur ankurbeln",
+      "die Konjunktur schwächelt"
+    ],
+    "beispiel": "Wenn die Konjunktur schwächelt, investieren Unternehmen weniger.",
+    "luecke": {
+      "satz": "Wegen der schwachen ___ rechnen Ökonomen mit steigender Arbeitslosigkeit.",
+      "loesung": "Konjunktur",
+      "optionen": [
+        "Konkurrenz",
+        "Konstruktion",
+        "Konjunktur",
+        "Konfektion"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0282",
+    "wort": "die Rezession",
+    "wortart": "Nomen",
+    "formen": "die Rezessionen",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Eine Phase, in der die Wirtschaft schrumpft und weniger produziert wird.",
+    "synonyme": [
+      "der Abschwung",
+      "die Flaute"
+    ],
+    "antonyme": [
+      "der Aufschwung",
+      "der Boom"
+    ],
+    "wortfamilie": [],
+    "kollokationen": [
+      "in eine Rezession rutschen",
+      "eine Rezession abwenden"
+    ],
+    "beispiel": "Wenn die Wirtschaftsleistung zwei Quartale nacheinander sinkt, spricht man von einer technischen Rezession.",
+    "luecke": {
+      "satz": "Ökonomen befürchten, dass das Land im kommenden Jahr in eine ___ rutscht.",
+      "loesung": "Rezession",
+      "optionen": [
+        "Rezension",
+        "Rezeption",
+        "Rezeptur",
+        "Rezession"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0283",
+    "wort": "die Kaufkraft",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Die Menge an Waren und Dienstleistungen, die man sich mit seinem Geld kaufen kann.",
+    "synonyme": [
+      "der Geldwert"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "kaufen",
+      "die Kraft",
+      "kaufkräftig"
+    ],
+    "kollokationen": [
+      "die Kaufkraft stärken",
+      "der Verlust an Kaufkraft"
+    ],
+    "beispiel": "Durch die hohe Inflation hat die Kaufkraft vieler Haushalte spürbar abgenommen.",
+    "luecke": {
+      "satz": "Wenn die Preise schneller steigen als die Löhne, sinkt die ___ der Bevölkerung.",
+      "loesung": "Kaufkraft",
+      "optionen": [
+        "Kaufkraft",
+        "Kaufsucht",
+        "Tatkraft",
+        "Schwerkraft"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0284",
+    "wort": "das Bruttoinlandsprodukt",
+    "wortart": "Nomen",
+    "formen": "die Bruttoinlandsprodukte",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Der Wert aller Waren und Dienstleistungen, die in einem Land in einem Jahr hergestellt werden (Abkürzung: BIP).",
+    "synonyme": [
+      "das BIP",
+      "die Wirtschaftsleistung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "brutto",
+      "das Inland",
+      "das Produkt"
+    ],
+    "kollokationen": [
+      "das Bruttoinlandsprodukt wächst",
+      "gemessen am Bruttoinlandsprodukt"
+    ],
+    "beispiel": "Die Geldsendungen von Filipinos im Ausland entsprechen fast einem Zehntel des philippinischen Bruttoinlandsprodukts.",
+    "luecke": {
+      "satz": "Gemessen am ___ gibt Deutschland weniger für Bildung aus als viele andere Industrieländer.",
+      "loesung": "Bruttoinlandsprodukt",
+      "optionen": [
+        "Bruttogehalt",
+        "Bruttoinlandsprodukt",
+        "Inlandsflug",
+        "Endprodukt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0285",
+    "wort": "die Wertschöpfung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Der zusätzliche Wert, der entsteht, wenn aus Rohstoffen oder Vorleistungen ein Produkt oder eine Dienstleistung wird.",
+    "synonyme": [
+      "die Wertsteigerung"
+    ],
+    "antonyme": [
+      "die Wertvernichtung"
+    ],
+    "wortfamilie": [
+      "schöpfen",
+      "der Wert",
+      "die Wertschöpfungskette"
+    ],
+    "kollokationen": [
+      "regionale Wertschöpfung",
+      "die Wertschöpfung steigern"
+    ],
+    "beispiel": "Wenn Kokosnüsse vor Ort zu Öl verarbeitet werden, bleibt mehr Wertschöpfung auf den Philippinen.",
+    "luecke": {
+      "satz": "Die Industrie trägt in Deutschland rund ein Fünftel zur gesamten ___ bei.",
+      "loesung": "Wertschöpfung",
+      "optionen": [
+        "Wertschätzung",
+        "Wertminderung",
+        "Wertvorstellung",
+        "Wertschöpfung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0286",
+    "wort": "die Lieferkette",
+    "wortart": "Nomen",
+    "formen": "die Lieferketten",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Alle Schritte und Firmen, die nötig sind, bis ein Produkt vom Rohstoff bis zum Kunden kommt.",
+    "synonyme": [
+      "die Versorgungskette",
+      "die Wertschöpfungskette"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "liefern",
+      "die Lieferung",
+      "die Kette"
+    ],
+    "kollokationen": [
+      "unterbrochene Lieferketten",
+      "das Lieferkettengesetz"
+    ],
+    "beispiel": "Während der Pandemie waren viele internationale Lieferketten unterbrochen.",
+    "luecke": {
+      "satz": "Das Gesetz verpflichtet große Firmen, Menschenrechte entlang ihrer gesamten ___ zu achten.",
+      "loesung": "Lieferkette",
+      "optionen": [
+        "Ladenkette",
+        "Lieferkette",
+        "Halskette",
+        "Fahrradkette"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0287",
+    "wort": "die Wettbewerbsfähigkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Die Fähigkeit eines Unternehmens oder Landes, sich gegen Konkurrenten auf dem Markt durchzusetzen.",
+    "synonyme": [
+      "die Konkurrenzfähigkeit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "wettbewerbsfähig",
+      "der Wettbewerb",
+      "der Wettbewerber"
+    ],
+    "kollokationen": [
+      "die Wettbewerbsfähigkeit stärken",
+      "internationale Wettbewerbsfähigkeit"
+    ],
+    "beispiel": "Hohe Energiepreise gefährden die Wettbewerbsfähigkeit der deutschen Chemieindustrie.",
+    "luecke": {
+      "satz": "Um ihre ___ zu sichern, investiert die Firma stark in Forschung und Entwicklung.",
+      "loesung": "Wettbewerbsfähigkeit",
+      "optionen": [
+        "Wetterfestigkeit",
+        "Wehrfähigkeit",
+        "Wettervorhersage",
+        "Wettbewerbsfähigkeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0288",
+    "wort": "die Subvention",
+    "wortart": "Nomen",
+    "formen": "die Subventionen",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Geld vom Staat, mit dem bestimmte Unternehmen oder Wirtschaftszweige unterstützt werden.",
+    "synonyme": [
+      "die Förderung",
+      "der Zuschuss"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "subventionieren",
+      "subventioniert"
+    ],
+    "kollokationen": [
+      "Subventionen streichen",
+      "staatliche Subventionen"
+    ],
+    "beispiel": "Ohne staatliche Subventionen wären viele landwirtschaftliche Betriebe nicht rentabel.",
+    "luecke": {
+      "satz": "Die Regierung will umweltschädliche ___ schrittweise abbauen.",
+      "loesung": "Subventionen",
+      "optionen": [
+        "Sensationen",
+        "Subventionen",
+        "Situationen",
+        "Stationen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0289",
+    "wort": "die Verschuldung",
+    "wortart": "Nomen",
+    "formen": "die Verschuldungen",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Der Zustand, dass jemand (z. B. ein Staat oder eine Person) viel Geld schuldet.",
+    "synonyme": [
+      "die Schulden"
+    ],
+    "antonyme": [
+      "die Entschuldung"
+    ],
+    "wortfamilie": [
+      "verschuldet",
+      "die Schuld",
+      "sich verschulden"
+    ],
+    "kollokationen": [
+      "die öffentliche Verschuldung",
+      "die Verschuldung abbauen"
+    ],
+    "beispiel": "Die Schuldenbremse soll eine zu hohe Verschuldung des Staates verhindern.",
+    "luecke": {
+      "satz": "Viele junge Erwachsene geraten durch Ratenkäufe in eine gefährliche ___.",
+      "loesung": "Verschuldung",
+      "optionen": [
+        "Entschuldigung",
+        "Verschiebung",
+        "Beschuldigung",
+        "Verschuldung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0290",
+    "wort": "das Gefälle",
+    "wortart": "Nomen",
+    "formen": "die Gefälle",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Ein großer Unterschied, z. B. bei Einkommen oder Preisen zwischen zwei Regionen oder Gruppen.",
+    "synonyme": [
+      "der Unterschied",
+      "die Diskrepanz"
+    ],
+    "antonyme": [
+      "die Angleichung"
+    ],
+    "wortfamilie": [
+      "fallen"
+    ],
+    "kollokationen": [
+      "das Lohngefälle",
+      "ein starkes Gefälle zwischen Stadt und Land"
+    ],
+    "beispiel": "Das Lohngefälle zwischen Deutschland und den Philippinen ist ein Grund, warum viele Pflegekräfte auswandern.",
+    "luecke": {
+      "satz": "Zwischen West- und Ostdeutschland besteht beim Vermögen noch immer ein deutliches ___.",
+      "loesung": "Gefälle",
+      "optionen": [
+        "Gefälle",
+        "Gefallen",
+        "Gefecht",
+        "Gefieder"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0291",
+    "wort": "die Rendite",
+    "wortart": "Nomen",
+    "formen": "die Renditen",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Der Gewinn, den eine Geldanlage im Verhältnis zum eingesetzten Geld bringt, meist in Prozent.",
+    "synonyme": [
+      "der Ertrag",
+      "die Verzinsung"
+    ],
+    "antonyme": [
+      "der Verlust"
+    ],
+    "wortfamilie": [
+      "rentabel",
+      "die Rentabilität"
+    ],
+    "kollokationen": [
+      "eine hohe Rendite erzielen",
+      "die Rendite einer Anlage"
+    ],
+    "beispiel": "Aktien bringen langfristig oft eine höhere Rendite als ein Sparbuch, sind aber riskanter.",
+    "luecke": {
+      "satz": "Investoren kaufen Wohnungen in Großstädten, weil sie dort eine hohe ___ erwarten.",
+      "loesung": "Rendite",
+      "optionen": [
+        "Ruine",
+        "Remise",
+        "Rendite",
+        "Rezession"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0292",
+    "wort": "der Absatzmarkt",
+    "wortart": "Nomen",
+    "formen": "die Absatzmärkte",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Ein Markt (z. B. ein Land), in dem eine Firma ihre Produkte verkauft.",
+    "synonyme": [
+      "der Markt"
+    ],
+    "antonyme": [
+      "der Beschaffungsmarkt"
+    ],
+    "wortfamilie": [
+      "der Absatz",
+      "absetzen"
+    ],
+    "kollokationen": [
+      "neue Absatzmärkte erschließen",
+      "der wichtigste Absatzmarkt"
+    ],
+    "beispiel": "China ist einer der wichtigsten Absatzmärkte für deutsche Autos.",
+    "luecke": {
+      "satz": "Wegen der hohen Zölle sucht der Maschinenbauer neue ___ in Südostasien.",
+      "loesung": "Absatzmärkte",
+      "optionen": [
+        "Absätze",
+        "Absatzmärkte",
+        "Flohmärkte",
+        "Abschnitte"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0293",
+    "wort": "die Insolvenz",
+    "wortart": "Nomen",
+    "formen": "die Insolvenzen",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Ein Unternehmen oder eine Person kann die Schulden nicht mehr bezahlen.",
+    "synonyme": [
+      "die Zahlungsunfähigkeit",
+      "die Pleite"
+    ],
+    "antonyme": [
+      "die Zahlungsfähigkeit",
+      "die Liquidität"
+    ],
+    "wortfamilie": [
+      "insolvent",
+      "der Insolvenzverwalter"
+    ],
+    "kollokationen": [
+      "Insolvenz anmelden",
+      "von der Insolvenz bedroht"
+    ],
+    "beispiel": "Nach dem Verlust seines größten Kunden musste der Zulieferer Insolvenz anmelden.",
+    "luecke": {
+      "satz": "Im vergangenen Jahr meldeten so viele Firmen ___ an wie seit zehn Jahren nicht mehr.",
+      "loesung": "Insolvenz",
+      "optionen": [
+        "Intensität",
+        "Inventur",
+        "Insolvenz",
+        "Inkasso"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0294",
+    "wort": "der Mindestlohn",
+    "wortart": "Nomen",
+    "formen": "die Mindestlöhne",
+    "thema": "wirtschaft",
+    "register": "neutral",
+    "erklaerung": "Der niedrigste Stundenlohn, den ein Arbeitgeber gesetzlich zahlen muss.",
+    "synonyme": [
+      "die Lohnuntergrenze"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "mindestens",
+      "der Lohn",
+      "entlohnen"
+    ],
+    "kollokationen": [
+      "den Mindestlohn erhöhen",
+      "der gesetzliche Mindestlohn"
+    ],
+    "beispiel": "Seit Januar 2026 liegt der gesetzliche Mindestlohn in Deutschland bei 13,90 Euro pro Stunde.",
+    "luecke": {
+      "satz": "Viele Studierende arbeiten in Minijobs, die nur knapp über dem ___ bezahlt werden.",
+      "loesung": "Mindestlohn",
+      "optionen": [
+        "Mindesthaltbarkeitsdatum",
+        "Mindestabstand",
+        "Mindestlohn",
+        "Mindestalter"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0295",
+    "wort": "der Standort",
+    "wortart": "Nomen",
+    "formen": "die Standorte",
+    "thema": "wirtschaft",
+    "register": "neutral",
+    "erklaerung": "Der Ort, an dem eine Firma oder Einrichtung liegt; auch: ein Land oder eine Region als Ort für Unternehmen.",
+    "synonyme": [
+      "der Sitz",
+      "die Lage"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Ort",
+      "stehen",
+      "die Standortwahl"
+    ],
+    "kollokationen": [
+      "der Wirtschaftsstandort Deutschland",
+      "einen Standort schließen"
+    ],
+    "beispiel": "Der Autohersteller will zwei Standorte in Deutschland schließen.",
+    "luecke": {
+      "satz": "Das Unternehmen sucht für sein neues Werk einen ___ mit guter Verkehrsanbindung.",
+      "loesung": "Standort",
+      "optionen": [
+        "Wohnort",
+        "Standort",
+        "Abort",
+        "Hort"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0296",
+    "wort": "die Inflation",
+    "wortart": "Nomen",
+    "formen": "die Inflationen",
+    "thema": "wirtschaft",
+    "register": "neutral",
+    "erklaerung": "Die Preise steigen allgemein, und das Geld verliert an Wert.",
+    "synonyme": [
+      "die Teuerung",
+      "die Geldentwertung"
+    ],
+    "antonyme": [
+      "die Deflation"
+    ],
+    "wortfamilie": [
+      "inflationär",
+      "die Inflationsrate"
+    ],
+    "kollokationen": [
+      "die Inflation bekämpfen",
+      "eine hohe Inflationsrate"
+    ],
+    "beispiel": "Die Europäische Zentralbank strebt eine Inflation von etwa zwei Prozent an.",
+    "luecke": {
+      "satz": "Um die ___ zu bremsen, hat die Zentralbank die Leitzinsen erhöht.",
+      "loesung": "Inflation",
+      "optionen": [
+        "Information",
+        "Infektion",
+        "Intuition",
+        "Inflation"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0297",
+    "wort": "ankurbeln",
+    "wortart": "Verb",
+    "formen": "kurbelt an, kurbelte an, hat angekurbelt",
+    "thema": "wirtschaft",
+    "register": "neutral",
+    "erklaerung": "Etwas (meist die Wirtschaft) in Schwung bringen und stärken.",
+    "synonyme": [
+      "beleben",
+      "stimulieren"
+    ],
+    "antonyme": [
+      "bremsen",
+      "dämpfen"
+    ],
+    "wortfamilie": [
+      "die Kurbel",
+      "die Ankurbelung"
+    ],
+    "kollokationen": [
+      "die Wirtschaft ankurbeln",
+      "den Konsum ankurbeln"
+    ],
+    "beispiel": "Mit Steuererleichterungen will die Regierung den Wohnungsbau ankurbeln.",
+    "luecke": {
+      "satz": "Niedrige Zinsen sollen die Nachfrage nach Krediten ___.",
+      "loesung": "ankurbeln",
+      "optionen": [
+        "abwürgen",
+        "ankurbeln",
+        "ankreuzen",
+        "anklagen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0298",
+    "wort": "stagnieren",
+    "wortart": "Verb",
+    "formen": "stagniert, stagnierte, hat stagniert",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Sich nicht weiterentwickeln; gleich bleiben, ohne zu wachsen.",
+    "synonyme": [
+      "stillstehen",
+      "auf der Stelle treten"
+    ],
+    "antonyme": [
+      "wachsen",
+      "zunehmen"
+    ],
+    "wortfamilie": [
+      "die Stagnation",
+      "stagnierend"
+    ],
+    "kollokationen": [
+      "die Löhne stagnieren",
+      "auf niedrigem Niveau stagnieren"
+    ],
+    "beispiel": "Die deutsche Wirtschaft stagniert seit mehreren Jahren nahezu.",
+    "luecke": {
+      "satz": "Während die Mieten stark stiegen, ___ die Reallöhne über viele Jahre.",
+      "loesung": "stagnierten",
+      "optionen": [
+        "stimulierten",
+        "stagnierten",
+        "stabilisierten",
+        "sanierten"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0299",
+    "wort": "schrumpfen",
+    "wortart": "Verb",
+    "formen": "schrumpft, schrumpfte, ist geschrumpft",
+    "thema": "wirtschaft",
+    "register": "neutral",
+    "erklaerung": "Kleiner oder weniger werden.",
+    "synonyme": [
+      "abnehmen",
+      "zurückgehen"
+    ],
+    "antonyme": [
+      "wachsen",
+      "zunehmen"
+    ],
+    "wortfamilie": [
+      "die Schrumpfung",
+      "geschrumpft"
+    ],
+    "kollokationen": [
+      "die Wirtschaft schrumpft",
+      "um zwei Prozent schrumpfen"
+    ],
+    "beispiel": "Im Jahr 2023 ist die deutsche Wirtschaft leicht geschrumpft.",
+    "luecke": {
+      "satz": "Weil immer weniger Kunden kamen, ist der Umsatz des Ladens um ein Drittel ___.",
+      "loesung": "geschrumpft",
+      "optionen": [
+        "geschrubbt",
+        "gestrichen",
+        "geschrumpft",
+        "geschrammt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0300",
+    "wort": "investieren in + A",
+    "wortart": "Verb",
+    "formen": "investiert, investierte, hat investiert",
+    "thema": "wirtschaft",
+    "register": "neutral",
+    "erklaerung": "Geld (oder Zeit) für etwas einsetzen, damit es später einen Nutzen bringt.",
+    "synonyme": [
+      "anlegen",
+      "Geld stecken in"
+    ],
+    "antonyme": [
+      "desinvestieren"
+    ],
+    "wortfamilie": [
+      "die Investition",
+      "der Investor"
+    ],
+    "kollokationen": [
+      "in Bildung investieren",
+      "Milliarden investieren"
+    ],
+    "beispiel": "Das Land NRW will mehr in die Ausstattung von Biologie- und Chemieräumen an Schulen investieren.",
+    "luecke": {
+      "satz": "Wer in die Weiterbildung seiner Mitarbeitenden ___, bindet sie langfristig an das Unternehmen.",
+      "loesung": "investiert",
+      "optionen": [
+        "interessiert",
+        "inszeniert",
+        "informiert",
+        "investiert"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0301",
+    "wort": "auslagern",
+    "wortart": "Verb",
+    "formen": "lagert aus, lagerte aus, hat ausgelagert",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Eine Aufgabe oder Abteilung an eine andere Firma oder in ein anderes Land abgeben.",
+    "synonyme": [
+      "outsourcen",
+      "ausgliedern"
+    ],
+    "antonyme": [
+      "eingliedern"
+    ],
+    "wortfamilie": [
+      "die Auslagerung",
+      "das Lager"
+    ],
+    "kollokationen": [
+      "die Produktion ins Ausland auslagern",
+      "Dienstleistungen auslagern"
+    ],
+    "beispiel": "Viele internationale Firmen haben ihre Kundenservice-Hotlines auf die Philippinen ausgelagert.",
+    "luecke": {
+      "satz": "Um Kosten zu sparen, hat die Bank ihre IT-Abteilung an einen externen Dienstleister ___.",
+      "loesung": "ausgelagert",
+      "optionen": [
+        "ausgeladen",
+        "ausgelastet",
+        "ausgelagert",
+        "ausgelacht"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0302",
+    "wort": "erwirtschaften",
+    "wortart": "Verb",
+    "formen": "erwirtschaftet, erwirtschaftete, hat erwirtschaftet",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Durch wirtschaftliche Tätigkeit einen Gewinn oder Geld erzielen.",
+    "synonyme": [
+      "erzielen",
+      "verdienen"
+    ],
+    "antonyme": [
+      "Verluste machen"
+    ],
+    "wortfamilie": [
+      "die Wirtschaft",
+      "wirtschaftlich",
+      "wirtschaften"
+    ],
+    "kollokationen": [
+      "einen Gewinn erwirtschaften",
+      "Überschüsse erwirtschaften"
+    ],
+    "beispiel": "Die Genossenschaft erwirtschaftete im letzten Jahr einen kleinen Überschuss.",
+    "luecke": {
+      "satz": "Das Start-up hat im dritten Jahr erstmals einen Gewinn ___.",
+      "loesung": "erwirtschaftet",
+      "optionen": [
+        "erwirtschaftet",
+        "bewirtschaftet",
+        "bewirtet",
+        "verwirkt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0303",
+    "wort": "sich erholen von + D",
+    "wortart": "Verb",
+    "formen": "erholt sich, erholte sich, hat sich erholt",
+    "thema": "wirtschaft",
+    "register": "neutral",
+    "erklaerung": "Nach einer schlechten Phase wieder stärker oder gesund werden.",
+    "synonyme": [
+      "sich regenerieren",
+      "wieder aufleben"
+    ],
+    "antonyme": [
+      "sich verschlechtern"
+    ],
+    "wortfamilie": [
+      "die Erholung",
+      "erholsam"
+    ],
+    "kollokationen": [
+      "sich von der Krise erholen",
+      "sich langsam erholen"
+    ],
+    "beispiel": "Der Tourismus auf den Philippinen hat sich von der Pandemie weitgehend erholt.",
+    "luecke": {
+      "satz": "Die Aktienkurse haben sich ___ dem Einbruch im Frühjahr schnell erholt.",
+      "loesung": "von",
+      "optionen": [
+        "aus",
+        "von",
+        "an",
+        "über"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0304",
+    "wort": "abfedern",
+    "wortart": "Verb",
+    "formen": "federt ab, federte ab, hat abgefedert",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Negative Folgen abschwächen, sodass sie weniger hart treffen.",
+    "synonyme": [
+      "abmildern",
+      "dämpfen"
+    ],
+    "antonyme": [
+      "verschärfen"
+    ],
+    "wortfamilie": [
+      "die Feder",
+      "die Abfederung"
+    ],
+    "kollokationen": [
+      "soziale Härten abfedern",
+      "die Folgen der Krise abfedern"
+    ],
+    "beispiel": "Ein Heizkostenzuschuss sollte die hohen Energiepreise für Studierende abfedern.",
+    "luecke": {
+      "satz": "Das Kurzarbeitergeld hat die Folgen der Krise für viele Beschäftigte ___.",
+      "loesung": "abgefedert",
+      "optionen": [
+        "abgefertigt",
+        "abgeführt",
+        "abgefeiert",
+        "abgefedert"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0305",
+    "wort": "drosseln",
+    "wortart": "Verb",
+    "formen": "drosselt, drosselte, hat gedrosselt",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Etwas bewusst verringern oder langsamer machen, z. B. die Produktion oder das Tempo.",
+    "synonyme": [
+      "reduzieren",
+      "herunterfahren"
+    ],
+    "antonyme": [
+      "steigern",
+      "hochfahren"
+    ],
+    "wortfamilie": [
+      "die Drosselung"
+    ],
+    "kollokationen": [
+      "die Produktion drosseln",
+      "die Geschwindigkeit drosseln"
+    ],
+    "beispiel": "Wegen fehlender Bauteile musste das Werk die Produktion drosseln.",
+    "luecke": {
+      "satz": "Wegen der hohen Gaspreise hat die Chemiefabrik ihre Produktion deutlich ___.",
+      "loesung": "gedrosselt",
+      "optionen": [
+        "gedroschen",
+        "gedrosselt",
+        "gedrängelt",
+        "geduldet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0306",
+    "wort": "sich verteuern",
+    "wortart": "Verb",
+    "formen": "verteuert sich, verteuerte sich, hat sich verteuert",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Teurer werden.",
+    "synonyme": [
+      "teurer werden",
+      "im Preis steigen"
+    ],
+    "antonyme": [
+      "sich verbilligen"
+    ],
+    "wortfamilie": [
+      "teuer",
+      "die Verteuerung",
+      "die Teuerung"
+    ],
+    "kollokationen": [
+      "Lebensmittel verteuern sich",
+      "sich deutlich verteuern"
+    ],
+    "beispiel": "Seit Beginn des Krieges in der Ukraine haben sich Energie und Lebensmittel stark verteuert.",
+    "luecke": {
+      "satz": "Durch den steigenden CO₂-Preis wird sich das Heizen mit Öl und Gas in den nächsten Jahren weiter ___.",
+      "loesung": "verteuern",
+      "optionen": [
+        "verteilen",
+        "verteidigen",
+        "verbilligen",
+        "verteuern"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0307",
+    "wort": "rentabel",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "So, dass sich etwas finanziell lohnt und Gewinn bringt.",
+    "synonyme": [
+      "lukrativ",
+      "gewinnbringend"
+    ],
+    "antonyme": [
+      "unrentabel",
+      "defizitär"
+    ],
+    "wortfamilie": [
+      "die Rentabilität",
+      "die Rendite"
+    ],
+    "kollokationen": [
+      "rentabel arbeiten",
+      "ein rentables Geschäft"
+    ],
+    "beispiel": "Kleine Dorfläden sind oft nicht mehr rentabel.",
+    "luecke": {
+      "satz": "Die Buslinie wird eingestellt, weil sie für das Verkehrsunternehmen nicht ___ ist.",
+      "loesung": "rentabel",
+      "optionen": [
+        "renitent",
+        "redselig",
+        "rentabel",
+        "reversibel"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0308",
+    "wort": "volkswirtschaftlich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Die Wirtschaft eines ganzen Landes betreffend.",
+    "synonyme": [
+      "gesamtwirtschaftlich",
+      "makroökonomisch"
+    ],
+    "antonyme": [
+      "betriebswirtschaftlich"
+    ],
+    "wortfamilie": [
+      "die Volkswirtschaft",
+      "die Volkswirtschaftslehre"
+    ],
+    "kollokationen": [
+      "volkswirtschaftlicher Schaden",
+      "volkswirtschaftlich sinnvoll"
+    ],
+    "beispiel": "Der Lehrkräftemangel verursacht langfristig einen großen volkswirtschaftlichen Schaden.",
+    "luecke": {
+      "satz": "Krankheitsbedingte Ausfälle kosten nicht nur die einzelnen Unternehmen Geld, sondern verursachen auch einen hohen ___ Schaden.",
+      "loesung": "volkswirtschaftlichen",
+      "optionen": [
+        "volkstümlichen",
+        "volljährigen",
+        "volkswirtschaftlichen",
+        "vollmundigen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0309",
+    "wort": "exportorientiert",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Stark darauf ausgerichtet, Waren ins Ausland zu verkaufen.",
+    "synonyme": [
+      "exportabhängig"
+    ],
+    "antonyme": [
+      "binnenorientiert"
+    ],
+    "wortfamilie": [
+      "der Export",
+      "exportieren",
+      "die Orientierung"
+    ],
+    "kollokationen": [
+      "eine exportorientierte Wirtschaft",
+      "exportorientierte Unternehmen"
+    ],
+    "beispiel": "Als stark exportorientiertes Land leidet Deutschland besonders unter Handelskonflikten.",
+    "luecke": {
+      "satz": "Zölle treffen vor allem ___ Branchen wie den Maschinenbau.",
+      "loesung": "exportorientierte",
+      "optionen": [
+        "exotische",
+        "explosive",
+        "exklusive",
+        "exportorientierte"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0310",
+    "wort": "krisenfest",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "neutral",
+    "erklaerung": "So stabil, dass es auch in einer Krise sicher bleibt.",
+    "synonyme": [
+      "krisensicher",
+      "robust"
+    ],
+    "antonyme": [
+      "krisenanfällig"
+    ],
+    "wortfamilie": [
+      "die Krise",
+      "fest"
+    ],
+    "kollokationen": [
+      "ein krisenfester Arbeitsplatz",
+      "krisenfest aufgestellt sein"
+    ],
+    "beispiel": "Viele junge Menschen wählen den Lehrerberuf auch, weil er als krisenfest gilt.",
+    "luecke": {
+      "satz": "Durch mehrere Lieferanten will die Firma ihre Produktion ___ machen.",
+      "loesung": "krisenfest",
+      "optionen": [
+        "krisenfest",
+        "krisenhaft",
+        "kritisch",
+        "kreisförmig"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0311",
+    "wort": "inflationsbereinigt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "So berechnet, dass der Einfluss der Preissteigerung herausgerechnet ist.",
+    "synonyme": [
+      "real"
+    ],
+    "antonyme": [
+      "nominal"
+    ],
+    "wortfamilie": [
+      "die Inflation",
+      "bereinigen"
+    ],
+    "kollokationen": [
+      "inflationsbereinigte Löhne",
+      "inflationsbereinigt gesunken"
+    ],
+    "beispiel": "Inflationsbereinigt verdienen viele Beschäftigte heute weniger als vor fünf Jahren.",
+    "luecke": {
+      "satz": "Zwar stiegen die Löhne nominal um drei Prozent, ___ blieb davon aber kaum etwas übrig.",
+      "loesung": "inflationsbereinigt",
+      "optionen": [
+        "inflationär",
+        "inflationsbereinigt",
+        "informationell",
+        "inflationsfrei"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0312",
+    "wort": "kostendeckend",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "So, dass die Einnahmen genau die Kosten bezahlen, ohne Verlust.",
+    "synonyme": [
+      "kostenneutral"
+    ],
+    "antonyme": [
+      "defizitär",
+      "verlustbringend"
+    ],
+    "wortfamilie": [
+      "die Kosten",
+      "decken",
+      "die Kostendeckung"
+    ],
+    "kollokationen": [
+      "kostendeckend arbeiten",
+      "kostendeckende Preise"
+    ],
+    "beispiel": "Mit den Eintrittspreisen allein kann das Schwimmbad nicht kostendeckend betrieben werden.",
+    "luecke": {
+      "satz": "Die Mensa kann ihr Essen nur deshalb so günstig anbieten, weil sie nicht ___ arbeiten muss.",
+      "loesung": "kostendeckend",
+      "optionen": [
+        "kostenlos",
+        "kostspielig",
+        "kostenpflichtig",
+        "kostendeckend"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0313",
+    "wort": "unterm Strich",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "muendlich",
+    "erklaerung": "Am Ende, wenn man alles zusammenrechnet oder alles berücksichtigt (schriftlich: unter dem Strich).",
+    "synonyme": [
+      "letztlich",
+      "alles in allem"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Strich"
+    ],
+    "kollokationen": [
+      "unterm Strich bleibt wenig übrig",
+      "unterm Strich lohnt sich das"
+    ],
+    "beispiel": "Nach Abzug von Miete und Versicherungen bleibt ihr vom Lehrerinnengehalt unterm Strich weniger als erwartet.",
+    "luecke": {
+      "satz": "Die Reform kostet zunächst viel Geld, unterm ___ spart der Staat aber langfristig.",
+      "loesung": "Strich",
+      "optionen": [
+        "Strang",
+        "Strich",
+        "Stich",
+        "Strauch"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0314",
+    "wort": "zu Buche schlagen",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "Sich (meist finanziell) deutlich bemerkbar machen.",
+    "synonyme": [
+      "ins Gewicht fallen",
+      "sich bemerkbar machen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Buch",
+      "die Buchhaltung"
+    ],
+    "kollokationen": [
+      "mit 500 Euro zu Buche schlagen",
+      "deutlich zu Buche schlagen"
+    ],
+    "beispiel": "Die Übersetzung und Beglaubigung ihrer Zeugnisse schlug mit fast 400 Euro zu Buche.",
+    "luecke": {
+      "satz": "Die gestiegenen Energiekosten schlagen in der Bilanz des Unternehmens deutlich zu ___.",
+      "loesung": "Buche",
+      "optionen": [
+        "Bühne",
+        "Boden",
+        "Buche",
+        "Bank"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0315",
+    "wort": "zulasten + G",
+    "wortart": "Präposition",
+    "formen": "",
+    "thema": "wirtschaft",
+    "register": "schriftlich",
+    "erklaerung": "So, dass jemand den Nachteil oder die Kosten tragen muss (auch: zu Lasten).",
+    "synonyme": [
+      "auf Kosten von"
+    ],
+    "antonyme": [
+      "zugunsten"
+    ],
+    "wortfamilie": [
+      "die Last",
+      "belasten"
+    ],
+    "kollokationen": [
+      "zulasten der Steuerzahler",
+      "zulasten der Qualität gehen"
+    ],
+    "beispiel": "Größere Klassen gehen oft zulasten der individuellen Förderung der Schülerinnen und Schüler.",
+    "luecke": {
+      "satz": "Der Preiskampf der Supermärkte geht vor allem ___ der Landwirte, die immer weniger für ihre Milch bekommen.",
+      "loesung": "zulasten",
+      "optionen": [
+        "zugunsten",
+        "zulasten",
+        "zufolge",
+        "zuliebe"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0316",
+    "wort": "die Überalterung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "In einer Gesellschaft gibt es im Verhältnis zu den jungen Menschen sehr viele alte Menschen.",
+    "synonyme": [
+      "die Vergreisung"
+    ],
+    "antonyme": [
+      "die Verjüngung"
+    ],
+    "wortfamilie": [
+      "das Alter",
+      "altern",
+      "überaltert"
+    ],
+    "kollokationen": [
+      "die Überalterung der Gesellschaft",
+      "die Überalterung ländlicher Regionen"
+    ],
+    "beispiel": "Die Überalterung der Bevölkerung belastet die Renten- und Pflegeversicherung.",
+    "luecke": {
+      "satz": "Wegen der ___ der Dorfbevölkerung schließen immer mehr Grundschulen auf dem Land.",
+      "loesung": "Überalterung",
+      "optionen": [
+        "Überarbeitung",
+        "Übertreibung",
+        "Überalterung",
+        "Überweisung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0317",
+    "wort": "die Geburtenrate",
+    "wortart": "Nomen",
+    "formen": "die Geburtenraten",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Die durchschnittliche Zahl der Kinder pro Frau oder die Zahl der Geburten im Verhältnis zur Bevölkerung.",
+    "synonyme": [
+      "die Geburtenziffer",
+      "die Fertilitätsrate"
+    ],
+    "antonyme": [
+      "die Sterberate"
+    ],
+    "wortfamilie": [
+      "die Geburt",
+      "gebären"
+    ],
+    "kollokationen": [
+      "eine sinkende Geburtenrate",
+      "die Geburtenrate steigern"
+    ],
+    "beispiel": "Auch auf den Philippinen ist die Geburtenrate in den letzten Jahrzehnten deutlich gesunken.",
+    "luecke": {
+      "satz": "Mit etwa 1,35 Kindern pro Frau ist die ___ in Deutschland seit Jahren niedrig.",
+      "loesung": "Geburtenrate",
+      "optionen": [
+        "Geburtsurkunde",
+        "Geburtenrate",
+        "Geburtsstunde",
+        "Erfolgsrate"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0318",
+    "wort": "die Lebenserwartung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Die Zahl der Jahre, die ein Mensch im Durchschnitt voraussichtlich lebt.",
+    "synonyme": [
+      "die durchschnittliche Lebensdauer"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "erwarten",
+      "das Leben"
+    ],
+    "kollokationen": [
+      "die Lebenserwartung steigt",
+      "eine hohe Lebenserwartung"
+    ],
+    "beispiel": "Dank besserer Medizin und Ernährung ist die Lebenserwartung in Deutschland stark gestiegen.",
+    "luecke": {
+      "satz": "Frauen haben in Deutschland eine um etwa fünf Jahre höhere ___ als Männer.",
+      "loesung": "Lebenserwartung",
+      "optionen": [
+        "Lebenserfahrung",
+        "Lebensweise",
+        "Lebensfreude",
+        "Lebenserwartung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0319",
+    "wort": "die Alterspyramide",
+    "wortart": "Nomen",
+    "formen": "die Alterspyramiden",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Eine Grafik, die zeigt, wie viele Menschen in einer Bevölkerung welches Alter haben.",
+    "synonyme": [
+      "der Altersaufbau",
+      "die Bevölkerungspyramide"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Alter",
+      "die Pyramide"
+    ],
+    "kollokationen": [
+      "die Alterspyramide kippt",
+      "eine Alterspyramide auswerten"
+    ],
+    "beispiel": "Die Alterspyramide der Philippinen hat noch eine breite Basis, die deutsche gleicht dagegen eher einer Urne.",
+    "luecke": {
+      "satz": "In der Grafik sieht man, dass die ___ Deutschlands längst keine Pyramidenform mehr hat.",
+      "loesung": "Alterspyramide",
+      "optionen": [
+        "Alterspyramide",
+        "Altersvorsorge",
+        "Altersgrenze",
+        "Altersteilzeit"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0320",
+    "wort": "die Abwanderung",
+    "wortart": "Nomen",
+    "formen": "die Abwanderungen",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Viele Menschen verlassen eine Region dauerhaft, z. B. um woanders Arbeit zu finden.",
+    "synonyme": [
+      "der Wegzug",
+      "die Emigration"
+    ],
+    "antonyme": [
+      "die Zuwanderung",
+      "der Zuzug"
+    ],
+    "wortfamilie": [
+      "abwandern",
+      "wandern"
+    ],
+    "kollokationen": [
+      "die Abwanderung junger Menschen",
+      "Abwanderung in die Städte"
+    ],
+    "beispiel": "Die Abwanderung junger Frauen aus ländlichen Regionen Ostdeutschlands hat viele Dörfer verändert.",
+    "luecke": {
+      "satz": "Um die ___ von Ärztinnen ins Ausland zu stoppen, erhöht das Land die Gehälter.",
+      "loesung": "Abwanderung",
+      "optionen": [
+        "Abwendung",
+        "Abwertung",
+        "Abwanderung",
+        "Abwechslung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0321",
+    "wort": "der Zuzug",
+    "wortart": "Nomen",
+    "formen": "die Zuzüge",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Menschen ziehen neu in einen Ort, eine Region oder ein Land.",
+    "synonyme": [
+      "die Zuwanderung"
+    ],
+    "antonyme": [
+      "der Wegzug",
+      "die Abwanderung"
+    ],
+    "wortfamilie": [
+      "ziehen",
+      "zuziehen"
+    ],
+    "kollokationen": [
+      "der Zuzug von Familien",
+      "Zuzug in die Großstädte"
+    ],
+    "beispiel": "Durch den Zuzug junger Familien braucht die Gemeinde dringend eine neue Kita.",
+    "luecke": {
+      "satz": "Ohne den ___ aus dem Ausland würde die Bevölkerung in Deutschland schrumpfen.",
+      "loesung": "Zuzug",
+      "optionen": [
+        "Bezug",
+        "Auszug",
+        "Zuzug",
+        "Aufzug"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0322",
+    "wort": "die Erwerbsbevölkerung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Alle Menschen in einem Land, die im arbeitsfähigen Alter sind und arbeiten oder arbeiten könnten.",
+    "synonyme": [
+      "das Erwerbspersonenpotenzial"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "erwerbsfähig",
+      "die Bevölkerung",
+      "der Erwerb"
+    ],
+    "kollokationen": [
+      "die Erwerbsbevölkerung schrumpft",
+      "der Anteil an der Erwerbsbevölkerung"
+    ],
+    "beispiel": "Ohne Zuwanderung würde die Erwerbsbevölkerung in Deutschland in den nächsten Jahren deutlich kleiner.",
+    "luecke": {
+      "satz": "Wenn die geburtenstarken Jahrgänge in Rente gehen, schrumpft die ___ erheblich.",
+      "loesung": "Erwerbsbevölkerung",
+      "optionen": [
+        "Erwerbsminderung",
+        "Weltbevölkerung",
+        "Erwerbsbevölkerung",
+        "Bevölkerungsumfrage"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0323",
+    "wort": "der Generationenvertrag",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Das Prinzip, dass die arbeitende Generation mit ihren Beiträgen die Renten der älteren Generation bezahlt.",
+    "synonyme": [
+      "das Umlageverfahren"
+    ],
+    "antonyme": [
+      "das Kapitaldeckungsverfahren"
+    ],
+    "wortfamilie": [
+      "die Generation",
+      "der Vertrag",
+      "generationenübergreifend"
+    ],
+    "kollokationen": [
+      "der Generationenvertrag gerät unter Druck",
+      "den Generationenvertrag aufkündigen"
+    ],
+    "beispiel": "Weil immer weniger Beitragszahler immer mehr Rentner finanzieren, gerät der Generationenvertrag unter Druck.",
+    "luecke": {
+      "satz": "Nach dem ___ zahlen die heute Erwerbstätigen die Renten der heutigen Rentnerinnen und Rentner.",
+      "loesung": "Generationenvertrag",
+      "optionen": [
+        "Generationenkonflikt",
+        "Arbeitsvertrag",
+        "Generationenvertrag",
+        "Kaufvertrag"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0324",
+    "wort": "die Hochrechnung",
+    "wortart": "Nomen",
+    "formen": "die Hochrechnungen",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Eine Schätzung für die Zukunft oder für das Ganze, die auf vorhandenen Daten beruht.",
+    "synonyme": [
+      "die Projektion",
+      "die Schätzung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "hochrechnen",
+      "rechnen"
+    ],
+    "kollokationen": [
+      "laut einer Hochrechnung",
+      "eine Hochrechnung erstellen"
+    ],
+    "beispiel": "Hochrechnungen zufolge fehlen in NRW in den nächsten Jahren Tausende Lehrkräfte, vor allem in den MINT-Fächern.",
+    "luecke": {
+      "satz": "Nach der ersten ___ am Wahlabend liegt die Partei bei 24 Prozent.",
+      "loesung": "Hochrechnung",
+      "optionen": [
+        "Hochrechnung",
+        "Hochschule",
+        "Hochzeit",
+        "Hochebene"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0325",
+    "wort": "die Pflegebedürftigkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Ein Mensch kann wegen Alter oder Krankheit seinen Alltag nicht mehr allein bewältigen und braucht Hilfe.",
+    "synonyme": [
+      "die Hilfsbedürftigkeit"
+    ],
+    "antonyme": [
+      "die Selbstständigkeit"
+    ],
+    "wortfamilie": [
+      "pflegebedürftig",
+      "die Pflege",
+      "bedürftig"
+    ],
+    "kollokationen": [
+      "der Grad der Pflegebedürftigkeit",
+      "im Fall von Pflegebedürftigkeit"
+    ],
+    "beispiel": "Mit dem Alter steigt das Risiko der Pflegebedürftigkeit deutlich.",
+    "luecke": {
+      "satz": "Die Pflegeversicherung zahlt je nach Grad der ___ unterschiedliche Leistungen.",
+      "loesung": "Pflegebedürftigkeit",
+      "optionen": [
+        "Pflegeleichtigkeit",
+        "Hilfsbereitschaft",
+        "Pflegebedürftigkeit",
+        "Bedürfnislosigkeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0326",
+    "wort": "die Altersarmut",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Arm sein im Alter, weil die Rente nicht für ein normales Leben reicht.",
+    "synonyme": [
+      "die Armut im Alter"
+    ],
+    "antonyme": [
+      "der Wohlstand im Alter"
+    ],
+    "wortfamilie": [
+      "arm",
+      "das Alter",
+      "verarmen"
+    ],
+    "kollokationen": [
+      "von Altersarmut bedroht sein",
+      "Altersarmut vorbeugen"
+    ],
+    "beispiel": "Frauen, die lange in Teilzeit gearbeitet haben, sind besonders von Altersarmut bedroht.",
+    "luecke": {
+      "satz": "Eine kleine Rente und hohe Mieten erhöhen das Risiko für ___.",
+      "loesung": "Altersarmut",
+      "optionen": [
+        "Altersweisheit",
+        "Altersarmut",
+        "Altersgrenze",
+        "Altersteilzeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0327",
+    "wort": "die Kohorte",
+    "wortart": "Nomen",
+    "formen": "die Kohorten",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Eine Gruppe von Menschen, die etwas gemeinsam haben, z. B. das gleiche Geburtsjahr.",
+    "synonyme": [
+      "der Jahrgang",
+      "die Gruppe"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Kohortenstudie"
+    ],
+    "kollokationen": [
+      "die Kohorte der Babyboomer",
+      "geburtenstarke Kohorten"
+    ],
+    "beispiel": "Die Studie vergleicht die Kohorte der 1964 Geborenen mit der der 1990 Geborenen.",
+    "luecke": {
+      "satz": "Die Forschenden begleiten eine ___ von 2.000 Kindern, die alle im selben Jahr geboren wurden, bis ins Erwachsenenalter.",
+      "loesung": "Kohorte",
+      "optionen": [
+        "Kolonne",
+        "Kohle",
+        "Kolumne",
+        "Kohorte"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0328",
+    "wort": "der Nachwuchs",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "demografie",
+    "register": "neutral",
+    "erklaerung": "Die junge Generation, die später Aufgaben übernimmt; auch: die Kinder einer Familie.",
+    "synonyme": [
+      "die nächste Generation",
+      "die Nachkommen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "nachwachsen",
+      "wachsen"
+    ],
+    "kollokationen": [
+      "Nachwuchs gewinnen",
+      "der wissenschaftliche Nachwuchs",
+      "Nachwuchs bekommen"
+    ],
+    "beispiel": "Viele Handwerksbetriebe finden keinen Nachwuchs mehr.",
+    "luecke": {
+      "satz": "Den Schulen fehlt vor allem in Mathematik und in den Naturwissenschaften der ___.",
+      "loesung": "Nachwuchs",
+      "optionen": [
+        "Nachweis",
+        "Nachwuchs",
+        "Nachlass",
+        "Nachschlag"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0329",
+    "wort": "die Landflucht",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Viele Menschen ziehen vom Land in die Städte.",
+    "synonyme": [
+      "die Abwanderung in die Städte"
+    ],
+    "antonyme": [
+      "die Stadtflucht"
+    ],
+    "wortfamilie": [
+      "das Land",
+      "die Flucht",
+      "flüchten"
+    ],
+    "kollokationen": [
+      "die Landflucht stoppen",
+      "unter Landflucht leiden"
+    ],
+    "beispiel": "Die Landflucht auf den Philippinen lässt den Großraum Manila immer weiter wachsen.",
+    "luecke": {
+      "satz": "Wegen der ___ stehen in manchen Dörfern ganze Straßenzüge leer.",
+      "loesung": "Landflucht",
+      "optionen": [
+        "Landwirtschaft",
+        "Landkarte",
+        "Landflucht",
+        "Landebahn"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0330",
+    "wort": "die Bevölkerungsdichte",
+    "wortart": "Nomen",
+    "formen": "die Bevölkerungsdichten",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Die Zahl der Menschen, die pro Quadratkilometer in einem Gebiet leben.",
+    "synonyme": [
+      "die Besiedlungsdichte"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Bevölkerung",
+      "dicht",
+      "dicht besiedelt"
+    ],
+    "kollokationen": [
+      "eine hohe Bevölkerungsdichte",
+      "die Bevölkerungsdichte nimmt ab"
+    ],
+    "beispiel": "Manila hat eine der höchsten Bevölkerungsdichten der Welt.",
+    "luecke": {
+      "satz": "Das Ruhrgebiet hat eine deutlich höhere ___ als die Eifel.",
+      "loesung": "Bevölkerungsdichte",
+      "optionen": [
+        "Bevölkerungsgruppe",
+        "Bevölkerungsumfrage",
+        "Bevölkerungsmehrheit",
+        "Bevölkerungsdichte"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0331",
+    "wort": "altern",
+    "wortart": "Verb",
+    "formen": "altert, alterte, ist gealtert",
+    "thema": "demografie",
+    "register": "neutral",
+    "erklaerung": "Älter werden; bei einer Gesellschaft: Der Anteil alter Menschen wird größer.",
+    "synonyme": [
+      "älter werden",
+      "vergreisen"
+    ],
+    "antonyme": [
+      "sich verjüngen"
+    ],
+    "wortfamilie": [
+      "das Alter",
+      "die Alterung",
+      "alt"
+    ],
+    "kollokationen": [
+      "eine alternde Gesellschaft",
+      "schnell altern"
+    ],
+    "beispiel": "Japan und Deutschland gehören zu den Gesellschaften, die am schnellsten altern.",
+    "luecke": {
+      "satz": "Weil die Gesellschaft ___, werden immer mehr Pflegekräfte gebraucht.",
+      "loesung": "altert",
+      "optionen": [
+        "altert",
+        "ändert",
+        "ältet",
+        "alteriert"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0332",
+    "wort": "schwinden",
+    "wortart": "Verb",
+    "formen": "schwindet, schwand, ist geschwunden",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Langsam weniger werden und verschwinden.",
+    "synonyme": [
+      "abnehmen",
+      "zurückgehen"
+    ],
+    "antonyme": [
+      "wachsen",
+      "zunehmen"
+    ],
+    "wortfamilie": [
+      "verschwinden",
+      "der Schwund"
+    ],
+    "kollokationen": [
+      "das Vertrauen schwindet",
+      "die Hoffnung schwindet"
+    ],
+    "beispiel": "In vielen Dörfern schwindet mit der Bevölkerung auch die Infrastruktur.",
+    "luecke": {
+      "satz": "Mit jedem Jahr ___ die Hoffnung der Gemeinde, dass junge Familien zurückkehren.",
+      "loesung": "schwindet",
+      "optionen": [
+        "schwingt",
+        "schwitzt",
+        "schwimmt",
+        "schwindet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0333",
+    "wort": "verjüngen",
+    "wortart": "Verb",
+    "formen": "verjüngt, verjüngte, hat verjüngt",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Jünger machen; z. B. den Altersdurchschnitt in einem Team senken (auch: sich verjüngen = jünger werden).",
+    "synonyme": [
+      "erneuern",
+      "auffrischen"
+    ],
+    "antonyme": [
+      "altern",
+      "überaltern"
+    ],
+    "wortfamilie": [
+      "jung",
+      "die Verjüngung"
+    ],
+    "kollokationen": [
+      "das Team verjüngen",
+      "sich verjüngen"
+    ],
+    "beispiel": "Durch viele Neueinstellungen hat sich das Kollegium der Schule stark verjüngt.",
+    "luecke": {
+      "satz": "Der Verein möchte seinen Vorstand ___ und sucht deshalb junge Mitglieder.",
+      "loesung": "verjüngen",
+      "optionen": [
+        "verjähren",
+        "verjüngen",
+        "verjagen",
+        "verjubeln"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0334",
+    "wort": "sich verschieben",
+    "wortart": "Verb",
+    "formen": "verschiebt sich, verschob sich, hat sich verschoben",
+    "thema": "demografie",
+    "register": "neutral",
+    "erklaerung": "Sich in eine andere Richtung oder auf einen anderen Zeitpunkt bewegen; z. B.: ein Verhältnis ändert sich.",
+    "synonyme": [
+      "sich verlagern",
+      "sich ändern"
+    ],
+    "antonyme": [
+      "gleich bleiben"
+    ],
+    "wortfamilie": [
+      "die Verschiebung",
+      "schieben"
+    ],
+    "kollokationen": [
+      "das Verhältnis verschiebt sich",
+      "die Altersstruktur verschiebt sich"
+    ],
+    "beispiel": "Das Verhältnis zwischen Beitragszahlern und Rentnern verschiebt sich immer weiter.",
+    "luecke": {
+      "satz": "Durch die sinkende Geburtenrate hat sich die Altersstruktur deutlich nach oben ___.",
+      "loesung": "verschoben",
+      "optionen": [
+        "verschrieben",
+        "verschwiegen",
+        "verschuldet",
+        "verschoben"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0335",
+    "wort": "absichern",
+    "wortart": "Verb",
+    "formen": "sichert ab, sicherte ab, hat abgesichert",
+    "thema": "demografie",
+    "register": "neutral",
+    "erklaerung": "Sich oder jemanden gegen Risiken schützen, z. B. durch eine Versicherung.",
+    "synonyme": [
+      "schützen",
+      "vorsorgen"
+    ],
+    "antonyme": [
+      "gefährden"
+    ],
+    "wortfamilie": [
+      "sicher",
+      "die Absicherung",
+      "die Sicherheit"
+    ],
+    "kollokationen": [
+      "sich finanziell absichern",
+      "im Alter abgesichert sein"
+    ],
+    "beispiel": "Viele Selbstständige sind für das Alter kaum abgesichert.",
+    "luecke": {
+      "satz": "Mit einer privaten Rentenversicherung möchte sie sich für das Alter zusätzlich ___.",
+      "loesung": "absichern",
+      "optionen": [
+        "absagen",
+        "absichern",
+        "abstimmen",
+        "absitzen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0336",
+    "wort": "gegensteuern",
+    "wortart": "Verb",
+    "formen": "steuert gegen, steuerte gegen, hat gegengesteuert",
+    "thema": "demografie",
+    "register": "neutral",
+    "erklaerung": "Etwas tun, um eine negative Entwicklung zu stoppen oder umzukehren.",
+    "synonyme": [
+      "entgegenwirken"
+    ],
+    "antonyme": [
+      "geschehen lassen"
+    ],
+    "wortfamilie": [
+      "steuern",
+      "die Steuerung",
+      "gegen"
+    ],
+    "kollokationen": [
+      "rechtzeitig gegensteuern",
+      "politisch gegensteuern"
+    ],
+    "beispiel": "Die Landesregierung will mit mehr Studienplätzen für das Lehramt gegensteuern.",
+    "luecke": {
+      "satz": "Wenn die Politik nicht rechtzeitig ___, fehlen in zehn Jahren Hunderttausende Pflegekräfte.",
+      "loesung": "gegensteuert",
+      "optionen": [
+        "gegenübersteht",
+        "gegensteuert",
+        "gegenzeichnet",
+        "gegenüberstellt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0337",
+    "wort": "sich halbieren",
+    "wortart": "Verb",
+    "formen": "halbiert sich, halbierte sich, hat sich halbiert",
+    "thema": "demografie",
+    "register": "neutral",
+    "erklaerung": "Nur noch halb so groß oder halb so viel werden.",
+    "synonyme": [
+      "um die Hälfte sinken"
+    ],
+    "antonyme": [
+      "sich verdoppeln"
+    ],
+    "wortfamilie": [
+      "halb",
+      "die Hälfte",
+      "die Halbierung"
+    ],
+    "kollokationen": [
+      "die Zahl hat sich halbiert",
+      "sich innerhalb von zehn Jahren halbieren"
+    ],
+    "beispiel": "Die Zahl der Geburten in Deutschland hat sich seit Mitte der 1960er-Jahre ungefähr halbiert.",
+    "luecke": {
+      "satz": "In vielen Dörfern hat sich die Zahl der Einwohner seit 1990 ___.",
+      "loesung": "halbiert",
+      "optionen": [
+        "halbtags",
+        "behalten",
+        "halbiert",
+        "verhalten"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0338",
+    "wort": "ausscheiden aus + D",
+    "wortart": "Verb",
+    "formen": "scheidet aus, schied aus, ist ausgeschieden",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Eine Gruppe, eine Firma oder das Berufsleben verlassen.",
+    "synonyme": [
+      "austreten",
+      "verlassen"
+    ],
+    "antonyme": [
+      "eintreten in"
+    ],
+    "wortfamilie": [
+      "das Ausscheiden",
+      "scheiden"
+    ],
+    "kollokationen": [
+      "aus dem Berufsleben ausscheiden",
+      "altersbedingt ausscheiden"
+    ],
+    "beispiel": "In den nächsten zehn Jahren scheiden viele Lehrkräfte altersbedingt aus dem Schuldienst aus.",
+    "luecke": {
+      "satz": "Wenn die Babyboomer aus dem Erwerbsleben ___, entsteht eine große Lücke.",
+      "loesung": "ausscheiden",
+      "optionen": [
+        "ausschneiden",
+        "ausschalten",
+        "ausscheiden",
+        "ausschließen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0339",
+    "wort": "versorgen",
+    "wortart": "Verb",
+    "formen": "versorgt, versorgte, hat versorgt",
+    "thema": "demografie",
+    "register": "neutral",
+    "erklaerung": "Jemandem geben, was er braucht (z. B. Essen, Pflege, Medizin).",
+    "synonyme": [
+      "betreuen",
+      "sich kümmern um"
+    ],
+    "antonyme": [
+      "vernachlässigen"
+    ],
+    "wortfamilie": [
+      "die Versorgung",
+      "sorgen",
+      "die Sorge"
+    ],
+    "kollokationen": [
+      "medizinisch versorgen",
+      "jemanden mit etwas versorgen"
+    ],
+    "beispiel": "Auf dem Land wird es immer schwieriger, alte Menschen medizinisch zu versorgen.",
+    "luecke": {
+      "satz": "Viele Angehörige ___ ihre pflegebedürftigen Eltern zu Hause.",
+      "loesung": "versorgen",
+      "optionen": [
+        "verursachen",
+        "versagen",
+        "verordnen",
+        "versorgen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0340",
+    "wort": "geburtenstark",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Mit sehr vielen Geburten; z. B. ein Jahrgang, in dem besonders viele Kinder geboren wurden.",
+    "synonyme": [],
+    "antonyme": [
+      "geburtenschwach"
+    ],
+    "wortfamilie": [
+      "die Geburt",
+      "stark"
+    ],
+    "kollokationen": [
+      "geburtenstarke Jahrgänge"
+    ],
+    "beispiel": "Die geburtenstarken Jahrgänge der 1960er-Jahre gehen jetzt nach und nach in Rente.",
+    "luecke": {
+      "satz": "In den ___ Jahrgängen der Babyboomer gab es pro Jahr oft über 1,3 Millionen Geburten.",
+      "loesung": "geburtenstarken",
+      "optionen": [
+        "geburtenschwachen",
+        "gebürtigen",
+        "geburtenstarken",
+        "gebundenen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0341",
+    "wort": "erwerbsfähig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Nach Alter und Gesundheit in der Lage, zu arbeiten und Geld zu verdienen.",
+    "synonyme": [
+      "arbeitsfähig"
+    ],
+    "antonyme": [
+      "erwerbsunfähig"
+    ],
+    "wortfamilie": [
+      "der Erwerb",
+      "die Erwerbsfähigkeit",
+      "erwerbstätig"
+    ],
+    "kollokationen": [
+      "im erwerbsfähigen Alter",
+      "erwerbsfähige Personen"
+    ],
+    "beispiel": "In Statistiken gilt meist das Alter zwischen 15 und 64 Jahren als erwerbsfähiges Alter.",
+    "luecke": {
+      "satz": "Der Anteil der Menschen im ___ Alter wird in den nächsten Jahren sinken.",
+      "loesung": "erwerbsfähigen",
+      "optionen": [
+        "erwerbbaren",
+        "erwartbaren",
+        "erfahrenen",
+        "erwerbsfähigen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0342",
+    "wort": "rückläufig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "So, dass etwas weniger wird oder zurückgeht.",
+    "synonyme": [
+      "abnehmend",
+      "sinkend"
+    ],
+    "antonyme": [
+      "steigend",
+      "zunehmend"
+    ],
+    "wortfamilie": [
+      "zurück",
+      "der Rücklauf"
+    ],
+    "kollokationen": [
+      "rückläufige Geburtenzahlen",
+      "rückläufig sein"
+    ],
+    "beispiel": "Die Zahl der Lehramtsstudierenden in den MINT-Fächern ist seit Jahren rückläufig.",
+    "luecke": {
+      "satz": "Die Schülerzahlen auf dem Land sind ___, deshalb werden Schulen zusammengelegt.",
+      "loesung": "rückläufig",
+      "optionen": [
+        "rückständig",
+        "rücksichtslos",
+        "rückläufig",
+        "rückwärts"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0343",
+    "wort": "hochbetagt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Sehr alt (meist über 80 Jahre).",
+    "synonyme": [
+      "hochaltrig",
+      "sehr alt"
+    ],
+    "antonyme": [
+      "jung"
+    ],
+    "wortfamilie": [
+      "betagt"
+    ],
+    "kollokationen": [
+      "hochbetagte Menschen",
+      "hochbetagte Eltern"
+    ],
+    "beispiel": "Die Zahl der hochbetagten Menschen in Deutschland wird bis 2050 deutlich steigen.",
+    "luecke": {
+      "satz": "Als ___ gelten in der Statistik meist Menschen ab 80 Jahren.",
+      "loesung": "hochbetagt",
+      "optionen": [
+        "hochbegabt",
+        "hochbezahlt",
+        "hochgradig",
+        "hochbetagt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0344",
+    "wort": "kinderlos",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "demografie",
+    "register": "neutral",
+    "erklaerung": "Ohne eigene Kinder.",
+    "synonyme": [
+      "ohne Nachwuchs"
+    ],
+    "antonyme": [
+      "kinderreich"
+    ],
+    "wortfamilie": [
+      "das Kind",
+      "die Kinderlosigkeit"
+    ],
+    "kollokationen": [
+      "kinderlose Paare",
+      "gewollt kinderlos"
+    ],
+    "beispiel": "Etwa jede fünfte Frau in Deutschland bleibt kinderlos.",
+    "luecke": {
+      "satz": "Immer mehr Paare bleiben ___, oft aus beruflichen oder finanziellen Gründen.",
+      "loesung": "kinderlos",
+      "optionen": [
+        "kindisch",
+        "kinderlos",
+        "kinderleicht",
+        "kindgerecht"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0345",
+    "wort": "im Zuge + G",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "demografie",
+    "register": "schriftlich",
+    "erklaerung": "Im Rahmen einer Entwicklung; als Teil oder Folge davon.",
+    "synonyme": [
+      "im Rahmen",
+      "im Verlauf"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Zug",
+      "ziehen"
+    ],
+    "kollokationen": [
+      "im Zuge des demografischen Wandels",
+      "im Zuge der Reform"
+    ],
+    "beispiel": "Im Zuge des demografischen Wandels werden auf dem Land immer mehr Schulen zusammengelegt.",
+    "luecke": {
+      "satz": "Im ___ der Digitalisierung haben viele Schulen Tablets angeschafft.",
+      "loesung": "Zuge",
+      "optionen": [
+        "Falle",
+        "Zuge",
+        "Grunde",
+        "Hause"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0346",
+    "wort": "die Verkehrswende",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Der Umbau des Verkehrs hin zu umweltfreundlichen Verkehrsmitteln wie Bahn, Bus und Fahrrad.",
+    "synonyme": [
+      "die Mobilitätswende"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Verkehr",
+      "die Wende",
+      "wenden"
+    ],
+    "kollokationen": [
+      "die Verkehrswende vorantreiben",
+      "das Ziel der Verkehrswende"
+    ],
+    "beispiel": "Für die Verkehrswende muss vor allem der Nahverkehr auf dem Land ausgebaut werden.",
+    "luecke": {
+      "satz": "Das Deutschlandticket gilt als wichtiger Baustein der ___.",
+      "loesung": "Verkehrswende",
+      "optionen": [
+        "Kehrtwende",
+        "Sonnenwende",
+        "Wendeltreppe",
+        "Verkehrswende"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0347",
+    "wort": "der Nahverkehr",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "Busse, Straßenbahnen und Züge für kurze Strecken in einer Stadt oder Region.",
+    "synonyme": [
+      "der ÖPNV",
+      "der öffentliche Personennahverkehr"
+    ],
+    "antonyme": [
+      "der Fernverkehr"
+    ],
+    "wortfamilie": [
+      "nah",
+      "der Verkehr"
+    ],
+    "kollokationen": [
+      "den Nahverkehr ausbauen",
+      "im öffentlichen Nahverkehr"
+    ],
+    "beispiel": "Mit dem Deutschlandticket kann man bundesweit den gesamten Nahverkehr nutzen.",
+    "luecke": {
+      "satz": "Für den Weg zur Schule nutzt die Lehrerin den öffentlichen ___, weil sie kein Auto hat.",
+      "loesung": "Nahverkehr",
+      "optionen": [
+        "Fernverkehr",
+        "Güterverkehr",
+        "Nahverkehr",
+        "Flugverkehr"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0348",
+    "wort": "der Pendler",
+    "wortart": "Nomen",
+    "formen": "die Pendler",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "Eine Person, die regelmäßig zwischen Wohnort und Arbeitsort hin- und herfährt.",
+    "synonyme": [
+      "der Berufspendler"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "pendeln",
+      "die Pendlerin",
+      "die Pendlerpauschale"
+    ],
+    "kollokationen": [
+      "täglich Tausende Pendler",
+      "die Pendlerpauschale"
+    ],
+    "beispiel": "Jeden Morgen fahren Zehntausende Pendler aus dem Umland nach Düsseldorf.",
+    "luecke": {
+      "satz": "Viele ___ verbringen täglich mehr als eine Stunde im Zug zur Arbeit.",
+      "loesung": "Pendler",
+      "optionen": [
+        "Pendel",
+        "Pedale",
+        "Pinsel",
+        "Pendler"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0349",
+    "wort": "die Anbindung",
+    "wortart": "Nomen",
+    "formen": "die Anbindungen",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Die Verbindung eines Ortes mit dem Verkehrsnetz (Bus, Bahn, Straße).",
+    "synonyme": [
+      "die Verkehrsverbindung",
+      "der Anschluss"
+    ],
+    "antonyme": [
+      "die Abgeschiedenheit"
+    ],
+    "wortfamilie": [
+      "anbinden",
+      "die Bindung",
+      "binden"
+    ],
+    "kollokationen": [
+      "eine gute Anbindung an den Nahverkehr",
+      "die Anbindung verbessern"
+    ],
+    "beispiel": "Bei der Wohnungssuche achtete sie auf eine gute Anbindung an ihre Schule.",
+    "luecke": {
+      "satz": "Das Dorf hat eine schlechte ___ an die Kreisstadt: Der Bus fährt nur zweimal am Tag.",
+      "loesung": "Anbindung",
+      "optionen": [
+        "Anbindung",
+        "Abbildung",
+        "Anleitung",
+        "Ausbildung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0350",
+    "wort": "die Infrastruktur",
+    "wortart": "Nomen",
+    "formen": "die Infrastrukturen",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Alle Einrichtungen, die eine Gesellschaft für Verkehr, Energie und Versorgung braucht, z. B. Straßen, Brücken, Netze.",
+    "synonyme": [
+      "der Unterbau"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "infrastrukturell",
+      "die Struktur"
+    ],
+    "kollokationen": [
+      "marode Infrastruktur",
+      "in die Infrastruktur investieren"
+    ],
+    "beispiel": "Viele Brücken in NRW sind marode, weil jahrelang zu wenig in die Infrastruktur investiert wurde.",
+    "luecke": {
+      "satz": "Das Geld soll vor allem in Schienen, Brücken und andere ___ fließen.",
+      "loesung": "Infrastruktur",
+      "optionen": [
+        "Informationen",
+        "Infrastruktur",
+        "Inflation",
+        "Initiativen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0351",
+    "wort": "die Taktung",
+    "wortart": "Nomen",
+    "formen": "die Taktungen",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Wie oft ein Bus oder Zug in regelmäßigen Abständen fährt.",
+    "synonyme": [
+      "der Takt",
+      "die Fahrplandichte"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Takt",
+      "takten",
+      "der Taktfahrplan"
+    ],
+    "kollokationen": [
+      "eine dichtere Taktung",
+      "die Taktung erhöhen"
+    ],
+    "beispiel": "Zur Hauptverkehrszeit fährt die S-Bahn in einer dichteren Taktung.",
+    "luecke": {
+      "satz": "Viele Menschen würden das Auto stehen lassen, wenn die ___ der Busse auf dem Land besser wäre.",
+      "loesung": "Taktung",
+      "optionen": [
+        "Tagung",
+        "Taktung",
+        "Tarnung",
+        "Tatsache"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0352",
+    "wort": "das Verkehrsaufkommen",
+    "wortart": "Nomen",
+    "formen": "die Verkehrsaufkommen",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Die Menge an Fahrzeugen oder Personen, die in einer bestimmten Zeit unterwegs sind.",
+    "synonyme": [
+      "das Verkehrsvolumen",
+      "die Verkehrsdichte"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "aufkommen",
+      "der Verkehr"
+    ],
+    "kollokationen": [
+      "ein hohes Verkehrsaufkommen",
+      "das Verkehrsaufkommen reduzieren"
+    ],
+    "beispiel": "Zu Ferienbeginn rechnen Automobilclubs mit einem hohen Verkehrsaufkommen auf den Autobahnen.",
+    "luecke": {
+      "satz": "Wegen des hohen ___ kam es auf der A1 zu kilometerlangen Staus.",
+      "loesung": "Verkehrsaufkommens",
+      "optionen": [
+        "Verkehrszeichens",
+        "Verkehrsrechts",
+        "Verkehrsaufkommens",
+        "Verkehrsvereins"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0353",
+    "wort": "die Fahrgemeinschaft",
+    "wortart": "Nomen",
+    "formen": "die Fahrgemeinschaften",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "Mehrere Personen fahren zusammen in einem Auto, z. B. zur Arbeit, und teilen sich die Kosten.",
+    "synonyme": [
+      "die Mitfahrgelegenheit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "fahren",
+      "die Gemeinschaft",
+      "gemeinsam"
+    ],
+    "kollokationen": [
+      "eine Fahrgemeinschaft bilden",
+      "in einer Fahrgemeinschaft fahren"
+    ],
+    "beispiel": "Mit zwei Kolleginnen hat sie eine Fahrgemeinschaft zur Schule gebildet.",
+    "luecke": {
+      "satz": "Um Spritkosten zu sparen, haben die Nachbarn eine ___ zur Arbeit gegründet.",
+      "loesung": "Fahrgemeinschaft",
+      "optionen": [
+        "Fahrschule",
+        "Wohngemeinschaft",
+        "Fahrbahn",
+        "Fahrgemeinschaft"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0354",
+    "wort": "der Individualverkehr",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Verkehr mit eigenen Fahrzeugen wie Auto oder Motorrad, im Gegensatz zu Bus und Bahn.",
+    "synonyme": [
+      "der Autoverkehr"
+    ],
+    "antonyme": [
+      "der öffentliche Verkehr"
+    ],
+    "wortfamilie": [
+      "individuell",
+      "das Individuum",
+      "der Verkehr"
+    ],
+    "kollokationen": [
+      "der motorisierte Individualverkehr",
+      "den Individualverkehr reduzieren"
+    ],
+    "beispiel": "In ländlichen Regionen ist der motorisierte Individualverkehr oft die einzige Möglichkeit, zur Arbeit zu kommen.",
+    "luecke": {
+      "satz": "Um Staus zu vermeiden, will die Stadt den motorisierten ___ in der Innenstadt reduzieren.",
+      "loesung": "Individualverkehr",
+      "optionen": [
+        "Individualverkehr",
+        "Fernverkehr",
+        "Zahlungsverkehr",
+        "Briefverkehr"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0355",
+    "wort": "das Tempolimit",
+    "wortart": "Nomen",
+    "formen": "die Tempolimits",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "Eine gesetzliche Höchstgeschwindigkeit für Fahrzeuge.",
+    "synonyme": [
+      "die Geschwindigkeitsbegrenzung",
+      "die Höchstgeschwindigkeit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Tempo",
+      "das Limit",
+      "limitieren"
+    ],
+    "kollokationen": [
+      "ein generelles Tempolimit",
+      "ein Tempolimit auf Autobahnen"
+    ],
+    "beispiel": "Deutschland ist eines der wenigen Länder ohne generelles Tempolimit auf Autobahnen.",
+    "luecke": {
+      "satz": "Umweltverbände fordern ein ___ von 130 km/h auf allen Autobahnen.",
+      "loesung": "Tempolimit",
+      "optionen": [
+        "Temperament",
+        "Zeitlimit",
+        "Tempolimit",
+        "Kreditlimit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0356",
+    "wort": "die Elektromobilität",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Fortbewegung mit Fahrzeugen, die mit Strom fahren, z. B. E-Autos oder E-Bikes.",
+    "synonyme": [
+      "die E-Mobilität"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "elektrisch",
+      "mobil",
+      "die Mobilität"
+    ],
+    "kollokationen": [
+      "die Elektromobilität fördern",
+      "der Ausbau der Elektromobilität"
+    ],
+    "beispiel": "Für den Durchbruch der Elektromobilität fehlen vielerorts noch Ladesäulen.",
+    "luecke": {
+      "satz": "Ohne genügend Ladesäulen wird sich die ___ auf dem Land kaum durchsetzen.",
+      "loesung": "Elektromobilität",
+      "optionen": [
+        "Elektrizität",
+        "Elektronik",
+        "Elektromobilität",
+        "Elektrotechnik"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0357",
+    "wort": "umsteigen auf + A",
+    "wortart": "Verb",
+    "formen": "steigt um, stieg um, ist umgestiegen",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "Von einem Verkehrsmittel (oder System) zu einem anderen wechseln.",
+    "synonyme": [
+      "wechseln zu"
+    ],
+    "antonyme": [
+      "bleiben bei"
+    ],
+    "wortfamilie": [
+      "der Umstieg",
+      "einsteigen",
+      "aussteigen"
+    ],
+    "kollokationen": [
+      "auf das Fahrrad umsteigen",
+      "auf erneuerbare Energien umsteigen"
+    ],
+    "beispiel": "Seit es das Deutschlandticket gibt, ist sie vom Auto auf die Bahn umgestiegen.",
+    "luecke": {
+      "satz": "Wenn Busse häufiger fahren, ___ mehr Menschen vom Auto auf den Nahverkehr um.",
+      "loesung": "steigen",
+      "optionen": [
+        "treten",
+        "steigen",
+        "legen",
+        "gehen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0358",
+    "wort": "ausdünnen",
+    "wortart": "Verb",
+    "formen": "dünnt aus, dünnte aus, hat ausgedünnt",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Etwas weniger dicht machen; z. B. weniger Busse oder Züge fahren lassen.",
+    "synonyme": [
+      "reduzieren",
+      "verringern"
+    ],
+    "antonyme": [
+      "verdichten",
+      "ausbauen"
+    ],
+    "wortfamilie": [
+      "dünn",
+      "die Ausdünnung"
+    ],
+    "kollokationen": [
+      "den Fahrplan ausdünnen",
+      "das Angebot ausdünnen"
+    ],
+    "beispiel": "Am Wochenende wird der Busfahrplan auf dem Land stark ausgedünnt.",
+    "luecke": {
+      "satz": "Wegen Personalmangels hat das Verkehrsunternehmen den Fahrplan ___: Viele Busse fahren nur noch stündlich.",
+      "loesung": "ausgedünnt",
+      "optionen": [
+        "ausgedehnt",
+        "ausgedient",
+        "ausgedacht",
+        "ausgedünnt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0359",
+    "wort": "erschließen",
+    "wortart": "Verb",
+    "formen": "erschließt, erschloss, hat erschlossen",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Ein Gebiet durch Straßen, Leitungen oder Verkehrsmittel nutzbar machen; auch: etwas Neues zugänglich machen.",
+    "synonyme": [
+      "zugänglich machen",
+      "anbinden"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Erschließung",
+      "schließen",
+      "aufschließen"
+    ],
+    "kollokationen": [
+      "ein Neubaugebiet erschließen",
+      "neue Märkte erschließen"
+    ],
+    "beispiel": "Die neue Straßenbahnlinie soll das Neubaugebiet am Stadtrand erschließen.",
+    "luecke": {
+      "satz": "Bevor dort Häuser gebaut werden können, muss das Gelände mit Straßen und Leitungen ___ werden.",
+      "loesung": "erschlossen",
+      "optionen": [
+        "verschlossen",
+        "erschlossen",
+        "beschlossen",
+        "geschlossen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0360",
+    "wort": "sich verzögern",
+    "wortart": "Verb",
+    "formen": "verzögert sich, verzögerte sich, hat sich verzögert",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "Später passieren oder fertig werden als geplant.",
+    "synonyme": [
+      "sich verspäten",
+      "sich hinziehen"
+    ],
+    "antonyme": [
+      "sich beschleunigen"
+    ],
+    "wortfamilie": [
+      "die Verzögerung",
+      "zögern"
+    ],
+    "kollokationen": [
+      "sich um Jahre verzögern",
+      "die Fertigstellung verzögert sich"
+    ],
+    "beispiel": "Auch die Bearbeitung ihres Anerkennungsantrags hat sich um mehrere Monate verzögert.",
+    "luecke": {
+      "satz": "Der Ausbau der Bahnstrecke hat sich wegen fehlender Genehmigungen um drei Jahre ___.",
+      "loesung": "verzögert",
+      "optionen": [
+        "verzogen",
+        "verzehrt",
+        "verzerrt",
+        "verzögert"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0361",
+    "wort": "bezuschussen",
+    "wortart": "Verb",
+    "formen": "bezuschusst, bezuschusste, hat bezuschusst",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Einen Teil der Kosten für etwas bezahlen.",
+    "synonyme": [
+      "fördern",
+      "subventionieren"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Zuschuss"
+    ],
+    "kollokationen": [
+      "vom Arbeitgeber bezuschusst",
+      "staatlich bezuschusst"
+    ],
+    "beispiel": "Viele Arbeitgeber bezuschussen das Deutschlandticket ihrer Beschäftigten.",
+    "luecke": {
+      "satz": "Die Stadt ___ den Kauf von Lastenrädern mit bis zu 1.000 Euro.",
+      "loesung": "bezuschusst",
+      "optionen": [
+        "beschuldigt",
+        "bezuschusst",
+        "bezweifelt",
+        "bezieht"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0362",
+    "wort": "entzerren",
+    "wortart": "Verb",
+    "formen": "entzerrt, entzerrte, hat entzerrt",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Etwas zeitlich oder räumlich verteilen, damit nicht alles gleichzeitig an einem Ort passiert.",
+    "synonyme": [
+      "verteilen",
+      "auflockern"
+    ],
+    "antonyme": [
+      "bündeln"
+    ],
+    "wortfamilie": [
+      "die Entzerrung",
+      "zerren"
+    ],
+    "kollokationen": [
+      "den Berufsverkehr entzerren",
+      "Termine entzerren"
+    ],
+    "beispiel": "Unterschiedliche Anfangszeiten an Schulen sollen den Berufsverkehr am Morgen entzerren.",
+    "luecke": {
+      "satz": "Flexible Arbeitszeiten können den Andrang in Bussen und Bahnen zur Hauptverkehrszeit ___.",
+      "loesung": "entzerren",
+      "optionen": [
+        "entziffern",
+        "entzünden",
+        "verzerren",
+        "entzerren"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0363",
+    "wort": "verlagern auf + A",
+    "wortart": "Verb",
+    "formen": "verlagert, verlagerte, hat verlagert",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Etwas an einen anderen Ort oder in einen anderen Bereich bringen.",
+    "synonyme": [
+      "verschieben",
+      "umlenken"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Lager",
+      "die Verlagerung",
+      "lagern"
+    ],
+    "kollokationen": [
+      "den Güterverkehr auf die Schiene verlagern",
+      "den Schwerpunkt verlagern"
+    ],
+    "beispiel": "Ein großer Teil des Güterverkehrs soll von der Straße auf die Schiene verlagert werden.",
+    "luecke": {
+      "satz": "Ziel der Politik ist es, mehr Güterverkehr von der Straße auf die Schiene zu ___.",
+      "loesung": "verlagern",
+      "optionen": [
+        "verlangen",
+        "verlagern",
+        "verlängern",
+        "verlosen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0364",
+    "wort": "befördern",
+    "wortart": "Verb",
+    "formen": "befördert, beförderte, hat befördert",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Personen oder Waren von einem Ort an einen anderen bringen; auch: jemandem eine höhere berufliche Position geben.",
+    "synonyme": [
+      "transportieren"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Beförderung",
+      "fördern"
+    ],
+    "kollokationen": [
+      "Fahrgäste befördern",
+      "zur Schulleiterin befördert werden"
+    ],
+    "beispiel": "Die Kölner Verkehrs-Betriebe befördern jedes Jahr Hunderte Millionen Fahrgäste.",
+    "luecke": {
+      "satz": "Die Bahn hat im letzten Jahr so viele Fahrgäste ___ wie nie zuvor.",
+      "loesung": "befördert",
+      "optionen": [
+        "gefördert",
+        "beordert",
+        "befördert",
+        "gefordert"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0365",
+    "wort": "verkehrsberuhigt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "So gestaltet, dass dort nur wenige Autos und nur langsam fahren dürfen.",
+    "synonyme": [
+      "verkehrsarm"
+    ],
+    "antonyme": [
+      "stark befahren"
+    ],
+    "wortfamilie": [
+      "der Verkehr",
+      "beruhigen",
+      "die Verkehrsberuhigung"
+    ],
+    "kollokationen": [
+      "ein verkehrsberuhigter Bereich",
+      "eine verkehrsberuhigte Zone"
+    ],
+    "beispiel": "Im verkehrsberuhigten Bereich dürfen Autos nur Schrittgeschwindigkeit fahren.",
+    "luecke": {
+      "satz": "Seit die Straße ___ ist, spielen dort wieder Kinder.",
+      "loesung": "verkehrsberuhigt",
+      "optionen": [
+        "verkehrswidrig",
+        "verkehrsberuhigt",
+        "verkehrstüchtig",
+        "verkehrsgünstig"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0366",
+    "wort": "emissionsarm",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Mit wenig Abgasen oder Schadstoffen.",
+    "synonyme": [
+      "schadstoffarm",
+      "umweltfreundlich"
+    ],
+    "antonyme": [
+      "emissionsintensiv"
+    ],
+    "wortfamilie": [
+      "die Emission",
+      "arm"
+    ],
+    "kollokationen": [
+      "emissionsarme Fahrzeuge",
+      "emissionsarm unterwegs sein"
+    ],
+    "beispiel": "Die Stadt kauft nur noch emissionsarme Busse mit Elektro- oder Wasserstoffantrieb.",
+    "luecke": {
+      "satz": "In Umweltzonen dürfen nur ___ Fahrzeuge mit grüner Plakette fahren.",
+      "loesung": "emissionsarme",
+      "optionen": [
+        "emotionale",
+        "eminente",
+        "emsige",
+        "emissionsarme"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0367",
+    "wort": "flächendeckend",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "mobilitaet",
+    "register": "schriftlich",
+    "erklaerung": "Überall in einem Gebiet, ohne Lücken.",
+    "synonyme": [
+      "lückenlos",
+      "überall"
+    ],
+    "antonyme": [
+      "vereinzelt",
+      "punktuell"
+    ],
+    "wortfamilie": [
+      "die Fläche",
+      "decken"
+    ],
+    "kollokationen": [
+      "eine flächendeckende Versorgung",
+      "flächendeckend einführen"
+    ],
+    "beispiel": "Schnelles Internet ist in Deutschland noch nicht flächendeckend verfügbar.",
+    "luecke": {
+      "satz": "Ziel ist ein ___ Netz von Ladesäulen, damit man überall laden kann.",
+      "loesung": "flächendeckendes",
+      "optionen": [
+        "flächendeckendes",
+        "flächenmäßiges",
+        "flachliegendes",
+        "fleckiges"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0368",
+    "wort": "störanfällig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "So, dass oft Probleme oder Ausfälle auftreten.",
+    "synonyme": [
+      "anfällig",
+      "unzuverlässig"
+    ],
+    "antonyme": [
+      "zuverlässig",
+      "robust"
+    ],
+    "wortfamilie": [
+      "stören",
+      "die Störung",
+      "anfällig"
+    ],
+    "kollokationen": [
+      "störanfällige Technik",
+      "ein störanfälliges Netz"
+    ],
+    "beispiel": "Das alte Stellwerk ist sehr störanfällig, deshalb fallen oft Züge aus.",
+    "luecke": {
+      "satz": "Weil die Weichen veraltet und ___ sind, kommt es auf der Strecke ständig zu Verspätungen.",
+      "loesung": "störanfällig",
+      "optionen": [
+        "stürmisch",
+        "strapazierfähig",
+        "störanfällig",
+        "stimmig"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0369",
+    "wort": "überlastet",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "Mehr belastet, als es aushalten kann; zu voll oder mit zu viel Arbeit.",
+    "synonyme": [
+      "überfordert",
+      "überfüllt"
+    ],
+    "antonyme": [
+      "entlastet"
+    ],
+    "wortfamilie": [
+      "die Last",
+      "die Überlastung",
+      "überlasten"
+    ],
+    "kollokationen": [
+      "ein überlastetes Netz",
+      "chronisch überlastet"
+    ],
+    "beispiel": "Zur Hauptverkehrszeit ist das Schienennetz rund um Köln völlig überlastet.",
+    "luecke": {
+      "satz": "Die Hauptstrecke ist so ___, dass schon kleine Störungen zu großen Verspätungen führen.",
+      "loesung": "überlastet",
+      "optionen": [
+        "überlegt",
+        "überliefert",
+        "überlebt",
+        "überlastet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0370",
+    "wort": "auf der Strecke bleiben",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "mobilitaet",
+    "register": "neutral",
+    "erklaerung": "Nicht beachtet werden oder scheitern; nicht ans Ziel kommen.",
+    "synonyme": [
+      "zu kurz kommen",
+      "scheitern"
+    ],
+    "antonyme": [
+      "sich durchsetzen"
+    ],
+    "wortfamilie": [
+      "die Strecke"
+    ],
+    "kollokationen": [
+      "die Qualität bleibt auf der Strecke",
+      "Menschen ohne Auto bleiben auf der Strecke"
+    ],
+    "beispiel": "Wenn im Nahverkehr gespart wird, bleiben oft ältere Menschen ohne Auto auf der Strecke.",
+    "luecke": {
+      "satz": "Wenn im Biologieunterricht nur noch für Prüfungen gelernt wird, bleibt die Freude am Forschen auf der ___.",
+      "loesung": "Strecke",
+      "optionen": [
+        "Straße",
+        "Strecke",
+        "Stelle",
+        "Spur"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0371",
+    "wort": "die Gentrifizierung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Ein Stadtteil wird teurer und schicker; ärmere Bewohner müssen wegziehen, wohlhabendere ziehen zu.",
+    "synonyme": [
+      "die Aufwertung eines Viertels"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "gentrifiziert",
+      "gentrifizieren"
+    ],
+    "kollokationen": [
+      "von Gentrifizierung betroffen",
+      "die Gentrifizierung eines Viertels"
+    ],
+    "beispiel": "Im Kölner Stadtteil Ehrenfeld wird seit Jahren über Gentrifizierung diskutiert.",
+    "luecke": {
+      "satz": "Durch die ___ können sich viele alteingesessene Bewohner die Mieten im Viertel nicht mehr leisten.",
+      "loesung": "Gentrifizierung",
+      "optionen": [
+        "Generalisierung",
+        "Genehmigung",
+        "Gentrifizierung",
+        "Germanisierung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0372",
+    "wort": "der Wohnraum",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Die Wohnungen bzw. die Fläche, die zum Wohnen zur Verfügung steht.",
+    "synonyme": [
+      "die Wohnungen",
+      "die Wohnfläche"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "wohnen",
+      "der Raum",
+      "die Wohnung"
+    ],
+    "kollokationen": [
+      "bezahlbarer Wohnraum",
+      "Wohnraum schaffen"
+    ],
+    "beispiel": "In Universitätsstädten fehlt vor allem bezahlbarer Wohnraum für Studierende.",
+    "luecke": {
+      "satz": "Die Stadt will bis 2030 mehr bezahlbaren ___ schaffen.",
+      "loesung": "Wohnraum",
+      "optionen": [
+        "Wohnort",
+        "Wohlstand",
+        "Wohnraum",
+        "Wohnzimmer"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0373",
+    "wort": "die Mietpreisbremse",
+    "wortart": "Nomen",
+    "formen": "die Mietpreisbremsen",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Eine gesetzliche Regel: Bei einer neuen Vermietung darf die Miete nur wenig über der ortsüblichen Miete liegen.",
+    "synonyme": [
+      "die Mietpreisbegrenzung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Miete",
+      "der Preis",
+      "bremsen"
+    ],
+    "kollokationen": [
+      "die Mietpreisbremse verlängern",
+      "gegen die Mietpreisbremse verstoßen"
+    ],
+    "beispiel": "In vielen Großstädten in NRW gilt die Mietpreisbremse, das hilft auch zugewanderten Lehrkräften bei der Wohnungssuche.",
+    "luecke": {
+      "satz": "Die ___ soll verhindern, dass die Mieten bei Neuvermietungen zu stark steigen.",
+      "loesung": "Mietpreisbremse",
+      "optionen": [
+        "Notbremse",
+        "Mietkaution",
+        "Mietpreisbremse",
+        "Preisverleihung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0374",
+    "wort": "der Leerstand",
+    "wortart": "Nomen",
+    "formen": "die Leerstände",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Wohnungen oder Geschäfte, die nicht vermietet oder genutzt werden und leer sind.",
+    "synonyme": [
+      "leer stehende Gebäude"
+    ],
+    "antonyme": [
+      "die Vollvermietung"
+    ],
+    "wortfamilie": [
+      "leer",
+      "leer stehen"
+    ],
+    "kollokationen": [
+      "hoher Leerstand",
+      "Leerstand bekämpfen"
+    ],
+    "beispiel": "Während in Großstädten Wohnungen fehlen, gibt es in manchen ländlichen Regionen viel Leerstand.",
+    "luecke": {
+      "satz": "In der Innenstadt nimmt der ___ zu, weil immer mehr Geschäfte schließen.",
+      "loesung": "Leerstand",
+      "optionen": [
+        "Lehrstand",
+        "Notstand",
+        "Wohlstand",
+        "Leerstand"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0375",
+    "wort": "die Nachverdichtung",
+    "wortart": "Nomen",
+    "formen": "die Nachverdichtungen",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "In schon bebauten Gebieten werden zusätzliche Gebäude gebaut, z. B. in Baulücken oder auf Dächern.",
+    "synonyme": [
+      "die Innenverdichtung"
+    ],
+    "antonyme": [
+      "die Zersiedelung"
+    ],
+    "wortfamilie": [
+      "verdichten",
+      "dicht"
+    ],
+    "kollokationen": [
+      "Nachverdichtung in Innenstädten",
+      "durch Nachverdichtung Wohnraum schaffen"
+    ],
+    "beispiel": "Durch Nachverdichtung, etwa durch zusätzliche Stockwerke, entsteht Wohnraum, ohne neue Flächen zu versiegeln.",
+    "luecke": {
+      "satz": "Statt auf der grünen Wiese zu bauen, setzt die Stadt auf ___ in bestehenden Wohnvierteln.",
+      "loesung": "Nachverdichtung",
+      "optionen": [
+        "Nachverdichtung",
+        "Nachhilfe",
+        "Nachfolge",
+        "Nachlässigkeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0376",
+    "wort": "der Ballungsraum",
+    "wortart": "Nomen",
+    "formen": "die Ballungsräume",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Ein Gebiet, in dem sehr viele Menschen und Unternehmen auf engem Raum konzentriert sind.",
+    "synonyme": [
+      "das Ballungsgebiet",
+      "die Metropolregion"
+    ],
+    "antonyme": [
+      "der ländliche Raum"
+    ],
+    "wortfamilie": [
+      "ballen",
+      "die Ballung",
+      "der Raum"
+    ],
+    "kollokationen": [
+      "der Ballungsraum Rhein-Ruhr",
+      "in Ballungsräumen leben"
+    ],
+    "beispiel": "Das Ruhrgebiet ist einer der größten Ballungsräume Europas.",
+    "luecke": {
+      "satz": "Die Wohnungsnot ist vor allem in den ___ um München, Frankfurt und Köln groß.",
+      "loesung": "Ballungsräumen",
+      "optionen": [
+        "Ballsälen",
+        "Ballungsräumen",
+        "Freiräumen",
+        "Hohlräumen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0377",
+    "wort": "die Kaltmiete",
+    "wortart": "Nomen",
+    "formen": "die Kaltmieten",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Die Miete ohne Heiz- und Nebenkosten.",
+    "synonyme": [
+      "die Nettokaltmiete",
+      "die Grundmiete"
+    ],
+    "antonyme": [
+      "die Warmmiete"
+    ],
+    "wortfamilie": [
+      "die Miete",
+      "kalt",
+      "mieten"
+    ],
+    "kollokationen": [
+      "die Kaltmiete beträgt …",
+      "Kaltmiete plus Nebenkosten"
+    ],
+    "beispiel": "Für ihre Zweizimmerwohnung in Bochum zahlt sie 520 Euro Kaltmiete.",
+    "luecke": {
+      "satz": "Zur ___ von 700 Euro kommen noch etwa 200 Euro Nebenkosten hinzu.",
+      "loesung": "Kaltmiete",
+      "optionen": [
+        "Warmmiete",
+        "Kaution",
+        "Kaltmiete",
+        "Kaltfront"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0378",
+    "wort": "die Nebenkosten",
+    "wortart": "Nomen",
+    "formen": "nur Plural",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Zusätzliche Kosten zur Miete, z. B. für Wasser, Müllabfuhr, Heizung und Hausreinigung.",
+    "synonyme": [
+      "die Betriebskosten"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Kosten",
+      "die Nebenkostenabrechnung"
+    ],
+    "kollokationen": [
+      "die Nebenkostenabrechnung",
+      "Nebenkosten nachzahlen"
+    ],
+    "beispiel": "Wegen der hohen Gaspreise musste sie bei der Abrechnung der Nebenkosten 300 Euro nachzahlen.",
+    "luecke": {
+      "satz": "Einmal im Jahr bekommen Mieter eine Abrechnung über die ___ für Wasser, Heizung und Müll.",
+      "loesung": "Nebenkosten",
+      "optionen": [
+        "Nebenwirkungen",
+        "Nebenkosten",
+        "Nebenfächer",
+        "Nebensätze"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0379",
+    "wort": "das Quartier",
+    "wortart": "Nomen",
+    "formen": "die Quartiere",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Ein Stadtviertel oder Wohngebiet.",
+    "synonyme": [
+      "das Viertel",
+      "der Kiez"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Quartiersmanagement"
+    ],
+    "kollokationen": [
+      "ein lebendiges Quartier",
+      "das Quartiersmanagement"
+    ],
+    "beispiel": "Im neuen Quartier gibt es eine Schule, eine Kita und kleine Läden.",
+    "luecke": {
+      "satz": "Ein ___ der kurzen Wege bietet Schule, Arztpraxis und Supermarkt in Laufnähe.",
+      "loesung": "Quartier",
+      "optionen": [
+        "Quartal",
+        "Quartett",
+        "Quadrat",
+        "Quartier"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0380",
+    "wort": "die Sozialwohnung",
+    "wortart": "Nomen",
+    "formen": "die Sozialwohnungen",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Eine Wohnung mit staatlich geförderter, niedriger Miete für Menschen mit geringem Einkommen.",
+    "synonyme": [
+      "die geförderte Wohnung"
+    ],
+    "antonyme": [
+      "die Luxuswohnung"
+    ],
+    "wortfamilie": [
+      "sozial",
+      "die Wohnung"
+    ],
+    "kollokationen": [
+      "Anspruch auf eine Sozialwohnung",
+      "Sozialwohnungen bauen"
+    ],
+    "beispiel": "Für eine Sozialwohnung braucht man einen Wohnberechtigungsschein.",
+    "luecke": {
+      "satz": "Weil jedes Jahr mehr ___ aus der Preisbindung fallen, als neu gebaut werden, sinkt ihre Zahl.",
+      "loesung": "Sozialwohnungen",
+      "optionen": [
+        "Sozialwohnungen",
+        "Sozialversicherungen",
+        "Sozialarbeiter",
+        "Eigentumswohnungen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0381",
+    "wort": "die Verdrängung",
+    "wortart": "Nomen",
+    "formen": "die Verdrängungen",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Menschen werden aus ihrem Wohnviertel gedrängt, z. B. weil die Mieten zu hoch werden.",
+    "synonyme": [
+      "die Vertreibung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "verdrängen",
+      "drängen"
+    ],
+    "kollokationen": [
+      "die Verdrängung einkommensschwacher Haushalte",
+      "vor Verdrängung schützen"
+    ],
+    "beispiel": "Mieterinitiativen protestieren gegen die Verdrängung alteingesessener Bewohner.",
+    "luecke": {
+      "satz": "Luxussanierungen führen häufig zur ___ von Familien mit geringem Einkommen.",
+      "loesung": "Verdrängung",
+      "optionen": [
+        "Verdauung",
+        "Verdrängung",
+        "Verdopplung",
+        "Verdunstung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0382",
+    "wort": "die Zersiedelung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Häuser und Siedlungen werden ungeplant und verstreut in die Landschaft gebaut (auch: Zersiedlung).",
+    "synonyme": [
+      "der Flächenfraß"
+    ],
+    "antonyme": [
+      "die Nachverdichtung"
+    ],
+    "wortfamilie": [
+      "die Siedlung",
+      "siedeln",
+      "zersiedelt"
+    ],
+    "kollokationen": [
+      "die Zersiedelung der Landschaft",
+      "Zersiedelung verhindern"
+    ],
+    "beispiel": "Neue Einfamilienhausgebiete am Ortsrand fördern die Zersiedelung der Landschaft.",
+    "luecke": {
+      "satz": "Um die ___ der Landschaft zu bremsen, sollen zuerst Baulücken in den Orten genutzt werden.",
+      "loesung": "Zersiedelung",
+      "optionen": [
+        "Zerstreuung",
+        "Zerknirschung",
+        "Zersetzung",
+        "Zersiedelung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0383",
+    "wort": "die Kaution",
+    "wortart": "Nomen",
+    "formen": "die Kautionen",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Eine Geldsumme, die Mieter beim Einzug zahlen und beim Auszug zurückbekommen, wenn alles in Ordnung ist.",
+    "synonyme": [
+      "die Mietsicherheit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [],
+    "kollokationen": [
+      "die Kaution hinterlegen",
+      "die Kaution zurückfordern"
+    ],
+    "beispiel": "Als sie nach Deutschland kam, musste sie für ihre erste Wohnung eine Kaution von drei Monatsmieten bezahlen.",
+    "luecke": {
+      "satz": "Die ___ darf höchstens drei Kaltmieten betragen.",
+      "loesung": "Kaution",
+      "optionen": [
+        "Kalkulation",
+        "Kaution",
+        "Kaltmiete",
+        "Kontrolle"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0384",
+    "wort": "der Mietspiegel",
+    "wortart": "Nomen",
+    "formen": "die Mietspiegel",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Eine Übersicht über die üblichen Mieten in einer Stadt, je nach Lage, Größe und Ausstattung der Wohnung.",
+    "synonyme": [
+      "die Mietpreisübersicht"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Miete",
+      "der Spiegel",
+      "widerspiegeln"
+    ],
+    "kollokationen": [
+      "laut Mietspiegel",
+      "den Mietspiegel heranziehen"
+    ],
+    "beispiel": "Laut Mietspiegel ist ihre Miete für Lage und Größe der Wohnung angemessen.",
+    "luecke": {
+      "satz": "Ob eine Mieterhöhung zulässig ist, kann man mithilfe des örtlichen ___ prüfen.",
+      "loesung": "Mietspiegels",
+      "optionen": [
+        "Rückspiegels",
+        "Wasserspiegels",
+        "Spiegelbilds",
+        "Mietspiegels"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0385",
+    "wort": "sanieren",
+    "wortart": "Verb",
+    "formen": "saniert, sanierte, hat saniert",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Ein altes Gebäude reparieren und modernisieren; auch: ein Unternehmen wieder wirtschaftlich gesund machen.",
+    "synonyme": [
+      "renovieren",
+      "modernisieren"
+    ],
+    "antonyme": [
+      "verfallen lassen"
+    ],
+    "wortfamilie": [
+      "die Sanierung",
+      "sanierungsbedürftig"
+    ],
+    "kollokationen": [
+      "ein Gebäude energetisch sanieren",
+      "ein Unternehmen sanieren"
+    ],
+    "beispiel": "Das Schulgebäude wird gerade saniert, deshalb findet der Biologieunterricht in Containern statt.",
+    "luecke": {
+      "satz": "Der Vermieter will das Haus energetisch ___ und danach die Miete erhöhen.",
+      "loesung": "sanieren",
+      "optionen": [
+        "sanktionieren",
+        "signieren",
+        "sanieren",
+        "servieren"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0386",
+    "wort": "veröden",
+    "wortart": "Verb",
+    "formen": "verödet, verödete, ist verödet",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Leer und leblos werden, weil Menschen und Geschäfte verschwinden.",
+    "synonyme": [
+      "verwaisen",
+      "aussterben"
+    ],
+    "antonyme": [
+      "aufblühen",
+      "sich beleben"
+    ],
+    "wortfamilie": [
+      "öde",
+      "die Verödung"
+    ],
+    "kollokationen": [
+      "verödete Innenstädte",
+      "Dörfer veröden"
+    ],
+    "beispiel": "Nach der Schließung des Kaufhauses droht die Fußgängerzone zu veröden.",
+    "luecke": {
+      "satz": "Ohne neue Ideen werden viele Innenstädte weiter ___, weil der Onlinehandel wächst.",
+      "loesung": "veröden",
+      "optionen": [
+        "verordnen",
+        "verorten",
+        "veröden",
+        "verüben"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0387",
+    "wort": "aufwerten",
+    "wortart": "Verb",
+    "formen": "wertet auf, wertete auf, hat aufgewertet",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Den Wert, die Qualität oder das Ansehen von etwas erhöhen.",
+    "synonyme": [
+      "verbessern",
+      "attraktiver machen"
+    ],
+    "antonyme": [
+      "abwerten"
+    ],
+    "wortfamilie": [
+      "der Wert",
+      "die Aufwertung",
+      "wertvoll"
+    ],
+    "kollokationen": [
+      "ein Stadtviertel aufwerten",
+      "einen Beruf aufwerten"
+    ],
+    "beispiel": "Neue Grünflächen und Spielplätze haben das Viertel deutlich aufgewertet.",
+    "luecke": {
+      "satz": "Höhere Gehälter für Grundschullehrkräfte sollen den Beruf ___.",
+      "loesung": "aufwerten",
+      "optionen": [
+        "abwerten",
+        "aufwarten",
+        "aufwärmen",
+        "aufwerten"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0388",
+    "wort": "ausweisen",
+    "wortart": "Verb",
+    "formen": "weist aus, wies aus, hat ausgewiesen",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Offiziell festlegen, wofür eine Fläche genutzt werden darf; auch: eine Person aus dem Land schicken.",
+    "synonyme": [
+      "festlegen",
+      "bestimmen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Ausweisung",
+      "der Ausweis"
+    ],
+    "kollokationen": [
+      "Bauland ausweisen",
+      "ein Gebiet als Naturschutzgebiet ausweisen"
+    ],
+    "beispiel": "Die Gemeinde hat am Ortsrand neues Bauland ausgewiesen.",
+    "luecke": {
+      "satz": "Das Moor wurde als Naturschutzgebiet ___, damit dort seltene Pflanzen geschützt sind.",
+      "loesung": "ausgewiesen",
+      "optionen": [
+        "ausgewichen",
+        "ausgewiesen",
+        "ausgewandert",
+        "ausgewertet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0389",
+    "wort": "untervermieten",
+    "wortart": "Verb",
+    "formen": "untervermietet, untervermietete, hat untervermietet",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Eine gemietete Wohnung oder ein Zimmer daraus an eine weitere Person vermieten.",
+    "synonyme": [
+      "weitervermieten"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Untermiete",
+      "der Untermieter",
+      "vermieten"
+    ],
+    "kollokationen": [
+      "ein Zimmer untervermieten",
+      "mit Erlaubnis des Vermieters untervermieten"
+    ],
+    "beispiel": "Während ihres Auslandssemesters hat sie ihr WG-Zimmer für fünf Monate untervermietet.",
+    "luecke": {
+      "satz": "Ohne Zustimmung des Vermieters darf man seine Wohnung nicht ___.",
+      "loesung": "untervermieten",
+      "optionen": [
+        "unterbrechen",
+        "unterschätzen",
+        "untervermieten",
+        "unterrichten"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0390",
+    "wort": "sich niederlassen in + D",
+    "wortart": "Verb",
+    "formen": "lässt sich nieder, ließ sich nieder, hat sich niedergelassen",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "An einem Ort dauerhaft zu wohnen oder zu arbeiten beginnen.",
+    "synonyme": [
+      "sich ansiedeln",
+      "sesshaft werden"
+    ],
+    "antonyme": [
+      "wegziehen"
+    ],
+    "wortfamilie": [
+      "die Niederlassung",
+      "die Niederlassungserlaubnis"
+    ],
+    "kollokationen": [
+      "sich in einer Stadt niederlassen",
+      "sich als Ärztin niederlassen"
+    ],
+    "beispiel": "Nach dem Sprachkurs in Berlin ließ sie sich schließlich in Nordrhein-Westfalen nieder.",
+    "luecke": {
+      "satz": "Viele junge Ärztinnen wollen sich nicht auf dem Land ___, weil dort die Infrastruktur fehlt.",
+      "loesung": "niederlassen",
+      "optionen": [
+        "niederschlagen",
+        "niederlassen",
+        "niederlegen",
+        "niedermachen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0391",
+    "wort": "begrünen",
+    "wortart": "Verb",
+    "formen": "begrünt, begrünte, hat begrünt",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Pflanzen auf einer Fläche, einem Dach oder einer Wand wachsen lassen.",
+    "synonyme": [
+      "bepflanzen"
+    ],
+    "antonyme": [
+      "versiegeln"
+    ],
+    "wortfamilie": [
+      "grün",
+      "die Begrünung",
+      "das Grün"
+    ],
+    "kollokationen": [
+      "Dächer begrünen",
+      "Fassaden begrünen"
+    ],
+    "beispiel": "Im Biologieprojekt untersuchen die Schülerinnen und Schüler, wie ein begrüntes Dach die Temperatur im Schulgebäude beeinflusst.",
+    "luecke": {
+      "satz": "Um die Hitze in der Stadt zu verringern, werden Dächer und Fassaden ___.",
+      "loesung": "begrünt",
+      "optionen": [
+        "begründet",
+        "begrüßt",
+        "begraben",
+        "begrünt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0392",
+    "wort": "umwandeln in + A",
+    "wortart": "Verb",
+    "formen": "wandelt um, wandelte um, hat umgewandelt",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Etwas so verändern, dass es zu etwas anderem wird.",
+    "synonyme": [
+      "umgestalten",
+      "umfunktionieren"
+    ],
+    "antonyme": [
+      "beibehalten"
+    ],
+    "wortfamilie": [
+      "die Umwandlung",
+      "der Wandel",
+      "verwandeln"
+    ],
+    "kollokationen": [
+      "Mietwohnungen in Eigentumswohnungen umwandeln",
+      "Büros in Wohnungen umwandeln"
+    ],
+    "beispiel": "Leer stehende Bürogebäude könnten in Wohnungen umgewandelt werden.",
+    "luecke": {
+      "satz": "Der Investor will das alte Kaufhaus in ein Wohn- und Geschäftshaus ___.",
+      "loesung": "umwandeln",
+      "optionen": [
+        "umwenden",
+        "umwandeln",
+        "umwerfen",
+        "umwickeln"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0393",
+    "wort": "erschwinglich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "So günstig, dass man es bezahlen kann.",
+    "synonyme": [
+      "bezahlbar",
+      "preiswert"
+    ],
+    "antonyme": [
+      "unerschwinglich",
+      "unbezahlbar"
+    ],
+    "wortfamilie": [
+      "erschwingen"
+    ],
+    "kollokationen": [
+      "erschwingliche Mieten",
+      "kaum noch erschwinglich"
+    ],
+    "beispiel": "In München sind Wohnungen für Familien mit normalem Einkommen kaum noch erschwinglich.",
+    "luecke": {
+      "satz": "Für Auszubildende sind die Mieten in der Innenstadt kaum noch ___.",
+      "loesung": "erschwinglich",
+      "optionen": [
+        "erschöpflich",
+        "erschütternd",
+        "ersichtlich",
+        "erschwinglich"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0394",
+    "wort": "innerstädtisch",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "In der Innenstadt oder innerhalb einer Stadt.",
+    "synonyme": [
+      "zentral"
+    ],
+    "antonyme": [
+      "am Stadtrand"
+    ],
+    "wortfamilie": [
+      "die Stadt",
+      "städtisch",
+      "die Innenstadt"
+    ],
+    "kollokationen": [
+      "innerstädtische Brachflächen",
+      "der innerstädtische Verkehr"
+    ],
+    "beispiel": "Auf innerstädtischen Brachflächen sollen neue Wohnungen entstehen.",
+    "luecke": {
+      "satz": "Die Stadt will ___ Grünflächen erhalten, statt sie zu bebauen.",
+      "loesung": "innerstädtische",
+      "optionen": [
+        "innerliche",
+        "innige",
+        "innerstädtische",
+        "inhaltliche"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0395",
+    "wort": "zentrumsnah",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Nicht weit vom Stadtzentrum entfernt.",
+    "synonyme": [
+      "zentral gelegen",
+      "innenstadtnah"
+    ],
+    "antonyme": [
+      "abgelegen",
+      "am Stadtrand"
+    ],
+    "wortfamilie": [
+      "das Zentrum",
+      "nah",
+      "zentral"
+    ],
+    "kollokationen": [
+      "eine zentrumsnahe Wohnung",
+      "zentrumsnah wohnen"
+    ],
+    "beispiel": "Zentrumsnahe Wohnungen sind beliebt, aber auch besonders teuer.",
+    "luecke": {
+      "satz": "Die Wohnung liegt ___: Bis zum Marktplatz sind es nur fünf Minuten zu Fuß.",
+      "loesung": "zentrumsnah",
+      "optionen": [
+        "zeitnah",
+        "zielstrebig",
+        "zentrumsfern",
+        "zentrumsnah"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0396",
+    "wort": "baufällig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "In so schlechtem Zustand, dass ein Gebäude einzustürzen droht.",
+    "synonyme": [
+      "marode",
+      "verfallen"
+    ],
+    "antonyme": [
+      "intakt",
+      "saniert"
+    ],
+    "wortfamilie": [
+      "der Bau",
+      "fallen",
+      "der Verfall"
+    ],
+    "kollokationen": [
+      "ein baufälliges Haus",
+      "als baufällig gelten"
+    ],
+    "beispiel": "Die alte Turnhalle der Schule ist baufällig und muss abgerissen werden.",
+    "luecke": {
+      "satz": "Das ___ Gebäude wurde gesperrt, weil Teile der Decke herunterfallen könnten.",
+      "loesung": "baufällige",
+      "optionen": [
+        "baugleiche",
+        "baufällige",
+        "bauliche",
+        "bauchige"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0397",
+    "wort": "lebenswert",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "So angenehm, dass man dort gern lebt.",
+    "synonyme": [
+      "attraktiv",
+      "angenehm"
+    ],
+    "antonyme": [
+      "unwirtlich"
+    ],
+    "wortfamilie": [
+      "das Leben",
+      "der Wert",
+      "die Lebensqualität"
+    ],
+    "kollokationen": [
+      "eine lebenswerte Stadt",
+      "lebenswerter machen"
+    ],
+    "beispiel": "Mehr Grün und weniger Autos sollen die Innenstadt lebenswerter machen.",
+    "luecke": {
+      "satz": "Wien gilt als besonders ___ Stadt: Die Mieten sind relativ günstig, und es gibt viele Parks.",
+      "loesung": "lebenswerte",
+      "optionen": [
+        "leblose",
+        "lebensmüde",
+        "lebenslange",
+        "lebenswerte"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0398",
+    "wort": "dicht besiedelt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wohnen_stadt",
+    "register": "schriftlich",
+    "erklaerung": "Mit sehr vielen Einwohnern auf kleiner Fläche.",
+    "synonyme": [
+      "stark bevölkert"
+    ],
+    "antonyme": [
+      "dünn besiedelt",
+      "menschenleer"
+    ],
+    "wortfamilie": [
+      "die Siedlung",
+      "die Besiedlung",
+      "dicht"
+    ],
+    "kollokationen": [
+      "ein dicht besiedeltes Land",
+      "dicht besiedelte Regionen"
+    ],
+    "beispiel": "Nordrhein-Westfalen ist das am dichtesten besiedelte Flächenland Deutschlands.",
+    "luecke": {
+      "satz": "Die Philippinen gehören zu den am ___ besiedelten Ländern Asiens.",
+      "loesung": "dichtesten",
+      "optionen": [
+        "dicksten",
+        "dichtesten",
+        "dünnsten",
+        "festesten"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0399",
+    "wort": "gang und gäbe",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Allgemein üblich; ganz normal.",
+    "synonyme": [
+      "üblich",
+      "gängig"
+    ],
+    "antonyme": [
+      "ungewöhnlich"
+    ],
+    "wortfamilie": [],
+    "kollokationen": [
+      "gang und gäbe sein"
+    ],
+    "beispiel": "Auf den Philippinen ist es gang und gäbe, dass mehrere Generationen in einem Haus leben.",
+    "luecke": {
+      "satz": "In deutschen Universitätsstädten ist es gang und ___, dass sich Studierende eine Wohnung teilen.",
+      "loesung": "gäbe",
+      "optionen": [
+        "gebe",
+        "gäbe",
+        "Gabe",
+        "geben"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0400",
+    "wort": "auf engstem Raum",
+    "wortart": "Ausdruck",
+    "formen": "",
+    "thema": "wohnen_stadt",
+    "register": "neutral",
+    "erklaerung": "Mit sehr wenig Platz; sehr eng zusammen.",
+    "synonyme": [
+      "sehr beengt",
+      "dicht gedrängt"
+    ],
+    "antonyme": [
+      "großzügig",
+      "weitläufig"
+    ],
+    "wortfamilie": [
+      "eng",
+      "der Raum"
+    ],
+    "kollokationen": [
+      "auf engstem Raum leben",
+      "auf engstem Raum zusammenarbeiten"
+    ],
+    "beispiel": "In Manila leben viele Familien auf engstem Raum zusammen.",
+    "luecke": {
+      "satz": "In den Altbauwohnungen lebten früher oft sechs Personen auf ___ Raum.",
+      "loesung": "engstem",
+      "optionen": [
+        "weitestem",
+        "engstem",
+        "höchstem",
+        "längstem"
+      ]
+    },
+    "bezug": true
+  }
+]

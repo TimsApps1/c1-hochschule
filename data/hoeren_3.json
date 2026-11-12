@@ -1,0 +1,3049 @@
+[
+  {
+    "id": "hv3_01",
+    "teil": "hv3",
+    "titel": "Antibiotikaresistenzen – wenn Medikamente nicht mehr wirken",
+    "thema": "gesundheit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "situation": "Sie hören einen Vortrag im Rahmen der Ringvorlesung „Gesundheit im Wandel“.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Dr. Katrin Albers, Mikrobiologin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Liebe Studierende, liebe Gäste, herzlich willkommen zur heutigen Sitzung unserer Ringvorlesung „Gesundheit im Wandel“. Unsere Referentin ist Doktor Katrin Albers. Sie leitet am Universitätsklinikum eine Arbeitsgruppe für klinische Mikrobiologie und spricht heute über ein Thema, das uns alle betrifft, nämlich Antibiotikaresistenzen. Frau Albers, ich übergebe Ihnen das Wort."
+      },
+      {
+        "sp": "A",
+        "text": "Vielen Dank für die freundliche Einführung und einen schönen guten Abend. Ich möchte mit einer kleinen Frage beginnen: Wer von Ihnen hat schon einmal ein Antibiotikum genommen? Ja, ich sehe, das sind fast alle. Antibiotika gehören zu den wichtigsten Medikamenten, die wir haben. Aber sie verlieren nach und nach ihre Wirkung, und genau darüber möchte ich heute sprechen. Ich beginne mit einem kurzen Blick zurück. Danach erkläre ich, wie Resistenzen eigentlich entstehen. Im dritten Teil geht es um die Ursachen und die Folgen, und zum Schluss zeige ich Ihnen, was wir dagegen tun können, in der Medizin, aber auch jeder und jede Einzelne von uns."
+      },
+      {
+        "sp": "A",
+        "text": "Also, zunächst zur Geschichte. Im Jahr neunzehnhundertachtundzwanzig hat der schottische Forscher Alexander Fleming das Penicillin entdeckt, und zwar eher durch Zufall. Er war in den Urlaub gefahren, oder besser gesagt in die Sommerferien, und hatte einige Bakterienkulturen offen stehen lassen. Als er zurückkam, war auf einer Platte ein Schimmelpilz gewachsen, und rund um diesen Pilz gab es keine Bakterien mehr. Das war, wenn Sie so wollen, der Beginn einer neuen Epoche. Für diese Entdeckung bekam Fleming später, zusammen mit zwei Kollegen, sogar den Nobelpreis. Man muss sich klarmachen, wie die Welt vorher aussah. Bevor es Antibiotika gab, konnte schon eine kleine Wunde, etwa ein Kratzer bei der Gartenarbeit, zum Tod führen, wenn sie sich entzündete. Auch eine Lungenentzündung oder eine Blutvergiftung war oft nicht zu behandeln. Erst in den vierziger Jahren wurde das Penicillin dann in großen Mengen hergestellt, und danach kamen viele weitere Wirkstoffe dazu. Eine Sache ist mir dabei noch wichtig: Antibiotika wirken ausschließlich gegen Bakterien. Gegen Viren, also zum Beispiel gegen eine Grippe oder eine normale Erkältung, helfen sie überhaupt nicht."
+      },
+      {
+        "sp": "A",
+        "text": "Damit komme ich zum zweiten Punkt: Wie entstehen Resistenzen? Bakterien vermehren sich sehr schnell, manche teilen sich etwa alle zwanzig Minuten. Bei jeder Teilung wird das Erbgut kopiert, und dabei passieren immer wieder kleine Fehler. Das sind zufällige Mutationen. Die allermeisten davon sind bedeutungslos, aber ab und zu entsteht durch so eine Veränderung eine Eigenschaft, die das Bakterium vor einem Antibiotikum schützt. Und jetzt kommt die Selektion ins Spiel. Wenn wir ein Antibiotikum einsetzen, sterben die empfindlichen Bakterien ab. Die wenigen resistenten aber überleben, und sie haben jetzt plötzlich sehr viel Platz und sehr viele Nährstoffe für sich allein. Sie vermehren sich also ungestört weiter. Das ist im Grunde Evolution im Zeitraffer. Ein Ergebnis davon sind die sogenannten Krankenhauskeime, also Bakterien, gegen die gleich mehrere Antibiotika nicht mehr wirken. Für Menschen mit einem schwachen Immunsystem können sie lebensgefährlich sein. Und es gibt noch einen zweiten Weg, der vielleicht sogar gefährlicher ist. Bakterien können nämlich Resistenzgene untereinander austauschen, und zwar auch zwischen verschiedenen Arten. Diese Gene liegen oft auf kleinen ringförmigen Erbgutstücken, den sogenannten Plasmiden, die von einer Zelle zur nächsten weitergegeben werden. Ein harmloses Darmbakterium kann auf diese Weise eine Resistenz an einen gefährlichen Krankheitserreger weitergeben."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme nun zum dritten Teil, zu den Ursachen. Warum breiten sich Resistenzen so stark aus? Ganz einfach gesagt: weil wir zu viele Antibiotika einsetzen, und oft an der falschen Stelle. In der Medizin werden Antibiotika häufig verschrieben, obwohl sie gar nicht nötig sind, vor allem bei Atemwegsinfekten, die meistens von Viren verursacht werden. Untersuchungen zeigen, dass ein großer Teil dieser Verordnungen eigentlich überflüssig ist. Hinzu kommt, dass Antibiotika in manchen Ländern ohne Rezept in jeder Apotheke verkauft werden. Ein zweiter großer Bereich ist die Landwirtschaft. In vielen Ländern bekommen Tiere in großen Ställen Antibiotika, ohne krank zu sein, also rein vorbeugend, damit sich gar nicht erst Krankheiten ausbreiten. In der Europäischen Union ist der vorbeugende Einsatz inzwischen stark eingeschränkt, aber weltweit ist er noch üblich. Und schließlich spielt die Globalisierung eine Rolle. Durch Reisen und Handel verbreiten sich resistente Keime heute innerhalb weniger Tage über alle Kontinente."
+      },
+      {
+        "sp": "A",
+        "text": "Was sind nun die Folgen? Nach Schätzungen sterben weltweit jedes Jahr mehr als eine Million Menschen direkt an Infektionen mit resistenten Bakterien, und die Zahl wird voraussichtlich steigen. Aber es geht nicht nur um die Infektionen selbst. Viele ganz normale Behandlungen sind nur deshalb sicher, weil wir Infektionen mit Antibiotika verhindern oder behandeln können. Denken Sie an eine Operation, bei der man ein künstliches Hüftgelenk bekommt, oder an eine Chemotherapie bei Krebs, bei der das Immunsystem stark geschwächt ist. Wenn Antibiotika nicht mehr wirken, werden solche Routineeingriffe plötzlich wieder gefährlich. Hinzu kommt ein weiteres Problem: Es werden kaum neue Antibiotika entwickelt. Der Grund ist vor allem wirtschaftlich. Die Entwicklung eines neuen Wirkstoffs kostet sehr viel Geld, aber ein neues Antibiotikum soll ja möglichst selten eingesetzt werden, damit keine Resistenzen dagegen entstehen. Für Pharmafirmen lohnt sich das also kaum, und viele haben sich aus diesem Bereich zurückgezogen. In Großbritannien probiert man deshalb ein neues Modell aus. Der Staat zahlt den Firmen einen festen Betrag pro Jahr, egal, wie viel von dem neuen Mittel tatsächlich verkauft wird. Ob das funktioniert, wird sich zeigen."
+      },
+      {
+        "sp": "A",
+        "text": "Damit bin ich beim vierten Punkt: Was können wir tun? Im Krankenhaus ist Hygiene das A und O. Die wichtigste und zugleich einfachste Maßnahme ist die konsequente Desinfektion der Hände, und zwar vor und nach jedem Kontakt mit Patienten. Außerdem gibt es in vielen Kliniken inzwischen spezielle Teams, die die Ärztinnen und Ärzte bei der Auswahl des passenden Antibiotikums beraten. In der Arztpraxis wiederum wäre es ideal, wenn man vor der Verschreibung genau wüsste, ob ein Infekt von Bakterien oder von Viren kommt. Dafür werden zurzeit Schnelltests entwickelt, die das innerhalb weniger Minuten zeigen. Und auch die Forschung sucht nach neuen Wegen. Sehr spannend finde ich persönlich die sogenannte Phagentherapie. Phagen sind Viren, die ausschließlich Bakterien angreifen. Man setzt also gewissermaßen Viren gegen Bakterien ein. In Osteuropa hat man damit schon lange Erfahrung, bei uns steckt das allerdings noch in den Anfängen. Es gibt nämlich sehr viele verschiedene Phagen, und für jeden Patienten muss man erst den passenden finden."
+      },
+      {
+        "sp": "A",
+        "text": "Zum Schluss noch ein paar Worte dazu, was Sie persönlich beitragen können. Erstens: Nehmen Sie Antibiotika nur, wenn sie Ihnen wirklich verschrieben wurden, und genau so, wie Sie es mit Ihrer Ärztin oder Ihrem Arzt besprochen haben. Zweitens: Reste gehören nicht in die Toilette, sondern in den Restmüll, oder Sie geben sie in der Apotheke ab. Sonst gelangen die Wirkstoffe ins Abwasser und damit in die Umwelt. Und drittens, und das wird oft vergessen: Achten Sie darauf, dass Ihre Impfungen auf dem aktuellen Stand sind. Jede Infektion, die durch eine Impfung verhindert wird, muss auch nicht mit Antibiotika behandelt werden. Man könnte also sagen, Impfungen schützen indirekt auch vor Resistenzen. Ich fasse kurz zusammen: Resistenzen sind ein natürlicher Prozess, aber wir beschleunigen ihn massiv. Wenn wir Antibiotika klug einsetzen, können wir ihre Wirkung noch lange erhalten. Vielen Dank für Ihre Aufmerksamkeit, ich freue mich auf Ihre Fragen."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Antibiotika – eine Erfolgsgeschichte",
+        "punkte": [
+          {
+            "text": "1928: Fleming entdeckt Penicillin (Zufallsfund)"
+          },
+          {
+            "luecke": 1,
+            "loesung": "selbst kleine Wunden oder Kratzer",
+            "schluesselwoerter": [
+              [
+                "wunde",
+                "kratzer",
+                "verletzung",
+                "schnitt"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Bevor es Antibiotika gab, konnte schon eine kleine Wunde, etwa ein Kratzer bei der Gartenarbeit, zum Tod führen.“"
+          },
+          {
+            "text": "wirken nur gegen Bakterien, nicht gegen Viren"
+          }
+        ]
+      },
+      {
+        "titel": "2. Wie entstehen Resistenzen?",
+        "punkte": [
+          {
+            "text": "Weg 1:"
+          },
+          {
+            "luecke": 2,
+            "loesung": "zufällige Mutationen beim Kopieren des Erbguts",
+            "schluesselwoerter": [
+              [
+                "mutation",
+                "kopierfehler",
+                "fehler",
+                "veränder"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Bei jeder Teilung wird das Erbgut kopiert, und dabei passieren immer wieder kleine Fehler. Das sind zufällige Mutationen.“"
+          },
+          {
+            "text": "Selektion: empfindliche Bakterien sterben, resistente vermehren sich"
+          },
+          {
+            "text": "Weg 2:"
+          },
+          {
+            "luecke": 3,
+            "loesung": "Austausch von Resistenzgenen zwischen Bakterien",
+            "schluesselwoerter": [
+              [
+                "austausch",
+                "tausch",
+                "weitergeb",
+                "weitergab",
+                "übertrag"
+              ],
+              [
+                "gen",
+                "plasmid",
+                "erbgut",
+                "resistenz"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Bakterien können nämlich Resistenzgene untereinander austauschen, und zwar auch zwischen verschiedenen Arten.“"
+          }
+        ]
+      },
+      {
+        "titel": "3. Ursachen der Ausbreitung",
+        "punkte": [
+          {
+            "text": "Medizin:"
+          },
+          {
+            "luecke": 4,
+            "loesung": "unnötige Verschreibung bei Virusinfekten",
+            "schluesselwoerter": [
+              [
+                "unnötig",
+                "überflüssig",
+                "nicht nötig",
+                "nicht notwendig",
+                "zu viel",
+                "zu oft",
+                "zu häufig",
+                "ohne grund"
+              ],
+              [
+                "verschreib",
+                "verschrieb",
+                "verordn",
+                "virus",
+                "viren",
+                "viral",
+                "atemweg"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „In der Medizin werden Antibiotika häufig verschrieben, obwohl sie gar nicht nötig sind, vor allem bei Atemwegsinfekten.“"
+          },
+          {
+            "text": "Landwirtschaft:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "vorbeugende Gabe an gesunde Tiere",
+            "schluesselwoerter": [
+              [
+                "vorbeug",
+                "prophyla",
+                "gesund",
+                "ohne krank",
+                "nicht krank"
+              ],
+              [
+                "tier",
+                "stall",
+                "vieh"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „In vielen Ländern bekommen Tiere in großen Ställen Antibiotika, ohne krank zu sein, also rein vorbeugend.“"
+          },
+          {
+            "text": "Globalisierung: Reisen und Handel"
+          }
+        ]
+      },
+      {
+        "titel": "4. Folgen",
+        "punkte": [
+          {
+            "text": "jährlich > 1 Mio. Todesfälle weltweit"
+          },
+          {
+            "text": "Routineeingriffe werden riskant, z. B."
+          },
+          {
+            "luecke": 6,
+            "loesung": "Hüftoperationen und Chemotherapie bei Krebs",
+            "schluesselwoerter": [
+              [
+                "hüft",
+                "gelenk",
+                "operation"
+              ],
+              [
+                "chemo",
+                "krebs"
+              ]
+            ],
+            "erklaerung": "Sie nennt zwei Beispiele: „ein künstliches Hüftgelenk“ und „eine Chemotherapie bei Krebs“. Wer nur ein Beispiel notiert, bekommt einen Punkt."
+          },
+          {
+            "text": "kaum neue Antibiotika, weil"
+          },
+          {
+            "luecke": 7,
+            "loesung": "Entwicklung für Firmen unrentabel",
+            "schluesselwoerter": [
+              [
+                "lohnt",
+                "rentab",
+                "wirtschaftlich",
+                "gewinn",
+                "profit",
+                "geld",
+                "teuer",
+                "kosten",
+                "unattraktiv"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Der Grund ist vor allem wirtschaftlich … Für Pharmafirmen lohnt sich das also kaum.“"
+          }
+        ]
+      },
+      {
+        "titel": "5. Gegenstrategien",
+        "punkte": [
+          {
+            "text": "Krankenhaus:"
+          },
+          {
+            "luecke": 8,
+            "loesung": "konsequente Desinfektion der Hände",
+            "schluesselwoerter": [
+              [
+                "hand",
+                "händ"
+              ],
+              [
+                "desinf",
+                "hygien",
+                "wasch",
+                "sauber",
+                "reinig"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Die wichtigste und zugleich einfachste Maßnahme ist die konsequente Desinfektion der Hände.“"
+          },
+          {
+            "text": "Klinik-Teams beraten bei Auswahl des Antibiotikums"
+          },
+          {
+            "text": "Arztpraxis:"
+          },
+          {
+            "luecke": 9,
+            "loesung": "Schnelltests: Bakterien oder Viren?",
+            "schluesselwoerter": [
+              [
+                "schnelltest",
+                "test"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Dafür werden zurzeit Schnelltests entwickelt, die das innerhalb weniger Minuten zeigen.“"
+          },
+          {
+            "text": "Forschung: Phagentherapie (Viren gegen Bakterien)"
+          }
+        ]
+      },
+      {
+        "titel": "6. Was jede/r tun kann",
+        "punkte": [
+          {
+            "text": "nur nach Verordnung einnehmen"
+          },
+          {
+            "text": "Reste: Restmüll oder Apotheke, nicht Toilette"
+          },
+          {
+            "luecke": 10,
+            "loesung": "Impfungen auf aktuellem Stand halten",
+            "schluesselwoerter": [
+              [
+                "impf"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Achten Sie darauf, dass Ihre Impfungen auf dem aktuellen Stand sind.“"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_02",
+    "teil": "hv3",
+    "titel": "Wie wird man Lehrerin oder Lehrer in Deutschland?",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "situation": "Sie hören einen Vortrag im Rahmen der Informationsreihe „Wege ins Lehramt“ des Zentrums für Lehrerbildung.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Dr. Thomas Brenner, Zentrum für Lehrerbildung"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Guten Abend und herzlich willkommen zur dritten Veranstaltung unserer Reihe „Wege ins Lehramt“. Heute geht es um die Frage, wie die Ausbildung von Lehrkräften in Deutschland aufgebaut ist und welche Wege es für Menschen mit einem ausländischen Abschluss gibt. Dazu begrüße ich Doktor Thomas Brenner vom Zentrum für Lehrerbildung. Herr Brenner, bitte schön."
+      },
+      {
+        "sp": "A",
+        "text": "Ja, vielen Dank, und auch von mir einen guten Abend. Ich freue mich, dass so viele gekommen sind, und ich sehe, dass hier ganz unterschiedliche Menschen sitzen: Studierende im ersten Semester, aber auch, wie ich bei der Anmeldung gesehen habe, einige Lehrkräfte, die ihren Abschluss im Ausland gemacht haben. Das passt gut, denn ich möchte heute beides behandeln. Ich gehe so vor: Zuerst erkläre ich ein Grundprinzip, das man kennen muss, um das deutsche System zu verstehen. Dann stelle ich die drei Phasen der Lehrerbildung vor. Danach geht es um die Anerkennung ausländischer Abschlüsse, und zum Schluss spreche ich kurz über alternative Wege in den Beruf. Ich versuche, nicht zu schnell zu sprechen, aber wenn etwas unklar ist, notieren Sie sich Ihre Frage einfach. Am Ende haben wir genug Zeit für eine Diskussion."
+      },
+      {
+        "sp": "A",
+        "text": "Also, das Grundprinzip. In Deutschland ist Bildung Ländersache. Das heißt, nicht der Bund, sondern die sechzehn Bundesländer sind für die Schulen und auch für die Ausbildung der Lehrkräfte zuständig. Jedes Land hat sein eigenes Schulgesetz und seine eigenen Vorschriften. Die Folge ist, dass die Regeln von Bundesland zu Bundesland unterschiedlich sind. Das betrifft die Dauer der Ausbildung, die Schulformen, für die man ausgebildet wird, und, das ist für einige von Ihnen wichtig, auch die Anerkennung. Ein Beispiel: In manchen Ländern dauert das Gymnasium acht Jahre, in anderen neun, und auch die Namen der Schulformen sind nicht überall gleich. Wenn man also mit Kolleginnen aus Bayern oder Hamburg spricht, redet man manchmal ein bisschen aneinander vorbei. Es gibt zwar eine gemeinsame Konferenz der Kultusminister, die versucht, gewisse Standards zu vereinbaren, aber die Details sind eben überall ein bisschen anders. Ich beziehe mich heute deshalb vor allem auf Nordrhein-Westfalen, also auf das Land, in dem wir uns befinden."
+      },
+      {
+        "sp": "A",
+        "text": "Damit komme ich zur ersten Phase, dem Studium. In Nordrhein-Westfalen studiert man Lehramt heute in einem Bachelor und einem anschließenden Master. Dabei entscheidet man sich schon am Anfang für eine Schulform, also zum Beispiel für die Grundschule, für das Gymnasium und die Gesamtschule, für das Berufskolleg oder für die sonderpädagogische Förderung. Diese Entscheidung ist wichtig, weil sie bestimmt, an welchen Schulen man später arbeiten kann. Und was studiert man da genau? Man studiert in der Regel zwei Fächer, also zum Beispiel Biologie und Chemie oder Englisch und Geschichte, und zwar jeweils mit der dazugehörigen Fachdidaktik. Die Fachdidaktik beschäftigt sich mit der Frage, wie man die Inhalte eines Faches gut unterrichtet. Dazu kommen die Bildungswissenschaften, also Pädagogik und Psychologie. Ein ganz wichtiges Element ist das Praxissemester im Master. Da sind die Studierenden ungefähr fünf Monate lang an einer Schule, beobachten Unterricht, unterrichten selbst und führen kleine Forschungsprojekte durch. Viele sagen hinterher, dass sie erst in dieser Zeit wirklich wussten, ob der Beruf zu ihnen passt."
+      },
+      {
+        "sp": "A",
+        "text": "Nach dem Master folgt die zweite Phase, der Vorbereitungsdienst. Viele sagen dazu auch noch Referendariat. In Nordrhein-Westfalen dauert er achtzehn Monate. Das Besondere daran ist, dass man an zwei Orten gleichzeitig ausgebildet wird. Zum einen an einer Schule, wo man schon recht bald eigenständig unterrichtet, zum anderen in einem Seminar, wo man sich regelmäßig mit anderen Referendarinnen und Referendaren trifft und von erfahrenen Ausbildern begleitet wird. Am Ende steht die Staatsprüfung. Dabei zeigt man in zwei Unterrichtsstunden, die von einer Prüfungskommission besucht werden, was man gelernt hat, und es gibt außerdem eine mündliche Prüfung. Ich will ehrlich sein: Diese Zeit wird von vielen als sehr anstrengend empfunden, weil man ständig beobachtet und bewertet wird. Gleichzeitig ist es aber auch die Zeit, in der man am meisten lernt. Übrigens bekommt man in dieser Phase schon ein Gehalt, das allerdings deutlich niedriger ist als später im Beruf."
+      },
+      {
+        "sp": "A",
+        "text": "Die dritte Phase beginnt mit dem Berufseinstieg und dauert eigentlich das ganze Berufsleben. In den ersten Jahren wird man in vielen Schulen von einer Mentorin oder einem Mentor begleitet, also von einer erfahrenen Kollegin oder einem erfahrenen Kollegen, an die oder an den man sich mit Fragen wenden kann. Und dann gilt: Lehrkräfte sind verpflichtet, sich regelmäßig fortzubilden. Das ist nicht nur eine Empfehlung, sondern steht so im Gesetz. Gerade bei Themen wie Digitalisierung oder dem Umgang mit sehr unterschiedlichen Lerngruppen verändert sich ja ständig etwas. Angeboten werden solche Fortbildungen von den Ländern selbst, aber auch von Universitäten und Verbänden, und viele Schulen organisieren auch eigene Fortbildungstage für das ganze Kollegium."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme nun zum vierten Teil, der Anerkennung ausländischer Lehramtsabschlüsse. Zuständig ist in Nordrhein-Westfalen die Bezirksregierung. Für den Antrag braucht man seine Zeugnisse, eine genaue Übersicht über die Fächer und Stunden aus dem Studium und beglaubigte Übersetzungen. Das klingt nach viel Papier, und ehrlich gesagt ist es das auch. Dort prüft man dann, ob die Ausbildung im Ausland mit der deutschen Ausbildung vergleichbar ist. Und hier gibt es ein Problem, das wir in der Beratung immer wieder sehen. Das häufigste Hindernis ist, dass die Personen im Ausland nur ein einziges Unterrichtsfach studiert haben. In vielen Ländern ist das ganz normal, zum Beispiel auf den Philippinen oder in Osteuropa. In Deutschland braucht man aber in der Regel zwei Fächer. Wenn wesentliche Unterschiede festgestellt werden, kann man diese ausgleichen. Dafür gibt es zwei Möglichkeiten. Die eine ist eine Eignungsprüfung. Die andere, und die wird häufiger gewählt, ist ein Anpassungslehrgang. Dabei arbeitet man für eine bestimmte Zeit an einer Schule und wird dort begleitet und am Ende bewertet. Außerdem braucht man sehr gute Deutschkenntnisse, je nach Bundesland mindestens auf dem Niveau C eins, teilweise sogar C zwei. Das ist eine hohe Hürde, aber man muss sie nicht allein nehmen. An einigen Universitäten gibt es inzwischen spezielle Programme für zugewanderte Lehrkräfte, die Sprachkurse, Fachdidaktik und Praxisphasen an Schulen miteinander verbinden."
+      },
+      {
+        "sp": "A",
+        "text": "Zum Schluss noch kurz zu den alternativen Wegen. Wie Sie sicher wissen, fehlen in Deutschland sehr viele Lehrkräfte. Deshalb gibt es den sogenannten Seiteneinstieg. Menschen, die einen Hochschulabschluss, aber kein Lehramtsstudium haben, können unter bestimmten Bedingungen direkt in den Schuldienst gehen und die pädagogische Ausbildung berufsbegleitend nachholen. Das bedeutet, man unterrichtet vom ersten Tag an und besucht gleichzeitig ein Seminar. Das ist natürlich eine enorme Belastung, und nicht alle halten das durch. Das gilt allerdings vor allem für die Mangelfächer, also für Fächer, in denen besonders viele Lehrkräfte fehlen, etwa Physik, Informatik oder Musik. Lassen Sie mich mit einem ganz praktischen Rat schließen, der aus meiner Erfahrung am wichtigsten ist: Lassen Sie sich möglichst früh beraten, am besten schon bevor Sie einen Antrag stellen oder sich für ein Studium einschreiben. Die Wege sind kompliziert, aber es gibt fast immer einen Weg. Vielen Dank, und jetzt bin ich gespannt auf Ihre Fragen."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Grundprinzip: Bildung ist Ländersache",
+        "punkte": [
+          {
+            "text": "16 Bundesländer, 16 Schulgesetze"
+          },
+          {
+            "text": "Folge:"
+          },
+          {
+            "luecke": 1,
+            "loesung": "Regeln je nach Bundesland unterschiedlich",
+            "schluesselwoerter": [
+              [
+                "unterschied",
+                "verschied",
+                "anders",
+                "andere",
+                "uneinheit",
+                "nicht einheitlich",
+                "nicht gleich"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Die Folge ist, dass die Regeln von Bundesland zu Bundesland unterschiedlich sind.“"
+          },
+          {
+            "text": "Kultusministerkonferenz: gemeinsame Standards"
+          }
+        ]
+      },
+      {
+        "titel": "2. Phase 1: Studium (Bachelor + Master)",
+        "punkte": [
+          {
+            "text": "Inhalte: Bildungswissenschaften und"
+          },
+          {
+            "luecke": 2,
+            "loesung": "zwei Fächer mit Fachdidaktik",
+            "schluesselwoerter": [
+              [
+                "zwei",
+                "2",
+                "beide"
+              ],
+              [
+                "fach",
+                "fäch"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Man studiert in der Regel zwei Fächer … und zwar jeweils mit der dazugehörigen Fachdidaktik.“"
+          },
+          {
+            "text": "Praxissemester im Master:"
+          },
+          {
+            "luecke": 3,
+            "loesung": "etwa fünf Monate an einer Schule",
+            "schluesselwoerter": [
+              [
+                "fünf",
+                "5"
+              ],
+              [
+                "monat"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Da sind die Studierenden ungefähr fünf Monate lang an einer Schule.“"
+          }
+        ]
+      },
+      {
+        "titel": "3. Phase 2: Vorbereitungsdienst (Referendariat)",
+        "punkte": [
+          {
+            "text": "Dauer in NRW: 18 Monate"
+          },
+          {
+            "text": "Ausbildung an zwei Orten:"
+          },
+          {
+            "luecke": 4,
+            "loesung": "an Schule und im Seminar",
+            "schluesselwoerter": [
+              [
+                "schule"
+              ],
+              [
+                "seminar"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Zum einen an einer Schule …, zum anderen in einem Seminar.“ Beide Orte gehören in die Notiz."
+          },
+          {
+            "text": "Staatsprüfung:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "zwei Unterrichtsstunden vor Kommission",
+            "schluesselwoerter": [
+              [
+                "unterricht",
+                "stunde",
+                "lehrprob",
+                "probe"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Dabei zeigt man in zwei Unterrichtsstunden, die von einer Prüfungskommission besucht werden, was man gelernt hat.“"
+          },
+          {
+            "text": "+ mündliche Prüfung"
+          }
+        ]
+      },
+      {
+        "titel": "4. Phase 3: Beruf",
+        "punkte": [
+          {
+            "text": "erste Jahre:"
+          },
+          {
+            "luecke": 6,
+            "loesung": "Begleitung durch erfahrene Mentoren",
+            "schluesselwoerter": [
+              [
+                "mentor",
+                "begleit",
+                "erfahren",
+                "pate",
+                "patin"
+              ]
+            ],
+            "erklaerung": "Er sagt: „In den ersten Jahren wird man in vielen Schulen von einer Mentorin oder einem Mentor begleitet.“"
+          },
+          {
+            "text": "Fortbildung = gesetzliche Pflicht"
+          }
+        ]
+      },
+      {
+        "titel": "5. Anerkennung ausländischer Abschlüsse",
+        "punkte": [
+          {
+            "text": "zuständig: Bezirksregierung"
+          },
+          {
+            "text": "häufigstes Hindernis:"
+          },
+          {
+            "luecke": 7,
+            "loesung": "nur ein Unterrichtsfach studiert",
+            "schluesselwoerter": [
+              [
+                "ein fach",
+                "einem fach",
+                "nur ein",
+                "einzig",
+                "ein unterrichtsfach",
+                "einem unterrichtsfach",
+                "1 fach",
+                "zweites fach",
+                "zweites unterrichtsfach",
+                "zweite fach",
+                "kein zweites"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Das häufigste Hindernis ist, dass die Personen im Ausland nur ein einziges Unterrichtsfach studiert haben.“"
+          },
+          {
+            "text": "Ausgleich: Eignungsprüfung oder"
+          },
+          {
+            "luecke": 8,
+            "loesung": "Anpassungslehrgang an einer Schule",
+            "schluesselwoerter": [
+              [
+                "anpassung",
+                "lehrgang"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Die andere, und die wird häufiger gewählt, ist ein Anpassungslehrgang.“"
+          },
+          {
+            "text": "Deutsch: mind. C1, teils C2"
+          }
+        ]
+      },
+      {
+        "titel": "6. Alternative Wege und Tipp",
+        "punkte": [
+          {
+            "text": "Seiteneinstieg: Hochschulabschluss ohne Lehramt"
+          },
+          {
+            "text": "v. a. in"
+          },
+          {
+            "luecke": 9,
+            "loesung": "Mangelfächern wie Physik oder Informatik",
+            "schluesselwoerter": [
+              [
+                "mangel",
+                "physik",
+                "informatik",
+                "musik",
+                "fehlen"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Das gilt allerdings vor allem für die Mangelfächer …, etwa Physik, Informatik oder Musik.“"
+          },
+          {
+            "text": "wichtigster Rat:"
+          },
+          {
+            "luecke": 10,
+            "loesung": "möglichst früh beraten lassen",
+            "schluesselwoerter": [
+              [
+                "berat"
+              ],
+              [
+                "früh",
+                "vor dem antrag",
+                "vor antrag",
+                "vorher",
+                "rechtzeitig",
+                "bald"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Lassen Sie sich möglichst früh beraten, am besten schon bevor Sie einen Antrag stellen.“"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_03",
+    "teil": "hv3",
+    "titel": "Stadtökologie – die Stadt als Lebensraum",
+    "thema": "wohnen_stadt",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören einen Vortrag im Rahmen der Ringvorlesung „Mensch und Umwelt“.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Prof. Dr. Miriam Hoffmann, Landschaftsökologin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Meine Damen und Herren, ich darf Sie herzlich zur heutigen Ringvorlesung „Mensch und Umwelt“ begrüßen. Wenn wir an Natur denken, denken die meisten von uns an Wälder, Wiesen oder das Meer, aber kaum an die Stadt. Unsere heutige Referentin, die Landschaftsökologin Professorin Miriam Hoffmann, wird uns zeigen, dass das ein Fehler sein könnte. Frau Hoffmann, wir sind gespannt."
+      },
+      {
+        "sp": "A",
+        "text": "Vielen Dank für die Einladung und guten Abend allerseits. Ja, ich möchte Sie heute tatsächlich zu einem kleinen Perspektivwechsel einladen. Die Stadt gilt ja gemeinhin als das Gegenteil von Natur: Beton, Asphalt, Verkehr, Lärm. Und trotzdem leben in unseren Städten erstaunlich viele Tier- und Pflanzenarten. Mein Vortrag ist in fünf Abschnitte gegliedert. Zuerst schauen wir uns an, was die Stadt als Lebensraum überhaupt so besonders macht. Im zweiten Teil geht es um die Artenvielfalt, und da gibt es, das kann ich schon verraten, eine Überraschung. Drittens spreche ich über die Probleme, mit denen Tiere und Pflanzen in der Stadt zu kämpfen haben. Viertens geht es um die Frage, was uns Menschen das Stadtgrün eigentlich bringt, und zum Schluss stelle ich einige Maßnahmen vor, mit denen man Städte naturfreundlicher gestalten kann."
+      },
+      {
+        "sp": "A",
+        "text": "Beginnen wir also mit den Besonderheiten. Das Erste, was Stadtökologen auffällt, ist die Versiegelung. Ein großer Teil der Fläche ist mit Gebäuden, Straßen und Parkplätzen bedeckt, sodass Regenwasser nicht versickern kann. Das Zweite ist das Klima. Städte sind deutlich wärmer als ihr Umland, man spricht von der städtischen Wärmeinsel. Stein und Asphalt speichern tagsüber die Sonnenwärme und geben sie nachts wieder ab. In großen Städten kann es deshalb nachts bis zu zehn Grad wärmer sein als in den Dörfern der Umgebung. Für uns Menschen ist das im Sommer eine echte Belastung, gerade für ältere Menschen, die in heißen Nächten kaum noch Erholung finden. Für manche Tier- und Pflanzenarten ist es dagegen ein Vorteil, vor allem für solche, die eigentlich aus wärmeren Regionen stammen. Und drittens ist die Stadt ein Mosaik aus sehr unterschiedlichen kleinen Lebensräumen, die dicht nebeneinanderliegen: Parks, Hinterhöfe, Friedhöfe, Bahndämme, Brachflächen und so weiter. Gerade die Brachflächen, also Grundstücke, die eine Zeit lang nicht genutzt werden, sind übrigens ökologisch oft besonders wertvoll, auch wenn sie für viele Menschen einfach nach Schrott und Unkraut aussehen."
+      },
+      {
+        "sp": "A",
+        "text": "Und damit komme ich zum zweiten Teil, zur Artenvielfalt. Jetzt kommt nämlich die Überraschung, die ich angekündigt hatte. Wenn man die Zahl der Arten zählt, ist die Artenvielfalt in vielen Städten höher als in einer intensiv genutzten Agrarlandschaft. Wenn Sie an riesige Maisfelder denken, die regelmäßig gedüngt und mit Pflanzenschutzmitteln behandelt werden, dann ist das, ökologisch gesehen, eher eine grüne Wüste. In der Stadt finden dagegen viele Arten auf kleinem Raum sehr verschiedene Bedingungen. Ein schönes Beispiel sind die Wanderfalken. Diese Greifvögel brüten in der Natur eigentlich an steilen Felswänden. In der Stadt nutzen sie stattdessen Kirchtürme und Hochhäuser, die für sie im Grunde nichts anderes sind als künstliche Felsen. Und Nahrung gibt es reichlich, nämlich Tauben. Auch Füchse, Igel oder in manchen Städten sogar Wildschweine haben sich längst an das Leben zwischen Häusern gewöhnt. Man muss allerdings ehrlich sagen, dass es oft eher anpassungsfähige Allerweltsarten sind, die in der Stadt gut zurechtkommen, und weniger die seltenen Spezialisten."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme nun zum dritten Punkt, zu den Problemen. Das erste große Problem ist das Licht. Straßenlaternen, beleuchtete Schaufenster und Werbetafeln machen die Nacht zum Tag. Nachtaktive Insekten, vor allem Nachtfalter, werden von diesen Lichtquellen angezogen, kreisen stundenlang um die Lampen und sterben dann vor Erschöpfung oder werden gefressen. Fachleute sprechen von Lichtverschmutzung. Manche Städte reagieren inzwischen darauf, indem sie Laternen mit warmem, gedämpftem Licht einsetzen, das nur nach unten strahlt und in der zweiten Nachthälfte teilweise abgeschaltet wird. Ein zweites Problem sind gebietsfremde Arten, also Pflanzen und Tiere, die der Mensch absichtlich oder unabsichtlich aus anderen Kontinenten eingeführt hat. Nicht alle sind problematisch, die meisten sind sogar völlig harmlos. Aber einige breiten sich so stark aus, dass sie heimische Pflanzen verdrängen. Ein bekanntes Beispiel ist der Götterbaum aus China, der selbst in schmalen Ritzen zwischen Pflastersteinen wächst. Und drittens werden Lebensräume durch Straßen zerschnitten, sodass zum Beispiel Kröten oder Igel nicht mehr von einem Grünstück zum nächsten kommen."
+      },
+      {
+        "sp": "A",
+        "text": "Jetzt wechseln wir die Perspektive. Was bringt eigentlich uns Menschen das Stadtgrün? In der Fachsprache sagt man dazu Ökosystemleistungen. Bäume sind hier die wichtigsten Akteure. Sie kühlen ihre Umgebung, und zwar auf zwei Wegen: Zum einen spenden sie Schatten, zum anderen verdunsten sie über ihre Blätter große Mengen Wasser, und Verdunstung kühlt, das kennen Sie vom Schwitzen. Ein großer, alter Stadtbaum gibt an einem heißen Tag mehrere hundert Liter Wasser an die Luft ab. Eine Straße mit alten Bäumen kann an einem Sommertag spürbar kühler sein als eine Straße ohne Bäume. Außerdem filtern die Blätter Feinstaub aus der Luft. Aber das Stadtgrün wirkt auch auf die Psyche. Mehrere Studien haben gezeigt, dass Menschen, die einen Park oder eine Grünfläche in der Nähe ihrer Wohnung haben, weniger unter Stress leiden. Sie fühlen sich insgesamt wohler, und manche Untersuchungen deuten sogar darauf hin, dass sie seltener an Depressionen erkranken. Das ist, wenn Sie so wollen, eine kostenlose Gesundheitsleistung."
+      },
+      {
+        "sp": "A",
+        "text": "Damit bin ich beim letzten großen Abschnitt, bei den Maßnahmen. Ich möchte drei Ansätze herausgreifen. Der erste Ansatz betrifft das Wasser und hat einen etwas ungewöhnlichen Namen. Man spricht vom Prinzip der Schwammstadt. Die Idee ist, dass die Stadt Regenwasser wie ein Schwamm aufnimmt, statt es möglichst schnell in die Kanalisation zu leiten. Dafür legt man zum Beispiel Mulden an, in denen sich das Wasser sammeln und langsam versickern kann, oder unterirdische Speicher. Bei Starkregen werden so Überschwemmungen vermieden, und in trockenen Sommern steht das Wasser den Bäumen zur Verfügung. Der zweite Ansatz sind begrünte Dächer und Fassaden, die Gebäude kühlen und Insekten Nahrung bieten. Und der dritte Ansatz ist eigentlich der einfachste: Man ändert die Pflege der Grünflächen. Viele städtische Rasenflächen werden im Sommer alle zwei Wochen gemäht. Wenn man stattdessen nur zweimal im Jahr mäht, entwickeln sich daraus nach und nach artenreiche Blumenwiesen. Das spart der Stadt sogar Geld."
+      },
+      {
+        "sp": "A",
+        "text": "Lassen Sie mich zum Schluss kommen. Wir haben gesehen, dass die Stadt kein ökologisches Niemandsland ist, sondern ein eigener, ziemlich spannender Lebensraum. Aber diese Stadtnatur braucht etwas, das man nicht kaufen kann. Sie braucht unsere Toleranz für Unordnung. Hohes Gras, ein Haufen Totholz in der Ecke eines Parks, ein wilder Streifen am Rand des Spielplatzes, das alles wirkt auf viele Bürgerinnen und Bürger ungepflegt, und die Grünflächenämter bekommen dann Beschwerden. Für Insekten, Vögel und Igel ist genau das aber ein wertvoller Lebensraum. Wenn wir lernen, ein bisschen Wildnis vor unserer Haustür auszuhalten, dann ist schon viel gewonnen. Und noch ein letzter Gedanke: Stadtökologie ist ein Forschungsfeld, in dem auch Bürgerinnen und Bürger mitforschen können, zum Beispiel, indem sie Vögel zählen oder Pflanzen bestimmen und ihre Beobachtungen melden. Vielleicht haben Sie ja Lust, mitzumachen. Vielen Dank fürs Zuhören."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Besonderheiten des Lebensraums Stadt",
+        "punkte": [
+          {
+            "text": "Versiegelung: Regenwasser versickert nicht"
+          },
+          {
+            "text": "städtische Wärmeinsel: nachts bis zu"
+          },
+          {
+            "luecke": 1,
+            "loesung": "zehn Grad wärmer als Umland",
+            "schluesselwoerter": [
+              [
+                "zehn",
+                "10"
+              ],
+              [
+                "grad",
+                "°"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „In großen Städten kann es deshalb nachts bis zu zehn Grad wärmer sein als in den Dörfern der Umgebung.“"
+          },
+          {
+            "text": "Mosaik kleiner Lebensräume (Parks, Brachen, Friedhöfe)"
+          }
+        ]
+      },
+      {
+        "titel": "2. Überraschung: Artenvielfalt",
+        "punkte": [
+          {
+            "text": "oft höher als in"
+          },
+          {
+            "luecke": 2,
+            "loesung": "intensiv genutzter Agrarlandschaft",
+            "schluesselwoerter": [
+              [
+                "agrar",
+                "landwirtschaft",
+                "acker",
+                "äcker",
+                "feld",
+                "felder",
+                "monokultur"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „… ist die Artenvielfalt in vielen Städten höher als in einer intensiv genutzten Agrarlandschaft.“"
+          },
+          {
+            "text": "Beispiel Wanderfalke: brütet auf"
+          },
+          {
+            "luecke": 3,
+            "loesung": "Kirchtürmen und Hochhäusern",
+            "schluesselwoerter": [
+              [
+                "kirch",
+                "turm",
+                "türm",
+                "hochh",
+                "gebäude",
+                "häuser"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „In der Stadt nutzen sie stattdessen Kirchtürme und Hochhäuser“ – als künstliche Felsen."
+          },
+          {
+            "text": "aber: v. a. anpassungsfähige Allerweltsarten"
+          }
+        ]
+      },
+      {
+        "titel": "3. Probleme für Tiere und Pflanzen",
+        "punkte": [
+          {
+            "text": "Lichtverschmutzung:"
+          },
+          {
+            "luecke": 4,
+            "loesung": "Nachtfalter sterben an Lampen",
+            "schluesselwoerter": [
+              [
+                "insekt",
+                "falter",
+                "motte"
+              ],
+              [
+                "sterb",
+                "stirbt",
+                "tot",
+                "töd",
+                "tod",
+                "erschöpf",
+                "verend",
+                "gefressen"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Nachtaktive Insekten … kreisen stundenlang um die Lampen und sterben dann vor Erschöpfung.“"
+          },
+          {
+            "text": "gebietsfremde Arten (z. B. Götterbaum):"
+          },
+          {
+            "luecke": 5,
+            "loesung": "verdrängen teilweise heimische Pflanzen",
+            "schluesselwoerter": [
+              [
+                "verdräng",
+                "konkurr",
+                "überwucher",
+                "bedroh",
+                "ersetz"
+              ],
+              [
+                "heimisch",
+                "einheimisch"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Aber einige breiten sich so stark aus, dass sie heimische Pflanzen verdrängen.“"
+          },
+          {
+            "text": "Zerschneidung durch Straßen"
+          }
+        ]
+      },
+      {
+        "titel": "4. Leistungen des Stadtgrüns",
+        "punkte": [
+          {
+            "text": "Bäume kühlen durch"
+          },
+          {
+            "luecke": 6,
+            "loesung": "Schatten und Verdunstung über Blätter",
+            "schluesselwoerter": [
+              [
+                "schatten"
+              ],
+              [
+                "verdunst",
+                "wasser"
+              ]
+            ],
+            "erklaerung": "Sie nennt zwei Wege: „Zum einen spenden sie Schatten, zum anderen verdunsten sie über ihre Blätter große Mengen Wasser.“"
+          },
+          {
+            "text": "Blätter filtern Feinstaub"
+          },
+          {
+            "text": "Grünflächen in Wohnnähe:"
+          },
+          {
+            "luecke": 7,
+            "loesung": "weniger Stress bei Anwohnern",
+            "schluesselwoerter": [
+              [
+                "stress",
+                "psych",
+                "seel",
+                "wohl",
+                "depress",
+                "erhol"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „… dass Menschen, die einen Park oder eine Grünfläche in der Nähe ihrer Wohnung haben, weniger unter Stress leiden.“"
+          }
+        ]
+      },
+      {
+        "titel": "5. Maßnahmen",
+        "punkte": [
+          {
+            "luecke": 8,
+            "loesung": "Prinzip der Schwammstadt",
+            "schluesselwoerter": [
+              [
+                "schwamm"
+              ]
+            ],
+            "erklaerung": "Der Oberpunkt fehlt. Sie sagt: „Man spricht vom Prinzip der Schwammstadt.“ Die Unterpunkte beschreiben die Idee."
+          },
+          {
+            "text": "– Mulden und Speicher statt Kanalisation"
+          },
+          {
+            "text": "– Schutz vor Überschwemmung, Wasser für Bäume"
+          },
+          {
+            "text": "Dach- und Fassadenbegrünung"
+          },
+          {
+            "text": "Rasenflächen:"
+          },
+          {
+            "luecke": 9,
+            "loesung": "nur zweimal im Jahr mähen",
+            "schluesselwoerter": [
+              [
+                "zweimal",
+                "zwei mal",
+                "2x",
+                "2 x",
+                "2 mal",
+                "2-mal",
+                "2mal"
+              ],
+              [
+                "mäh",
+                "schneid"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Wenn man stattdessen nur zweimal im Jahr mäht, entwickeln sich daraus … artenreiche Blumenwiesen.“"
+          }
+        ]
+      },
+      {
+        "titel": "6. Fazit",
+        "punkte": [
+          {
+            "text": "Stadt = eigener Lebensraum"
+          },
+          {
+            "text": "Stadtnatur braucht:"
+          },
+          {
+            "luecke": 10,
+            "loesung": "Toleranz der Bürger für Unordnung",
+            "schluesselwoerter": [
+              [
+                "unordnung",
+                "wildnis",
+                "ungepflegt",
+                "unaufgeräumt",
+                "chaos",
+                "verwilder"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Sie braucht unsere Toleranz für Unordnung.“"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_04",
+    "teil": "hv3",
+    "titel": "Wie Gedächtnis entsteht – und wie man besser lernt",
+    "thema": "bildung_hochschule",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören eine Vorlesung aus der Reihe „Studieren lernen“ für Studienanfängerinnen und Studienanfänger.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Prof. Dr. Jan Köhler, Kognitionspsychologe"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Liebe Erstsemester, schön, dass Sie da sind. In unserer Reihe „Studieren lernen“ geht es heute um eine Frage, die Sie in den nächsten Jahren ständig begleiten wird: Wie lernt man eigentlich so, dass das Wissen auch bleibt? Antworten darauf gibt uns Professor Jan Köhler aus der Kognitionspsychologie. Herr Köhler, die Bühne gehört Ihnen."
+      },
+      {
+        "sp": "A",
+        "text": "Danke schön. Ja, guten Morgen zusammen. Bevor ich anfange, eine kurze, ehrliche Frage: Wer von Ihnen hat in der Schule vor einer Klassenarbeit den Stoff einfach mehrmals durchgelesen und vielleicht noch mit Textmarker angestrichen? Na ja, das dachte ich mir. Fast alle. Und genau diese Methode, das muss ich Ihnen leider gleich zu Beginn sagen, gehört zu den am wenigsten wirksamen. Warum das so ist und was besser funktioniert, darum geht es heute. Ich habe meinen Vortrag in fünf Teile gegliedert. Zuerst erkläre ich kurz, welche Gedächtnissysteme wir unterscheiden. Dann schauen wir ins Gehirn, also auf die neuronale Grundlage des Lernens. Drittens geht es um die Rolle des Schlafs, viertens um wirksame Lernstrategien, und am Ende räume ich noch mit ein paar populären Mythen auf."
+      },
+      {
+        "sp": "A",
+        "text": "Fangen wir also mit den Gedächtnissystemen an. Vereinfacht gesagt unterscheidet die Psychologie das Arbeitsgedächtnis und das Langzeitgedächtnis. Das Arbeitsgedächtnis ist sozusagen der Schreibtisch, auf dem wir gerade arbeiten. Wenn Sie zum Beispiel eine Telefonnummer im Kopf behalten, bis Sie sie eingetippt haben, dann benutzen Sie Ihr Arbeitsgedächtnis. Das Problem ist: Dieser Schreibtisch ist sehr klein. Nach heutigem Forschungsstand können wir dort nur etwa vier Informationseinheiten gleichzeitig bearbeiten. Früher hat man übrigens von sieben gesprochen, aber diese Zahl gilt inzwischen als zu hoch. Man kann diese Grenze allerdings ein Stück weit überlisten, indem man Informationen zu sinnvollen Paketen zusammenfasst. Eine erfahrene Schachspielerin sieht zum Beispiel nicht zwanzig einzelne Figuren, sondern ein bekanntes Muster. Das Langzeitgedächtnis dagegen ist, soweit wir wissen, praktisch unbegrenzt. Die Kunst des Lernens besteht also darin, Informationen vom kleinen Schreibtisch in das riesige Archiv zu bringen, und zwar so, dass man sie später auch wiederfindet. Und das Wiederfinden, das werden Sie gleich sehen, ist der entscheidende Punkt."
+      },
+      {
+        "sp": "A",
+        "text": "Damit komme ich zum zweiten Teil: Was passiert dabei im Gehirn? Unser Gehirn besteht aus ungefähr sechsundachtzig Milliarden Nervenzellen, und jede dieser Zellen ist mit vielen tausend anderen verbunden. Die Kontaktstellen zwischen den Zellen heißen Synapsen. Lernen bedeutet auf dieser Ebene, dass die Verbindungen zwischen Nervenzellen gestärkt werden. Wenn zwei Nervenzellen immer wieder gleichzeitig aktiv sind, wird ihre Verbindung effizienter, die Signale werden also leichter weitergegeben. Neurowissenschaftler sagen gern: Was gemeinsam feuert, verknüpft sich. Eine besondere Rolle spielt dabei eine Struktur tief im Schläfenlappen, der Hippocampus. Den Namen hat er übrigens, weil er ein bisschen wie ein Seepferdchen aussieht. Der Hippocampus funktioniert wie ein Zwischenspeicher. Neue Erlebnisse und neue Informationen werden dort zunächst festgehalten, und erst später werden sie dauerhaft in der Großhirnrinde abgelegt. Und wann passiert das? Damit sind wir beim dritten Punkt."
+      },
+      {
+        "sp": "A",
+        "text": "Der dritte Punkt ist nämlich der Schlaf. Lange Zeit dachte man, Schlaf sei vor allem Erholung, eine Art Pause für das Gehirn. Heute wissen wir, dass das Gehirn im Schlaf sehr aktiv ist. Besonders im Tiefschlaf passiert etwas Faszinierendes: Das Gehirn spielt die Erlebnisse und Lerninhalte des Tages erneut ab, nur viel schneller. Man konnte das bei Ratten zeigen, die tagsüber durch ein Labyrinth gelaufen waren. Im Schlaf waren genau dieselben Nervenzellen in genau derselben Reihenfolge wieder aktiv. Bei diesem Wiederabspielen werden die Inhalte vom Hippocampus in die Großhirnrinde übertragen und dort gefestigt. Auch ein kurzer Mittagsschlaf nach dem Lernen kann übrigens schon einen messbaren Effekt haben. Für Sie heißt das ganz praktisch: Wer die Nacht vor der Prüfung durchlernt, schadet sich selbst. Denn das, was man am Abend gelernt hat, wird ohne Schlaf gar nicht richtig gespeichert, und am nächsten Morgen ist man außerdem müde und unkonzentriert."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme jetzt zum vierten und, wie ich finde, wichtigsten Teil, nämlich zu den Lernstrategien. Ich stelle Ihnen drei Strategien vor, die in der Forschung sehr gut belegt sind. Die erste und wirksamste heißt Abrufübung. Man nennt das auch den Testeffekt. Die Idee ist ganz einfach: Statt einen Text immer wieder zu lesen, versuchen Sie, das Gelernte ohne Hilfe aus dem Gedächtnis hervorzuholen. Sie schließen also das Buch und schreiben auf, was Sie noch wissen, oder Sie arbeiten mit Karteikarten. Das ist anstrengender als Lesen, aber genau dieses Abrufen stärkt die Gedächtnisspur. In zahlreichen Experimenten haben Studierende, die sich selbst abgefragt haben, eine Woche später deutlich mehr gewusst als diejenigen, die den Text noch einmal gelesen haben. Und das Interessante ist: Die Leser selbst waren fest davon überzeugt, besser gelernt zu haben. Das Gefühl täuscht also."
+      },
+      {
+        "sp": "A",
+        "text": "Die zweite Strategie ist das verteilte Lernen. Das bedeutet, dass man den Stoff nicht an einem Tag fünf Stunden am Stück lernt, sondern in mehreren kürzeren Einheiten, und zwar so, dass man ihn in immer größeren Abständen wiederholt. Also vielleicht am nächsten Tag, dann nach drei Tagen, dann nach einer Woche und so weiter. Es gibt übrigens Lernprogramme, die solche Abstände automatisch berechnen, sodass man immer genau die Karten wiederholt, die man sonst bald vergessen würde. Jedes Mal ist das Wissen schon ein bisschen verblasst, und gerade deshalb ist das Wiederholen so wirkungsvoll. Die dritte Strategie hat einen etwas sperrigen Namen, nämlich Verschachteln. Gemeint ist, dass man verschiedene Aufgabentypen miteinander mischt, statt sie im Block zu üben. In der Mathematik würde man also nicht zwanzig Aufgaben desselben Typs hintereinander rechnen, sondern abwechselnd verschiedene Typen. Dadurch lernt man nicht nur, wie man eine Aufgabe löst, sondern auch, welches Verfahren überhaupt passt."
+      },
+      {
+        "sp": "A",
+        "text": "Bevor ich zum Schluss komme, möchte ich noch mit zwei Mythen aufräumen, die sich hartnäckig halten. Der erste ist die Idee der Lerntypen. Vielleicht haben Sie in der Schule einen Test gemacht, der Ihnen gesagt hat, Sie seien ein visueller oder ein auditiver Lerntyp. Für die Annahme, dass man besser lernt, wenn der Unterricht zum eigenen Lerntyp passt, gibt es aber keinen wissenschaftlichen Nachweis. Das wurde mehrfach sorgfältig untersucht. Natürlich haben Menschen Vorlieben, aber Vorlieben sind nicht dasselbe wie Lernerfolg. Der zweite Mythos besagt, dass wir nur zehn Prozent unseres Gehirns nutzen. Auch das ist schlicht falsch. Bildgebende Verfahren zeigen, dass im Laufe eines Tages praktisch alle Regionen aktiv sind."
+      },
+      {
+        "sp": "A",
+        "text": "Was ist also die Botschaft für Ihr Studium? Ein amerikanischer Psychologe hat dafür einen schönen Begriff geprägt. Er spricht vom Prinzip der wünschenswerten Erschwernisse. Damit ist gemeint, dass Lernen, das sich leicht und angenehm anfühlt, oft wenig bringt, während Lernen, das ein bisschen Mühe kostet, viel nachhaltiger ist. Abrufen ist mühsamer als Lesen, verteiltes Lernen ist mühsamer als alles auf einmal, und Verschachteln ist mühsamer als Üben im Block. Aber es lohnt sich. Also, mein Rat: Legen Sie den Textmarker ab, schließen Sie das Buch, und fragen Sie sich selbst ab. Und dann gehen Sie schlafen. Vielen Dank."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Gedächtnissysteme",
+        "punkte": [
+          {
+            "text": "Arbeitsgedächtnis = „Schreibtisch“, Kapazität:"
+          },
+          {
+            "luecke": 1,
+            "loesung": "nur etwa vier Informationseinheiten",
+            "schluesselwoerter": [
+              [
+                "vier",
+                "4"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Nach heutigem Forschungsstand können wir dort nur etwa vier Informationseinheiten gleichzeitig bearbeiten.“ Die Zahl sieben gilt als veraltet."
+          },
+          {
+            "text": "Langzeitgedächtnis: praktisch unbegrenzt"
+          }
+        ]
+      },
+      {
+        "titel": "2. Neuronale Grundlage",
+        "punkte": [
+          {
+            "text": "Lernen ="
+          },
+          {
+            "luecke": 2,
+            "loesung": "Stärkung der Verbindungen zwischen Nervenzellen",
+            "schluesselwoerter": [
+              [
+                "synap",
+                "verbindung",
+                "verknüpf",
+                "kontakt"
+              ],
+              [
+                "stärk",
+                "effizient",
+                "fester",
+                "besser"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Lernen bedeutet auf dieser Ebene, dass die Verbindungen zwischen Nervenzellen gestärkt werden.“"
+          },
+          {
+            "text": "Hippocampus:"
+          },
+          {
+            "luecke": 3,
+            "loesung": "Zwischenspeicher für neue Informationen",
+            "schluesselwoerter": [
+              [
+                "zwischenspeicher",
+                "speicher",
+                "zwischenlager",
+                "puffer",
+                "festgehalten",
+                "kurzfristig"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Der Hippocampus funktioniert wie ein Zwischenspeicher.“ Erst später wird das Wissen in der Großhirnrinde abgelegt."
+          }
+        ]
+      },
+      {
+        "titel": "3. Die Rolle des Schlafs",
+        "punkte": [
+          {
+            "text": "im Tiefschlaf:"
+          },
+          {
+            "luecke": 4,
+            "loesung": "Gehirn spielt Gelerntes erneut ab",
+            "schluesselwoerter": [
+              [
+                "abspiel",
+                "abgespielt",
+                "wiederhol",
+                "erneut",
+                "noch einmal",
+                "reaktiv",
+                "wieder aktiv"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Das Gehirn spielt die Erlebnisse und Lerninhalte des Tages erneut ab, nur viel schneller.“"
+          },
+          {
+            "text": "Übertragung Hippocampus → Großhirnrinde"
+          },
+          {
+            "text": "Konsequenz:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "Nacht vor Prüfung nicht durchlernen",
+            "schluesselwoerter": [
+              [
+                "nacht",
+                "schlaf"
+              ],
+              [
+                "prüf",
+                "klausur",
+                "examen",
+                "test"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Wer die Nacht vor der Prüfung durchlernt, schadet sich selbst.“"
+          }
+        ]
+      },
+      {
+        "titel": "4. Wirksame Lernstrategien",
+        "punkte": [
+          {
+            "luecke": 6,
+            "loesung": "Abrufübung, auch Testeffekt genannt",
+            "schluesselwoerter": [
+              [
+                "abruf",
+                "testeffekt",
+                "test",
+                "abfrag",
+                "aus dem gedächtnis"
+              ]
+            ],
+            "erklaerung": "Der Oberpunkt fehlt. Er sagt: „Die erste und wirksamste heißt Abrufübung. Man nennt das auch den Testeffekt.“"
+          },
+          {
+            "text": "– wirksamer als wiederholtes Lesen"
+          },
+          {
+            "text": "– z. B. Karteikarten, Buch schließen und aufschreiben"
+          },
+          {
+            "text": "verteiltes Lernen:"
+          },
+          {
+            "luecke": 7,
+            "loesung": "Wiederholen in immer größeren Abständen",
+            "schluesselwoerter": [
+              [
+                "abst",
+                "pause",
+                "intervall"
+              ],
+              [
+                "größer",
+                "länger",
+                "wachs",
+                "zunehm",
+                "steigend",
+                "immer mehr"
+              ]
+            ],
+            "erklaerung": "Er sagt: „… so, dass man ihn in immer größeren Abständen wiederholt.“"
+          },
+          {
+            "text": "Verschachteln:"
+          },
+          {
+            "luecke": 8,
+            "loesung": "Aufgabentypen mischen statt im Block",
+            "schluesselwoerter": [
+              [
+                "misch",
+                "abwechs",
+                "wechsel",
+                "durcheinander"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Gemeint ist, dass man verschiedene Aufgabentypen miteinander mischt, statt sie im Block zu üben.“"
+          }
+        ]
+      },
+      {
+        "titel": "5. Neuromythen",
+        "punkte": [
+          {
+            "text": "Lerntypen (visuell, auditiv …):"
+          },
+          {
+            "luecke": 9,
+            "loesung": "kein wissenschaftlicher Nachweis für Nutzen",
+            "schluesselwoerter": [
+              [
+                "kein",
+                "nicht",
+                "widerlegt",
+                "fehlt",
+                "falsch"
+              ],
+              [
+                "nachweis",
+                "beleg",
+                "beweis",
+                "bestätigt",
+                "evidenz",
+                "widerlegt"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Für die Annahme, dass man besser lernt, wenn der Unterricht zum eigenen Lerntyp passt, gibt es aber keinen wissenschaftlichen Nachweis.“"
+          },
+          {
+            "text": "„nur 10 % des Gehirns“: falsch"
+          }
+        ]
+      },
+      {
+        "titel": "6. Fazit",
+        "punkte": [
+          {
+            "text": "Leitidee:"
+          },
+          {
+            "luecke": 10,
+            "loesung": "Prinzip der wünschenswerten Erschwernisse",
+            "schluesselwoerter": [
+              [
+                "erschwer",
+                "schwierig",
+                "anstreng",
+                "mühe",
+                "mühsam"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Er spricht vom Prinzip der wünschenswerten Erschwernisse.“ Lernen, das Mühe kostet, ist nachhaltiger."
+          },
+          {
+            "text": "Rat: Textmarker weglassen, ausreichend schlafen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_05",
+    "teil": "hv3",
+    "titel": "Schülervorstellungen im Biologieunterricht",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören einen Vortrag im Kolloquium „Biologie unterrichten“ für Lehramtsstudierende und Lehrkräfte.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Dr. Sabine Lorenz, Biologiedidaktikerin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Liebe Kolleginnen und Kollegen, liebe Studierende, willkommen zu unserem Kolloquium „Biologie unterrichten“. Viele von Ihnen kennen das: Man erklärt im Unterricht etwas ganz klar, und trotzdem schreiben die Schülerinnen und Schüler im Test etwas völlig anderes. Woran das liegt, erklärt uns heute Doktor Sabine Lorenz aus der Didaktik der Biologie. Frau Lorenz, bitte."
+      },
+      {
+        "sp": "A",
+        "text": "Ja, herzlichen Dank, und schön, dass so viele gekommen sind, auch aus den Schulen. Das freut mich besonders, denn mein Thema ist eigentlich ein sehr praktisches. Ich möchte heute über Schülervorstellungen sprechen, also über die Ideen, die Kinder und Jugendliche schon mitbringen, wenn sie zum ersten Mal im Biologieunterricht sitzen. Ich gehe in fünf Schritten vor. Zuerst kläre ich kurz den Begriff. Dann zeige ich Ihnen zwei typische Beispiele, eines aus der Pflanzenphysiologie und eines aus der Evolution. Im dritten Teil geht es darum, was die Forschung über die Veränderung solcher Vorstellungen herausgefunden hat. Danach wird es ganz praktisch, mit einem Vorschlag für den Unterricht, und am Ende stelle ich Ihnen ein Modell vor, das in der deutschen Biologiedidaktik sehr einflussreich ist."
+      },
+      {
+        "sp": "A",
+        "text": "Also, erstens: der Begriff. Früher sprach man meistens von Fehlvorstellungen oder Fehlkonzepten. Heute vermeiden wir diese Begriffe in der Didaktik weitgehend und sprechen lieber neutral von Schülervorstellungen oder Alltagsvorstellungen. Warum? Weil diese Vorstellungen eben nicht einfach dumm oder falsch sind. Im Alltag haben sie sich nämlich meistens bewährt, sie sind für die Lernenden also durchaus sinnvoll. Wenn ein Kind sagt, dass ein schwerer Gegenstand schneller fällt als ein leichter, dann entspricht das ja seiner Erfahrung, denken Sie an eine Feder und einen Stein. Wenn wir solche Vorstellungen als Fehler abstempeln, dann fühlen sich die Lernenden nicht ernst genommen, und, was noch wichtiger ist, wir übersehen, dass wir an diese Vorstellungen anknüpfen können. Sie sind sozusagen der Ausgangspunkt jedes Lernprozesses, ob uns das gefällt oder nicht. Und noch etwas: Solche Vorstellungen sind erstaunlich ähnlich, egal, ob man in Deutschland, in Brasilien oder auf den Philippinen fragt. Sie entstehen also nicht durch schlechten Unterricht, sondern durch ganz normale Erfahrungen mit der Welt."
+      },
+      {
+        "sp": "A",
+        "text": "Kommen wir zum ersten Beispiel, der Photosynthese, oder genauer gesagt, der Ernährung von Pflanzen. Wenn man Schülerinnen und Schüler fragt, woher ein Baum das Material für sein Holz bekommt, dann ist die häufigste Antwort, quer durch alle Altersgruppen: aus dem Boden. Viele glauben also, dass Pflanzen ihre Nahrung aus dem Boden aufnehmen, so wie wir unsere Nahrung essen. Diese Vorstellung wird übrigens durch die Sprache verstärkt. Auf jeder Packung Dünger steht ja sinngemäß, das sei Pflanzennahrung. Interessanterweise hat sich schon im sechzehnten, Entschuldigung, im siebzehnten Jahrhundert ein Forscher namens van Helmont mit dieser Frage beschäftigt. Er pflanzte eine kleine Weide in einen Topf mit genau abgewogener Erde und goss sie fünf Jahre lang nur mit Wasser. Am Ende war der Baum viele Kilo schwerer, die Erde hatte aber kaum an Gewicht verloren. Van Helmont schloss daraus, dass alles aus dem Wasser kommt. Das war auch nicht ganz richtig. Tatsächlich stammt der größte Teil der Masse einer Pflanze aus dem Kohlenstoffdioxid der Luft. Das ist für viele Menschen, übrigens auch für viele Erwachsene, völlig kontraintuitiv. Dass ein Gas zu einem festen Baumstamm wird, klingt einfach unglaublich."
+      },
+      {
+        "sp": "A",
+        "text": "Das zweite Beispiel stammt aus der Evolution. Hier ist eine Vorstellung besonders verbreitet, nämlich dass Tiere sich absichtlich an ihre Umwelt anpassen. Die Giraffe, so denken viele, hat einen langen Hals bekommen, weil sie an die hohen Blätter herankommen wollte. Es steckt also die Idee eines Ziels oder eines Willens dahinter. In der Evolutionstheorie gibt es so etwas aber nicht. Es gibt zufällige Variation und dann Selektion, aber kein Lebewesen entscheidet sich, sich anzupassen. Und jetzt kommt ein etwas unbequemer Punkt. Wir Lehrkräfte verstärken diese Vorstellung oft selbst, und zwar durch unsere Sprache. Wir sagen Sätze wie: Der Eisbär hat ein dickes Fell, damit er nicht friert. Oder: Die Pflanze bildet Dornen, um sich vor Fressfeinden zu schützen. Das klingt harmlos, aber diese Formulierungen mit damit und um zu legen nahe, dass es einen Zweck oder eine Absicht gibt. Ich will nicht sagen, dass man diese Sätze nie benutzen darf, aber man sollte sich ihrer Wirkung bewusst sein und sie im Unterricht gelegentlich auch selbst zum Thema machen."
+      },
+      {
+        "sp": "A",
+        "text": "Damit komme ich zum dritten Teil: Was sagt die Forschung darüber, wie sich solche Vorstellungen verändern? Man spricht hier vom Konzeptwechsel. Die ursprüngliche Hoffnung war ziemlich einfach. Man dachte, man müsse die Alltagsvorstellung nur durch die wissenschaftliche Vorstellung ersetzen, wie man eine alte Datei durch eine neue überschreibt. Inzwischen wissen wir aber, dass es so nicht funktioniert. Die alten Vorstellungen verschwinden nicht, sie bestehen neben den neuen weiter. Das kann man sogar bei Fachleuten zeigen. Wenn man Biologinnen und Biologen unter Zeitdruck Aussagen beurteilen lässt, reagieren sie bei intuitiv plausiblen, aber falschen Aussagen langsamer, so als müssten sie die Alltagsvorstellung erst aktiv unterdrücken. Was bedeutet das für das Ziel des Unterrichts? Das Ziel ist nicht, die Alltagsvorstellung zu löschen. Das Ziel ist, dass die Lernenden erkennen, in welchem Kontext welche Vorstellung angemessen ist. Im Supermarkt darf ich ruhig von Pflanzennahrung sprechen, in der Biologieklausur aber nicht."
+      },
+      {
+        "sp": "A",
+        "text": "Wie sieht das nun ganz praktisch im Unterricht aus? Ich schlage Ihnen einen Ablauf in drei Schritten vor. Der erste Schritt ist, die Vorstellungen der Klasse zu erheben, bevor man mit einem neuen Thema beginnt. Das kann man mit offenen Fragen machen, oder, was sehr gut funktioniert, mit kleinen Bildgeschichten, in denen mehrere Figuren in Sprechblasen unterschiedliche Meinungen äußern. Die Lernenden sollen dann sagen, wem sie zustimmen und warum. Im zweiten Schritt erzeugt man einen kognitiven Konflikt, am besten durch ein Experiment, dessen Ergebnis der Alltagsvorstellung widerspricht. Die Schülerinnen und Schüler sollen vorher eine Vermutung aufschreiben, damit die Überraschung auch wirklich spürbar wird. Für die Evolution eignen sich übrigens auch Simulationsspiele, bei denen bunte Papierschnipsel auf einem farbigen Untergrund verteilt werden und die Klasse die Rolle der Fressfeinde übernimmt. Und erst im dritten Schritt bietet man die wissenschaftliche Erklärung an und lässt sie in neuen Situationen anwenden."
+      },
+      {
+        "sp": "A",
+        "text": "Zum Schluss möchte ich Ihnen noch ein Modell vorstellen, das diese Gedanken zusammenführt. Es heißt Modell der didaktischen Rekonstruktion und wurde in den neunzehnhundertneunziger Jahren in Deutschland entwickelt. Es wird übrigens längst nicht mehr nur in der Biologie verwendet, sondern auch in der Chemie, der Physik und der Geografie. Der Kerngedanke ist, dass die fachliche Klärung und die Perspektive der Lernenden gleichwertig behandelt werden. Man fragt also nicht nur, was die Wissenschaft zu einem Thema sagt, sondern genauso ernsthaft, was die Schülerinnen und Schüler darüber denken, und erst aus beidem zusammen plant man den Unterricht. Für mich ist das die wichtigste Botschaft des heutigen Abends: Unterricht beginnt nicht beim Lehrbuch, sondern in den Köpfen der Lernenden. Vielen Dank für Ihre Aufmerksamkeit. Ich freue mich jetzt auf Ihre Fragen und vor allem auf Ihre Erfahrungen aus der Praxis."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Begriff",
+        "punkte": [
+          {
+            "text": "nicht „Fehlvorstellungen“, sondern Schüler- bzw. Alltagsvorstellungen"
+          },
+          {
+            "text": "Grund:"
+          },
+          {
+            "luecke": 1,
+            "loesung": "im Alltag bewährt und sinnvoll",
+            "schluesselwoerter": [
+              [
+                "alltag",
+                "erfahrung"
+              ],
+              [
+                "bewähr",
+                "sinnvoll",
+                "nützlich",
+                "funktion",
+                "plausib",
+                "logisch",
+                "hilfreich",
+                "nicht dumm",
+                "nicht falsch"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Im Alltag haben sie sich nämlich meistens bewährt, sie sind für die Lernenden also durchaus sinnvoll.“"
+          },
+          {
+            "text": "= Ausgangspunkt jedes Lernprozesses"
+          }
+        ]
+      },
+      {
+        "titel": "2. Beispiel Pflanzenernährung",
+        "punkte": [
+          {
+            "text": "verbreitete Vorstellung: Pflanzen"
+          },
+          {
+            "luecke": 2,
+            "loesung": "nehmen Nahrung aus dem Boden",
+            "schluesselwoerter": [
+              [
+                "boden",
+                "erde"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Viele glauben also, dass Pflanzen ihre Nahrung aus dem Boden aufnehmen.“"
+          },
+          {
+            "text": "Experiment van Helmont (17. Jh.): Weide im Topf"
+          },
+          {
+            "text": "tatsächlich: Masse stammt überwiegend aus"
+          },
+          {
+            "luecke": 3,
+            "loesung": "Kohlenstoffdioxid aus der Luft",
+            "schluesselwoerter": [
+              [
+                "kohlen",
+                "co2",
+                "co₂",
+                "luft"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Tatsächlich stammt der größte Teil der Masse einer Pflanze aus dem Kohlenstoffdioxid der Luft.“"
+          }
+        ]
+      },
+      {
+        "titel": "3. Beispiel Evolution",
+        "punkte": [
+          {
+            "text": "typische Vorstellung:"
+          },
+          {
+            "luecke": 4,
+            "loesung": "Tiere passen sich absichtlich an",
+            "schluesselwoerter": [
+              [
+                "absicht",
+                "bewusst",
+                "gezielt",
+                "will",
+                "wollt",
+                "wille",
+                "zweck",
+                "ziel"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „… nämlich dass Tiere sich absichtlich an ihre Umwelt anpassen.“ Beispiel: die Giraffe, die an hohe Blätter herankommen wollte."
+          },
+          {
+            "text": "wissenschaftlich: Variation + Selektion, kein Ziel"
+          },
+          {
+            "text": "Verstärkung durch:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "Formulierungen der Lehrkräfte selbst",
+            "schluesselwoerter": [
+              [
+                "sprache",
+                "formulier",
+                "ausdrucksweise",
+                "wortwahl",
+                "damit",
+                "um zu",
+                "sätze"
+              ],
+              [
+                "lehr"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Wir Lehrkräfte verstärken diese Vorstellung oft selbst, und zwar durch unsere Sprache.“"
+          }
+        ]
+      },
+      {
+        "titel": "4. Konzeptwechsel",
+        "punkte": [
+          {
+            "text": "alte Hoffnung: Alltagsvorstellung ersetzen"
+          },
+          {
+            "text": "Forschung zeigt: alte Vorstellungen"
+          },
+          {
+            "luecke": 6,
+            "loesung": "verschwinden nicht, bestehen weiter",
+            "schluesselwoerter": [
+              [
+                "verschwind",
+                "bleib",
+                "bestehen",
+                "bestehen weiter",
+                "existier",
+                "nebeneinander",
+                "parallel",
+                "koexist",
+                "nicht ersetzt",
+                "nicht gelöscht",
+                "nicht überschrieben"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Die alten Vorstellungen verschwinden nicht, sie bestehen neben den neuen weiter.“"
+          },
+          {
+            "text": "Ziel des Unterrichts:"
+          },
+          {
+            "luecke": 7,
+            "loesung": "erkennen, welche Vorstellung wann passt",
+            "schluesselwoerter": [
+              [
+                "kontext",
+                "zusammenhang",
+                "situation",
+                "wann",
+                "angemessen"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Das Ziel ist, dass die Lernenden erkennen, in welchem Kontext welche Vorstellung angemessen ist.“"
+          }
+        ]
+      },
+      {
+        "titel": "5. Unterricht in drei Schritten",
+        "punkte": [
+          {
+            "text": "Schritt 1:"
+          },
+          {
+            "luecke": 8,
+            "loesung": "Vorstellungen der Klasse vorher erheben",
+            "schluesselwoerter": [
+              [
+                "erheb",
+                "erhob",
+                "erfrag",
+                "erfass",
+                "abfrag",
+                "herausfind",
+                "ermittel",
+                "diagnos",
+                "sammeln"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Der erste Schritt ist, die Vorstellungen der Klasse zu erheben, bevor man mit einem neuen Thema beginnt.“"
+          },
+          {
+            "text": "z. B. Bildgeschichten mit Sprechblasen"
+          },
+          {
+            "text": "Schritt 2:"
+          },
+          {
+            "luecke": 9,
+            "loesung": "kognitiver Konflikt durch Experiment",
+            "schluesselwoerter": [
+              [
+                "konflikt",
+                "widerspr",
+                "überrasch",
+                "irritation"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Im zweiten Schritt erzeugt man einen kognitiven Konflikt, am besten durch ein Experiment.“"
+          },
+          {
+            "text": "Schritt 3: wissenschaftliche Erklärung anbieten und anwenden"
+          }
+        ]
+      },
+      {
+        "titel": "6. Modell der didaktischen Rekonstruktion",
+        "punkte": [
+          {
+            "text": "entwickelt in den 1990er Jahren"
+          },
+          {
+            "text": "Kerngedanke:"
+          },
+          {
+            "luecke": 10,
+            "loesung": "Fachklärung und Schülerperspektive gleichwertig",
+            "schluesselwoerter": [
+              [
+                "fach",
+                "wissenschaft"
+              ],
+              [
+                "schüler",
+                "lernend",
+                "lerner",
+                "kinder"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Der Kerngedanke ist, dass die fachliche Klärung und die Perspektive der Lernenden gleichwertig behandelt werden.“"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_06",
+    "teil": "hv3",
+    "titel": "Von der Variolation zur Bauanleitung – eine kurze Geschichte der Impfung",
+    "thema": "gesundheit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "situation": "Sie hören einen Vortrag im Rahmen der Ringvorlesung „Meilensteine der Medizingeschichte“.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Prof. Dr. Ulrich Brandt, Medizinhistoriker"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Einen schönen guten Abend, meine Damen und Herren, und willkommen zur Ringvorlesung „Meilensteine der Medizingeschichte“. Kaum eine medizinische Erfindung hat so viele Leben gerettet wie die Impfung, und kaum eine ist gleichzeitig so umstritten gewesen. Professor Ulrich Brandt vom Institut für Geschichte der Medizin nimmt uns heute mit auf eine Reise durch gut dreihundert Jahre. Herr Brandt, bitte sehr."
+      },
+      {
+        "sp": "A",
+        "text": "Vielen Dank für die freundliche Begrüßung. Meine Damen und Herren, wenn wir heute über Impfungen sprechen, dann denken wir an Spritzen, an Impfpässe, vielleicht auch an hitzige Debatten in den sozialen Medien. Ich möchte Sie heute einladen, einen Schritt zurückzutreten und zu sehen, dass viele dieser Debatten gar nicht so neu sind, wie man vielleicht glaubt. Mein Vortrag folgt im Wesentlichen der Chronologie. Ich beginne mit einer Praxis, die es schon lange vor der eigentlichen Impfung gab. Dann komme ich zu Edward Jenner und danach zu Louis Pasteur. Im vierten Teil geht es um die großen Impfkampagnen des zwanzigsten Jahrhunderts, im fünften um den Widerstand gegen das Impfen, und ganz am Ende werfe ich noch einen kurzen Blick auf die Gegenwart."
+      },
+      {
+        "sp": "A",
+        "text": "Beginnen wir also mit der Zeit vor der Impfung. Die Pocken waren über Jahrhunderte eine der schlimmsten Krankheiten überhaupt. Etwa ein Drittel der Erkrankten starb, und viele Überlebende behielten Narben oder wurden blind. Allerdings hatte man schon früh beobachtet, dass Menschen, die die Pocken einmal überstanden hatten, kein zweites Mal daran erkrankten. Daraus entwickelte sich in China, in Indien und im Osmanischen Reich eine Methode, die man Variolation nennt. Wie funktionierte das? Man nahm Material aus den Pusteln eines Erkrankten und brachte es in einen kleinen Schnitt in der Haut eines gesunden Menschen. In China blies man getrocknetes Material übrigens auch in die Nase. Die Person erkrankte dann in der Regel nur leicht und war danach geschützt. Nach Westeuropa kam diese Praxis um siebzehnhundertzwanzig, unter anderem durch eine englische Adlige, die sie in Konstantinopel kennengelernt hatte und sogar ihre eigenen Kinder behandeln ließ."
+      },
+      {
+        "sp": "A",
+        "text": "Nun war die Variolation allerdings nicht ungefährlich. Ungefähr zwei Prozent der so behandelten Menschen starben an der Prozedur. Das klingt viel, und das ist es auch, aber verglichen mit den echten Pocken war es ein deutlich kleineres Risiko. Ein weiteres Problem war, dass die behandelten Personen in dieser Zeit selbst ansteckend waren und so neue Ausbrüche auslösen konnten. Trotzdem setzte sich die Methode durch. Sogar Königshäuser ließen ihre Familien behandeln, und in einigen Armeen wurden ganze Regimenter variolisiert, um Ausfälle durch die Pocken zu verhindern. Man brauchte aber etwas Sichereres."
+      },
+      {
+        "sp": "A",
+        "text": "Und damit komme ich zum zweiten Abschnitt, zu Edward Jenner, einem Landarzt aus England. Jenner hatte gehört, und das war damals eigentlich auf dem Land allgemein bekannt, dass Melkerinnen nur selten an den Pocken erkrankten. Er vermutete, dass der Grund eine frühere Infektion mit den Kuhpocken war, einer verwandten, aber für Menschen harmlosen Krankheit, die sich die Frauen beim Melken an den Händen holten. Im Jahr siebzehnhundertsechsundneunzig machte er dann ein Experiment, und zwar an dem achtjährigen Sohn seines Gärtners. Er übertrug Material aus den Kuhpockenbläschen einer Melkerin auf den Jungen und infizierte ihn einige Wochen später gezielt mit echten Pocken. Der Junge blieb gesund. Aus heutiger Sicht ist so ein Versuch an einem Kind ethisch natürlich völlig undenkbar. Aber er war der Beginn der Impfung im eigentlichen Sinn. Das Wort Vakzin, das wir heute noch verwenden, geht übrigens auf das lateinische Wort für Kuh zurück."
+      },
+      {
+        "sp": "A",
+        "text": "Ich springe jetzt etwa hundert, nein, genauer gesagt etwa achtzig Jahre weiter, zu Louis Pasteur in Frankreich. Pasteur hat etwas Entscheidendes verstanden, nämlich dass man nicht auf einen glücklichen Zufall wie die Kuhpocken angewiesen ist. Sein Prinzip war, die Krankheitserreger selbst im Labor so abzuschwächen, dass sie keine Krankheit mehr auslösen, aber trotzdem das Immunsystem trainieren. Auch hier spielte ein Zufall mit. Bei Versuchen mit der Hühnercholera hatte ein Mitarbeiter eine Bakterienkultur über den Sommer stehen lassen, und die gealterten Bakterien machten die Hühner nicht mehr krank, schützten sie aber vor frischen Erregern. Berühmt wurde Pasteur aber durch etwas anderes. Im Jahr achtzehnhundertfünfundachtzig behandelte er einen neunjährigen Jungen, der von einem tollwütigen Hund gebissen worden war. Es war die erste erfolgreiche Impfung gegen Tollwut beim Menschen, und Pasteur wurde praktisch über Nacht weltberühmt. Den Begriff Vakzin hat Pasteur dann übrigens bewusst auf alle Impfstoffe übertragen, als Ehrung für Jenner."
+      },
+      {
+        "sp": "A",
+        "text": "Der vierte Abschnitt führt uns ins zwanzigste Jahrhundert, das Jahrhundert der Massenimpfungen. Ein großes Thema war die Kinderlähmung, an der noch in den fünfziger Jahren jedes Jahr Tausende Kinder erkrankten. Mit der Einführung der Schluckimpfung in den sechziger Jahren gingen die Fälle in Deutschland drastisch zurück. Vielleicht kennen manche von Ihnen noch den Werbespruch, der damals überall zu sehen war: Schluckimpfung ist süß, Kinderlähmung ist grausam. Heute impft man gegen Kinderlähmung übrigens wieder mit einer Spritze, weil der Schluckimpfstoff in sehr seltenen Fällen selbst eine Lähmung auslösen konnte. Der größte Triumph aber betrifft wieder die Pocken. Mit einer weltweiten Kampagne, bei der man gezielt alle Kontaktpersonen von Erkrankten impfte, gelang es, die Krankheit zurückzudrängen. Der letzte natürliche Fall trat in Ostafrika auf, und im Jahr neunzehnhundertachtzig wurden die Pocken von der Weltgesundheitsorganisation offiziell für ausgerottet erklärt. Es ist bis heute die einzige Infektionskrankheit des Menschen, bei der das gelungen ist."
+      },
+      {
+        "sp": "A",
+        "text": "Kommen wir zum fünften Punkt, zum Widerstand. Und da wird es, glaube ich, besonders interessant. Schon um achtzehnhundert gab es in England Karikaturen, die zeigten, wie aus geimpften Menschen kleine Kühe herauswachsen. In Deutschland wurde achtzehnhundertvierundsiebzig mit dem Reichsimpfgesetz eine Pflichtimpfung gegen Pocken eingeführt, und sofort bildeten sich Vereine von Impfgegnern, die zum Teil viele tausend Mitglieder hatten. Ihr Hauptargument war die persönliche Freiheit. Der Staat, so meinten sie, dürfe nicht über den Körper des Einzelnen bestimmen. Daneben gab es auch Zweifel an der Wirksamkeit und die Angst vor Nebenwirkungen, die damals übrigens nicht ganz unberechtigt war, weil die Hygiene bei den Impfungen oft schlecht war. Wenn man die Flugblätter von damals liest, ist man manchmal erstaunt, wie sehr die Argumente denen ähneln, die man heute im Internet findet."
+      },
+      {
+        "sp": "A",
+        "text": "Zum Abschluss noch ein kurzer Blick auf die Gegenwart. Die neuesten Impfstoffe funktionieren nach einem ganz anderen Prinzip als die von Jenner oder Pasteur. Man spritzt nicht mehr den Erreger oder Teile davon, sondern der Körper erhält eine Art Bauanleitung, mit der seine eigenen Zellen für kurze Zeit ein bestimmtes Eiweiß des Erregers herstellen. Das Immunsystem lernt dann, dieses Eiweiß zu erkennen. Der große Vorteil ist, dass man solche Impfstoffe sehr schnell an neue Erreger anpassen kann. Entwickelt wurde diese Technik übrigens über Jahrzehnte, unter anderem für die Krebstherapie, bevor sie in der Pandemie plötzlich weltweit eingesetzt wurde. Aber eines zeigt die Geschichte ganz deutlich: Ein Impfstoff ist nur so gut wie das Vertrauen, das die Menschen in ihn haben. Und dieses Vertrauen muss man sich immer wieder neu erarbeiten. Ich danke Ihnen für Ihre Aufmerksamkeit."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Vor der Impfung: Variolation",
+        "punkte": [
+          {
+            "text": "Pocken: ca. 1/3 der Erkrankten stirbt"
+          },
+          {
+            "text": "Ursprung: China, Indien, Osmanisches Reich"
+          },
+          {
+            "text": "Methode:"
+          },
+          {
+            "luecke": 1,
+            "loesung": "Pockenmaterial in kleinen Hautschnitt bringen",
+            "schluesselwoerter": [
+              [
+                "pocken",
+                "pustel",
+                "bläschen",
+                "eiter",
+                "schorf",
+                "kruste",
+                "material",
+                "erkrankt"
+              ],
+              [
+                "haut",
+                "ritzer",
+                "einritz",
+                "geritzt",
+                "schnitt",
+                "wunde"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Man nahm Material aus den Pusteln eines Erkrankten und brachte es in einen kleinen Schnitt in der Haut eines gesunden Menschen.“"
+          },
+          {
+            "text": "ca. 1720 nach Westeuropa"
+          }
+        ]
+      },
+      {
+        "titel": "2. Risiken der Variolation",
+        "punkte": [
+          {
+            "text": "Sterblichkeit:"
+          },
+          {
+            "luecke": 2,
+            "loesung": "etwa zwei Prozent der Behandelten",
+            "schluesselwoerter": [
+              [
+                "zwei",
+                "2"
+              ],
+              [
+                "prozent",
+                "%",
+                "von hundert"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Ungefähr zwei Prozent der so behandelten Menschen starben an der Prozedur.“"
+          },
+          {
+            "text": "Behandelte selbst ansteckend → neue Ausbrüche"
+          }
+        ]
+      },
+      {
+        "titel": "3. Edward Jenner (1796)",
+        "punkte": [
+          {
+            "text": "Beobachtung: Melkerinnen erkranken selten an Pocken"
+          },
+          {
+            "text": "Grund:"
+          },
+          {
+            "luecke": 3,
+            "loesung": "frühere Infektion mit harmlosen Kuhpocken",
+            "schluesselwoerter": [
+              [
+                "kuhpocken",
+                "kuh"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Er vermutete, dass der Grund eine frühere Infektion mit den Kuhpocken war.“"
+          },
+          {
+            "text": "Experiment an"
+          },
+          {
+            "luecke": 4,
+            "loesung": "achtjährigem Sohn seines Gärtners",
+            "schluesselwoerter": [
+              [
+                "sohn",
+                "junge",
+                "kind",
+                "knabe"
+              ],
+              [
+                "gärtner",
+                "garten"
+              ]
+            ],
+            "erklaerung": "Er sagt: „… und zwar an dem achtjährigen Sohn seines Gärtners.“"
+          },
+          {
+            "text": "„Vakzin“ von lat. vacca = Kuh"
+          }
+        ]
+      },
+      {
+        "titel": "4. Louis Pasteur",
+        "punkte": [
+          {
+            "text": "Prinzip:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "Erreger im Labor gezielt abschwächen",
+            "schluesselwoerter": [
+              [
+                "schwäch",
+                "schwach",
+                "harmlos",
+                "gealtert"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Sein Prinzip war, die Krankheitserreger selbst im Labor so abzuschwächen, dass sie keine Krankheit mehr auslösen.“"
+          },
+          {
+            "text": "Zufallsentdeckung bei Hühnercholera"
+          },
+          {
+            "text": "1885:"
+          },
+          {
+            "luecke": 6,
+            "loesung": "erste erfolgreiche Impfung gegen Tollwut",
+            "schluesselwoerter": [
+              [
+                "tollwut"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Es war die erste erfolgreiche Impfung gegen Tollwut beim Menschen.“"
+          }
+        ]
+      },
+      {
+        "titel": "5. Das 20. Jahrhundert",
+        "punkte": [
+          {
+            "text": "Kinderlähmung: Schluckimpfung ab 1960er Jahren"
+          },
+          {
+            "text": "1980:"
+          },
+          {
+            "luecke": 7,
+            "loesung": "Pocken offiziell für ausgerottet erklärt",
+            "schluesselwoerter": [
+              [
+                "pocken"
+              ],
+              [
+                "ausgerott",
+                "ausrott",
+                "besiegt",
+                "verschwunden",
+                "eliminiert",
+                "ausgelöscht",
+                "ausgestorben"
+              ]
+            ],
+            "erklaerung": "Er sagt: „… im Jahr neunzehnhundertachtzig wurden die Pocken von der Weltgesundheitsorganisation offiziell für ausgerottet erklärt.“"
+          }
+        ]
+      },
+      {
+        "titel": "6. Widerstand und Gegenwart",
+        "punkte": [
+          {
+            "text": "Karikaturen um 1800: Geimpfte werden zu Kühen"
+          },
+          {
+            "text": "Reichsimpfgesetz 1874:"
+          },
+          {
+            "luecke": 8,
+            "loesung": "Pflichtimpfung gegen Pocken eingeführt",
+            "schluesselwoerter": [
+              [
+                "pflicht",
+                "verpflicht",
+                "zwang",
+                "obligatorisch"
+              ]
+            ],
+            "erklaerung": "Er sagt: „… wurde … mit dem Reichsimpfgesetz eine Pflichtimpfung gegen Pocken eingeführt.“"
+          },
+          {
+            "text": "Hauptargument der Impfgegner:"
+          },
+          {
+            "luecke": 9,
+            "loesung": "persönliche Freiheit, Selbstbestimmung über Körper",
+            "schluesselwoerter": [
+              [
+                "freiheit",
+                "selbstbestimm",
+                "körper",
+                "staat",
+                "eingriff",
+                "zwang"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Ihr Hauptargument war die persönliche Freiheit. Der Staat … dürfe nicht über den Körper des Einzelnen bestimmen.“"
+          },
+          {
+            "text": "neue Impfstoffe: Körper erhält"
+          },
+          {
+            "luecke": 10,
+            "loesung": "Bauanleitung für ein Erregereiweiß",
+            "schluesselwoerter": [
+              [
+                "bauanleitung",
+                "anleitung",
+                "bauplan",
+                "rezept",
+                "information",
+                "code"
+              ]
+            ],
+            "erklaerung": "Er sagt: „… der Körper erhält eine Art Bauanleitung, mit der seine eigenen Zellen … ein bestimmtes Eiweiß des Erregers herstellen.“"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_07",
+    "teil": "hv3",
+    "titel": "Mehrsprachigkeit in der Schule – Hindernis oder Ressource?",
+    "thema": "migration_interkulturalitaet",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1+",
+    "situation": "Sie hören einen Vortrag auf der Tagung „Sprache und Schule in der Migrationsgesellschaft“.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Prof. Dr. Elif Arslan, Sprachwissenschaftlerin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Sehr geehrte Damen und Herren, ich freue mich, Sie nach der Mittagspause wieder begrüßen zu dürfen. Unser Nachmittag beginnt mit einem Vortrag, auf den sich, wie ich weiß, viele schon gefreut haben. Professorin Elif Arslan forscht seit vielen Jahren zur Mehrsprachigkeit von Kindern und Jugendlichen und wird uns heute erklären, warum sie darin vor allem eine Chance sieht. Frau Arslan, bitte."
+      },
+      {
+        "sp": "A",
+        "text": "Vielen Dank, und auch von meiner Seite einen guten Nachmittag. Ich weiß, nach dem Mittagessen ist die Konzentration nicht immer auf dem Höhepunkt, deshalb fange ich mit einer kleinen Provokation an. Ich behaupte: Nicht die Mehrsprachigkeit unserer Schülerinnen und Schüler ist das Problem, sondern die Art, wie unsere Schulen damit umgehen. Um das zu begründen, gehe ich in fünf Schritten vor. Ich beginne mit einer Einordnung, also mit der Frage, wie normal Mehrsprachigkeit eigentlich ist. Zweitens frage ich, was die Forschung über die kognitiven Effekte weiß, und zwar möglichst ohne die Übertreibungen, die man oft in den Medien findet. Drittens stelle ich eine einflussreiche Hypothese zum Zusammenhang zwischen den Sprachen vor. Viertens geht es um den Unterschied zwischen Alltagssprache und Bildungssprache, und zum Schluss leite ich daraus Konsequenzen für den Unterricht ab."
+      },
+      {
+        "sp": "A",
+        "text": "Also, zur Einordnung. Wenn man die gesamte Weltbevölkerung betrachtet, dann wächst vermutlich mehr als die Hälfte aller Menschen mit mehr als einer Sprache auf. Mehrsprachigkeit ist also, global gesehen, nicht die Ausnahme, sondern der Normalfall. Nehmen Sie zum Beispiel die Philippinen. Dort sprechen viele Kinder zu Hause eine Regionalsprache, lernen in der Schule Filipino und Englisch und wechseln im Alltag ganz selbstverständlich zwischen diesen Sprachen hin und her. Das Land hat übrigens über viele Jahre damit experimentiert, in den ersten Schuljahren in der jeweiligen Regionalsprache zu unterrichten, und die Erfahrungen damit werden dort bis heute kontrovers diskutiert. In Deutschland dagegen ist das Schulsystem historisch von dem geprägt, was die Erziehungswissenschaftlerin Ingrid Gogolin den monolingualen Habitus genannt hat. Gemeint ist die tief verwurzelte, meist gar nicht bewusste Annahme, dass Einsprachigkeit der Normalfall sei und dass Schule eben auf Deutsch stattfinde, und nur auf Deutsch. Das zeigt sich zum Beispiel daran, dass Französisch oder Englisch als Schulfächer hoch angesehen sind, während Türkisch, Polnisch oder Arabisch, die viele Kinder schon mitbringen, kaum als wertvolles Wissen gelten."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme nun zum zweiten Punkt, zu den kognitiven Effekten. Hier muss man, ehrlich gesagt, etwas vorsichtiger sein, als es in vielen populären Darstellungen der Fall ist. Gut belegt ist, dass mehrsprachige Kinder früher und genauer über Sprache nachdenken. Man spricht von metasprachlicher Bewusstheit. Sie merken zum Beispiel früher, dass die Verbindung zwischen einem Wort und seiner Bedeutung eigentlich willkürlich ist, dass man einen Hund also genauso gut anders nennen könnte. Deutlich umstrittener ist dagegen die These, Mehrsprachige könnten generell ihre Aufmerksamkeit besser steuern und hätten deshalb Vorteile bei ganz unterschiedlichen Denkaufgaben. Die ersten Studien dazu waren sehr vielversprechend, aber größere und sorgfältiger kontrollierte Untersuchungen konnten diesen Effekt oft nicht bestätigen. Ich sage das nicht, um Mehrsprachigkeit kleinzureden, sondern weil wir mit übertriebenen Versprechen am Ende der Sache schaden. Und noch etwas ist mir wichtig: Wenn Kinder im Gespräch zwischen ihren Sprachen wechseln, dann ist das kein Zeichen von Verwirrung oder mangelnder Kompetenz. Im Gegenteil, solche Wechsel folgen meistens sehr feinen Regeln."
+      },
+      {
+        "sp": "A",
+        "text": "Damit sind wir beim dritten Teil, bei der sogenannten Interdependenzhypothese des kanadischen Sprachwissenschaftlers Jim Cummins. Interdependenz bedeutet gegenseitige Abhängigkeit. Die Kernaussage ist, dass sprachliche Kompetenzen, die ein Kind in einer Sprache erworben hat, sich auf die andere Sprache übertragen lassen. Wer in seiner Erstsprache gelernt hat, einen Text zusammenzufassen oder eine Begründung aufzubauen, der muss das in der Zweitsprache nicht von null an neu lernen. Er braucht natürlich die neuen Wörter und die neue Grammatik, aber die zugrunde liegende Fähigkeit ist schon da. Die Konsequenz daraus ist eigentlich naheliegend, wird aber in der Praxis oft ignoriert: Es ist sinnvoll, die Herkunftssprache der Kinder weiter zu fördern, statt sie zu verbieten oder bestenfalls zu ignorieren. Eltern bekamen früher nicht selten den Rat, zu Hause nur noch Deutsch zu sprechen, auch wenn sie selbst es kaum beherrschten. Aus heutiger Sicht war das ein schlechter Rat."
+      },
+      {
+        "sp": "A",
+        "text": "Kommen wir zum vierten Punkt. Hier geht es um eine Unterscheidung, die ebenfalls auf Cummins zurückgeht, nämlich die zwischen Alltagssprache und Bildungssprache. Alltagssprache ist die Sprache, die wir auf dem Schulhof, beim Einkaufen oder mit Freunden benutzen. Sie ist stark an die Situation gebunden, man kann zeigen, nachfragen, Gestik und Mimik helfen mit. Kinder, die neu nach Deutschland kommen, erreichen in der Alltagssprache oft schon nach etwa zwei Jahren ein gutes Niveau. Die Bildungssprache dagegen ist die Sprache der Schulbücher und der Klassenarbeiten, mit Fachbegriffen, Passivkonstruktionen, langen Nominalgruppen. Ein kleines Beispiel: Auf dem Schulhof sagt man, das Wasser wird warm. Im Physikbuch steht dagegen, dass bei Zufuhr von Wärmeenergie die Temperatur des Wassers ansteigt. Bis man diese Sprache auf dem Niveau Gleichaltriger beherrscht, vergehen nach Cummins in der Regel fünf bis sieben Jahre. Und genau hier liegt ein großes Risiko. Weil die Kinder auf dem Schulhof fließend sprechen, nimmt man an, sie bräuchten keine Unterstützung mehr. Ihr Förderbedarf in der Bildungssprache wird also übersehen, und schlechte Noten werden dann fälschlich als mangelnde Begabung gedeutet."
+      },
+      {
+        "sp": "A",
+        "text": "Damit komme ich zum letzten Teil, zu den Konsequenzen für den Unterricht. Die wichtigste Konsequenz ist aus meiner Sicht, dass Sprachbildung nicht allein Aufgabe des Deutschunterrichts sein kann. Wir brauchen sprachsensiblen Fachunterricht in allen Fächern, also auch in Biologie, in Mathematik oder in Geschichte. Das bedeutet zum Beispiel, dass Fachbegriffe nicht einfach vorausgesetzt, sondern gezielt eingeführt werden, und dass die Lehrkraft Satzmuster anbietet, an denen sich die Lernenden orientieren können, etwa Satzanfänge wie „Ich vermute, dass“ oder „Daraus folgt, dass“. Man nennt solche Hilfen auch ein Gerüst, das später wieder abgebaut wird. Eine zweite Konsequenz betrifft das, was man sprachübergreifendes Arbeiten nennt. Die Idee dabei ist, alle Sprachen der Klasse bewusst in den Unterricht einzubeziehen. Schülerinnen und Schüler dürfen zum Beispiel Notizen in ihrer Erstsprache machen, Fachbegriffe in verschiedenen Sprachen vergleichen oder einen Text zunächst in der Gruppe in ihrer gemeinsamen Sprache besprechen, bevor sie die Ergebnisse auf Deutsch präsentieren."
+      },
+      {
+        "sp": "A",
+        "text": "Ich möchte zum Schluss noch einmal auf meine Provokation vom Anfang zurückkommen. Nach allem, was wir wissen, liegt die größte Hürde nicht bei den Kindern, und sie liegt auch nicht primär bei den Ressourcen, so wichtig mehr Personal und Material natürlich wären. Die größte Hürde ist die Haltung der Lehrkräfte und der Schulen insgesamt, also die Frage, ob man in einem Kind, das zu Hause Türkisch, Arabisch oder Tagalog spricht, zuerst ein Defizit sieht oder eine Ressource. Diese Haltung lässt sich verändern, durch Wissen, durch Erfahrung und, ganz wichtig, durch Begegnung. Viele Lehrkräfte, die selbst mehrsprachig aufgewachsen sind, bringen hier übrigens eine Perspektive mit, die für ihre Kollegien sehr wertvoll sein kann. Vielen Dank für Ihre Aufmerksamkeit. Ich freue mich auf die Diskussion."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Einordnung",
+        "punkte": [
+          {
+            "text": "weltweit: > 50 % wachsen mehrsprachig auf"
+          },
+          {
+            "text": "Beispiel Philippinen: Regionalsprache, Filipino, Englisch"
+          },
+          {
+            "text": "deutsches Schulsystem:"
+          },
+          {
+            "luecke": 1,
+            "loesung": "geprägt vom monolingualen Habitus",
+            "schluesselwoerter": [
+              [
+                "monolingual",
+                "einsprachig"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „In Deutschland dagegen ist das Schulsystem historisch von dem geprägt, was … Gogolin den monolingualen Habitus genannt hat.“"
+          }
+        ]
+      },
+      {
+        "titel": "2. Kognitive Effekte",
+        "punkte": [
+          {
+            "text": "gut belegt:"
+          },
+          {
+            "luecke": 2,
+            "loesung": "früheres Nachdenken über Sprache",
+            "schluesselwoerter": [
+              [
+                "metasprach",
+                "metalinguist",
+                "über sprache",
+                "ueber sprache",
+                "sprachbewusst",
+                "sprachreflex"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Gut belegt ist, dass mehrsprachige Kinder früher und genauer über Sprache nachdenken. Man spricht von metasprachlicher Bewusstheit.“"
+          },
+          {
+            "text": "umstritten:"
+          },
+          {
+            "luecke": 3,
+            "loesung": "generell bessere Steuerung der Aufmerksamkeit",
+            "schluesselwoerter": [
+              [
+                "aufmerksam",
+                "exekutiv",
+                "kontroll",
+                "steuer",
+                "konzentration"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Deutlich umstrittener ist dagegen die These, Mehrsprachige könnten generell ihre Aufmerksamkeit besser steuern.“"
+          },
+          {
+            "text": "Sprachwechsel im Gespräch: kein Defizit, folgt Regeln"
+          }
+        ]
+      },
+      {
+        "titel": "3. Interdependenzhypothese (Cummins)",
+        "punkte": [
+          {
+            "text": "Kernaussage:"
+          },
+          {
+            "luecke": 4,
+            "loesung": "Kompetenzen übertragen sich zwischen Sprachen",
+            "schluesselwoerter": [
+              [
+                "übertrag",
+                "transfer",
+                "nutzbar",
+                "mitnehm",
+                "hilft",
+                "helfen",
+                "unterstütz",
+                "fördert"
+              ],
+              [
+                "kompetenz",
+                "fähigkeit",
+                "wissen",
+                "können",
+                "strategie",
+                "erstsprache",
+                "muttersprache",
+                "herkunftssprache"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Die Kernaussage ist, dass sprachliche Kompetenzen, die ein Kind in einer Sprache erworben hat, sich auf die andere Sprache übertragen lassen.“"
+          },
+          {
+            "text": "Konsequenz:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "Herkunftssprache weiter fördern statt verbieten",
+            "schluesselwoerter": [
+              [
+                "herkunftssprach",
+                "erstsprach",
+                "muttersprach",
+                "familiensprach"
+              ],
+              [
+                "förder",
+                "pfleg",
+                "weiter",
+                "unterricht",
+                "stärk",
+                "erhalt",
+                "nicht verbiet"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Es ist sinnvoll, die Herkunftssprache der Kinder weiter zu fördern, statt sie zu verbieten oder bestenfalls zu ignorieren.“"
+          }
+        ]
+      },
+      {
+        "titel": "4. Alltagssprache vs. Bildungssprache",
+        "punkte": [
+          {
+            "text": "Alltagssprache: gutes Niveau nach ca. 2 Jahren"
+          },
+          {
+            "text": "Bildungssprache:"
+          },
+          {
+            "luecke": 6,
+            "loesung": "fünf bis sieben Jahre",
+            "schluesselwoerter": [
+              [
+                "fünf",
+                "5"
+              ],
+              [
+                "sieben",
+                "7"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „… vergehen nach Cummins in der Regel fünf bis sieben Jahre.“"
+          },
+          {
+            "text": "Risiko:"
+          },
+          {
+            "luecke": 7,
+            "loesung": "Förderbedarf wird übersehen",
+            "schluesselwoerter": [
+              [
+                "übersehen",
+                "unterschätz",
+                "nicht erkannt",
+                "nicht bemerkt",
+                "verkannt",
+                "keine unterstützung",
+                "keine förderung"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Ihr Förderbedarf in der Bildungssprache wird also übersehen.“ Grund: Die Kinder sprechen auf dem Schulhof fließend."
+          }
+        ]
+      },
+      {
+        "titel": "5. Konsequenzen für den Unterricht",
+        "punkte": [
+          {
+            "luecke": 8,
+            "loesung": "sprachsensibler Fachunterricht in allen Fächern",
+            "schluesselwoerter": [
+              [
+                "sprachsensib",
+                "sprachbewusst",
+                "sprachförder",
+                "sprachbildung"
+              ],
+              [
+                "fach",
+                "alle"
+              ]
+            ],
+            "erklaerung": "Der Oberpunkt fehlt. Sie sagt: „Wir brauchen sprachsensiblen Fachunterricht in allen Fächern.“"
+          },
+          {
+            "text": "– Fachbegriffe gezielt einführen"
+          },
+          {
+            "text": "– Satzmuster als „Gerüst“"
+          },
+          {
+            "text": "sprachübergreifendes Arbeiten:"
+          },
+          {
+            "luecke": 9,
+            "loesung": "alle Sprachen der Klasse einbeziehen",
+            "schluesselwoerter": [
+              [
+                "alle sprachen",
+                "mehrere sprachen",
+                "verschiedene sprachen",
+                "erstsprach",
+                "herkunftssprach",
+                "muttersprach",
+                "eigene sprache",
+                "eigenen sprache",
+                "familiensprach"
+              ],
+              [
+                "einbezieh",
+                "einbezog",
+                "nutz",
+                "zulass",
+                "erlaub",
+                "verwend",
+                "einsetz",
+                "vergleich"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Die Idee dabei ist, alle Sprachen der Klasse bewusst in den Unterricht einzubeziehen.“"
+          }
+        ]
+      },
+      {
+        "titel": "6. Fazit",
+        "punkte": [
+          {
+            "text": "größte Hürde:"
+          },
+          {
+            "luecke": 10,
+            "loesung": "Haltung der Lehrkräfte und Schulen",
+            "schluesselwoerter": [
+              [
+                "haltung",
+                "einstellung",
+                "denkweise",
+                "sichtweise",
+                "vorurteil",
+                "defizitblick",
+                "defizit"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Die größte Hürde ist die Haltung der Lehrkräfte und der Schulen insgesamt.“ Nicht die Kinder und nicht in erster Linie die Ressourcen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_08",
+    "teil": "hv3",
+    "titel": "Klimaanpassung in der Landwirtschaft",
+    "thema": "klima_nachhaltigkeit",
+    "bezug": false,
+    "pruefung": 1,
+    "niveau": "C1",
+    "situation": "Sie hören einen Vortrag im Rahmen der Ringvorlesung „Leben mit dem Klimawandel“.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Dr. Henrik Vogt, Agrarwissenschaftler"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Guten Abend, meine Damen und Herren, und herzlich willkommen zur Ringvorlesung „Leben mit dem Klimawandel“. Heute geht es um einen Bereich, der uns alle jeden Tag betrifft, nämlich um unser Essen. Doktor Henrik Vogt vom Institut für Agrarwissenschaften untersucht, wie sich Landwirtschaft auf heißere und trockenere Sommer einstellen kann. Herr Vogt, ich übergebe an Sie."
+      },
+      {
+        "sp": "A",
+        "text": "Herzlichen Dank, und guten Abend zusammen. Wer von Ihnen in den letzten Jahren einmal im Sommer über Land gefahren ist, hat es vielleicht gesehen: braune, vertrocknete Felder schon im Juni, Mais, der nur halb so hoch ist wie sonst, na ja, manchmal sogar noch kleiner, Wälder mit kahlen Kronen. Die Landwirtschaft ist von allen Wirtschaftszweigen vermutlich derjenige, der am direktesten vom Wetter abhängt. Ich möchte Ihnen heute zeigen, wie sich Betriebe an die neuen Bedingungen anpassen können, aber auch, wo die Grenzen dieser Anpassung liegen. Mein Vortrag hat sechs Teile. Zuerst kläre ich zwei Begriffe, die oft verwechselt werden. Dann beschreibe ich, welche Folgen der Klimawandel für den Ackerbau in Mitteleuropa hat. Danach stelle ich drei Ansätze vor, nämlich bei den Pflanzen, beim Boden und beim Wasser. Und zum Schluss spreche ich über Risiken und Kosten."
+      },
+      {
+        "sp": "A",
+        "text": "Fangen wir also mit den Begriffen an. In der Klimapolitik unterscheidet man zwischen Klimaschutz und Klimaanpassung. Beim Klimaschutz geht es darum, die Ursachen zu bekämpfen, also vor allem den Ausstoß von Treibhausgasen zu senken. Bei der Klimaanpassung geht es um etwas anderes. Hier fragt man, wie wir mit den Folgen umgehen, die sich ohnehin nicht mehr vermeiden lassen. Denn selbst wenn wir morgen alle Emissionen stoppen würden, was natürlich unrealistisch ist, würde sich das Klima noch über Jahrzehnte weiter verändern. Lange Zeit war Anpassung in der Debatte übrigens fast ein Tabuthema. Man befürchtete, dass die Menschen sich dann weniger um den Klimaschutz kümmern würden. Inzwischen ist aber klar, dass wir beides brauchen. In der Landwirtschaft ist dieser Zusammenhang besonders eng, denn sie ist ja nicht nur Betroffene, sondern auch Mitverursacherin des Klimawandels, etwa durch Methan aus der Rinderhaltung oder Lachgas aus Düngemitteln."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme nun zu den Folgen für den Ackerbau. Das größte Problem ist das Wasser, und zwar in zweifacher Hinsicht. Einerseits gibt es immer häufiger Trockenheit im Frühjahr, also genau in der Zeit, in der die jungen Pflanzen das Wasser am dringendsten brauchen. Andererseits nehmen Starkregen zu. Das klingt zunächst wie ein Widerspruch, ist aber keiner. Wenn auf ausgetrockneten Boden in kurzer Zeit sehr viel Regen fällt, dann kann der Boden das Wasser gar nicht aufnehmen. Es fließt oberflächlich ab und reißt dabei auch noch fruchtbare Erde mit. Im Dürresommer zweitausendachtzehn zum Beispiel lagen die Getreideernten in manchen Regionen Norddeutschlands um ein Viertel oder mehr unter dem Durchschnitt. Ein zweites Problem betrifft vor allem den Obstbau. Durch die milderen Winter beginnen viele Obstbäume heute deutlich früher im Jahr zu blühen. Wenn dann im April noch einmal ein Spätfrost kommt, erfrieren die Blüten, und die Ernte fällt teilweise komplett aus. Und drittens breiten sich Schädlinge aus wärmeren Regionen nach Norden aus, die es bei uns früher kaum gab."
+      },
+      {
+        "sp": "A",
+        "text": "Was kann man tun? Ich stelle Ihnen jetzt drei Ansätze vor und beginne mit den Pflanzen selbst. Der naheliegendste Weg ist, trockenheitstolerante Sorten zu züchten, also Sorten, die mit weniger Wasser auskommen oder tiefere Wurzeln bilden. Moderne Züchtungsmethoden können das beschleunigen, aber es dauert trotzdem oft zehn Jahre und länger, bis eine neue Sorte auf dem Markt ist. Der zweite Weg ist, sich nicht auf eine einzige Kultur zu verlassen. Statt großer Monokulturen setzen immer mehr Betriebe auf Mischkulturen und vielfältige Fruchtfolgen, also auf einen regelmäßigen Wechsel verschiedener Pflanzen auf demselben Feld. Das verteilt das Risiko. Wenn in einem trockenen Jahr der Weizen schlecht wächst, kommt vielleicht eine andere Kultur besser zurecht. Und drittens probieren manche Landwirte ganz neue Kulturen aus, die man bisher eher aus südlichen Ländern kennt, zum Beispiel Hirse oder Kichererbsen. Allerdings braucht es für solche Kulturen auch Abnehmer, also Mühlen, Händler und Verbraucher, die diese Produkte kaufen. Ein Landwirt kann nicht einfach Kichererbsen anbauen, wenn ihm niemand die Ernte abnimmt."
+      },
+      {
+        "sp": "A",
+        "text": "Der zweite Ansatz betrifft den Boden, und das ist, wenn Sie mich fragen, der am meisten unterschätzte. Das Stichwort lautet Humusaufbau. Humus ist der organische Anteil des Bodens, also das, was aus abgestorbenen Pflanzenresten und mithilfe unzähliger Bodenlebewesen entsteht. Ein humusreicher Boden wirkt wie ein Wasserspeicher. Er kann Regen aufnehmen wie ein Schwamm und gibt ihn in Trockenzeiten langsam wieder an die Pflanzen ab. Wie baut man Humus auf? Zum einen durch sogenannte Zwischenfrüchte. Das sind Pflanzen, die nach der Ernte ausgesät werden, damit der Boden im Herbst und Winter nicht nackt daliegt. Zum anderen, indem man weniger pflügt. Jedes Pflügen bringt Sauerstoff in den Boden, und dadurch wird Humus schneller abgebaut. Ein schöner Nebeneffekt ist übrigens, dass Humus Kohlenstoff speichert. Hier gehen Anpassung und Klimaschutz also Hand in Hand."
+      },
+      {
+        "sp": "A",
+        "text": "Der dritte Ansatz betrifft das Wasser und die Landschaft. Natürlich kann man Felder bewässern, und in manchen Regionen wird das auch in Deutschland immer wichtiger. Aber Wasser wird knapper, und deshalb kommt es darauf an, es möglichst effizient einzusetzen. Die klassische Beregnung mit großen Sprühanlagen verliert viel Wasser durch Verdunstung, besonders in der Mittagshitze. Viel sparsamer ist die Tröpfchenbewässerung, bei der das Wasser über dünne Schläuche direkt an die Wurzeln gebracht wird. In Südeuropa und Israel ist diese Technik schon lange Standard. Ein zweites, etwas ungewöhnlicheres Konzept heißt Agroforst. Dabei pflanzt man Reihen von Bäumen oder Sträuchern mitten auf die Äcker, mit breiten Streifen dazwischen, auf denen ganz normal Getreide oder Gemüse wächst. Die Baumreihen bremsen den Wind, und dadurch trocknet der Boden weniger schnell aus. Gleichzeitig spenden sie Schatten und bieten Lebensraum für Vögel und Insekten."
+      },
+      {
+        "sp": "A",
+        "text": "Damit komme ich zum letzten Teil, zu den Risiken und Kosten. Ein Begriff, den ich Ihnen unbedingt mitgeben möchte, ist Fehlanpassung. Damit meint man Maßnahmen, die kurzfristig helfen, langfristig aber neue Probleme schaffen. Das klassische Beispiel ist die Bewässerung. Wenn in einer Region sehr viele Betriebe gleichzeitig ihre Felder aus Brunnen bewässern, dann kann der Grundwasserspiegel so stark sinken, dass am Ende Feuchtgebiete austrocknen oder sogar die Trinkwasserversorgung gefährdet ist. Anpassung muss also immer regional abgestimmt werden. Und dann ist da natürlich die Frage des Geldes. Viele der Maßnahmen, die ich vorgestellt habe, rechnen sich erst nach Jahren. Ein Agroforstsystem zum Beispiel trägt erst nach langer Zeit wirtschaftlich Früchte, im wahrsten Sinne des Wortes. Gerade kleine Betriebe können diese Vorleistung kaum allein stemmen, und deshalb brauchen sie gezielte öffentliche Förderung."
+      },
+      {
+        "sp": "A",
+        "text": "Lassen Sie mich zusammenfassen. Die Landwirtschaft hat viele Möglichkeiten, sich anzupassen, bei den Pflanzen, beim Boden und beim Wasser. Aber Anpassung hat Grenzen. Je stärker sich das Klima erwärmt, desto teurer und schwieriger wird sie. Deshalb ist Anpassung kein Ersatz für Klimaschutz, sondern beides gehört zusammen. Vielen Dank für Ihre Aufmerksamkeit, ich freue mich jetzt auf Ihre Fragen."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Begriffe",
+        "punkte": [
+          {
+            "text": "Klimaschutz: Ursachen bekämpfen (Emissionen senken)"
+          },
+          {
+            "text": "Klimaanpassung:"
+          },
+          {
+            "luecke": 1,
+            "loesung": "mit unvermeidbaren Folgen umgehen",
+            "schluesselwoerter": [
+              [
+                "folge",
+                "auswirkung",
+                "konsequenz"
+              ],
+              [
+                "umgehen",
+                "umgang",
+                "leben",
+                "vorbereit",
+                "reagier",
+                "anpass",
+                "bewältig",
+                "einstell"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Hier fragt man, wie wir mit den Folgen umgehen, die sich ohnehin nicht mehr vermeiden lassen.“"
+          }
+        ]
+      },
+      {
+        "titel": "2. Folgen für den Ackerbau",
+        "punkte": [
+          {
+            "text": "Wasser:"
+          },
+          {
+            "luecke": 2,
+            "loesung": "Trockenheit im Frühjahr und Starkregen",
+            "schluesselwoerter": [
+              [
+                "trocken",
+                "dürre"
+              ],
+              [
+                "starkregen",
+                "regen",
+                "unwetter",
+                "niederschl"
+              ]
+            ],
+            "erklaerung": "Er nennt zwei Probleme: „Trockenheit im Frühjahr“ und „Andererseits nehmen Starkregen zu.“ Wer nur eines notiert, bekommt einen Punkt."
+          },
+          {
+            "text": "Obstbau:"
+          },
+          {
+            "luecke": 3,
+            "loesung": "frühere Blüte, dann Spätfrost",
+            "schluesselwoerter": [
+              [
+                "blüte",
+                "blüh"
+              ],
+              [
+                "frost",
+                "erfrier"
+              ]
+            ],
+            "erklaerung": "Er sagt: „… beginnen viele Obstbäume heute deutlich früher im Jahr zu blühen. Wenn dann im April noch einmal ein Spätfrost kommt, erfrieren die Blüten.“"
+          },
+          {
+            "text": "neue Schädlinge aus dem Süden"
+          }
+        ]
+      },
+      {
+        "titel": "3. Ansatz 1: Pflanzen",
+        "punkte": [
+          {
+            "luecke": 4,
+            "loesung": "trockenheitstolerante Sorten züchten",
+            "schluesselwoerter": [
+              [
+                "trocken",
+                "dürre",
+                "wenig wasser",
+                "weniger wasser",
+                "tiefe wurzel",
+                "tiefere wurzel"
+              ],
+              [
+                "sorte",
+                "zücht",
+                "züchtung"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Der naheliegendste Weg ist, trockenheitstolerante Sorten zu züchten.“"
+          },
+          {
+            "text": "statt Monokultur:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "Mischkulturen und vielfältige Fruchtfolgen",
+            "schluesselwoerter": [
+              [
+                "misch",
+                "vielfalt",
+                "vielfält",
+                "fruchtfolge",
+                "divers",
+                "wechsel",
+                "verschiedene"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Statt großer Monokulturen setzen immer mehr Betriebe auf Mischkulturen und vielfältige Fruchtfolgen.“"
+          },
+          {
+            "text": "neue Kulturen: Hirse, Kichererbsen"
+          }
+        ]
+      },
+      {
+        "titel": "4. Ansatz 2: Boden",
+        "punkte": [
+          {
+            "luecke": 6,
+            "loesung": "Humusaufbau als Wasserspeicher",
+            "schluesselwoerter": [
+              [
+                "humus"
+              ]
+            ],
+            "erklaerung": "Der Oberpunkt fehlt. Er sagt: „Das Stichwort lautet Humusaufbau … Ein humusreicher Boden wirkt wie ein Wasserspeicher.“"
+          },
+          {
+            "text": "– Zwischenfrüchte nach der Ernte"
+          },
+          {
+            "text": "– weniger pflügen"
+          },
+          {
+            "text": "– Nebeneffekt: Kohlenstoffspeicher"
+          }
+        ]
+      },
+      {
+        "titel": "5. Ansatz 3: Wasser und Landschaft",
+        "punkte": [
+          {
+            "text": "Bewässerung effizienter:"
+          },
+          {
+            "luecke": 7,
+            "loesung": "Tröpfchenbewässerung direkt an die Wurzeln",
+            "schluesselwoerter": [
+              [
+                "tröpfchen",
+                "tropf",
+                "wurzel",
+                "schläuch",
+                "schlauch"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Viel sparsamer ist die Tröpfchenbewässerung, bei der das Wasser über dünne Schläuche direkt an die Wurzeln gebracht wird.“"
+          },
+          {
+            "text": "Agroforst:"
+          },
+          {
+            "luecke": 8,
+            "loesung": "Baumreihen auf Äckern bremsen Wind",
+            "schluesselwoerter": [
+              [
+                "baum",
+                "bäum",
+                "strauch",
+                "sträuch",
+                "hecke",
+                "gehölz"
+              ],
+              [
+                "wind",
+                "acker",
+                "äcker",
+                "feld"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Dabei pflanzt man Reihen von Bäumen oder Sträuchern mitten auf die Äcker … Die Baumreihen bremsen den Wind.“"
+          },
+          {
+            "text": "→ weniger Austrocknung, Schatten, Lebensraum"
+          }
+        ]
+      },
+      {
+        "titel": "6. Risiken und Kosten",
+        "punkte": [
+          {
+            "text": "Fehlanpassung, z. B.:"
+          },
+          {
+            "luecke": 9,
+            "loesung": "Bewässerung senkt den Grundwasserspiegel",
+            "schluesselwoerter": [
+              [
+                "grundwasser"
+              ],
+              [
+                "sink",
+                "senk",
+                "absink",
+                "übernutz",
+                "knapp",
+                "verbrauch",
+                "fällt",
+                "niedrig"
+              ]
+            ],
+            "erklaerung": "Er sagt: „… dann kann der Grundwasserspiegel so stark sinken, dass am Ende Feuchtgebiete austrocknen.“"
+          },
+          {
+            "text": "Kosten:"
+          },
+          {
+            "luecke": 10,
+            "loesung": "kleine Betriebe brauchen öffentliche Förderung",
+            "schluesselwoerter": [
+              [
+                "klein"
+              ],
+              [
+                "förder",
+                "unterstütz",
+                "hilfe",
+                "subvention",
+                "zuschuss",
+                "staat",
+                "öffentlich"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Gerade kleine Betriebe können diese Vorleistung kaum allein stemmen, und deshalb brauchen sie gezielte öffentliche Förderung.“"
+          },
+          {
+            "text": "Fazit: Anpassung ersetzt keinen Klimaschutz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_09",
+    "teil": "hv3",
+    "titel": "Arbeitsmarkt und Migration – Chancen und Hürden",
+    "thema": "arbeitswelt",
+    "bezug": false,
+    "pruefung": 2,
+    "niveau": "C1+",
+    "situation": "Sie hören einen Vortrag im Rahmen der Ringvorlesung „Wirtschaft und Gesellschaft im Wandel“.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Prof. Dr. Lukas Weber, Arbeitsmarktökonom"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Meine Damen und Herren, willkommen zur heutigen Sitzung unserer Ringvorlesung. Kaum ein Thema wird derzeit so emotional diskutiert wie die Zuwanderung. Wir wollen es heute einmal nüchtern betrachten, nämlich aus der Perspektive des Arbeitsmarkts. Dazu begrüße ich Professor Lukas Weber, der an unserer Fakultät Arbeitsmarktökonomie lehrt. Herr Weber, Sie haben das Wort."
+      },
+      {
+        "sp": "A",
+        "text": "Vielen Dank. Guten Abend, meine Damen und Herren. Ich möchte heute über ein Thema sprechen, bei dem Fakten und Gefühle oft weit auseinanderliegen. Deshalb vorweg ein Hinweis: Ich werde versuchen, mich an das zu halten, was die empirische Forschung tatsächlich zeigt, und ich werde auch sagen, wo sie noch keine klaren Antworten hat. Mein Vortrag gliedert sich in sechs Abschnitte. Ich beginne mit der Ausgangslage auf dem deutschen Arbeitsmarkt. Dann ordne ich ein, welche Rolle Zuwanderung dabei überhaupt spielen kann. Im dritten Abschnitt geht es um die Frage, wie schnell Integration in den Arbeitsmarkt gelingt, im vierten um die Hindernisse. Fünftens spreche ich über ein Problem, das oft übersehen wird, und zum Schluss über politische Instrumente und die Perspektive der Herkunftsländer."
+      },
+      {
+        "sp": "A",
+        "text": "Also, die Ausgangslage. Deutschland altert, das ist keine Neuigkeit. Aber die Folgen für den Arbeitsmarkt werden erst jetzt so richtig spürbar. In den kommenden gut zehn Jahren gehen die geburtenstarken Jahrgänge der sechziger Jahre in den Ruhestand, also viele Millionen Beschäftigte, und es rücken deutlich weniger junge Menschen nach. Das betrifft nicht alle Bereiche gleich. Besonders betroffen sind die Pflege, das Handwerk und die Kinderbetreuung. In der Pflege bleiben Stellen heute im Durchschnitt monatelang unbesetzt, und viele Handwerksbetriebe finden keine Nachfolger, sodass sie schließen müssen, obwohl die Auftragsbücher voll sind. Ein Beispiel aus meiner eigenen Nachbarschaft: Die Bäckerei bei mir um die Ecke hat im letzten Jahr ihre Öffnungszeiten verkürzt, nicht weil die Kunden fehlen, sondern weil sie keine Verkäuferinnen mehr findet. Solche Geschichten hört man inzwischen überall. Man spricht deshalb inzwischen weniger von einem Fachkräftemangel in einzelnen Branchen als von einem allgemeinen Arbeitskräftemangel."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme nun zum zweiten Abschnitt. Welche Rolle kann Zuwanderung hier spielen? Meine Antwort ist: eine wichtige, aber nicht die einzige. Vorher aber noch eine Unterscheidung, die in der Debatte oft durcheinandergeht. Wir müssen trennen zwischen Fluchtmigration, bei der es um Schutz geht, und Erwerbsmigration, bei der Menschen gezielt wegen einer Arbeit kommen. Beides wirkt sich auf den Arbeitsmarkt aus, aber die Voraussetzungen sind völlig unterschiedlich. Zuwanderung ist ein Baustein von mehreren. Ein zweiter Baustein ist eine höhere Erwerbsbeteiligung im Inland, und zwar vor allem von Frauen, die in Deutschland im internationalen Vergleich sehr häufig in Teilzeit arbeiten, und von Älteren, die vielleicht länger arbeiten möchten, wenn die Bedingungen stimmen. Ein dritter Baustein ist die Produktivität, also die Frage, ob durch Digitalisierung und Automatisierung weniger Arbeitskräfte für dieselbe Leistung nötig sind. Rechnet man diese Faktoren zusammen, kommt man in den meisten Studien aber zu dem Ergebnis, dass ohne eine erhebliche Nettozuwanderung das Arbeitskräfteangebot deutlich schrumpfen würde."
+      },
+      {
+        "sp": "A",
+        "text": "Damit zum dritten Punkt: Wie schnell gelingt die Integration in den Arbeitsmarkt? Hier haben wir inzwischen recht gute Daten, vor allem über die Menschen, die in den Jahren zweitausendfünfzehn und zweitausendsechzehn als Geflüchtete nach Deutschland gekommen sind. Im ersten Jahr nach der Ankunft hatte nur ein sehr kleiner Teil von ihnen eine Arbeit, was wenig überrascht, denn viele waren noch im Asylverfahren oder besuchten Sprachkurse. Aber der Anteil ist dann kontinuierlich gestiegen. Sechs Jahre nach dem Zuzug war gut die Hälfte von ihnen erwerbstätig, und danach stieg die Quote weiter. Das ist im internationalen Vergleich übrigens ein durchaus ordentlicher Wert, auch wenn er hinter manchen politischen Erwartungen zurückbleibt. Bei den Frauen verlief die Entwicklung allerdings deutlich langsamer als bei den Männern, oft wegen der Betreuung kleiner Kinder. Was beschleunigt die Integration? Am stärksten wirken nach den bisherigen Befunden Sprachkurse, die früh beginnen und mit beruflichen Inhalten verbunden sind, also nicht allgemeiner Unterricht, sondern Deutsch für die Pflege, für die Werkstatt oder für das Büro."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme jetzt zu den Hindernissen. Da könnte man viele nennen, aber ich beschränke mich, sagen wir, auf die drei wichtigsten. Das erste ist die Anerkennung ausländischer Berufsabschlüsse. Die Verfahren dauern oft viele Monate, und je nach Bundesland und Beruf ist eine andere Stelle zuständig. Für die Betroffenen ist das extrem frustrierend, und für die Wirtschaft ist es teuer, weil qualifizierte Menschen in dieser Zeit nicht in ihrem Beruf arbeiten können. Das zweite Hindernis ist Diskriminierung, und zwar schon im Bewerbungsverfahren. Das weiß man aus sogenannten Feldexperimenten. Dabei verschicken Forschende Tausende fiktive Bewerbungen, die sich nur in einem einzigen Merkmal unterscheiden, nämlich im Namen. Bewerbungen mit einem fremd klingenden Namen bekommen bei gleicher Qualifikation deutlich seltener eine Einladung zum Vorstellungsgespräch. Und das dritte Hindernis sind fehlende Netzwerke. Viele Stellen werden über persönliche Kontakte vergeben, und die haben Neuankömmlinge naturgemäß kaum. Patenschaftsprogramme, bei denen Einheimische Neuankömmlinge in ihre beruflichen Kreise einführen, können hier nachweislich helfen."
+      },
+      {
+        "sp": "A",
+        "text": "Der fünfte Abschnitt betrifft ein Problem, das in der öffentlichen Debatte oft untergeht. Die Ökonomie spricht von Beschäftigung unterhalb der Qualifikation. Gemeint ist, dass viele Zugewanderte zwar arbeiten, aber in Jobs, für die sie eigentlich überqualifiziert sind. Die Ärztin aus Syrien, die als Pflegehilfskraft arbeitet, oder der Ingenieur, der Pakete ausliefert, das sind keine Einzelfälle. Ein erheblicher Teil der zugewanderten Akademikerinnen und Akademiker arbeitet in Tätigkeiten, für die eigentlich kein Studium nötig wäre. Das ist ein Verlust für alle Seiten, für die Menschen selbst, die ihre Fähigkeiten nicht nutzen können, aber auch für die Volkswirtschaft insgesamt. Ein vielversprechender Lösungsansatz ist die Teilanerkennung mit anschließender Nachqualifizierung. Statt einen Abschluss komplett abzulehnen, wird festgestellt, welche Teile gleichwertig sind und welche fehlen, und die fehlenden Teile können dann berufsbegleitend nachgeholt werden."
+      },
+      {
+        "sp": "A",
+        "text": "Zum Schluss noch zu den politischen Instrumenten. Deutschland hat sein Einwanderungsrecht in den letzten Jahren deutlich geöffnet. Seit zweitausendzwanzig gibt es das Fachkräfteeinwanderungsgesetz, das zweitausenddreiundzwanzig noch einmal reformiert wurde. Ein Kernstück dieser Reform ist die sogenannte Chancenkarte. Dabei handelt es sich um ein Punktesystem, ähnlich wie man es aus Kanada kennt. Wer genügend Punkte für Sprachkenntnisse, Berufserfahrung, Alter und andere Kriterien sammelt, darf bis zu einem Jahr nach Deutschland kommen, um sich hier eine Arbeit zu suchen. Ob dieses Instrument tatsächlich viele Menschen anzieht, lässt sich noch nicht sicher sagen. Dafür ist es schlicht zu neu. Und noch ein letzter Gedanke zur Perspektive der Herkunftsländer. Für viele dieser Länder kann die Abwanderung ihrer Fachkräfte ein echter Verlust sein, gerade im Gesundheitswesen. Manche Länder, etwa die Philippinen, bilden zwar seit Jahrzehnten bewusst mehr Pflegekräfte aus, als sie selbst brauchen. Für andere aber ist das keine Option. Ein fairer Ansatz sind deshalb Ausbildungspartnerschaften mit den Herkunftsländern. Deutschland finanziert dabei die Ausbildung vor Ort mit, und nur ein Teil der Ausgebildeten kommt anschließend nach Deutschland, während der andere Teil im eigenen Land bleibt. Vielen Dank für Ihre Aufmerksamkeit. Ich bin gespannt auf Ihre Fragen und gern auch auf Ihren Widerspruch."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Ausgangslage",
+        "punkte": [
+          {
+            "text": "Ruhestand der geburtenstarken Jahrgänge (1960er) in den nächsten ca. 10 Jahren"
+          },
+          {
+            "text": "besonders betroffen:"
+          },
+          {
+            "luecke": 1,
+            "loesung": "Pflege, Handwerk und Kinderbetreuung",
+            "schluesselwoerter": [
+              [
+                "pflege"
+              ],
+              [
+                "handwerk"
+              ],
+              [
+                "kinderbetreuung",
+                "kita",
+                "erzieh",
+                "betreuung",
+                "kindergarten"
+              ]
+            ],
+            "erklaerung": "Er nennt drei Bereiche: „Besonders betroffen sind die Pflege, das Handwerk und die Kinderbetreuung.“ Mit zwei von drei Bereichen gibt es einen Punkt."
+          },
+          {
+            "text": "→ allgemeiner Arbeitskräftemangel"
+          }
+        ]
+      },
+      {
+        "titel": "2. Zuwanderung: ein Baustein von mehreren",
+        "punkte": [
+          {
+            "text": "weitere Bausteine:"
+          },
+          {
+            "luecke": 2,
+            "loesung": "mehr Erwerbstätigkeit von Frauen und Älteren",
+            "schluesselwoerter": [
+              [
+                "frau"
+              ],
+              [
+                "älter",
+                "senior",
+                "rentner"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Ein zweiter Baustein ist eine höhere Erwerbsbeteiligung im Inland, und zwar vor allem von Frauen … und von Älteren.“"
+          },
+          {
+            "text": "Produktivität durch Digitalisierung und Automatisierung"
+          }
+        ]
+      },
+      {
+        "titel": "3. Integration in den Arbeitsmarkt",
+        "punkte": [
+          {
+            "text": "Geflüchtete 2015/16: nach 6 Jahren"
+          },
+          {
+            "luecke": 3,
+            "loesung": "gut die Hälfte erwerbstätig",
+            "schluesselwoerter": [
+              [
+                "hälfte",
+                "halb",
+                "50",
+                "fünfzig",
+                "über die hälfte"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Sechs Jahre nach dem Zuzug war gut die Hälfte von ihnen erwerbstätig.“"
+          },
+          {
+            "text": "Frauen: langsamere Entwicklung"
+          },
+          {
+            "text": "beschleunigt durch:"
+          },
+          {
+            "luecke": 4,
+            "loesung": "frühe, berufsbezogene Sprachkurse",
+            "schluesselwoerter": [
+              [
+                "sprach",
+                "deutschkurs",
+                "deutsch"
+              ],
+              [
+                "beruf",
+                "früh",
+                "pflege",
+                "werkstatt",
+                "fach"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Am stärksten wirken … Sprachkurse, die früh beginnen und mit beruflichen Inhalten verbunden sind.“"
+          }
+        ]
+      },
+      {
+        "titel": "4. Hindernisse",
+        "punkte": [
+          {
+            "text": "Anerkennung:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "langwierig, je nach Land unterschiedlich zuständig",
+            "schluesselwoerter": [
+              [
+                "lang",
+                "dauer",
+                "monat",
+                "zeit"
+              ],
+              [
+                "bundesland",
+                "länder",
+                "unterschied",
+                "zuständig",
+                "verschied",
+                "stellen",
+                "föderal",
+                "uneinheit",
+                "bürokrat",
+                "kompliziert"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Die Verfahren dauern oft viele Monate, und je nach Bundesland und Beruf ist eine andere Stelle zuständig.“"
+          },
+          {
+            "text": "Bewerbungsverfahren:"
+          },
+          {
+            "luecke": 6,
+            "loesung": "Benachteiligung wegen fremd klingender Namen",
+            "schluesselwoerter": [
+              [
+                "name"
+              ],
+              [
+                "diskrimin",
+                "benachteil",
+                "seltener",
+                "weniger",
+                "schlechter",
+                "ablehn"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Bewerbungen mit einem fremd klingenden Namen bekommen bei gleicher Qualifikation deutlich seltener eine Einladung.“"
+          },
+          {
+            "text": "fehlende berufliche Netzwerke"
+          }
+        ]
+      },
+      {
+        "titel": "5. Ungenutzte Potenziale",
+        "punkte": [
+          {
+            "luecke": 7,
+            "loesung": "Beschäftigung unterhalb der Qualifikation",
+            "schluesselwoerter": [
+              [
+                "unterhalb",
+                "unter ihrer",
+                "unter der",
+                "unter dem",
+                "unter niveau",
+                "unter wert",
+                "unterqualif",
+                "überqualif",
+                "dequalif",
+                "verschwend",
+                "unter qualifikation"
+              ]
+            ],
+            "erklaerung": "Der Oberpunkt fehlt. Er sagt: „Die Ökonomie spricht von Beschäftigung unterhalb der Qualifikation.“ Die Unterpunkte nennen Beispiel und Folge."
+          },
+          {
+            "text": "– z. B. Ärztin arbeitet als Pflegehilfskraft"
+          },
+          {
+            "text": "– Verlust für Person und Volkswirtschaft"
+          },
+          {
+            "text": "Lösungsansatz:"
+          },
+          {
+            "luecke": 8,
+            "loesung": "Teilanerkennung mit anschließender Nachqualifizierung",
+            "schluesselwoerter": [
+              [
+                "nachqualif",
+                "nachhol",
+                "weiterbild",
+                "teilanerkenn",
+                "qualifizierung",
+                "anpassungs"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Ein vielversprechender Lösungsansatz ist die Teilanerkennung mit anschließender Nachqualifizierung.“"
+          }
+        ]
+      },
+      {
+        "titel": "6. Politik und Herkunftsländer",
+        "punkte": [
+          {
+            "text": "Fachkräfteeinwanderungsgesetz 2020, Reform 2023"
+          },
+          {
+            "text": "Chancenkarte:"
+          },
+          {
+            "luecke": 9,
+            "loesung": "Punktesystem, bis ein Jahr Arbeitssuche",
+            "schluesselwoerter": [
+              [
+                "punkt"
+              ],
+              [
+                "such",
+                "jahr"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Dabei handelt es sich um ein Punktesystem … darf bis zu einem Jahr nach Deutschland kommen, um sich hier eine Arbeit zu suchen.“"
+          },
+          {
+            "text": "Risiko für Herkunftsländer: Abwanderung von Fachkräften"
+          },
+          {
+            "text": "fairer Ansatz:"
+          },
+          {
+            "luecke": 10,
+            "loesung": "Ausbildungspartnerschaften mit den Herkunftsländern",
+            "schluesselwoerter": [
+              [
+                "partnerschaft",
+                "kooperation",
+                "zusammenarbeit",
+                "partner"
+              ],
+              [
+                "ausbild"
+              ]
+            ],
+            "erklaerung": "Er sagt: „Ein fairer Ansatz sind deshalb Ausbildungspartnerschaften mit den Herkunftsländern.“ Deutschland finanziert die Ausbildung vor Ort mit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hv3_10",
+    "teil": "hv3",
+    "titel": "Künstliche Intelligenz in der medizinischen Diagnostik",
+    "thema": "ki_digitalisierung",
+    "bezug": false,
+    "pruefung": 3,
+    "niveau": "C1+",
+    "situation": "Sie hören einen Vortrag im Rahmen der Ringvorlesung „Digitale Zukunft“.",
+    "rollen": [
+      {
+        "sp": "C",
+        "name": "Moderation"
+      },
+      {
+        "sp": "A",
+        "name": "Prof. Dr. Nadine Krause, Medizininformatikerin"
+      }
+    ],
+    "skript": [
+      {
+        "sp": "C",
+        "text": "Liebe Gäste, herzlich willkommen zur letzten Sitzung unserer Ringvorlesung „Digitale Zukunft“ in diesem Semester. Ob Künstliche Intelligenz bald besser diagnostiziert als Ärztinnen und Ärzte, wird gerade überall diskutiert. Wir haben dazu eine Expertin eingeladen, die selbst solche Systeme entwickelt und testet: Professorin Nadine Krause, Medizininformatikerin an unserer Universitätsklinik. Frau Krause, wir freuen uns auf Ihren Vortrag."
+      },
+      {
+        "sp": "A",
+        "text": "Ja, vielen Dank für die Einladung. Guten Abend, meine Damen und Herren. Wenn man die Schlagzeilen der letzten Jahre liest, könnte man meinen, Radiologinnen und Hautärzte würden bald arbeitslos. Ich möchte heute versuchen, ein etwas differenzierteres Bild zu zeichnen. Ich bin, das sage ich gleich vorweg, keine Skeptikerin. Ich halte diese Technik für sehr vielversprechend. Aber ich sehe auch täglich, wo sie an ihre Grenzen stößt. Mein Vortrag hat sechs Teile. Zuerst erkläre ich ganz kurz, wie solche Systeme überhaupt funktionieren. Dann zeige ich Ihnen einige Anwendungen. Im dritten Teil geht es um die Stärken, im vierten und fünften um die Risiken, einmal auf der Seite der Daten und einmal im Zusammenspiel von Mensch und Maschine. Und zum Schluss wage ich einen kleinen Ausblick."
+      },
+      {
+        "sp": "A",
+        "text": "Also, wie funktioniert das? Die meisten Systeme, über die wir heute sprechen, beruhen auf maschinellem Lernen. Der entscheidende Unterschied zu klassischer Software ist folgender: Bei klassischer Software schreibt ein Mensch feste Regeln, etwa: Wenn der Wert größer ist als soundso, dann gib eine Warnung aus. Beim maschinellen Lernen dagegen gibt man dem System keine Regeln vor. Stattdessen lernt es Muster aus sehr vielen Beispielen. Man zeigt einem solchen System zum Beispiel hunderttausend Röntgenbilder, bei denen jeweils schon bekannt ist, ob eine Lungenentzündung vorliegt oder nicht. Das System passt dann Millionen von internen Parametern so lange an, bis es die Bilder möglichst gut zuordnen kann. Man nennt diese Systeme übrigens auch neuronale Netze, weil ihr Aufbau ganz grob an Nervenzellen im Gehirn angelehnt ist. Mit einem echten Gehirn haben sie aber, ehrlich gesagt, nicht allzu viel gemeinsam. Das Ergebnis ist oft beeindruckend genau, aber, und darauf komme ich noch zurück, wir wissen nicht immer, welche Merkmale das System dabei eigentlich gelernt hat."
+      },
+      {
+        "sp": "A",
+        "text": "Kommen wir zu den Anwendungen. Am weitesten fortgeschritten ist der Einsatz in Fächern, die stark mit Bildern arbeiten. In der Dermatologie gibt es Systeme, die auf Fotos von Hautveränderungen erkennen, ob es sich um schwarzen Hautkrebs handeln könnte. In der Augenheilkunde werden Aufnahmen des Augenhintergrunds analysiert, um Netzhautschäden bei Diabetes zu erkennen. Diese Schäden sind tückisch, weil sie lange keine Beschwerden machen, aber unbehandelt zur Erblindung führen können. Und ein drittes Beispiel ist die Früherkennung von Brustkrebs. In Deutschland werden die Mammografie-Aufnahmen bisher immer von zwei Fachleuten unabhängig voneinander begutachtet. Mehrere große Studien prüfen derzeit, ob eine Software die zweite dieser beiden Begutachtungen übernehmen kann. Die Ergebnisse sind vielversprechend: Es wurden mindestens genauso viele Tumoren gefunden, und die Arbeitsbelastung der Ärztinnen und Ärzte ist deutlich gesunken. Daneben gibt es inzwischen auch Anwendungen jenseits der Bilder, etwa Programme, die auf der Intensivstation laufend Messwerte auswerten und vor einer drohenden Blutvergiftung warnen sollen."
+      },
+      {
+        "sp": "A",
+        "text": "Damit sind wir schon bei den Stärken. Die erste Stärke ist ganz banal, aber enorm wichtig: Ein Algorithmus wird nicht müde. Er arbeitet um drei Uhr nachts genauso zuverlässig wie um zehn Uhr morgens, und er hat auch keinen schlechten Tag. Menschen dagegen machen nach einer langen Schicht nachweislich mehr Fehler. Die zweite Stärke ist, dass solche Systeme Muster in riesigen Datenmengen erkennen können, die für das menschliche Auge kaum sichtbar sind. Und eine dritte Stärke betrifft die Versorgung in ländlichen Regionen. Denken Sie noch einmal an das Beispiel mit der Netzhaut. In vielen Gegenden gibt es kaum Augenärzte, und die Wartezeiten sind lang. Mit einer speziellen Kamera und einer entsprechenden Software kann eine Hausarztpraxis die Aufnahme selbst machen und bekommt sofort eine Einschätzung. Die Untersuchung ist also ohne Facharzt vor Ort möglich, und nur die auffälligen Fälle werden weitergeschickt."
+      },
+      {
+        "sp": "A",
+        "text": "Ich komme nun zu den Risiken, und zwar zunächst zu denen, die mit den Daten zu tun haben. Ein System ist immer nur so gut wie die Daten, mit denen es trainiert wurde. Wenn diese Daten verzerrt sind, dann ist auch das System verzerrt. Ein bekanntes Beispiel stammt wieder aus der Dermatologie. Viele Bilddatenbanken enthalten überwiegend Fotos von heller Haut. Die Folge ist, dass manche Systeme bei Menschen mit dunkler Haut deutlich schlechter abschneiden, also gerade bei einer Gruppe, die ohnehin oft später diagnostiziert wird. Ein zweites, sehr spannendes Problem nennen Fachleute Abkürzungslernen. Das System lernt dabei eine Art Abkürzung, also ein Merkmal, das in den Trainingsdaten zufällig mit der Diagnose zusammenhängt, aber medizinisch völlig bedeutungslos ist. Bei Fotos von Hautveränderungen lag zum Beispiel neben verdächtigen Befunden häufiger ein Lineal im Bild, weil Ärzte diese Befunde vermessen hatten. Das System hat also teilweise gelernt, Lineale zu erkennen, und nicht Krebs. Na ja, das klingt fast komisch, ist aber ein ernstes Problem, denn im Test mit den ursprünglichen Daten schneiden solche Systeme hervorragend ab. Der Fehler fällt erst auf, wenn man sie in einer anderen Klinik einsetzt. Ähnliches hat man bei Röntgenbildern beobachtet, wo Systeme sich an Markierungen orientierten, die nur in bestimmten Kliniken verwendet wurden."
+      },
+      {
+        "sp": "A",
+        "text": "Der fünfte Teil betrifft das Zusammenspiel von Mensch und Maschine. Hier sehe ich zwei Probleme. Das erste ist die Erklärbarkeit. Bei vielen dieser Systeme ist der Weg zur Entscheidung oft nicht nachvollziehbar, auch nicht für die Entwickler selbst. Man spricht deshalb auch von einer Blackbox. Für eine Ärztin, die einer Patientin eine Diagnose erklären und dafür die Verantwortung übernehmen soll, ist das natürlich ein Problem. Das zweite Problem ist psychologischer Natur und hat einen etwas sperrigen Namen, nämlich Automatisierungsverzerrung. Gemeint ist die Neigung von Menschen, einem automatischen System zu sehr zu vertrauen. In Experimenten hat man Ärztinnen und Ärzten bewusst fehlerhafte Vorschläge einer Software gezeigt. Das Ergebnis war erschreckend: Viele haben die falschen Vorschläge übernommen, auch erfahrene Fachleute, obwohl sie ohne die Software richtig entschieden hätten. Und schließlich ist auch die rechtliche Frage noch weitgehend offen, wer eigentlich haftet, wenn ein solches System einen Fehler macht."
+      },
+      {
+        "sp": "A",
+        "text": "Lassen Sie mich zum Schluss einen kurzen Ausblick wagen. Ich glaube nicht, dass Künstliche Intelligenz Ärztinnen und Ärzte ersetzen wird. Ich glaube aber, dass sie die Arbeit stark verändern wird. Die Rolle, die ich für realistisch und auch für wünschenswert halte, ist die einer Assistenz, nicht die eines Ersatzes. Das System macht einen Vorschlag, weist auf Auffälligkeiten hin oder sortiert vor, aber die Entscheidung trifft der Mensch, der die Patientin kennt, mit ihr spricht und die Verantwortung trägt. Vielleicht gewinnen Ärztinnen und Ärzte dadurch sogar etwas zurück, das im Klinikalltag oft zu kurz kommt, nämlich Zeit für das Gespräch. Damit das funktioniert, müssen wir allerdings schon im Medizinstudium vermitteln, wie solche Systeme arbeiten und wo ihre Schwächen liegen. Denn nur wer die Grenzen einer Technik kennt, kann sie auch kritisch nutzen. Vielen Dank für Ihre Aufmerksamkeit, ich freue mich auf Ihre Fragen."
+      }
+    ],
+    "folien": [
+      {
+        "titel": "1. Grundprinzip",
+        "punkte": [
+          {
+            "text": "klassische Software: feste Regeln vom Menschen"
+          },
+          {
+            "text": "maschinelles Lernen:"
+          },
+          {
+            "luecke": 1,
+            "loesung": "lernt Muster aus vielen Beispielen",
+            "schluesselwoerter": [
+              [
+                "beispiel",
+                "daten",
+                "fälle",
+                "bilder",
+                "training"
+              ],
+              [
+                "muster",
+                "lernt",
+                "lernen",
+                "erkennt",
+                "selbst"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Stattdessen lernt es Muster aus sehr vielen Beispielen.“"
+          },
+          {
+            "text": "Problem: gelernte Merkmale oft unbekannt"
+          }
+        ]
+      },
+      {
+        "titel": "2. Anwendungen",
+        "punkte": [
+          {
+            "text": "Dermatologie: Hautkrebs auf Fotos erkennen"
+          },
+          {
+            "text": "Augenheilkunde:"
+          },
+          {
+            "luecke": 2,
+            "loesung": "Netzhautschäden bei Diabetes erkennen",
+            "schluesselwoerter": [
+              [
+                "netzhaut",
+                "retina",
+                "augenhintergrund"
+              ],
+              [
+                "diabet",
+                "zucker"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „In der Augenheilkunde werden Aufnahmen des Augenhintergrunds analysiert, um Netzhautschäden bei Diabetes zu erkennen.“"
+          },
+          {
+            "text": "Mammografie-Screening:"
+          },
+          {
+            "luecke": 3,
+            "loesung": "Software übernimmt die zweite Begutachtung",
+            "schluesselwoerter": [
+              [
+                "zweit",
+                "doppel"
+              ],
+              [
+                "software",
+                "programm",
+                "algorithm",
+                "system",
+                "maschine",
+                "computer",
+                "ersetz",
+                "übernimm",
+                "übernehm",
+                "statt"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Mehrere große Studien prüfen derzeit, ob eine Software die zweite dieser beiden Begutachtungen übernehmen kann.“"
+          }
+        ]
+      },
+      {
+        "titel": "3. Stärken",
+        "punkte": [
+          {
+            "luecke": 4,
+            "loesung": "wird nicht müde, immer zuverlässig",
+            "schluesselwoerter": [
+              [
+                "müde",
+                "ermüd",
+                "erschöpf",
+                "konstant",
+                "gleichbleibend",
+                "rund um die uhr",
+                "nachts"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Ein Algorithmus wird nicht müde. Er arbeitet um drei Uhr nachts genauso zuverlässig wie um zehn Uhr morgens.“"
+          },
+          {
+            "text": "Muster in riesigen Datenmengen erkennen"
+          },
+          {
+            "text": "ländliche Regionen:"
+          },
+          {
+            "luecke": 5,
+            "loesung": "Untersuchung ohne Facharzt vor Ort",
+            "schluesselwoerter": [
+              [
+                "fachar",
+                "fachär",
+                "spezialist",
+                "augenarzt",
+                "augenärzt"
+              ],
+              [
+                "ohne",
+                "fehl",
+                "mangel",
+                "kein",
+                "wenig",
+                "hausarzt",
+                "hausärzt"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Die Untersuchung ist also ohne Facharzt vor Ort möglich.“ Die Hausarztpraxis macht die Aufnahme selbst."
+          }
+        ]
+      },
+      {
+        "titel": "4. Risiken: Daten",
+        "punkte": [
+          {
+            "text": "verzerrte Trainingsdaten → z. B."
+          },
+          {
+            "luecke": 6,
+            "loesung": "schlechtere Ergebnisse bei dunkler Haut",
+            "schluesselwoerter": [
+              [
+                "dunk",
+                "schwarz",
+                "hauttyp",
+                "hautfarbe"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „… dass manche Systeme bei Menschen mit dunkler Haut deutlich schlechter abschneiden.“"
+          },
+          {
+            "luecke": 7,
+            "loesung": "Abkürzungslernen: bedeutungslose Merkmale gelernt",
+            "schluesselwoerter": [
+              [
+                "abkürzung",
+                "irrelevant",
+                "falsch",
+                "nebensäch",
+                "zufällig",
+                "schein",
+                "bedeutungslos",
+                "unwichtig",
+                "lineal"
+              ]
+            ],
+            "erklaerung": "Der Oberpunkt fehlt. Sie sagt: „Ein zweites, sehr spannendes Problem nennen Fachleute Abkürzungslernen“ – das System lernt medizinisch bedeutungslose Merkmale."
+          },
+          {
+            "text": "– Beispiel: Lineal im Bild"
+          },
+          {
+            "text": "– Beispiel: Markierungen einzelner Kliniken"
+          }
+        ]
+      },
+      {
+        "titel": "5. Risiken: Mensch und Maschine",
+        "punkte": [
+          {
+            "text": "Erklärbarkeit:"
+          },
+          {
+            "luecke": 8,
+            "loesung": "Entscheidungsweg oft nicht nachvollziehbar",
+            "schluesselwoerter": [
+              [
+                "nachvollzieh",
+                "undurchsichtig",
+                "black box",
+                "blackbox",
+                "unklar",
+                "intransparent",
+                "unverständlich",
+                "nicht erklär",
+                "nicht verständlich"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Bei vielen dieser Systeme ist der Weg zur Entscheidung oft nicht nachvollziehbar, auch nicht für die Entwickler selbst.“"
+          },
+          {
+            "text": "Automatisierungsverzerrung:"
+          },
+          {
+            "luecke": 9,
+            "loesung": "Ärzte übernehmen falsche Vorschläge",
+            "schluesselwoerter": [
+              [
+                "übernehm",
+                "übernahm",
+                "übernomm",
+                "vertrau",
+                "folgen",
+                "verlass",
+                "blind",
+                "unkritisch",
+                "akzeptier"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Viele haben die falschen Vorschläge übernommen, auch erfahrene Fachleute.“ Gemeint ist zu viel Vertrauen in die Maschine."
+          },
+          {
+            "text": "Haftung bei Fehlern ungeklärt"
+          }
+        ]
+      },
+      {
+        "titel": "6. Ausblick",
+        "punkte": [
+          {
+            "text": "Rolle der KI:"
+          },
+          {
+            "luecke": 10,
+            "loesung": "Assistenz, nicht Ersatz der Ärzte",
+            "schluesselwoerter": [
+              [
+                "assist",
+                "unterstütz",
+                "hilfsmittel",
+                "werkzeug",
+                "ergänz",
+                "hilfe",
+                "helfer"
+              ]
+            ],
+            "erklaerung": "Sie sagt: „Die Rolle, die ich für realistisch und auch für wünschenswert halte, ist die einer Assistenz, nicht die eines Ersatzes.“"
+          },
+          {
+            "text": "Voraussetzung: Grundwissen schon im Medizinstudium"
+          }
+        ]
+      }
+    ]
+  }
+]

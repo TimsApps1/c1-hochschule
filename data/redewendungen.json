@@ -1,0 +1,4962 @@
+[
+  {
+    "id": "r001",
+    "ausdruck": "etwas auf den Punkt bringen",
+    "typ": "idiom",
+    "funktion": "zusammenfassen",
+    "bedeutung": "das Wichtigste kurz und genau sagen",
+    "beispiel": "Können Sie Ihre These zum Schluss noch einmal kurz auf den Punkt bringen?",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Lassen Sie mich das kurz auf den ___ bringen: Die Studie ist nicht repräsentativ.",
+      "loesung": "Punkt",
+      "optionen": [
+        "Punkt",
+        "Kern",
+        "Grund",
+        "Strich"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie fassen am Ende einer Diskussion Ihre Position in einem einzigen Satz zusammen.",
+        "Sie erzählen ausführlich von Ihrem Wochenende.",
+        "Sie beschreiben die Achsen einer Grafik."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "nicht verwechseln mit „auf den Punkt kommen“ (= endlich über das eigentliche Thema sprechen)",
+    "bezug": false
+  },
+  {
+    "id": "r002",
+    "ausdruck": "ins Gewicht fallen",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "wichtig sein; eine große Wirkung auf ein Ergebnis haben",
+    "beispiel": "Bei der Anerkennung fällt vor allem ins Gewicht, wie viele Jahre Berufserfahrung man an einer Schule nachweisen kann.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Kleine Messfehler fallen bei einer so großen Stichprobe kaum ins ___.",
+      "loesung": "Gewicht",
+      "optionen": [
+        "Ziel",
+        "Gewicht",
+        "Lot",
+        "Maß"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erzählen, dass Sie im Urlaub zugenommen haben.",
+        "Sie erklären, dass ein Faktor für eine Bewertung besonders wichtig ist.",
+        "Sie berichten, dass Ihnen ein Buch auf den Boden gefallen ist."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "oft mit „kaum“, „stark“ oder „besonders“: „Das fällt kaum ins Gewicht.“",
+    "bezug": true
+  },
+  {
+    "id": "r003",
+    "ausdruck": "auf der Hand liegen",
+    "typ": "idiom",
+    "funktion": "argumentieren",
+    "bedeutung": "ganz offensichtlich sein; jeder kann es sofort erkennen",
+    "beispiel": "Die Vorteile kleinerer Klassen liegen eigentlich auf der Hand.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Dass mehr Grünflächen das Stadtklima verbessern, liegt auf der ___.",
+      "loesung": "Hand",
+      "optionen": [
+        "Stirn",
+        "Seite",
+        "Zunge",
+        "Hand"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie sagen, dass eine Schlussfolgerung so offensichtlich ist, dass man sie kaum begründen muss.",
+        "Sie sagen, dass die Lösung eines Problems noch völlig unklar ist.",
+        "Sie erklären, dass Sie ein Dokument gerade in der Hand halten."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "häufig: „Es liegt auf der Hand, dass …“",
+    "bezug": true
+  },
+  {
+    "id": "r004",
+    "ausdruck": "etwas infrage stellen",
+    "typ": "idiom",
+    "funktion": "gegenargument",
+    "bedeutung": "an etwas zweifeln; sagen, dass etwas vielleicht nicht stimmt oder nicht sinnvoll ist",
+    "beispiel": "Neuere Studien stellen die Wirksamkeit vieler Diäten infrage.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Ergebnisse ___ die gängige Lehrmeinung grundsätzlich infrage.",
+      "loesung": "stellen",
+      "optionen": [
+        "legen",
+        "bringen",
+        "stellen",
+        "setzen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bestätigen eine bekannte These mit neuen Daten.",
+        "Sie äußern Zweifel daran, dass eine verbreitete Annahme stimmt.",
+        "Sie fragen eine Kommilitonin nach der Uhrzeit."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "auch: „in Frage stellen“. Nicht verwechseln mit „infrage kommen“ (= möglich sein).",
+    "bezug": false
+  },
+  {
+    "id": "r005",
+    "ausdruck": "den Ausschlag geben",
+    "typ": "idiom",
+    "funktion": "argumentieren",
+    "bedeutung": "am Ende entscheiden; der wichtigste Grund für eine Entscheidung sein",
+    "beispiel": "Den Ausschlag für den neuen Firmenstandort gab letztlich die gute Verkehrsanbindung.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Bei der Wahl der Methode gab die geringe Kostenbelastung schließlich den ___.",
+      "loesung": "Ausschlag",
+      "optionen": [
+        "Ausgang",
+        "Abschluss",
+        "Ausschlag",
+        "Anschlag"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, warum Sie eine Entscheidung noch verschieben.",
+        "Sie zeigen einer Ärztin einen Hautausschlag.",
+        "Sie erklären, welcher Grund am Ende für Ihre Entscheidung entscheidend war."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "oft: „den Ausschlag für etwas geben“; „Das gab den Ausschlag.“",
+    "bezug": false
+  },
+  {
+    "id": "r006",
+    "ausdruck": "etwas unter den Teppich kehren",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "ein Problem verheimlichen, damit niemand darüber spricht",
+    "beispiel": "Die Hochschulleitung darf die Vorwürfe nicht einfach unter den Teppich kehren.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Probleme beim Datenschutz sollte man nicht unter den ___ kehren.",
+      "loesung": "Teppich",
+      "optionen": [
+        "Teppich",
+        "Boden",
+        "Vorhang",
+        "Schrank"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Behörde verschweigt Fehler, damit es keinen Skandal gibt.",
+        "Ein Hausmeister reinigt den Flur eines Gebäudes.",
+        "Ein Ministerium veröffentlicht einen offenen Bericht über seine Fehler."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r007",
+    "ausdruck": "ins Hintertreffen geraten",
+    "typ": "idiom",
+    "funktion": "vergleichen",
+    "bedeutung": "im Vergleich zu anderen in eine schlechtere Lage kommen; zurückfallen",
+    "beispiel": "Schulen ohne digitale Ausstattung geraten gegenüber anderen Schulen schnell ins Hintertreffen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Ohne Investitionen in die Forschung könnte Europa im globalen Wettbewerb ins ___ geraten.",
+      "loesung": "Hintertreffen",
+      "optionen": [
+        "Nachsehen",
+        "Hinterland",
+        "Hintertreffen",
+        "Nachspiel"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Land verliert im Vergleich zu anderen Ländern technologisch den Anschluss.",
+        "Eine Studentin setzt sich im Hörsaal in die letzte Reihe.",
+        "Ein Land übernimmt die Führung bei den erneuerbaren Energien."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "ähnlich: „ins Abseits geraten“",
+    "bezug": true
+  },
+  {
+    "id": "r008",
+    "ausdruck": "an einem Strang ziehen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "gemeinsam für dasselbe Ziel arbeiten",
+    "beispiel": "Wenn Lehrkräfte und Eltern an einem Strang ziehen, profitieren vor allem die Kinder.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Beim Klimaschutz müssen Politik, Wirtschaft und Gesellschaft an einem ___ ziehen.",
+      "loesung": "Strang",
+      "optionen": [
+        "Strang",
+        "Faden",
+        "Strick",
+        "Seil"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Forscher arbeitet ganz allein an seiner Dissertation.",
+        "Zwei Parteien blockieren sich gegenseitig.",
+        "Mehrere Gruppen arbeiten trotz unterschiedlicher Interessen gemeinsam auf ein Ziel hin."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „am selben Strang ziehen“",
+    "bezug": true
+  },
+  {
+    "id": "r009",
+    "ausdruck": "etwas aus dem Boden stampfen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas sehr schnell neu schaffen, oft ohne lange Vorbereitung",
+    "beispiel": "Neue Studiengänge lassen sich nicht einfach aus dem Boden stampfen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "In wenigen Monaten wurden Hunderte Testzentren aus dem ___ gestampft.",
+      "loesung": "Boden",
+      "optionen": [
+        "Boden",
+        "Grund",
+        "Feld",
+        "Acker"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Projekt wird über zwanzig Jahre hinweg sorgfältig geplant.",
+        "Ein Landwirt bearbeitet sein Feld mit dem Traktor.",
+        "Eine Stadt baut innerhalb kurzer Zeit ein komplettes neues Wohnviertel."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r010",
+    "ausdruck": "etwas auf die lange Bank schieben",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "etwas Wichtiges immer wieder verschieben und nicht erledigen",
+    "beispiel": "Die Reform der Rentenversicherung wurde jahrelang auf die lange Bank geschoben.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Sanierung der Schulgebäude darf nicht länger auf die lange ___ geschoben werden.",
+      "loesung": "Bank",
+      "optionen": [
+        "Leiter",
+        "Liste",
+        "Leine",
+        "Bank"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Regierung verschiebt eine notwendige Entscheidung immer wieder.",
+        "Eine Studentin gibt ihre Hausarbeit eine Woche zu früh ab.",
+        "Ein Hausmeister stellt eine Bank in den Schulhof."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r011",
+    "ausdruck": "Hand in Hand gehen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "eng miteinander verbunden sein; gemeinsam auftreten",
+    "beispiel": "Bildungserfolg und soziale Herkunft gehen in Deutschland oft Hand in Hand.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Wirtschaftliches Wachstum und Umweltbelastung gehen häufig Hand in ___.",
+      "loesung": "Hand",
+      "optionen": [
+        "Herz",
+        "Hand",
+        "Fuß",
+        "Arm"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, dass zwei Faktoren nichts miteinander zu tun haben.",
+        "Sie erklären, dass zwei Entwicklungen meistens gemeinsam auftreten.",
+        "Sie füllen ein Formular von Hand aus."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r012",
+    "ausdruck": "im Vordergrund stehen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "am wichtigsten sein; die meiste Aufmerksamkeit bekommen",
+    "beispiel": "Bei der neuen Stadtplanung steht der Klimaschutz im Vordergrund.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Bei der Reform soll die Qualität der Lehre im ___ stehen.",
+      "loesung": "Vordergrund",
+      "optionen": [
+        "Vorfeld",
+        "Vorlauf",
+        "Vorgang",
+        "Vordergrund"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, welcher Aspekt in einem Projekt die höchste Priorität hat.",
+        "Sie erklären, dass ein Thema kaum eine Rolle spielt.",
+        "Sie warten in der Mensa in der Schlange."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "ähnlich: „im Mittelpunkt stehen“",
+    "bezug": false
+  },
+  {
+    "id": "r013",
+    "ausdruck": "in den Hintergrund treten",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "weniger wichtig werden; weniger Aufmerksamkeit bekommen",
+    "beispiel": "Durch die Debatte über künstliche Intelligenz sind andere Themen der Bildungspolitik in den Hintergrund getreten.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Während der Pandemie traten viele andere gesundheitliche Fragen in den ___.",
+      "loesung": "Hintergrund",
+      "optionen": [
+        "Rückstand",
+        "Hinterhalt",
+        "Hintergrund",
+        "Untergrund"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Thema wird zum wichtigsten Punkt der Tagesordnung.",
+        "Ein Student betritt den Hörsaal durch die hintere Tür.",
+        "Ein Thema bekommt plötzlich weniger Aufmerksamkeit, weil ein anderes wichtiger wird."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „in den Hintergrund rücken“; Gegenteil: „in den Vordergrund treten“",
+    "bezug": false
+  },
+  {
+    "id": "r014",
+    "ausdruck": "etwas ins Leben rufen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas gründen oder neu beginnen (z. B. ein Projekt, eine Organisation)",
+    "beispiel": "Unsere Schule hat ein Mentorenprogramm für zugewanderte Lehrkräfte ins Leben gerufen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Stiftung hat ein Stipendienprogramm für Studierende aus Krisenregionen ins ___ gerufen.",
+      "loesung": "Leben",
+      "optionen": [
+        "Spiel",
+        "Werk",
+        "Licht",
+        "Leben"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Universität schließt ein altes Institut.",
+        "Eine Ärztin ruft einen Patienten ins Behandlungszimmer.",
+        "Eine Universität gründet ein neues Forschungszentrum."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r015",
+    "ausdruck": "auf der Strecke bleiben",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "nicht berücksichtigt werden und verloren gehen; (bei Personen) scheitern",
+    "beispiel": "Bei zu viel Zeitdruck bleibt die Qualität der Forschung oft auf der Strecke.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Wenn nur noch die Kosten zählen, bleibt die Qualität der Pflege auf der ___.",
+      "loesung": "Strecke",
+      "optionen": [
+        "Spur",
+        "Strecke",
+        "Kippe",
+        "Straße"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären einer Freundin den Weg zur Bibliothek.",
+        "Bei einer Reform wird ein wichtiges Ziel vergessen, weil man sich nur auf anderes konzentriert.",
+        "Ein Projekt wird pünktlich und vollständig abgeschlossen."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r016",
+    "ausdruck": "den Nagel auf den Kopf treffen",
+    "typ": "idiom",
+    "funktion": "zustimmen",
+    "bedeutung": "genau das Richtige sagen; das Wesentliche genau erkennen",
+    "beispiel": "Mit Ihrer Bemerkung zum Lehrkräftemangel haben Sie den Nagel auf den Kopf getroffen.",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Mit dieser Analyse haben Sie den ___ auf den Kopf getroffen.",
+      "loesung": "Nagel",
+      "optionen": [
+        "Hammer",
+        "Ton",
+        "Punkt",
+        "Nagel"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie stimmen einer Diskussionspartnerin zu, weil sie das Kernproblem genau benannt hat.",
+        "Sie erklären, wie man ein Regal an der Wand befestigt.",
+        "Sie kritisieren, dass ein Beitrag am Thema vorbeigeht."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r017",
+    "ausdruck": "ein zweischneidiges Schwert sein",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "gleichzeitig Vorteile und Nachteile haben",
+    "beispiel": "Soziale Medien sind für Jugendliche ein zweischneidiges Schwert.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Digitalisierung der Verwaltung ist ein zweischneidiges ___: Sie spart Zeit, schafft aber neue Risiken.",
+      "loesung": "Schwert",
+      "optionen": [
+        "Messer",
+        "Schwert",
+        "Beil",
+        "Werkzeug"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, dass eine Maßnahme ausschließlich Vorteile hat.",
+        "Sie erklären, dass eine Entwicklung sowohl Chancen als auch Gefahren bringt.",
+        "Sie beschreiben ein Ausstellungsstück in einem historischen Museum."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r018",
+    "ausdruck": "die Spitze des Eisbergs sein",
+    "typ": "idiom",
+    "funktion": "argumentieren",
+    "bedeutung": "nur der kleine, sichtbare Teil eines viel größeren Problems sein",
+    "beispiel": "Die bekannt gewordenen Datenlecks sind vermutlich nur die Spitze des Eisbergs.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die bekannten Plagiatsfälle sind wahrscheinlich nur die ___ des Eisbergs.",
+      "loesung": "Spitze",
+      "optionen": [
+        "Höhe",
+        "Spitze",
+        "Kante",
+        "Krone"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, dass ein Problem vollständig gelöst ist.",
+        "Sie berichten über eine Forschungsreise in die Arktis.",
+        "Sie vermuten, dass ein bekanntes Problem in Wirklichkeit viel größer ist."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r019",
+    "ausdruck": "etwas in den Griff bekommen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "ein Problem unter Kontrolle bringen",
+    "beispiel": "Mit klaren Regeln hat die Stadt das Müllproblem im Park schnell in den Griff bekommen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Behörden konnten die Ausbreitung des Virus nur langsam in den ___ bekommen.",
+      "loesung": "Griff",
+      "optionen": [
+        "Fang",
+        "Griff",
+        "Halt",
+        "Zugriff"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Kind hält sich im Bus an einer Stange fest.",
+        "Eine Stadt schafft es, die Zahl der Verkehrsunfälle deutlich zu senken.",
+        "Ein Problem wird von Jahr zu Jahr schlimmer."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "auch: „etwas im Griff haben“ (= unter Kontrolle haben)",
+    "bezug": false
+  },
+  {
+    "id": "r020",
+    "ausdruck": "alle über einen Kamm scheren",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "alle gleich beurteilen, ohne die Unterschiede zu beachten",
+    "beispiel": "Man sollte nicht alle Politikerinnen und Politiker über einen Kamm scheren.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Nicht alle Online-Kurse sind schlecht – man darf sie nicht über einen ___ scheren.",
+      "loesung": "Kamm",
+      "optionen": [
+        "Leisten",
+        "Strich",
+        "Kamm",
+        "Kopf"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Jemand vergleicht differenziert die Stärken verschiedener Gruppen.",
+        "Jemand lässt sich beim Friseur die Haare schneiden.",
+        "Jemand behauptet, dass alle Studierenden einer Fachrichtung faul seien."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "ähnlich: „alles über einen Leisten schlagen“",
+    "bezug": false
+  },
+  {
+    "id": "r021",
+    "ausdruck": "etwas ins Auge fassen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas planen oder als Möglichkeit ernsthaft überlegen",
+    "beispiel": "Nach der Anerkennung fasse ich eine Stelle an einem Gymnasium in Düsseldorf ins Auge.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Regierung hat eine Reform des Rentensystems ins ___ gefasst.",
+      "loesung": "Auge",
+      "optionen": [
+        "Gesicht",
+        "Ohr",
+        "Herz",
+        "Auge"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie überlegen ernsthaft, nach dem Studium ins Ausland zu gehen.",
+        "Sie lassen beim Augenarzt Ihre Sehstärke messen.",
+        "Sie haben einen Plan endgültig aufgegeben."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r022",
+    "ausdruck": "aus der Reihe tanzen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "sich anders verhalten als die anderen; nicht den Regeln folgen",
+    "beispiel": "In der Umfrage tanzt eine Altersgruppe deutlich aus der Reihe.",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Bei der Abstimmung tanzte nur ein einziges Bundesland aus der ___.",
+      "loesung": "Reihe",
+      "optionen": [
+        "Zeile",
+        "Reihe",
+        "Linie",
+        "Rolle"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Wert in einer Statistik weicht deutlich von allen anderen ab.",
+        "Alle Teilnehmenden einer Studie verhalten sich gleich.",
+        "Sie besuchen einen Tanzkurs an der Volkshochschule."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "eher umgangssprachlich; im Text besser: „deutlich abweichen“",
+    "bezug": false
+  },
+  {
+    "id": "r023",
+    "ausdruck": "mit etwas Schritt halten",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "genauso schnell sein wie eine Entwicklung; nicht zurückbleiben",
+    "beispiel": "Die Gesetzgebung kann mit der rasanten Entwicklung der künstlichen Intelligenz kaum Schritt halten.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Viele ältere Menschen können mit dem digitalen Wandel nicht mehr Schritt ___.",
+      "loesung": "halten",
+      "optionen": [
+        "halten",
+        "fassen",
+        "machen",
+        "gehen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Firma ignoriert alle technischen Neuerungen.",
+        "Eine Firma passt sich schnell genug an neue Technologien an.",
+        "Sie gehen langsam mit einer älteren Nachbarin spazieren."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r024",
+    "ausdruck": "jemandem am Herzen liegen",
+    "typ": "idiom",
+    "funktion": "meinung",
+    "bedeutung": "für jemanden sehr wichtig sein, sodass er sich dafür einsetzt",
+    "beispiel": "Gerechte Bildungschancen für alle Kinder liegen mir besonders am Herzen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Der Schutz der Artenvielfalt liegt vielen jungen Menschen am ___.",
+      "loesung": "Herzen",
+      "optionen": [
+        "Herzen",
+        "Kopf",
+        "Herz",
+        "Sinn"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären in einer Vorstellungsrunde, welches Thema Ihnen persönlich sehr wichtig ist.",
+        "Sie beschreiben die Lage des Herzens im menschlichen Körper.",
+        "Sie erklären, dass Ihnen ein Thema völlig gleichgültig ist."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Dativ: „am Herzen“ (nicht: *am Herz*)",
+    "bezug": true
+  },
+  {
+    "id": "r025",
+    "ausdruck": "etwas auf den Kopf stellen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas völlig verändern; das Bisherige grundlegend umkehren",
+    "beispiel": "Die Entdeckung der Genschere CRISPR hat die Gentechnik auf den Kopf gestellt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Das Internet hat die Arbeitsweise von Zeitungen völlig auf den ___ gestellt.",
+      "loesung": "Kopf",
+      "optionen": [
+        "Grund",
+        "Fuß",
+        "Kopf",
+        "Rücken"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Branche bleibt jahrzehntelang unverändert.",
+        "Eine Erfindung verändert eine ganze Branche grundlegend.",
+        "Ein Student hängt ein Bild gerade an die Wand."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r026",
+    "ausdruck": "mit zweierlei Maß messen",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "in gleichen Situationen unterschiedliche Regeln anwenden und dadurch ungerecht urteilen",
+    "beispiel": "Wer ausländische Abschlüsse strenger prüft als inländische, misst mit zweierlei Maß.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Kommission wurde kritisiert, weil sie mit zweierlei ___ messe.",
+      "loesung": "Maß",
+      "optionen": [
+        "Mitteln",
+        "Maß",
+        "Gewicht",
+        "Waage"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Lehrer bestraft bei demselben Fehler einige Schüler, andere aber nicht.",
+        "Eine Biologin misst die Länge von Blättern mit zwei Linealen.",
+        "Eine Prüfungskommission bewertet alle Arbeiten nach denselben Kriterien."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r027",
+    "ausdruck": "etwas in die Wege leiten",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas organisieren und damit beginnen",
+    "beispiel": "Die Bezirksregierung hat das Anerkennungsverfahren inzwischen in die Wege geleitet.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Universität hat erste Schritte zur Senkung des Energieverbrauchs in die ___ geleitet.",
+      "loesung": "Wege",
+      "optionen": [
+        "Richtung",
+        "Wege",
+        "Pfade",
+        "Bahnen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Behörde beginnt offiziell mit der Planung eines neuen Projekts.",
+        "Ein Polizist regelt den Verkehr an einer Kreuzung.",
+        "Eine Behörde stoppt ein Projekt endgültig."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r028",
+    "ausdruck": "sich wie ein roter Faden durch etwas ziehen",
+    "typ": "idiom",
+    "funktion": "strukturieren",
+    "bedeutung": "in einem Text oder Werk immer wieder vorkommen; das verbindende Thema sein",
+    "beispiel": "Das Thema soziale Gerechtigkeit zieht sich wie ein roter Faden durch das Wahlprogramm.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Das Motiv der Heimat zieht sich wie ein roter ___ durch das gesamte Buch.",
+      "loesung": "Faden",
+      "optionen": [
+        "Faden",
+        "Strich",
+        "Draht",
+        "Pfad"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nähen einen Knopf an Ihre Jacke.",
+        "Sie erklären, dass ein Thema nur in einem Kapitel kurz erwähnt wird.",
+        "Sie erklären, dass ein Motiv in allen Kapiteln einer Arbeit wiederkehrt."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „der rote Faden“ (= die erkennbare Struktur eines Textes)",
+    "bezug": false
+  },
+  {
+    "id": "r029",
+    "ausdruck": "auf fruchtbaren Boden fallen",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "(Ideen, Vorschläge) gut aufgenommen werden und Wirkung zeigen",
+    "beispiel": "Der Vorschlag, die Innenstadt autofrei zu machen, fiel bei den Anwohnern auf fruchtbaren Boden.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Kampagne gegen Lebensmittelverschwendung fiel bei der Bevölkerung auf fruchtbaren ___.",
+      "loesung": "Boden",
+      "optionen": [
+        "Sand",
+        "Rasen",
+        "Boden",
+        "Acker"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Bäuerin erklärt, welche Erde für Kartoffeln geeignet ist.",
+        "Ein Vorschlag wird von allen abgelehnt.",
+        "Eine Idee wird von den Zuhörenden begeistert aufgenommen und umgesetzt."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r030",
+    "ausdruck": "ins Stocken geraten",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "langsamer werden oder vorübergehend nicht mehr vorankommen",
+    "beispiel": "Wegen fehlender Unterlagen ist mein Anerkennungsverfahren ins Stocken geraten.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Verhandlungen über das Klimaabkommen sind erneut ins ___ geraten.",
+      "loesung": "Stocken",
+      "optionen": [
+        "Stillstand",
+        "Stocken",
+        "Stehen",
+        "Halt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie kaufen im Baumarkt Holzstöcke für den Garten.",
+        "Ein Bauprojekt kommt wegen fehlender Materialien kaum noch voran.",
+        "Ein Bauprojekt wird schneller als geplant fertig."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "ähnlich: „zum Stillstand kommen“ (= ganz aufhören)",
+    "bezug": true
+  },
+  {
+    "id": "r031",
+    "ausdruck": "etwas aufs Spiel setzen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas riskieren; in Gefahr bringen, es zu verlieren",
+    "beispiel": "Wer bei der Hausarbeit abschreibt, setzt seinen Studienplatz aufs Spiel.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Mit dieser Entscheidung setzt die Regierung das Vertrauen der Bürger aufs ___.",
+      "loesung": "Spiel",
+      "optionen": [
+        "Risiko",
+        "Spiel",
+        "Los",
+        "Spielfeld"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Kinder bauen in der Pause ein Brettspiel auf.",
+        "Ein Unternehmen riskiert seinen guten Ruf, um kurzfristig Geld zu sparen.",
+        "Ein Unternehmen geht bewusst kein Risiko ein."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r032",
+    "ausdruck": "jemandem den Rücken stärken",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "jemanden unterstützen, besonders in einer schwierigen Situation",
+    "beispiel": "Die Schulleitung hat mir in dem Konflikt mit den Eltern den Rücken gestärkt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Ministerin stärkte den Lehrkräften in der Debatte den ___.",
+      "loesung": "Rücken",
+      "optionen": [
+        "Rücken",
+        "Nacken",
+        "Kopf",
+        "Arm"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Vorgesetzte kritisiert eine Mitarbeiterin vor dem ganzen Team.",
+        "Eine Studentin trägt einen schweren Rucksack zur Uni.",
+        "Eine Vorgesetzte unterstützt öffentlich eine Mitarbeiterin, die kritisiert wird."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r033",
+    "ausdruck": "Fuß fassen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "sich an einem neuen Ort oder in einem neuen Bereich einleben und dort etablieren",
+    "beispiel": "Nach zwei Jahren in Bochum habe ich beruflich und privat gut Fuß gefasst.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Vielen internationalen Fachkräften fällt es schwer, auf dem deutschen Arbeitsmarkt ___ zu fassen.",
+      "loesung": "Fuß",
+      "optionen": [
+        "Boden",
+        "Halt",
+        "Fuß",
+        "Platz"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Ärztin verlässt Deutschland nach drei Monaten wieder.",
+        "Eine zugewanderte Ärztin hat nach einiger Zeit eine feste Stelle und einen Freundeskreis gefunden.",
+        "Ein Kleinkind macht seine ersten Schritte."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r034",
+    "ausdruck": "etwas unter die Lupe nehmen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas genau prüfen oder untersuchen",
+    "beispiel": "Die Forschenden nahmen die Ernährungsgewohnheiten von Studierenden unter die Lupe.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Der Rechnungshof hat die Ausgaben des Ministeriums genau unter die ___ genommen.",
+      "loesung": "Lupe",
+      "optionen": [
+        "Lupe",
+        "Lampe",
+        "Linse",
+        "Brille"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Kommission ignoriert offensichtliche Fehler in einem Bericht.",
+        "Eine Kommission prüft die Finanzen einer Organisation sehr gründlich.",
+        "Sie kaufen eine neue Lesebrille beim Optiker."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r035",
+    "ausdruck": "im Raum stehen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "(eine Frage, ein Vorwurf) existiert und ist noch nicht geklärt",
+    "beispiel": "Nach dem Vortrag stand die Frage im Raum, wer die Kosten tragen soll.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Der Vorwurf der Datenmanipulation steht weiterhin im ___.",
+      "loesung": "Raum",
+      "optionen": [
+        "Zimmer",
+        "Saal",
+        "Rahmen",
+        "Raum"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie suchen einen freien Seminarraum für Ihre Lerngruppe.",
+        "Am Ende wurden alle Fragen vollständig beantwortet.",
+        "Nach einer Diskussion bleibt eine wichtige Frage ungeklärt."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „etwas im Raum stehen lassen“ (= nicht darauf antworten)",
+    "bezug": false
+  },
+  {
+    "id": "r036",
+    "ausdruck": "den Rahmen sprengen",
+    "typ": "idiom",
+    "funktion": "strukturieren",
+    "bedeutung": "zu umfangreich für eine Situation oder einen Text sein",
+    "beispiel": "Eine ausführliche Darstellung aller Ursachen würde den Rahmen dieses Vortrags sprengen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Eine genaue Analyse aller Daten würde den ___ dieser Arbeit sprengen.",
+      "loesung": "Rahmen",
+      "optionen": [
+        "Raum",
+        "Plan",
+        "Bogen",
+        "Rahmen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie kündigen an, ein Thema besonders ausführlich zu behandeln.",
+        "In einer Präsentation erklären Sie, warum Sie ein Detail nicht ausführlich behandeln.",
+        "Sie beschreiben eine Explosion in einem Steinbruch."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r037",
+    "ausdruck": "ins Kreuzfeuer der Kritik geraten",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "von vielen Seiten gleichzeitig stark kritisiert werden",
+    "beispiel": "Der Verkehrsminister geriet wegen der vielen Zugausfälle ins Kreuzfeuer der Kritik.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Der Konzern ist wegen seiner Umweltbilanz ins Kreuzfeuer der Kritik ___.",
+      "loesung": "geraten",
+      "optionen": [
+        "gefallen",
+        "geraten",
+        "gegangen",
+        "getreten"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Politikerin wird für ihre Entscheidung von allen Seiten gelobt.",
+        "Ein Reporter berichtet über eine Übung der Feuerwehr.",
+        "Eine Politikerin wird nach einer Entscheidung von Medien, Opposition und Verbänden angegriffen."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "ähnlich: „in die Kritik geraten“, „unter Beschuss geraten“",
+    "bezug": false
+  },
+  {
+    "id": "r038",
+    "ausdruck": "etwas in den Schatten stellen",
+    "typ": "idiom",
+    "funktion": "vergleichen",
+    "bedeutung": "viel besser, größer oder bedeutender sein als etwas anderes",
+    "beispiel": "Die neuen Ergebnisse stellen alle bisherigen Messungen in den Schatten.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Das Wachstum der Solarenergie stellt alle Prognosen der letzten Jahre in den ___.",
+      "loesung": "Schatten",
+      "optionen": [
+        "Nebel",
+        "Dunkel",
+        "Abseits",
+        "Schatten"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein neuer Rekord übertrifft alle früheren Leistungen deutlich.",
+        "Sie stellen Ihr Fahrrad im Sommer unter einen Baum.",
+        "Ein neues Ergebnis ist schlechter als alle bisherigen."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r039",
+    "ausdruck": "etwas auf Eis legen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas vorläufig stoppen und nicht weiterführen",
+    "beispiel": "Wegen fehlender Gelder wurde das Austauschprogramm mit den Philippinen vorerst auf Eis gelegt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Das Bauprojekt wurde nach den Protesten vorerst auf ___ gelegt.",
+      "loesung": "Eis",
+      "optionen": [
+        "Lager",
+        "Eis",
+        "Kälte",
+        "Halde"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie kühlen Getränke für eine Party.",
+        "Eine Universität stoppt ein Forschungsprojekt, bis neue Gelder kommen.",
+        "Eine Universität startet ein Projekt sofort mit voller Kraft."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r040",
+    "ausdruck": "auf tönernen Füßen stehen",
+    "typ": "idiom",
+    "funktion": "bewerten",
+    "bedeutung": "keine sichere Grundlage haben; leicht zusammenbrechen können",
+    "beispiel": "Die Argumentation steht auf tönernen Füßen, weil nur zwölf Personen befragt wurden.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Finanzierung des Projekts steht auf tönernen ___.",
+      "loesung": "Füßen",
+      "optionen": [
+        "Stelzen",
+        "Sohlen",
+        "Säulen",
+        "Füßen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie kaufen im Museumsshop eine Figur aus Ton.",
+        "Ein Konzept beruht auf unsicheren Annahmen und kann leicht scheitern.",
+        "Ein Konzept ist durch viele Studien gut abgesichert."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "ähnlich, etwas weniger formell: „auf wackligen Beinen stehen“",
+    "bezug": false
+  },
+  {
+    "id": "r041",
+    "ausdruck": "die Weichen stellen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "wichtige Entscheidungen für die zukünftige Entwicklung treffen",
+    "beispiel": "Mit der Wahl der Leistungskurse stellen Schülerinnen und Schüler früh die Weichen für ihr Studium.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Mit dem neuen Gesetz hat die Regierung die ___ für den Ausbau der Windenergie gestellt.",
+      "loesung": "Weichen",
+      "optionen": [
+        "Weichen",
+        "Schienen",
+        "Gleise",
+        "Signale"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Regierung trifft heute Entscheidungen, die die Entwicklung der nächsten Jahrzehnte bestimmen.",
+        "Ein Bahnmitarbeiter repariert ein beschädigtes Gleis.",
+        "Eine Regierung wartet ab und entscheidet nichts."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "oft: „die Weichen für etwas stellen“",
+    "bezug": true
+  },
+  {
+    "id": "r042",
+    "ausdruck": "Licht ins Dunkel bringen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "eine unklare Sache aufklären",
+    "beispiel": "Die neue Studie bringt Licht ins Dunkel der Frage, warum so viele Bienenvölker sterben.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Untersuchungskommission soll endlich Licht ins ___ bringen.",
+      "loesung": "Dunkel",
+      "optionen": [
+        "Schwarze",
+        "Blaue",
+        "Leere",
+        "Dunkel"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Journalist deckt die Hintergründe eines rätselhaften Skandals auf.",
+        "Ein Journalist verbreitet Gerüchte, die alles noch unklarer machen.",
+        "Sie schalten abends die Lampe im Arbeitszimmer an."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r043",
+    "ausdruck": "zwischen den Zeilen lesen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas verstehen, was nicht direkt gesagt oder geschrieben wird",
+    "beispiel": "In Arbeitszeugnissen muss man oft zwischen den Zeilen lesen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Bei diplomatischen Erklärungen muss man oft zwischen den ___ lesen.",
+      "loesung": "Zeilen",
+      "optionen": [
+        "Linien",
+        "Seiten",
+        "Zeilen",
+        "Worten"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie lesen einen Text laut und Wort für Wort vor.",
+        "Sie erkennen in einem höflichen Brief eine versteckte Kritik.",
+        "Sie kontrollieren den Zeilenabstand Ihrer Hausarbeit."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r044",
+    "ausdruck": "etwas aus den Augen verlieren",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas nicht mehr beachten; ein Ziel vergessen",
+    "beispiel": "Bei aller Prüfungsvorbereitung sollte man die eigene Gesundheit nicht aus den Augen verlieren.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Bei der Debatte über Kosten darf man das eigentliche Ziel nicht aus den ___ verlieren.",
+      "loesung": "Augen",
+      "optionen": [
+        "Händen",
+        "Augen",
+        "Sinnen",
+        "Fingern"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Team verfolgt sein Hauptziel konsequent.",
+        "Sie lassen beim Augenarzt einen Sehtest machen.",
+        "Ein Team konzentriert sich so sehr auf Details, dass es das Hauptziel vergisst."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r045",
+    "ausdruck": "den Kürzeren ziehen",
+    "typ": "idiom",
+    "funktion": "vergleichen",
+    "bedeutung": "in einem Vergleich oder Konflikt verlieren; benachteiligt werden",
+    "beispiel": "Bei der Wohnungssuche ziehen Menschen mit ausländischem Namen oft den Kürzeren.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Im Wettbewerb um Fachkräfte ziehen ländliche Regionen häufig den ___.",
+      "loesung": "Kürzeren",
+      "optionen": [
+        "Kürzesten",
+        "Schwächeren",
+        "Kürzeren",
+        "Kleineren"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie kürzen Ihren Aufsatz auf die vorgeschriebene Länge.",
+        "Bei der Verteilung von Geldern bekommt eine Gruppe weniger als alle anderen.",
+        "Eine Gruppe setzt sich in den Verhandlungen klar durch."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r046",
+    "ausdruck": "etwas auf die Beine stellen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas (mit Mühe) organisieren und erfolgreich durchführen",
+    "beispiel": "Die Biologie-AG hat einen Projekttag zum Thema Artenschutz auf die Beine gestellt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Studierenden haben in kurzer Zeit eine große Konferenz auf die ___ gestellt.",
+      "loesung": "Beine",
+      "optionen": [
+        "Arme",
+        "Räder",
+        "Hände",
+        "Beine"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein geplantes Fest wird kurzfristig abgesagt.",
+        "Freiwillige organisieren ein großes Benefizkonzert.",
+        "Sie stellen nach dem Unterricht die Stühle auf die Tische."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r047",
+    "ausdruck": "auf dem Schlauch stehen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "etwas gerade nicht verstehen, obwohl es eigentlich einfach ist",
+    "beispiel": "Ich stehe gerade auf dem Schlauch – was meinst du mit „Kohorte“?",
+    "register": "muendlich",
+    "pruefung": "vermeiden",
+    "luecke": {
+      "satz": "Ich stehe heute total auf dem ___ und verstehe die Aufgabe nicht.",
+      "loesung": "Schlauch",
+      "optionen": [
+        "Kabel",
+        "Seil",
+        "Draht",
+        "Schlauch"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie verstehen im Gespräch mit einer Freundin einen einfachen Witz nicht sofort.",
+        "Sie gießen im Garten die Blumen.",
+        "Sie erklären einer Prüfungskommission eine komplexe Theorie."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "umgangssprachlich; in der Prüfung besser: „Das habe ich leider nicht ganz verstanden.“",
+    "bezug": false
+  },
+  {
+    "id": "r048",
+    "ausdruck": "die Nase voll haben",
+    "typ": "idiom",
+    "funktion": "meinung",
+    "bedeutung": "von etwas genug haben; genervt sein",
+    "beispiel": "Viele Pendler haben die Nase voll von den ständigen Zugverspätungen.",
+    "register": "muendlich",
+    "pruefung": "vermeiden",
+    "luecke": {
+      "satz": "Ich habe die ___ voll von diesen ständigen Verspätungen.",
+      "loesung": "Nase",
+      "optionen": [
+        "Hand",
+        "Tasche",
+        "Ohren",
+        "Nase"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschweren sich bei Freunden darüber, dass Sie etwas schon lange nervt.",
+        "Sie formulieren in einem Essay eine sachliche Kritik.",
+        "Sie bedanken sich höflich bei einer Professorin."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "umgangssprachlich; in der Prüfung: „Viele sind mit … sehr unzufrieden.“",
+    "bezug": false
+  },
+  {
+    "id": "r049",
+    "ausdruck": "jemandem auf den Keks gehen",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "jemanden nerven oder stören",
+    "beispiel": "Die ständigen Push-Nachrichten gehen mir echt auf den Keks.",
+    "register": "muendlich",
+    "pruefung": "vermeiden",
+    "luecke": {
+      "satz": "Diese ewigen Diskussionen gehen mir langsam auf den ___.",
+      "loesung": "Keks",
+      "optionen": [
+        "Kopf",
+        "Kuchen",
+        "Teller",
+        "Keks"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie backen für das Schulfest Plätzchen.",
+        "Sie erzählen einer Freundin, dass ein Mitbewohner Sie mit lauter Musik nervt.",
+        "Sie beschreiben in einer Präsentation die Ergebnisse einer Umfrage."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "umgangssprachlich; neutraler: „jemandem auf die Nerven gehen“",
+    "bezug": false
+  },
+  {
+    "id": "r050",
+    "ausdruck": "Schwein haben",
+    "typ": "idiom",
+    "funktion": "allgemein",
+    "bedeutung": "Glück haben",
+    "beispiel": "Da hast du aber Schwein gehabt, dass die Klausur verschoben wurde!",
+    "register": "muendlich",
+    "pruefung": "vermeiden",
+    "luecke": {
+      "satz": "Wir hatten echt ___: Der Zug kam trotz Streik pünktlich.",
+      "loesung": "Schwein",
+      "optionen": [
+        "Kuh",
+        "Esel",
+        "Schwein",
+        "Hund"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erzählen Freunden, dass Sie zufällig die letzte freie Wohnung bekommen haben.",
+        "Sie besuchen mit einer Schulklasse einen Bauernhof.",
+        "Sie begründen in einem Bewerbungsschreiben Ihre Qualifikationen."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "umgangssprachlich; in der Prüfung: „Glück haben“",
+    "bezug": false
+  },
+  {
+    "id": "r051",
+    "ausdruck": "etwas in Betracht ziehen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "über etwas als Möglichkeit nachdenken; etwas berücksichtigen",
+    "beispiel": "Ich ziehe in Betracht, nach der Anerkennung zusätzlich Chemie als zweites Fach zu studieren.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Kommission hat auch alternative Standorte für das neue Labor in ___ gezogen.",
+      "loesung": "Betracht",
+      "optionen": [
+        "Sicht",
+        "Rechnung",
+        "Betracht",
+        "Aussicht"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie ziehen in eine neue Wohnung.",
+        "Sie überlegen, ob eine andere Lösung vielleicht besser wäre.",
+        "Sie lehnen eine Möglichkeit sofort und ohne Prüfung ab."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "Synonym: „in Erwägung ziehen“; Gegenteil: „außer Betracht lassen“",
+    "bezug": true
+  },
+  {
+    "id": "r052",
+    "ausdruck": "etwas zur Verfügung stellen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "jemandem etwas geben, damit er es benutzen kann",
+    "beispiel": "Die Universität stellt allen Erstsemestern kostenlos eine Software-Lizenz zur Verfügung.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Das Land ___ den Hochschulen zusätzliche Mittel für die Digitalisierung zur Verfügung.",
+      "loesung": "stellt",
+      "optionen": [
+        "legt",
+        "stellt",
+        "gibt",
+        "bringt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Bibliothek schließt wegen Renovierung.",
+        "Eine Bibliothek verkauft alte Bücher auf einem Flohmarkt.",
+        "Eine Bibliothek leiht Studierenden kostenlos Laptops aus."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "passivisch: „zur Verfügung stehen“ (= vorhanden sein, nutzbar sein)",
+    "bezug": false
+  },
+  {
+    "id": "r053",
+    "ausdruck": "Einfluss nehmen auf + A",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "versuchen, etwas oder jemanden zu beeinflussen",
+    "beispiel": "Bürgerinitiativen können über öffentliche Anhörungen Einfluss auf die Stadtplanung nehmen.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Lobbygruppen versuchen, auf die Gesetzgebung Einfluss zu ___.",
+      "loesung": "nehmen",
+      "optionen": [
+        "treffen",
+        "geben",
+        "nehmen",
+        "machen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Fluss mündet in einen See.",
+        "Ein Verband hält sich bewusst aus einer Debatte heraus.",
+        "Ein Verband versucht, eine politische Entscheidung in seinem Sinne zu lenken."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „Einfluss ausüben auf“; nicht: *Einfluss machen*",
+    "bezug": false
+  },
+  {
+    "id": "r054",
+    "ausdruck": "in Kraft treten",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "(ein Gesetz, eine Regel) ab einem bestimmten Zeitpunkt gültig werden",
+    "beispiel": "Das Anerkennungsgesetz des Bundes ist im Jahr 2012 in Kraft getreten.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die neue Prüfungsordnung tritt zum Wintersemester in ___.",
+      "loesung": "Kraft",
+      "optionen": [
+        "Gang",
+        "Betrieb",
+        "Kraft",
+        "Stärke"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Sportler beginnt mit dem Krafttraining.",
+        "Ein neues Gesetz gilt ab dem 1. Januar.",
+        "Ein Gesetzentwurf wird im Parlament abgelehnt."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "Gegenteil: „außer Kraft treten“; transitiv: „etwas in Kraft setzen“",
+    "bezug": true
+  },
+  {
+    "id": "r055",
+    "ausdruck": "Kritik üben an + D",
+    "typ": "feste_wendung",
+    "funktion": "bewerten",
+    "bedeutung": "etwas oder jemanden kritisieren (formell)",
+    "beispiel": "Mehrere Umweltverbände üben scharfe Kritik an dem neuen Straßenbauprojekt.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die Opposition ___ scharfe Kritik an der Haushaltsplanung.",
+      "loesung": "übte",
+      "optionen": [
+        "machte",
+        "stellte",
+        "übte",
+        "führte"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Wissenschaftler lobt eine Studie ausdrücklich.",
+        "Ein Wissenschaftler bemängelt öffentlich die Methoden einer Studie.",
+        "Ein Wissenschaftler übt zu Hause Klavier."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "nicht: *Kritik machen*; auch: „Kritik äußern an“",
+    "bezug": false
+  },
+  {
+    "id": "r056",
+    "ausdruck": "etwas zum Ausdruck bringen",
+    "typ": "feste_wendung",
+    "funktion": "meinung",
+    "bedeutung": "etwas zeigen oder deutlich sagen (z. B. Gefühle, Meinungen)",
+    "beispiel": "In ihrem offenen Brief brachten die Forschenden ihre Sorge über die Kürzungen zum Ausdruck.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "In seiner Rede brachte der Bürgermeister seine Dankbarkeit gegenüber den Helfern zum ___.",
+      "loesung": "Ausdruck",
+      "optionen": [
+        "Abschluss",
+        "Ausdruck",
+        "Einsatz",
+        "Stillstand"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie verschweigen Ihre Meinung, um keinen Streit zu provozieren.",
+        "Sie zeigen in einer Rede deutlich, dass Sie mit einer Entscheidung unzufrieden sind.",
+        "Sie drucken Ihre Hausarbeit im Copyshop aus."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "passivisch: „etwas kommt zum Ausdruck“",
+    "bezug": false
+  },
+  {
+    "id": "r057",
+    "ausdruck": "eine Rolle spielen",
+    "typ": "feste_wendung",
+    "funktion": "argumentieren",
+    "bedeutung": "wichtig sein; Einfluss auf etwas haben",
+    "beispiel": "Bei der Berufswahl spielt die Herkunft der Eltern immer noch eine große Rolle.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Bei der Entstehung von Diabetes spielt die Ernährung eine wichtige ___.",
+      "loesung": "Rolle",
+      "optionen": [
+        "Funktion",
+        "Bedeutung",
+        "Stelle",
+        "Rolle"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, dass ein Faktor das Ergebnis stark beeinflusst.",
+        "Sie erklären, dass ein Faktor völlig unwichtig ist.",
+        "Sie erzählen, dass Sie gern Brettspiele spielen."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Verneinung: „keine Rolle spielen“; nicht: *eine Bedeutung spielen* (sondern: „eine Bedeutung haben“)",
+    "bezug": false
+  },
+  {
+    "id": "r058",
+    "ausdruck": "Rücksicht nehmen auf + A",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "an die Bedürfnisse anderer denken und sich danach richten",
+    "beispiel": "Im Unterricht nehme ich Rücksicht auf Schülerinnen und Schüler, die noch nicht gut Deutsch sprechen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Bei der Planung der Prüfungstermine sollte man auf religiöse Feiertage Rücksicht ___.",
+      "loesung": "nehmen",
+      "optionen": [
+        "halten",
+        "nehmen",
+        "geben",
+        "tragen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie schauen beim Autofahren in den Rückspiegel.",
+        "Sie verschieben ein Treffen, weil eine Kommilitonin an diesem Tag ihr Kind betreuen muss.",
+        "Sie legen einen Termin fest, ohne die anderen zu fragen."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r059",
+    "ausdruck": "Stellung nehmen zu + D",
+    "typ": "feste_wendung",
+    "funktion": "meinung",
+    "bedeutung": "seine Meinung zu einem Thema offiziell und begründet sagen",
+    "beispiel": "In Ihrem Text sollen Sie Stellung zu der Frage nehmen, ob ein Tempolimit sinnvoll ist.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Ministerin wollte zu den Vorwürfen zunächst nicht ___ nehmen.",
+      "loesung": "Stellung",
+      "optionen": [
+        "Standpunkt",
+        "Stellung",
+        "Meinung",
+        "Haltung"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "In einem Leserbrief äußern Sie Ihre Meinung zu einem umstrittenen Gesetz.",
+        "Sie leiten eine Frage ohne Kommentar an eine Kollegin weiter.",
+        "Sie bewerben sich auf eine Stelle als Praktikantin."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Nomen: „die Stellungnahme“; ähnlich: „Position beziehen“",
+    "bezug": false
+  },
+  {
+    "id": "r060",
+    "ausdruck": "eine Entscheidung treffen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "sich für eine Möglichkeit entscheiden",
+    "beispiel": "Nach langem Überlegen habe ich die Entscheidung getroffen, in Deutschland als Lehrerin zu arbeiten.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Kommission wird erst im Herbst eine endgültige Entscheidung ___.",
+      "loesung": "treffen",
+      "optionen": [
+        "geben",
+        "nehmen",
+        "machen",
+        "treffen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie treffen sich mit Freunden im Café.",
+        "Sie wählen nach reiflicher Überlegung einen von zwei Studienorten.",
+        "Sie können sich zwischen zwei Studienorten noch nicht entscheiden."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "nicht: *eine Entscheidung machen*",
+    "bezug": true
+  },
+  {
+    "id": "r061",
+    "ausdruck": "Maßnahmen ergreifen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "aktiv etwas tun, um ein Problem zu lösen",
+    "beispiel": "Die Stadt hat Maßnahmen ergriffen, um die Luftqualität zu verbessern.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die Regierung muss dringend wirksame Maßnahmen gegen den Fachkräftemangel ___.",
+      "loesung": "ergreifen",
+      "optionen": [
+        "nehmen",
+        "greifen",
+        "fassen",
+        "ergreifen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Schule führt neue Regeln ein, um Mobbing zu verhindern.",
+        "Eine Schule ignoriert Beschwerden über Mobbing.",
+        "Ein Schneider nimmt für einen Anzug Maß."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Maßnahmen treffen“; nicht: *Maßnahmen machen*",
+    "bezug": false
+  },
+  {
+    "id": "r062",
+    "ausdruck": "etwas in Anspruch nehmen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "etwas nutzen (z. B. eine Hilfe, ein Angebot); auch: Zeit brauchen",
+    "beispiel": "Viele Zugewanderte nehmen die kostenlose Anerkennungsberatung in Anspruch.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Auswertung der Daten wird mehrere Wochen in ___ nehmen.",
+      "loesung": "Anspruch",
+      "optionen": [
+        "Kauf",
+        "Empfang",
+        "Angriff",
+        "Anspruch"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Studentin lehnt jede Unterstützung ab.",
+        "Eine Studentin beschwert sich über den Lärm im Wohnheim.",
+        "Eine Studentin nutzt die psychologische Beratung der Universität."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "nicht verwechseln mit „in Kauf nehmen“ und „in Angriff nehmen“",
+    "bezug": true
+  },
+  {
+    "id": "r063",
+    "ausdruck": "etwas zur Diskussion stellen",
+    "typ": "feste_wendung",
+    "funktion": "einleiten",
+    "bedeutung": "ein Thema oder einen Vorschlag vorstellen, damit andere darüber diskutieren",
+    "beispiel": "Am Ende meiner Präsentation möchte ich zwei Thesen zur Diskussion stellen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Dozentin stellte ihre Hypothese am Ende des Seminars zur ___.",
+      "loesung": "Diskussion",
+      "optionen": [
+        "Diskussion",
+        "Rede",
+        "Sprache",
+        "Frage"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie stellen Stühle für eine Veranstaltung auf.",
+        "Sie verkünden eine Entscheidung, die nicht mehr geändert werden kann.",
+        "Sie präsentieren einen Vorschlag und bitten die Gruppe um ihre Meinung."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „zur Debatte stellen“; passivisch: „zur Diskussion stehen“",
+    "bezug": false
+  },
+  {
+    "id": "r064",
+    "ausdruck": "etwas zur Sprache bringen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "ein Thema in einem Gespräch ansprechen",
+    "beispiel": "Auf der Betriebsversammlung brachte eine Mitarbeiterin das Thema Überstunden zur Sprache.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "In der Sitzung brachte ein Student die hohen Mieten in der Nähe der Uni zur ___.",
+      "loesung": "Sprache",
+      "optionen": [
+        "Wort",
+        "Sprache",
+        "Rede",
+        "Ausdruck"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "In einer Teamsitzung sprechen Sie ein Problem an, über das bisher niemand geredet hat.",
+        "Sie vermeiden in der Sitzung bewusst ein heikles Thema.",
+        "Sie melden sich für einen Sprachkurs an."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "passivisch: „zur Sprache kommen“",
+    "bezug": false
+  },
+  {
+    "id": "r065",
+    "ausdruck": "Bezug nehmen auf + A",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "sich auf etwas beziehen; etwas erwähnen und daran anknüpfen",
+    "beispiel": "In meinem Antrag nehme ich Bezug auf das Schreiben der Bezirksregierung vom 3. März.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Bitte nehmen Sie in Ihrer Antwort ___ auf die Grafik.",
+      "loesung": "Bezug",
+      "optionen": [
+        "Verbindung",
+        "Bezug",
+        "Rücksicht",
+        "Beziehung"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beziehen sich in einer formellen E-Mail auf ein früheres Schreiben.",
+        "Sie schicken einer Freundin ein lustiges Foto.",
+        "Sie beziehen ein neues Zimmer im Wohnheim."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "typisch für formelle Briefe: „Ich nehme Bezug auf Ihr Schreiben vom …“",
+    "bezug": true
+  },
+  {
+    "id": "r066",
+    "ausdruck": "einen Beitrag leisten zu + D",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "bei etwas mithelfen; zu einem Ergebnis beitragen",
+    "beispiel": "Mit ihrer Studie leistet die Forschungsgruppe einen wichtigen Beitrag zur Krebsforschung.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Jeder Einzelne kann einen ___ zum Klimaschutz leisten.",
+      "loesung": "Beitrag",
+      "optionen": [
+        "Dienst",
+        "Beitrag",
+        "Anteil",
+        "Beitritt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie lesen einen Zeitungsbeitrag über Klimaschutz.",
+        "Freiwillige verlassen ein Projekt, bevor es beginnt.",
+        "Freiwillige helfen bei einem Projekt mit, das die Stadt grüner macht."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r067",
+    "ausdruck": "Verantwortung tragen für + A",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "für etwas verantwortlich sein",
+    "beispiel": "Als Klassenlehrerin trage ich Verantwortung für 28 Schülerinnen und Schüler.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Unternehmen ___ eine Mitverantwortung für die Arbeitsbedingungen bei ihren Zulieferern.",
+      "loesung": "tragen",
+      "optionen": [
+        "halten",
+        "führen",
+        "tragen",
+        "machen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Projektleiterin ist dafür zuständig, dass ein Projekt gelingt.",
+        "Eine Mitarbeiterin weist jede Zuständigkeit von sich.",
+        "Ein Umzugshelfer trägt schwere Kisten."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Verantwortung übernehmen“",
+    "bezug": true
+  },
+  {
+    "id": "r068",
+    "ausdruck": "eine Frage aufwerfen",
+    "typ": "feste_wendung",
+    "funktion": "argumentieren",
+    "bedeutung": "eine Frage entstehen lassen; zu einer neuen Frage führen",
+    "beispiel": "Die Ergebnisse der Umfrage werfen die Frage auf, wie gerecht das Steuersystem ist.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die neue Technologie ___ zahlreiche ethische Fragen auf.",
+      "loesung": "wirft",
+      "optionen": [
+        "legt",
+        "stellt",
+        "hebt",
+        "wirft"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Forschungsergebnis beantwortet alle offenen Fragen.",
+        "Ein Forschungsergebnis führt dazu, dass neue offene Fragen entstehen.",
+        "Sie werfen im Sportunterricht einen Ball."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "nicht verwechseln mit „eine Frage stellen“ (= eine Person fragt etwas)",
+    "bezug": false
+  },
+  {
+    "id": "r069",
+    "ausdruck": "infrage kommen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "möglich sein; als Möglichkeit akzeptabel sein",
+    "beispiel": "Für die Stelle kommen nur Lehrkräfte mit anerkanntem Abschluss infrage.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Ein Studium im Ausland ___ für mich aus finanziellen Gründen nicht infrage.",
+      "loesung": "kommt",
+      "optionen": [
+        "stellt",
+        "kommt",
+        "geht",
+        "fällt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, welche Kandidatinnen für eine Stelle überhaupt möglich sind.",
+        "Sie stellen dem Dozenten nach dem Seminar eine Frage.",
+        "Sie äußern Zweifel an der Richtigkeit einer Statistik."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „in Frage kommen“; „Das kommt nicht infrage!“ = auf keinen Fall. Nicht verwechseln mit „infrage stellen“.",
+    "bezug": true
+  },
+  {
+    "id": "r070",
+    "ausdruck": "zum Einsatz kommen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "benutzt oder eingesetzt werden",
+    "beispiel": "In vielen Laboren kommen inzwischen Roboter zum Einsatz.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Bei der Analyse kamen moderne Verfahren der KI zum ___.",
+      "loesung": "Einsatz",
+      "optionen": [
+        "Anwendung",
+        "Absatz",
+        "Ansatz",
+        "Einsatz"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie setzen sich in der Vorlesung in die erste Reihe.",
+        "Eine Klinik verzichtet bewusst auf neue Technik.",
+        "In einer Klinik werden neue Roboter bei Operationen verwendet."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "ähnlich: „zur Anwendung kommen“ (mit „zur“!)",
+    "bezug": false
+  },
+  {
+    "id": "r071",
+    "ausdruck": "Anwendung finden",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "angewendet werden",
+    "beispiel": "Die Methode findet vor allem in der Medizintechnik Anwendung.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Das neue Verfahren ___ bereits in mehreren Krankenhäusern Anwendung.",
+      "loesung": "findet",
+      "optionen": [
+        "hat",
+        "findet",
+        "nimmt",
+        "macht"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Forschungsverfahren wird in der Praxis tatsächlich genutzt.",
+        "Sie suchen in der Bibliothek ein verlorenes Buch.",
+        "Ein Verfahren existiert nur als Idee auf dem Papier."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "passivische Bedeutung; ähnlich: „Verwendung finden“",
+    "bezug": false
+  },
+  {
+    "id": "r072",
+    "ausdruck": "etwas zur Folge haben",
+    "typ": "feste_wendung",
+    "funktion": "argumentieren",
+    "bedeutung": "etwas verursachen; zu einem Ergebnis führen",
+    "beispiel": "Die hohe Inflation hat zur Folge, dass viele Haushalte sparen müssen.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die Erderwärmung hat einen Anstieg des Meeresspiegels zur ___.",
+      "loesung": "Folge",
+      "optionen": [
+        "Folge",
+        "Ergebnis",
+        "Ursache",
+        "Wirkung"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nennen den Grund, warum eine Entscheidung getroffen wurde.",
+        "Sie erklären, welche Konsequenz eine politische Entscheidung hat.",
+        "Sie schauen die neueste Folge einer Serie."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "Alternative mit Konnektor: „…, sodass …“ oder „infolgedessen“",
+    "bezug": false
+  },
+  {
+    "id": "r073",
+    "ausdruck": "mit etwas in Verbindung stehen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "mit etwas zusammenhängen",
+    "beispiel": "Schlafmangel steht nachweislich mit einem höheren Risiko für Herzkrankheiten in Verbindung.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die Zunahme von Allergien könnte mit veränderten Lebensgewohnheiten in Verbindung ___.",
+      "loesung": "stehen",
+      "optionen": [
+        "liegen",
+        "sitzen",
+        "halten",
+        "stehen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie betonen, dass zwei Phänomene nichts miteinander zu tun haben.",
+        "Sie warten am Bahnsteig auf Ihre Zugverbindung.",
+        "Sie vermuten, dass zwei Phänomene zusammenhängen."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „in Zusammenhang stehen mit“; „mit jemandem in Verbindung treten“ = Kontakt aufnehmen",
+    "bezug": false
+  },
+  {
+    "id": "r074",
+    "ausdruck": "etwas in Kauf nehmen",
+    "typ": "feste_wendung",
+    "funktion": "kompromiss",
+    "bedeutung": "einen Nachteil akzeptieren, um einen Vorteil zu bekommen",
+    "beispiel": "Für eine Stelle an einer guten Schule nehme ich auch einen langen Arbeitsweg in Kauf.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Viele Studierende nehmen hohe Mieten in ___, um in der Nähe der Uni zu wohnen.",
+      "loesung": "Kauf",
+      "optionen": [
+        "Betrieb",
+        "Kauf",
+        "Anspruch",
+        "Kraft"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie kaufen im Supermarkt ein.",
+        "Sie lehnen eine Wohnung wegen eines kleinen Nachteils sofort ab.",
+        "Sie akzeptieren längere Fahrzeiten, weil die Wohnung viel günstiger ist."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r075",
+    "ausdruck": "Wert legen auf + A",
+    "typ": "feste_wendung",
+    "funktion": "meinung",
+    "bedeutung": "etwas für sehr wichtig halten",
+    "beispiel": "In meinem Unterricht lege ich großen Wert auf eigenständiges Experimentieren.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Arbeitgeber ___ zunehmend Wert auf interkulturelle Kompetenz.",
+      "loesung": "legen",
+      "optionen": [
+        "geben",
+        "setzen",
+        "stellen",
+        "legen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Einer Professorin ist die Form der Hausarbeiten völlig egal.",
+        "Eine Professorin achtet bei Hausarbeiten besonders auf korrektes Zitieren.",
+        "Eine Professorin schätzt den Preis eines alten Buches."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r076",
+    "ausdruck": "einen Antrag stellen auf + A",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "offiziell und schriftlich um etwas bitten",
+    "beispiel": "Ich habe bei der Bezirksregierung einen Antrag auf Anerkennung meines Lehramtsstudiums gestellt.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Wer BAföG erhalten möchte, muss rechtzeitig einen ___ stellen.",
+      "loesung": "Antrag",
+      "optionen": [
+        "Auftrag",
+        "Vertrag",
+        "Beitrag",
+        "Antrag"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie stellen einen Stuhl an den Tisch.",
+        "Sie bitten das Amt offiziell und schriftlich um Wohngeld.",
+        "Sie unterhalten sich mit den Nachbarn über das Wetter."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "ein Antrag wird „bewilligt“ oder „abgelehnt“",
+    "bezug": true
+  },
+  {
+    "id": "r077",
+    "ausdruck": "Voraussetzungen erfüllen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "alle nötigen Bedingungen haben",
+    "beispiel": "Um als Lehrkraft in NRW zu arbeiten, muss ich bestimmte sprachliche Voraussetzungen erfüllen.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Nur wer alle Voraussetzungen ___, wird zum Masterstudium zugelassen.",
+      "loesung": "erfüllt",
+      "optionen": [
+        "erfasst",
+        "erreicht",
+        "erfüllt",
+        "ergreift"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Bewerberin hat alle Unterlagen und Abschlüsse, die für ein Stipendium nötig sind.",
+        "Einer Bewerberin fehlen wichtige Nachweise für ein Stipendium.",
+        "Ein Kind wünscht sich etwas zum Geburtstag."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Bedingungen/Kriterien erfüllen“; nicht: *Voraussetzungen erreichen*",
+    "bezug": true
+  },
+  {
+    "id": "r078",
+    "ausdruck": "eine Prüfung ablegen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "eine Prüfung machen (formell)",
+    "beispiel": "Im Mai lege ich die Prüfung telc Deutsch C1 Hochschule ab.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Alle Bewerberinnen und Bewerber müssen vor Studienbeginn eine Sprachprüfung ___.",
+      "loesung": "ablegen",
+      "optionen": [
+        "auflegen",
+        "anlegen",
+        "ausstellen",
+        "ablegen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie machen am Ende des Semesters ein Examen.",
+        "Sie legen Ihren Mantel an der Garderobe ab.",
+        "Sie nehmen als Prüferin eine mündliche Prüfung ab."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Prüfende „nehmen eine Prüfung ab“, Prüflinge „legen sie ab“; Erfolg: „eine Prüfung bestehen“",
+    "bezug": true
+  },
+  {
+    "id": "r079",
+    "ausdruck": "Forschung betreiben",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "wissenschaftlich forschen",
+    "beispiel": "Die Arbeitsgruppe betreibt seit Jahren Forschung zur Ökologie von Städten.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Das Institut ___ seit Jahren intensive Forschung zur Meeresverschmutzung.",
+      "loesung": "betreibt",
+      "optionen": [
+        "führt",
+        "bewirkt",
+        "betreibt",
+        "bedient"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Team untersucht systematisch, wie Mikroplastik auf Fische wirkt.",
+        "Ein Team liest zur Entspannung Romane.",
+        "Ein Unternehmen eröffnet eine neue Kantine."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Forschung durchführen“",
+    "bezug": false
+  },
+  {
+    "id": "r080",
+    "ausdruck": "eine These aufstellen",
+    "typ": "feste_wendung",
+    "funktion": "argumentieren",
+    "bedeutung": "eine Behauptung formulieren, die man begründen oder prüfen will",
+    "beispiel": "In seinem Essay stellt der Autor die These auf, dass soziale Medien die Demokratie schwächen.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Forscherin ___ die These auf, dass Wohlstand allein nicht glücklich macht.",
+      "loesung": "stellt",
+      "optionen": [
+        "setzt",
+        "baut",
+        "legt",
+        "stellt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie formulieren zu Beginn eines Essays eine Behauptung, die Sie anschließend begründen.",
+        "Sie bauen im Labor ein Mikroskop auf.",
+        "Sie lesen am Ende noch einmal Ihr Literaturverzeichnis durch."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "eine These „vertreten“, „belegen“, „widerlegen“",
+    "bezug": false
+  },
+  {
+    "id": "r081",
+    "ausdruck": "Bedenken äußern",
+    "typ": "feste_wendung",
+    "funktion": "gegenargument",
+    "bedeutung": "sagen, dass man Zweifel oder Sorgen hat",
+    "beispiel": "Mehrere Ärztinnen und Ärzte äußerten Bedenken gegen die schnelle Zulassung des Medikaments.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Datenschützer haben erhebliche Bedenken gegen die neue App ___.",
+      "loesung": "geäußert",
+      "optionen": [
+        "geäußert",
+        "geredet",
+        "ausgesagt",
+        "gesprochen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie unterstützen einen Plan ohne jede Einschränkung.",
+        "In einer Sitzung sagen Sie, dass Sie bei einem Plan Risiken sehen.",
+        "Sie bitten in der Prüfung um ein Glas Wasser."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "auch: „Bedenken anmelden“; „Bedenken haben gegen + A“",
+    "bezug": false
+  },
+  {
+    "id": "r082",
+    "ausdruck": "zu dem Schluss kommen",
+    "typ": "feste_wendung",
+    "funktion": "zusammenfassen",
+    "bedeutung": "nach genauer Überlegung ein Ergebnis finden",
+    "beispiel": "Die Autoren kommen zu dem Schluss, dass die Maßnahme wirksam ist.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Nach Auswertung der Daten kam das Team zu dem ___, dass das Medikament wirkt.",
+      "loesung": "Schluss",
+      "optionen": [
+        "Ende",
+        "Ziel",
+        "Schluss",
+        "Abschluss"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Forschungsteam beginnt gerade erst mit der Datenerhebung.",
+        "Nach langer Analyse erkennt ein Forschungsteam, welche Erklärung richtig ist.",
+        "Eine Veranstaltung ist um 18 Uhr zu Ende."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "ähnlich: „zu der Erkenntnis kommen“; Achtung: „zum Schluss kommen“ heißt meist „zum Ende kommen“",
+    "bezug": false
+  },
+  {
+    "id": "r083",
+    "ausdruck": "Abstand nehmen von + D",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "auf einen Plan verzichten; etwas doch nicht tun",
+    "beispiel": "Die Stadt hat von der geplanten Erhöhung der Kitagebühren Abstand genommen.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Nach heftigen Protesten nahm der Konzern von seinen Plänen ___.",
+      "loesung": "Abstand",
+      "optionen": [
+        "Abkehr",
+        "Absage",
+        "Abriss",
+        "Abstand"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie halten in der Warteschlange 1,5 Meter Abstand.",
+        "Eine Firma verzichtet nach Kritik auf ein umstrittenes Bauprojekt.",
+        "Eine Firma setzt ein Projekt trotz Kritik um."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "formell; ähnlich: „von etwas absehen“",
+    "bezug": false
+  },
+  {
+    "id": "r084",
+    "ausdruck": "etwas in Erfahrung bringen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "etwas herausfinden; Informationen bekommen",
+    "beispiel": "Ich konnte in Erfahrung bringen, welche Unterlagen für die Anerkennung übersetzt werden müssen.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Journalistin konnte nicht in ___ bringen, wer die Studie finanziert hat.",
+      "loesung": "Erfahrung",
+      "optionen": [
+        "Ordnung",
+        "Kenntnis",
+        "Erfahrung",
+        "Umlauf"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erzählen von Ihren Erlebnissen im Auslandssemester.",
+        "Sie vergessen einen wichtigen Termin.",
+        "Sie recherchieren, welche Fristen für eine Bewerbung gelten."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r085",
+    "ausdruck": "Anerkennung finden",
+    "typ": "feste_wendung",
+    "funktion": "bewerten",
+    "bedeutung": "von anderen positiv bewertet und gelobt werden",
+    "beispiel": "Das Engagement der Freiwilligen fand in der ganzen Stadt Anerkennung.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Ihre Forschung zu Korallenriffen ___ international große Anerkennung.",
+      "loesung": "fand",
+      "optionen": [
+        "traf",
+        "fand",
+        "nahm",
+        "gab"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Behörde prüft die Gleichwertigkeit eines ausländischen Diploms.",
+        "Eine Wissenschaftlerin bekommt für ihre Arbeit viel Lob von Fachkollegen.",
+        "Die Arbeit einer Wissenschaftlerin wird kaum beachtet."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "nicht verwechseln mit der „Anerkennung“ eines Abschlusses (= offizielle Gleichstellung)",
+    "bezug": false
+  },
+  {
+    "id": "r086",
+    "ausdruck": "etwas zur Kenntnis nehmen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "etwas bemerken und bestätigen, dass man informiert ist",
+    "beispiel": "Die Verwaltung hat die Beschwerde zur Kenntnis genommen, aber noch nicht reagiert.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Der Ausschuss nahm den Bericht ohne weitere Diskussion zur ___.",
+      "loesung": "Kenntnis",
+      "optionen": [
+        "Einsicht",
+        "Kenntnis",
+        "Erkenntnis",
+        "Kenntnisnahme"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erwerben in einem Kurs neue Fachkenntnisse.",
+        "Sie widersprechen einer Information energisch.",
+        "Sie bestätigen in einer E-Mail, dass Sie eine Information erhalten haben."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„zur Kenntnis nehmen“ heißt nicht unbedingt zustimmen",
+    "bezug": false
+  },
+  {
+    "id": "r087",
+    "ausdruck": "im Widerspruch stehen zu + D",
+    "typ": "feste_wendung",
+    "funktion": "vergleichen",
+    "bedeutung": "nicht zusammenpassen; das Gegenteil aussagen",
+    "beispiel": "Die Ergebnisse stehen im Widerspruch zu früheren Studien.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die Aussagen des Ministers stehen im ___ zu den offiziellen Zahlen.",
+      "loesung": "Widerspruch",
+      "optionen": [
+        "Gegenteil",
+        "Widerstand",
+        "Widerruf",
+        "Widerspruch"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie legen gegen einen Bescheid offiziell Widerspruch ein.",
+        "Ein Politiker behauptet etwas, das die Statistik eindeutig nicht bestätigt.",
+        "Zwei Studien kommen zum gleichen Ergebnis."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "ähnlich: „im Gegensatz stehen zu“; „Widerspruch einlegen“ = sich offiziell gegen einen Bescheid wehren",
+    "bezug": false
+  },
+  {
+    "id": "r088",
+    "ausdruck": "Gebrauch machen von + D",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "etwas nutzen",
+    "beispiel": "Viele Beschäftigte machen von der Möglichkeit Gebrauch, im Homeoffice zu arbeiten.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Nur wenige Studierende ___ von der Möglichkeit eines Auslandssemesters Gebrauch.",
+      "loesung": "machen",
+      "optionen": [
+        "haben",
+        "machen",
+        "tun",
+        "nehmen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie verzichten auf einen Urlaub, der Ihnen zusteht.",
+        "Sie kaufen ein gebrauchtes Fahrrad.",
+        "Sie nutzen Ihr Recht, eine Prüfung einmal zu wiederholen."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "nicht: *Gebrauch nehmen*",
+    "bezug": false
+  },
+  {
+    "id": "r089",
+    "ausdruck": "unter Druck geraten",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "in eine Lage kommen, in der man stark gedrängt wird oder schnell handeln muss",
+    "beispiel": "Durch steigende Mieten geraten viele Familien finanziell unter Druck.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Wegen der steigenden Energiepreise ist die Industrie stark unter ___ geraten.",
+      "loesung": "Druck",
+      "optionen": [
+        "Spannung",
+        "Last",
+        "Zwang",
+        "Druck"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Regierung muss nach einem Skandal schnell auf Forderungen reagieren.",
+        "Eine Regierung arbeitet in aller Ruhe an ihren Plänen.",
+        "Sie drucken Ihre Unterlagen im Copyshop aus."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „unter Druck stehen“; „jemanden unter Druck setzen“",
+    "bezug": false
+  },
+  {
+    "id": "r090",
+    "ausdruck": "etwas in Gang setzen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "etwas starten; beginnen lassen",
+    "beispiel": "Der Bericht hat eine breite Debatte über Datenschutz in Gang gesetzt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Der Klimawandel hat Prozesse in ___ gesetzt, die kaum noch aufzuhalten sind.",
+      "loesung": "Gang",
+      "optionen": [
+        "Gang",
+        "Schritt",
+        "Kraft",
+        "Lauf"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Ereignis löst eine Entwicklung aus, die lange andauert.",
+        "Sie gehen durch den langen Flur zur Bibliothek.",
+        "Ein Ereignis stoppt eine laufende Entwicklung."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "intransitiv: „in Gang kommen“; ähnlich: „in Bewegung setzen“",
+    "bezug": false
+  },
+  {
+    "id": "r091",
+    "ausdruck": "Vorkehrungen treffen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "im Voraus etwas tun, um auf eine mögliche Gefahr vorbereitet zu sein",
+    "beispiel": "Für den Ausflug in den Wald haben wir mit der Klasse Vorkehrungen gegen Zeckenbisse getroffen.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Stadt hat Vorkehrungen gegen künftige Hochwasser ___.",
+      "loesung": "getroffen",
+      "optionen": [
+        "gestellt",
+        "gemacht",
+        "genommen",
+        "getroffen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Eine Schule erstellt einen Notfallplan für den Fall eines Brandes.",
+        "Sie kehren nach den Ferien an Ihren Arbeitsplatz zurück.",
+        "Eine Schule reagiert erst, nachdem ein Unfall passiert ist."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Vorsorge treffen“; nicht: *Vorkehrungen machen*",
+    "bezug": true
+  },
+  {
+    "id": "r092",
+    "ausdruck": "Schlussfolgerungen ziehen aus + D",
+    "typ": "feste_wendung",
+    "funktion": "zusammenfassen",
+    "bedeutung": "aus Informationen ein Ergebnis ableiten",
+    "beispiel": "Aus den Ergebnissen der Umfrage lassen sich mehrere Schlussfolgerungen ziehen.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Aus diesen Daten sollte man keine voreiligen Schlussfolgerungen ___.",
+      "loesung": "ziehen",
+      "optionen": [
+        "ziehen",
+        "machen",
+        "treffen",
+        "schließen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie leiten aus einer Statistik ab, was die Politik jetzt tun sollte.",
+        "Sie beschreiben nur die Zahlen einer Statistik, ohne sie zu deuten.",
+        "Sie schließen nach dem Seminar den Raum ab."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Schlüsse/Konsequenzen ziehen aus“",
+    "bezug": false
+  },
+  {
+    "id": "r093",
+    "ausdruck": "einen Vergleich anstellen",
+    "typ": "feste_wendung",
+    "funktion": "vergleichen",
+    "bedeutung": "Dinge miteinander vergleichen (formell)",
+    "beispiel": "Wenn man einen Vergleich zwischen dem deutschen und dem philippinischen Schulsystem anstellt, fallen viele Unterschiede auf.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die Autorin ___ einen interessanten Vergleich zwischen beiden Ländern an.",
+      "loesung": "stellt",
+      "optionen": [
+        "nimmt",
+        "zieht",
+        "stellt",
+        "macht"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Zwei Parteien einigen sich vor Gericht und beenden den Streit.",
+        "Sie stellen in einem Aufsatz zwei Schulsysteme einander gegenüber.",
+        "Sie beschreiben nur ein einziges Schulsystem."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "auch: „einen Vergleich ziehen“ (ohne „an“); juristisch: „einen Vergleich schließen“",
+    "bezug": true
+  },
+  {
+    "id": "r094",
+    "ausdruck": "Rechenschaft ablegen über + A",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "offiziell erklären und begründen, was man getan hat",
+    "beispiel": "Die Hochschule muss gegenüber dem Ministerium über die Verwendung der Gelder Rechenschaft ablegen.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Politikerinnen und Politiker müssen den Wählern gegenüber Rechenschaft ___.",
+      "loesung": "ablegen",
+      "optionen": [
+        "ablassen",
+        "abstellen",
+        "abnehmen",
+        "ablegen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein Vorstand erklärt den Mitgliedern genau, wofür er das Geld ausgegeben hat.",
+        "Sie rechnen im Mathematikunterricht eine Aufgabe an der Tafel vor.",
+        "Ein Vorstand verweigert jede Auskunft über die Finanzen."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „jemanden zur Rechenschaft ziehen“ (= jemanden verantwortlich machen)",
+    "bezug": false
+  },
+  {
+    "id": "r095",
+    "ausdruck": "einer Sache Beachtung schenken",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "auf etwas achten; etwas berücksichtigen",
+    "beispiel": "Der psychischen Gesundheit von Studierenden wurde lange zu wenig Beachtung geschenkt.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Den Nebenwirkungen des Medikaments wurde lange zu wenig Beachtung ___.",
+      "loesung": "geschenkt",
+      "optionen": [
+        "genommen",
+        "gemacht",
+        "gegeben",
+        "geschenkt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie kaufen ein Geburtstagsgeschenk für eine Kollegin.",
+        "Ein Bericht kritisiert, dass ein Problem bisher kaum berücksichtigt wurde.",
+        "Ein Bericht lobt, wie gründlich ein Problem untersucht wurde."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "auch: „Aufmerksamkeit schenken“; passivisch: „Beachtung finden“",
+    "bezug": false
+  },
+  {
+    "id": "r096",
+    "ausdruck": "im Mittelpunkt stehen",
+    "typ": "feste_wendung",
+    "funktion": "strukturieren",
+    "bedeutung": "das zentrale Thema sein",
+    "beispiel": "Im Mittelpunkt meines Vortrags steht die Frage, wie man Fotosynthese anschaulich erklären kann.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Im ___ der Konferenz standen Fragen der Energiesicherheit.",
+      "loesung": "Mittelpunkt",
+      "optionen": [
+        "Mittelwert",
+        "Mittelfeld",
+        "Mittelmaß",
+        "Mittelpunkt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nennen das Hauptthema einer Tagung.",
+        "Sie erwähnen eine Nebensache nur am Rande.",
+        "Sie berechnen den Mittelwert einer Messreihe."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „im Zentrum stehen“; transitiv: „etwas in den Mittelpunkt stellen“",
+    "bezug": true
+  },
+  {
+    "id": "r097",
+    "ausdruck": "etwas außer Acht lassen",
+    "typ": "feste_wendung",
+    "funktion": "gegenargument",
+    "bedeutung": "etwas nicht beachten, nicht berücksichtigen",
+    "beispiel": "Bei dieser Argumentation lässt man die Kosten völlig außer Acht.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Bei der Planung wurden die Bedürfnisse älterer Menschen außer ___ gelassen.",
+      "loesung": "Acht",
+      "optionen": [
+        "Sicht",
+        "Acht",
+        "Kraft",
+        "Frage"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie passen abends auf ein kleines Kind auf.",
+        "In einer Analyse wird ein wichtiger Faktor nicht berücksichtigt.",
+        "Eine Analyse berücksichtigt sorgfältig alle Faktoren."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "Schreibung: „außer Acht“ (groß); ähnlich: „außer Betracht lassen“",
+    "bezug": false
+  },
+  {
+    "id": "r098",
+    "ausdruck": "zur Geltung kommen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "gut sichtbar sein; seine Wirkung oder Qualität zeigen können",
+    "beispiel": "Im neuen Konzertsaal kommt der Klang des Orchesters erst richtig zur Geltung.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "In der neuen Ausstellung kommen die Fotografien besonders gut zur ___.",
+      "loesung": "Geltung",
+      "optionen": [
+        "Gestalt",
+        "Geltung",
+        "Gültigkeit",
+        "Gewicht"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Ein schönes Gebäude wirkt durch die neue Beleuchtung noch beeindruckender.",
+        "Ein schönes Gebäude ist hinter einer hohen Mauer versteckt.",
+        "Ein Ausweis ist bis zum Jahr 2030 gültig."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "transitiv: „etwas zur Geltung bringen“ (= betonen, wirken lassen)",
+    "bezug": false
+  },
+  {
+    "id": "r099",
+    "ausdruck": "einer Sache den Vorzug geben",
+    "typ": "feste_wendung",
+    "funktion": "vergleichen",
+    "bedeutung": "eine Möglichkeit lieber wählen als eine andere",
+    "beispiel": "Viele Verbraucher geben regionalen Produkten inzwischen den Vorzug vor importierter Ware.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Jury gab dem kleineren Entwurf den ___.",
+      "loesung": "Vorzug",
+      "optionen": [
+        "Vorschuss",
+        "Vorsatz",
+        "Vorzug",
+        "Vorteil"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie lehnen beide Angebote ab.",
+        "Sie zählen die Sehenswürdigkeiten einer Stadt auf.",
+        "Sie entscheiden sich bei zwei Angeboten für das nachhaltigere."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„den Vorzug geben vor + D“; ähnlich: „bevorzugen“",
+    "bezug": false
+  },
+  {
+    "id": "r100",
+    "ausdruck": "Fortschritte erzielen",
+    "typ": "feste_wendung",
+    "funktion": "allgemein",
+    "bedeutung": "in einer Entwicklung besser werden; vorankommen",
+    "beispiel": "Meine Schülerinnen und Schüler haben im letzten Halbjahr große Fortschritte im Fachwortschatz erzielt.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Bei der Bekämpfung der Malaria wurden deutliche Fortschritte ___.",
+      "loesung": "erzielt",
+      "optionen": [
+        "erzielt",
+        "erhoben",
+        "gezogen",
+        "gelegt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie gehen bei der Zeugnisfeier feierlich zur Bühne.",
+        "Ein Forschungsteam bricht ein Projekt ohne Ergebnis ab.",
+        "Ein Forschungsteam kommt bei der Entwicklung eines Impfstoffs gut voran."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "neutraler: „Fortschritte machen“; auch: „Erfolge erzielen“",
+    "bezug": true
+  },
+  {
+    "id": "r101",
+    "ausdruck": "Im Folgenden möchte ich auf … eingehen.",
+    "typ": "redemittel",
+    "funktion": "einleiten",
+    "bedeutung": "kündigt an, welches Thema im Text behandelt wird",
+    "beispiel": "Im Folgenden möchte ich auf die Vor- und Nachteile von Ganztagsschulen eingehen.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Im ___ möchte ich auf die Ursachen der Landflucht eingehen.",
+      "loesung": "Folgenden",
+      "optionen": [
+        "Folgendes",
+        "Folgende",
+        "Folge",
+        "Folgenden"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie fragen in einer Diskussion nach einem Beispiel.",
+        "Sie verabschieden sich am Ende einer E-Mail.",
+        "Sie kündigen in der Einleitung eines Aufsatzes das Thema an."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„im Folgenden“ wird großgeschrieben; „eingehen auf + A“",
+    "bezug": true
+  },
+  {
+    "id": "r102",
+    "ausdruck": "In meinem Vortrag geht es um …",
+    "typ": "redemittel",
+    "funktion": "einleiten",
+    "bedeutung": "nennt am Anfang einer Präsentation das Thema",
+    "beispiel": "In meinem Vortrag geht es um die Frage, ob Schulen private Smartphones verbieten sollten.",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "In meinem Vortrag ___ es um die Zukunft der Mobilität in Großstädten.",
+      "loesung": "geht",
+      "optionen": [
+        "geht",
+        "dreht",
+        "handelt",
+        "steht"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beenden Ihre Präsentation und bedanken sich.",
+        "Sie beginnen Ihre Präsentation in der mündlichen Prüfung.",
+        "Sie widersprechen Ihrem Gesprächspartner."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "„handeln“ und „drehen“ brauchen „sich“: „Es handelt sich um …“, „Es dreht sich um …“",
+    "bezug": true
+  },
+  {
+    "id": "r103",
+    "ausdruck": "Das Thema … gewinnt zunehmend an Bedeutung.",
+    "typ": "redemittel",
+    "funktion": "einleiten",
+    "bedeutung": "zeigt am Anfang, warum ein Thema aktuell und wichtig ist",
+    "beispiel": "Das Thema Wasserknappheit gewinnt auch in Europa zunehmend an Bedeutung.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die Frage nach bezahlbarem Wohnraum ___ zunehmend an Bedeutung.",
+      "loesung": "gewinnt",
+      "optionen": [
+        "bekommt",
+        "nimmt",
+        "gewinnt",
+        "erhält"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bitten Ihre Gesprächspartnerin, eine Frage zu wiederholen.",
+        "Sie begründen in der Einleitung eines Textes, warum ein Thema heute besonders aktuell ist.",
+        "Sie formulieren am Schluss eines Textes Ihre persönliche Meinung."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "auch: „an Bedeutung zunehmen“; Gegenteil: „an Bedeutung verlieren“",
+    "bezug": false
+  },
+  {
+    "id": "r104",
+    "ausdruck": "Zunächst möchte ich kurz erläutern, …",
+    "typ": "redemittel",
+    "funktion": "einleiten",
+    "bedeutung": "kündigt einen ersten Schritt an, z. B. eine Begriffsklärung",
+    "beispiel": "Zunächst möchte ich kurz erläutern, was man unter dem Begriff „Gentrifizierung“ versteht.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "___ möchte ich kurz erläutern, was man unter Inklusion versteht; danach gehe ich auf die Praxis ein.",
+      "loesung": "Zunächst",
+      "optionen": [
+        "Schließlich",
+        "Abschließend",
+        "Zunächst",
+        "Zuletzt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beginnen eine Präsentation mit der Klärung eines Fachbegriffs.",
+        "Sie fassen am Ende Ihre Ergebnisse zusammen.",
+        "Sie stimmen einem Vorschlag zu."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r105",
+    "ausdruck": "In letzter Zeit wird immer häufiger darüber diskutiert, ob …",
+    "typ": "redemittel",
+    "funktion": "einleiten",
+    "bedeutung": "führt in ein aktuelles, umstrittenes Thema ein",
+    "beispiel": "In letzter Zeit wird immer häufiger darüber diskutiert, ob eine Viertagewoche sinnvoll wäre.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "In letzter Zeit wird immer häufiger darüber ___, ob Fleisch höher besteuert werden sollte.",
+      "loesung": "diskutiert",
+      "optionen": [
+        "erörtert",
+        "besprochen",
+        "diskutiert",
+        "unterhalten"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie leiten einen Aufsatz mit dem Hinweis auf eine aktuelle Debatte ein.",
+        "Sie bitten um eine kurze Bedenkzeit.",
+        "Sie bedanken sich am Ende einer Präsentation für die Aufmerksamkeit."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "„besprechen“ und „erörtern“ stehen mit Akkusativ (etwas erörtern), nicht mit „darüber“",
+    "bezug": false
+  },
+  {
+    "id": "r106",
+    "ausdruck": "Die Grafik gibt Auskunft über …",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "nennt das Thema einer Grafik",
+    "beispiel": "Die Grafik gibt Auskunft über die Zahl der anerkannten ausländischen Lehramtsabschlüsse in NRW.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Das Schaubild gibt ___ über die Entwicklung der Geburtenrate in Deutschland.",
+      "loesung": "Auskunft",
+      "optionen": [
+        "Hinweis",
+        "Antwort",
+        "Aussage",
+        "Auskunft"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie formulieren Ihre eigene Meinung zum Thema.",
+        "Sie nennen zu Beginn, welches Thema eine Statistik darstellt.",
+        "Sie fragen am Informationsschalter nach dem Weg."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "auch: „Die Grafik zeigt / veranschaulicht / stellt … dar.“",
+    "bezug": true
+  },
+  {
+    "id": "r107",
+    "ausdruck": "Auf der senkrechten Achse ist … angegeben.",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "erklärt, welche Werte die Achsen eines Diagramms zeigen",
+    "beispiel": "Auf der waagerechten Achse sind die Jahre von 2015 bis 2025 angegeben, auf der senkrechten Achse die Zahl der Studierenden.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Auf der senkrechten ___ ist der Anteil in Prozent angegeben.",
+      "loesung": "Achse",
+      "optionen": [
+        "Achse",
+        "Kurve",
+        "Legende",
+        "Zeile"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, welche Werte ein Diagramm horizontal und vertikal zeigt.",
+        "Sie bewerten, ob eine Entwicklung positiv ist.",
+        "Sie zeichnen im Kunstunterricht ein Bild."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "waagerecht = horizontal (x-Achse), senkrecht = vertikal (y-Achse)",
+    "bezug": false
+  },
+  {
+    "id": "r108",
+    "ausdruck": "Der Anteil … ist von … auf … gestiegen.",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "beschreibt eine Zunahme mit Anfangs- und Endwert",
+    "beispiel": "Der Anteil der Schülerinnen und Schüler mit Migrationsgeschichte ist von 30 auf 41 Prozent gestiegen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Der Anteil der Elektroautos an den Neuzulassungen ist von 2 ___ 18 Prozent gestiegen.",
+      "loesung": "auf",
+      "optionen": [
+        "zu",
+        "um",
+        "bis",
+        "auf"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschreiben, dass ein Wert gleich geblieben ist.",
+        "Sie erzählen, dass Sie in den Bus eingestiegen sind.",
+        "Sie beschreiben, dass ein Wert in einer Statistik zugenommen hat."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„von … auf“ = Anfangs- und Endwert; „um“ = Differenz (um 16 Prozentpunkte)",
+    "bezug": true
+  },
+  {
+    "id": "r109",
+    "ausdruck": "… ist um … Prozentpunkte zurückgegangen.",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "beschreibt eine Abnahme als Differenz zwischen zwei Prozentwerten",
+    "beispiel": "Der Anteil der Raucher unter Jugendlichen ist um zehn Prozentpunkte zurückgegangen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Der Anteil der Zeitungsleser ist ___ 15 Prozentpunkte zurückgegangen.",
+      "loesung": "um",
+      "optionen": [
+        "von",
+        "bei",
+        "auf",
+        "um"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschreiben, wie stark ein Wert in einer Grafik gesunken ist.",
+        "Sie gehen nach dem Seminar zurück nach Hause.",
+        "Sie beschreiben den Anstieg eines Wertes."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Prozent ≠ Prozentpunkte: von 40 % auf 30 % = minus 10 Prozentpunkte (= minus 25 Prozent)",
+    "bezug": false
+  },
+  {
+    "id": "r110",
+    "ausdruck": "Das Schlusslicht bildet … mit …",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "nennt den niedrigsten Wert in einem Vergleich",
+    "beispiel": "Das Schlusslicht bildet Bremen mit nur 12 Prozent.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Das ___ bildet Griechenland mit einem Anteil von nur 4 Prozent.",
+      "loesung": "Schlusslicht",
+      "optionen": [
+        "Rücklicht",
+        "Nachzügler",
+        "Schlusslicht",
+        "Schlusswort"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nennen das Land mit dem niedrigsten Wert in einer Tabelle.",
+        "Sie sprechen über die Beleuchtung an Ihrem Fahrrad.",
+        "Sie nennen das Land mit dem höchsten Wert in einer Tabelle."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Gegenteil: „an der Spitze liegen“, „Spitzenreiter sein“",
+    "bezug": false
+  },
+  {
+    "id": "r111",
+    "ausdruck": "Auffällig ist, dass …",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "lenkt die Aufmerksamkeit auf ein besonderes Ergebnis",
+    "beispiel": "Auffällig ist, dass der Anteil der Frauen in technischen Studiengängen kaum gestiegen ist.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "___ ist, dass die Zahl der Anträge 2022 plötzlich stark sank.",
+      "loesung": "Auffällig",
+      "optionen": [
+        "Ausfällig",
+        "Hinfällig",
+        "Anfällig",
+        "Auffällig"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie weisen auf einen überraschenden Wert in einer Statistik hin.",
+        "Sie bitten Ihre Gesprächspartnerin, langsamer zu sprechen.",
+        "Sie beschreiben, dass alle Werte ungefähr gleich sind."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Bemerkenswert ist, dass …“",
+    "bezug": false
+  },
+  {
+    "id": "r112",
+    "ausdruck": "Im Zeitraum von … bis … hat sich … verdoppelt.",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "beschreibt eine Entwicklung über einen bestimmten Zeitraum",
+    "beispiel": "Im Zeitraum von 2010 bis 2020 hat sich die Zahl der Studierenden aus Asien verdoppelt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Im ___ von 2015 bis 2025 hat sich die Zahl der Ladestationen verzehnfacht.",
+      "loesung": "Zeitraum",
+      "optionen": [
+        "Zeitplan",
+        "Zeitpunkt",
+        "Zeitalter",
+        "Zeitraum"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschreiben, wie sich eine Zahl über mehrere Jahre entwickelt hat.",
+        "Sie nennen einen einzelnen Wert für ein bestimmtes Jahr.",
+        "Sie vereinbaren einen Termin für ein Gespräch."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "verdoppeln, verdreifachen, halbieren",
+    "bezug": false
+  },
+  {
+    "id": "r113",
+    "ausdruck": "… ist nahezu konstant geblieben.",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "beschreibt, dass sich ein Wert kaum verändert hat",
+    "beispiel": "Der Anteil der Pendler ist in den letzten fünf Jahren nahezu konstant geblieben.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Zahl der Verkehrstoten ist seit 2020 nahezu ___ geblieben.",
+      "loesung": "konstant",
+      "optionen": [
+        "konstant",
+        "kontinuierlich",
+        "kompakt",
+        "konsequent"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschreiben eine Kurve, die steil ansteigt.",
+        "Sie beschreiben eine Linie in einem Diagramm, die fast waagerecht verläuft.",
+        "Sie loben, dass eine Lehrerin ihre Regeln immer durchsetzt."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "„kontinuierlich“ beschreibt eine gleichmäßige Veränderung: „kontinuierlich gestiegen“",
+    "bezug": false
+  },
+  {
+    "id": "r114",
+    "ausdruck": "Es lässt sich ein deutlicher Aufwärtstrend erkennen.",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "beschreibt eine allgemeine steigende Tendenz",
+    "beispiel": "Bei den Online-Kursen lässt sich seit 2020 ein deutlicher Aufwärtstrend erkennen.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Seit 2018 lässt sich ein deutlicher Aufwärtstrend ___.",
+      "loesung": "erkennen",
+      "optionen": [
+        "erkennen",
+        "erweisen",
+        "ergeben",
+        "erheben"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschreiben, dass die Werte in einer Grafik über die Jahre insgesamt steigen.",
+        "Sie beschreiben einen starken Rückgang.",
+        "Sie fahren mit dem Aufzug nach oben."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Gegenteil: „Abwärtstrend“; auch: „Die Tendenz ist steigend.“",
+    "bezug": false
+  },
+  {
+    "id": "r115",
+    "ausdruck": "Etwa ein Drittel der Befragten gibt an, dass …",
+    "typ": "redemittel",
+    "funktion": "grafik_beschreiben",
+    "bedeutung": "nennt Ergebnisse einer Umfrage mit Anteilen",
+    "beispiel": "Etwa ein Drittel der Befragten gibt an, regelmäßig Überstunden zu machen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Knapp die Hälfte der Befragten ___ an, täglich soziale Medien zu nutzen.",
+      "loesung": "gibt",
+      "optionen": [
+        "gibt",
+        "teilt",
+        "nimmt",
+        "sagt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie berichten, wie viele Personen in einer Umfrage einer Aussage zustimmen.",
+        "Sie erzählen von Ihrer eigenen Erfahrung.",
+        "Sie geben Ihre Hausarbeit im Sekretariat ab."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Bruchzahlen: ein Viertel, ein Drittel, knapp die Hälfte, gut zwei Drittel",
+    "bezug": false
+  },
+  {
+    "id": "r116",
+    "ausdruck": "Im Vergleich zu …",
+    "typ": "redemittel",
+    "funktion": "vergleichen",
+    "bedeutung": "stellt zwei Dinge einander gegenüber",
+    "beispiel": "Im Vergleich zu den Philippinen beginnt das Schuljahr in Deutschland erst im Spätsommer.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Im Vergleich ___ Großstädten sind die Mieten auf dem Land deutlich niedriger.",
+      "loesung": "zu",
+      "optionen": [
+        "zu",
+        "bei",
+        "für",
+        "von"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie einigen sich mit dem Vermieter auf einen Kompromiss.",
+        "Sie stellen die Lebenshaltungskosten in zwei Städten gegenüber.",
+        "Sie beschreiben eine Stadt ohne Bezug zu einer anderen."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "auch: „im Vergleich mit“, „verglichen mit“",
+    "bezug": true
+  },
+  {
+    "id": "r117",
+    "ausdruck": "Während …, …",
+    "typ": "redemittel",
+    "funktion": "vergleichen",
+    "bedeutung": "zeigt einen Gegensatz zwischen zwei Ländern, Gruppen oder Entwicklungen",
+    "beispiel": "Während Biologie in Deutschland ein eigenes Fach ist, wird sie auf den Philippinen in der Mittelstufe meist im Fach Science unterrichtet.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "___ die Mieten in München stark steigen, sinken sie in manchen ländlichen Regionen.",
+      "loesung": "Während",
+      "optionen": [
+        "Wobei",
+        "Weil",
+        "Während",
+        "Damit"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschreiben, was Sie in den Ferien gemacht haben.",
+        "Sie stellen zwei gegensätzliche Entwicklungen in einem Satz gegenüber.",
+        "Sie nennen einen Grund für eine Entwicklung."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "„während“ kann temporal (= zur gleichen Zeit) oder adversativ (= im Gegensatz dazu) sein",
+    "bezug": true
+  },
+  {
+    "id": "r118",
+    "ausdruck": "… unterscheidet sich von … vor allem dadurch, dass …",
+    "typ": "redemittel",
+    "funktion": "vergleichen",
+    "bedeutung": "nennt den wichtigsten Unterschied",
+    "beispiel": "Das deutsche Referendariat unterscheidet sich von der Lehrerausbildung auf den Philippinen vor allem dadurch, dass es eine lange bezahlte Praxisphase ist.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Das neue Modell unterscheidet sich vom alten vor allem ___, dass es weniger Energie verbraucht.",
+      "loesung": "dadurch",
+      "optionen": [
+        "dafür",
+        "dadurch",
+        "davon",
+        "damit"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären den wichtigsten Unterschied zwischen zwei Studiengängen.",
+        "Sie entscheiden sich für einen Studiengang.",
+        "Sie erklären, dass zwei Studiengänge identisch sind."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch möglich: „… unterscheidet sich darin, dass …“",
+    "bezug": true
+  },
+  {
+    "id": "r119",
+    "ausdruck": "Gemeinsam ist beiden …, dass …",
+    "typ": "redemittel",
+    "funktion": "vergleichen",
+    "bedeutung": "nennt eine Gemeinsamkeit",
+    "beispiel": "Gemeinsam ist beiden Ländern, dass die Bevölkerung immer älter wird.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "___ ist beiden Studien, dass sie nur Großstädte untersucht haben.",
+      "loesung": "Gemeinsam",
+      "optionen": [
+        "Allgemein",
+        "Gemeinschaftlich",
+        "Gemeinsam",
+        "Gemeinhin"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nennen einen Punkt, in dem sich zwei Länder ähneln.",
+        "Sie gehen mit Freunden zusammen essen.",
+        "Sie nennen einen großen Unterschied zwischen zwei Ländern."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Beide … haben gemeinsam, dass …“",
+    "bezug": false
+  },
+  {
+    "id": "r120",
+    "ausdruck": "…, wohingegen …",
+    "typ": "redemittel",
+    "funktion": "vergleichen",
+    "bedeutung": "zeigt einen Kontrast zwischen zwei Aussagen (formell)",
+    "beispiel": "In Städten nutzen viele Menschen öffentliche Verkehrsmittel, wohingegen auf dem Land das Auto dominiert.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Die Jüngeren informieren sich vor allem online, ___ die Älteren eher Zeitung lesen.",
+      "loesung": "wohingegen",
+      "optionen": [
+        "womit",
+        "wodurch",
+        "weshalb",
+        "wohingegen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nennen den Ort, an dem eine Studie durchgeführt wurde.",
+        "Sie nennen eine Folge einer Entwicklung.",
+        "Sie stellen in einem Text zwei gegensätzliche Gruppen gegenüber."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "Nebensatz: Verb am Ende; ähnlich: „während“ (adversativ)",
+    "bezug": false
+  },
+  {
+    "id": "r121",
+    "ausdruck": "Dafür spricht, dass …",
+    "typ": "redemittel",
+    "funktion": "argumentieren",
+    "bedeutung": "leitet ein Argument für eine Position ein",
+    "beispiel": "Dafür spricht, dass Kinder in Ganztagsschulen mehr individuelle Förderung erhalten.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Für eine Zuckersteuer ___ vor allem, dass sie Übergewicht vorbeugen könnte.",
+      "loesung": "spricht",
+      "optionen": [
+        "redet",
+        "sagt",
+        "spricht",
+        "steht"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie melden sich in einer Diskussion zu Wort.",
+        "Sie nennen in einer Erörterung ein Kontra-Argument.",
+        "Sie nennen in einer Erörterung ein Pro-Argument."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "Gegenteil: „Dagegen spricht, dass …“",
+    "bezug": true
+  },
+  {
+    "id": "r122",
+    "ausdruck": "Ein wesentliches Argument für … ist …",
+    "typ": "redemittel",
+    "funktion": "argumentieren",
+    "bedeutung": "nennt das wichtigste Argument",
+    "beispiel": "Ein wesentliches Argument für die schnellere Anerkennung ausländischer Abschlüsse ist der Fachkräftemangel.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Ein ___ Argument für erneuerbare Energien ist die Unabhängigkeit von Importen.",
+      "loesung": "wesentliches",
+      "optionen": [
+        "wesentlichen",
+        "wesentlicher",
+        "wesentliche",
+        "wesentliches"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie stellen in einem Aufsatz das stärkste Pro-Argument vor.",
+        "Sie geben zu, dass Sie unsicher sind.",
+        "Sie fragen nach der Quelle einer Zahl."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "„das Argument“ (neutral): ein wesentliches Argument",
+    "bezug": true
+  },
+  {
+    "id": "r123",
+    "ausdruck": "Hinzu kommt, dass …",
+    "typ": "redemittel",
+    "funktion": "argumentieren",
+    "bedeutung": "fügt ein weiteres Argument hinzu",
+    "beispiel": "Hinzu kommt, dass Elektroautos im Betrieb deutlich leiser sind.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Hinzu ___, dass die Kosten in den letzten Jahren stark gestiegen sind.",
+      "loesung": "kommt",
+      "optionen": [
+        "fügt",
+        "geht",
+        "kommt",
+        "gibt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie ergänzen ein weiteres Argument zu Ihrer Position.",
+        "Sie widersprechen Ihrem Vorredner.",
+        "Sie stellen eine Frage zur Aufgabenstellung."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "ähnlich: „Darüber hinaus …“, „Außerdem …“",
+    "bezug": false
+  },
+  {
+    "id": "r124",
+    "ausdruck": "Dies lässt sich damit begründen, dass …",
+    "typ": "redemittel",
+    "funktion": "argumentieren",
+    "bedeutung": "nennt den Grund für eine Behauptung",
+    "beispiel": "Der Fachkräftemangel lässt sich unter anderem damit begründen, dass viele Beschäftigte in Rente gehen.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Diese Entwicklung lässt sich ___ begründen, dass immer mehr Menschen im Homeoffice arbeiten.",
+      "loesung": "damit",
+      "optionen": [
+        "damit",
+        "darin",
+        "daran",
+        "dafür"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bedanken sich für die Aufmerksamkeit.",
+        "Sie beschreiben nur, was in einer Grafik zu sehen ist.",
+        "Sie erklären in einem Text, warum eine Entwicklung stattfindet."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„etwas mit etwas begründen“",
+    "bezug": false
+  },
+  {
+    "id": "r125",
+    "ausdruck": "Nicht zu unterschätzen ist außerdem …",
+    "typ": "redemittel",
+    "funktion": "argumentieren",
+    "bedeutung": "betont ein Argument, das oft vergessen wird",
+    "beispiel": "Nicht zu unterschätzen ist außerdem die Bedeutung von Exkursionen für das Verständnis ökologischer Zusammenhänge.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Nicht zu ___ ist außerdem der Einfluss der Eltern auf die Berufswahl.",
+      "loesung": "unterschätzen",
+      "optionen": [
+        "unterlassen",
+        "unterschreiben",
+        "unterschätzen",
+        "unterstellen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, dass ein Aspekt unwichtig ist.",
+        "Sie weisen auf einen wichtigen Aspekt hin, der oft übersehen wird.",
+        "Sie unterschreiben einen Mietvertrag."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r126",
+    "ausdruck": "Daraus folgt, dass …",
+    "typ": "redemittel",
+    "funktion": "argumentieren",
+    "bedeutung": "zieht eine logische Konsequenz aus einem Argument",
+    "beispiel": "Daraus folgt, dass mehr bezahlbarer Wohnraum geschaffen werden muss.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Die Nachfrage steigt, das Angebot nicht. Daraus ___, dass die Preise steigen werden.",
+      "loesung": "folgt",
+      "optionen": [
+        "führt",
+        "stammt",
+        "folgt",
+        "besteht"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie folgen einer Kollegin in den Konferenzraum.",
+        "Sie ziehen aus zwei Fakten eine logische Konsequenz.",
+        "Sie nennen ein Beispiel aus Ihrem Alltag."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "ähnlich: „Daraus ergibt sich, dass …“",
+    "bezug": false
+  },
+  {
+    "id": "r127",
+    "ausdruck": "Dagegen spricht, dass …",
+    "typ": "redemittel",
+    "funktion": "gegenargument",
+    "bedeutung": "leitet ein Argument gegen eine Position ein",
+    "beispiel": "Dagegen spricht, dass Verbote oft nur kurzfristig wirken.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "___ spricht allerdings, dass die Umstellung sehr teuer wäre.",
+      "loesung": "Dagegen",
+      "optionen": [
+        "Darauf",
+        "Daran",
+        "Dagegen",
+        "Dazu"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nennen in einer Erörterung ein Pro-Argument.",
+        "Sie nennen in einer Erörterung ein Kontra-Argument.",
+        "Sie stimmen einer Aussage vollständig zu."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "Gegenteil: „Dafür spricht, dass …“",
+    "bezug": false
+  },
+  {
+    "id": "r128",
+    "ausdruck": "Kritiker wenden ein, dass …",
+    "typ": "redemittel",
+    "funktion": "gegenargument",
+    "bedeutung": "gibt die Gegenposition anderer Personen wieder",
+    "beispiel": "Kritiker wenden ein, dass die Anerkennungsverfahren für ausländische Lehrkräfte zu bürokratisch sind.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Kritiker ___ ein, dass die Studie zu wenige Teilnehmende hatte.",
+      "loesung": "wenden",
+      "optionen": [
+        "setzen",
+        "stellen",
+        "legen",
+        "wenden"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie geben in einem Aufsatz die Meinung von Gegnern einer Reform wieder.",
+        "Sie erklären in einem Aufsatz, dass Sie eine Reform unterstützen.",
+        "Sie wenden einen Pfannkuchen in der Pfanne."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Nomen: „der Einwand“; „einen Einwand erheben/vorbringen“",
+    "bezug": true
+  },
+  {
+    "id": "r129",
+    "ausdruck": "Man darf jedoch nicht übersehen, dass …",
+    "typ": "redemittel",
+    "funktion": "gegenargument",
+    "bedeutung": "weist auf einen wichtigen Gegenpunkt hin",
+    "beispiel": "Man darf jedoch nicht übersehen, dass viele ältere Menschen keinen Internetzugang haben.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Man darf jedoch nicht ___, dass auch Elektroautos Rohstoffe verbrauchen.",
+      "loesung": "übersehen",
+      "optionen": [
+        "übersetzen",
+        "überziehen",
+        "übersehen",
+        "überlegen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie weisen in einer Diskussion auf einen Nachteil hin, den andere vergessen haben.",
+        "Sie fassen die Diskussion am Ende zusammen.",
+        "Sie bitten jemanden, einen Text ins Spanische zu übertragen."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "ähnlich: „Man sollte allerdings bedenken, dass …“",
+    "bezug": false
+  },
+  {
+    "id": "r130",
+    "ausdruck": "auf der anderen Seite …",
+    "typ": "redemittel",
+    "funktion": "gegenargument",
+    "bedeutung": "leitet die Gegenseite eines Arguments ein",
+    "beispiel": "Einerseits sind Praktika wertvoll, auf der anderen Seite werden sie oft schlecht bezahlt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Einerseits schaffen Konzerne Arbeitsplätze, auf der anderen ___ zahlen sie oft wenig Steuern.",
+      "loesung": "Seite",
+      "optionen": [
+        "Weise",
+        "Richtung",
+        "Hand",
+        "Seite"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nennen zwei Vorteile hintereinander.",
+        "Sie stellen einem Vorteil einen Nachteil gegenüber.",
+        "Sie fragen, wann die Bibliothek öffnet."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "nicht: *auf der anderen Hand* (Anglizismus); auch: „andererseits“",
+    "bezug": false
+  },
+  {
+    "id": "r131",
+    "ausdruck": "Zwar …, aber …",
+    "typ": "redemittel",
+    "funktion": "gegenargument",
+    "bedeutung": "gibt einen Punkt zu und widerspricht ihm dann",
+    "beispiel": "Zwar ist die Anerkennung aufwendig, aber sie eröffnet viele berufliche Chancen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "___ ist das Studium in Deutschland meist gebührenfrei, aber die Lebenshaltungskosten sind hoch.",
+      "loesung": "Zwar",
+      "optionen": [
+        "Zwar",
+        "Obwohl",
+        "Trotzdem",
+        "Zwischen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie fragen nach der Uhrzeit.",
+        "Sie nennen ausschließlich Vorteile.",
+        "Sie geben einen Vorteil zu, betonen dann aber einen Nachteil."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„zwar“ steht im Hauptsatz (Verb an Position 2); „obwohl“ leitet einen Nebensatz ein",
+    "bezug": true
+  },
+  {
+    "id": "r132",
+    "ausdruck": "Ein Beispiel dafür ist …",
+    "typ": "redemittel",
+    "funktion": "beispiel_geben",
+    "bedeutung": "nennt ein konkretes Beispiel",
+    "beispiel": "Ein gutes Beispiel dafür ist das Programm „Lehrkräfte Plus“, das zugewanderte Lehrkräfte in NRW unterstützt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Ein gutes Beispiel ___ ist Kopenhagen, wo fast die Hälfte der Menschen mit dem Rad zur Arbeit fährt.",
+      "loesung": "dafür",
+      "optionen": [
+        "darum",
+        "dafür",
+        "davon",
+        "damit"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie veranschaulichen eine allgemeine These mit einem konkreten Fall.",
+        "Sie formulieren eine allgemeine These ohne Beleg.",
+        "Sie fragen nach der Bedeutung eines Wortes."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "„ein Beispiel für + A“ → „dafür“",
+    "bezug": true
+  },
+  {
+    "id": "r133",
+    "ausdruck": "Dies lässt sich am Beispiel … veranschaulichen.",
+    "typ": "redemittel",
+    "funktion": "beispiel_geben",
+    "bedeutung": "zeigt eine These an einem konkreten Fall",
+    "beispiel": "Dies lässt sich am Beispiel der Fotosynthese gut veranschaulichen.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Dies lässt sich am Beispiel der Stadt Freiburg gut ___.",
+      "loesung": "veranschaulichen",
+      "optionen": [
+        "verabschieden",
+        "veranschaulichen",
+        "verantworten",
+        "veranlassen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie machen eine abstrakte Aussage in einem Aufsatz durch einen konkreten Fall verständlich.",
+        "Sie erklären, warum Sie keine Quellen angeben.",
+        "Sie verabschieden sich von Ihrem Publikum."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "ähnlich: „… lässt sich an … verdeutlichen“",
+    "bezug": true
+  },
+  {
+    "id": "r134",
+    "ausdruck": "Nehmen wir zum Beispiel …",
+    "typ": "redemittel",
+    "funktion": "beispiel_geben",
+    "bedeutung": "führt im Gespräch spontan ein Beispiel ein",
+    "beispiel": "Nehmen wir zum Beispiel meine Schule: Dort gibt es seit einem Jahr eine Tablet-Klasse.",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Nehmen wir zum ___ die Situation in Skandinavien.",
+      "loesung": "Beispiel",
+      "optionen": [
+        "Zweck",
+        "Exempel",
+        "Fall",
+        "Beispiel"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie nehmen ein Buch aus dem Regal.",
+        "Sie fassen die Ergebnisse einer Diskussion zusammen.",
+        "Sie veranschaulichen in einer Diskussion Ihr Argument spontan mit einem konkreten Fall."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „Nehmen wir den Fall, dass …“",
+    "bezug": true
+  },
+  {
+    "id": "r135",
+    "ausdruck": "Da kann ich Ihnen nur zustimmen.",
+    "typ": "redemittel",
+    "funktion": "zustimmen",
+    "bedeutung": "drückt volle Zustimmung aus",
+    "beispiel": "Da kann ich Ihnen nur zustimmen: Der öffentliche Nahverkehr muss günstiger werden.",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Da kann ich Ihnen nur ___.",
+      "loesung": "zustimmen",
+      "optionen": [
+        "einstimmen",
+        "bestimmen",
+        "abstimmen",
+        "zustimmen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie geben bei einer Wahl Ihre Stimme ab.",
+        "Ihre Gesprächspartnerin äußert eine Meinung, die Sie für falsch halten.",
+        "Ihre Gesprächspartnerin äußert eine Meinung, die Sie vollständig teilen."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„jemandem zustimmen“ (Dativ)",
+    "bezug": false
+  },
+  {
+    "id": "r136",
+    "ausdruck": "Ich sehe das genauso.",
+    "typ": "redemittel",
+    "funktion": "zustimmen",
+    "bedeutung": "zeigt, dass man dieselbe Meinung hat",
+    "beispiel": "Ich sehe das genauso – ohne Investitionen wird die Energiewende scheitern.",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Ich ___ das genauso wie Sie.",
+      "loesung": "sehe",
+      "optionen": [
+        "blicke",
+        "sehe",
+        "schaue",
+        "gucke"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie äußern Zweifel an einer Aussage.",
+        "Sie beschreiben, was Sie auf einem Foto sehen.",
+        "Sie bestätigen im Gespräch, dass Sie die gleiche Meinung haben."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "Gegenteil: „Das sehe ich anders.“",
+    "bezug": false
+  },
+  {
+    "id": "r137",
+    "ausdruck": "Das ist ein wichtiger Punkt, den Sie da ansprechen.",
+    "typ": "redemittel",
+    "funktion": "zustimmen",
+    "bedeutung": "würdigt den Beitrag des Gesprächspartners und knüpft daran an",
+    "beispiel": "Das ist ein wichtiger Punkt, den Sie da ansprechen – gerade mit Blick auf ältere Menschen.",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Das ist ein wichtiger Punkt, den Sie da ___.",
+      "loesung": "ansprechen",
+      "optionen": [
+        "ansprechen",
+        "absprechen",
+        "versprechen",
+        "zusprechen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie fragen eine fremde Person auf der Straße nach dem Weg.",
+        "Sie loben einen Diskussionsbeitrag und wollen daran anknüpfen.",
+        "Sie unterbrechen jemanden, weil er zu lange spricht."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": false
+  },
+  {
+    "id": "r138",
+    "ausdruck": "Dem kann ich mich nur anschließen.",
+    "typ": "redemittel",
+    "funktion": "zustimmen",
+    "bedeutung": "stimmt einer vorher geäußerten Meinung zu (eher formell)",
+    "beispiel": "Dem kann ich mich nur anschließen; auch ich halte die Reform für überfällig.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Dem kann ich mich nur ___.",
+      "loesung": "anschließen",
+      "optionen": [
+        "entschließen",
+        "anschließen",
+        "abschließen",
+        "beschließen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie schließen nach dem Seminar die Tür ab.",
+        "Sie widersprechen Ihrem Vorredner deutlich.",
+        "Ein Vorredner hat Ihre Meinung schon gut formuliert, und Sie stimmen ihm zu."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„sich jemandem/einer Meinung anschließen“ (Dativ)",
+    "bezug": false
+  },
+  {
+    "id": "r139",
+    "ausdruck": "Da muss ich Ihnen widersprechen.",
+    "typ": "redemittel",
+    "funktion": "widersprechen",
+    "bedeutung": "sagt höflich, aber klar, dass man anderer Meinung ist",
+    "beispiel": "Da muss ich Ihnen widersprechen: Die Zahlen zeigen etwas ganz anderes.",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Da muss ich Ihnen leider ___.",
+      "loesung": "widersprechen",
+      "optionen": [
+        "entsprechen",
+        "versprechen",
+        "zusprechen",
+        "widersprechen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie teilen die Meinung Ihres Gesprächspartners.",
+        "Sie geben jemandem ein Versprechen.",
+        "Ihr Gesprächspartner behauptet etwas, das Sie für falsch halten."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„jemandem widersprechen“ (Dativ)",
+    "bezug": false
+  },
+  {
+    "id": "r140",
+    "ausdruck": "Das sehe ich etwas anders.",
+    "typ": "redemittel",
+    "funktion": "widersprechen",
+    "bedeutung": "drückt vorsichtig eine andere Meinung aus",
+    "beispiel": "Das sehe ich etwas anders, denn in meiner Klasse haben die Tablets sehr geholfen.",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Das sehe ich etwas ___.",
+      "loesung": "anders",
+      "optionen": [
+        "fremd",
+        "verschieden",
+        "anders",
+        "gegenteilig"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschreiben eine Veränderung in einer Grafik.",
+        "Sie stimmen einer Meinung begeistert zu.",
+        "Sie widersprechen vorsichtig und höflich einer Meinung."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "höflicher als „Das stimmt nicht.“",
+    "bezug": true
+  },
+  {
+    "id": "r141",
+    "ausdruck": "Ich bin da anderer Meinung.",
+    "typ": "redemittel",
+    "funktion": "widersprechen",
+    "bedeutung": "sagt direkt, dass man nicht zustimmt",
+    "beispiel": "Ich bin da anderer Meinung: Ein Verbot allein löst das Problem nicht.",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Ich bin da ___ Meinung.",
+      "loesung": "anderer",
+      "optionen": [
+        "anderer",
+        "anderen",
+        "anders",
+        "andere"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie machen deutlich, dass Sie eine Position nicht teilen.",
+        "Sie bitten jemanden, seine Meinung zu wiederholen.",
+        "Sie fragen nach dem Weg zur Mensa."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "Genitiv: „anderer Meinung sein“; auch: „derselben Meinung sein“",
+    "bezug": false
+  },
+  {
+    "id": "r142",
+    "ausdruck": "Das trifft nur bedingt zu.",
+    "typ": "redemittel",
+    "funktion": "widersprechen",
+    "bedeutung": "widerspricht teilweise: etwas stimmt nur unter bestimmten Bedingungen",
+    "beispiel": "Dass alle Jugendlichen digital kompetent sind, trifft nur bedingt zu.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Diese Behauptung ___ nur bedingt zu.",
+      "loesung": "trifft",
+      "optionen": [
+        "geht",
+        "passt",
+        "stimmt",
+        "trifft"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie erklären, dass eine Aussage völlig richtig ist.",
+        "Sie erklären, dass eine Aussage nur teilweise richtig ist.",
+        "Sie treffen eine Freundin zufällig in der Stadt."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "„zutreffen“ = richtig sein; aber: „Das stimmt nur bedingt.“ (ohne „zu“)",
+    "bezug": false
+  },
+  {
+    "id": "r143",
+    "ausdruck": "Davon kann keine Rede sein.",
+    "typ": "redemittel",
+    "funktion": "widersprechen",
+    "bedeutung": "widerspricht sehr deutlich",
+    "beispiel": "Dass die Integration gescheitert sei – davon kann keine Rede sein.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Von einer echten Gleichstellung kann noch keine ___ sein.",
+      "loesung": "Rede",
+      "optionen": [
+        "Frage",
+        "Sprache",
+        "Rede",
+        "Aussage"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie halten eine Rede bei einer Abschlussfeier.",
+        "Sie weisen eine Behauptung entschieden als falsch zurück.",
+        "Sie stimmen einer Behauptung vorsichtig zu."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "sehr deutlich – in Diskussionen sparsam verwenden",
+    "bezug": false
+  },
+  {
+    "id": "r144",
+    "ausdruck": "Wie wäre es, wenn wir …?",
+    "typ": "redemittel",
+    "funktion": "kompromiss",
+    "bedeutung": "macht einen Vorschlag, um eine Einigung zu finden",
+    "beispiel": "Wie wäre es, wenn wir die Maßnahme zunächst ein Jahr lang testen?",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Wie ___ es, wenn wir das Budget gleichmäßig aufteilen?",
+      "loesung": "wäre",
+      "optionen": [
+        "würde",
+        "hätte",
+        "sei",
+        "wäre"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bestehen auf Ihrer ursprünglichen Position.",
+        "Sie schlagen in einer Diskussion eine Lösung vor, die beide Seiten akzeptieren könnten.",
+        "Sie fragen nach dem Wetter."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "Konjunktiv II macht den Vorschlag höflich",
+    "bezug": false
+  },
+  {
+    "id": "r145",
+    "ausdruck": "Wir könnten uns doch darauf einigen, dass …",
+    "typ": "redemittel",
+    "funktion": "kompromiss",
+    "bedeutung": "schlägt eine gemeinsame Lösung vor",
+    "beispiel": "Wir könnten uns doch darauf einigen, dass die Innenstadt nur samstags autofrei ist.",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Wir könnten uns doch ___ einigen, dass jede Gruppe zwei Vorschläge macht.",
+      "loesung": "darauf",
+      "optionen": [
+        "darauf",
+        "daran",
+        "dafür",
+        "damit"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie lehnen jeden Vorschlag ab.",
+        "Sie suchen in einer festgefahrenen Diskussion eine gemeinsame Lösung.",
+        "Sie stellen eine Frage zur Prüfungsordnung."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "„sich auf etwas einigen“; auch: „sich auf einen Kompromiss einigen“",
+    "bezug": false
+  },
+  {
+    "id": "r146",
+    "ausdruck": "Beide Positionen haben etwas für sich.",
+    "typ": "redemittel",
+    "funktion": "kompromiss",
+    "bedeutung": "erkennt an, dass beide Seiten berechtigte Argumente haben",
+    "beispiel": "Beide Positionen haben etwas für sich: Präsenzlehre fördert den Kontakt, Online-Lehre die Flexibilität.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Beide Positionen haben etwas ___ sich.",
+      "loesung": "für",
+      "optionen": [
+        "zu",
+        "aus",
+        "für",
+        "vor"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bedanken sich bei der Prüferin.",
+        "Sie erkennen an, dass beide Seiten einer Diskussion gute Argumente haben.",
+        "Sie erklären, dass nur eine Seite recht hat."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "ähnlich: „Beide Seiten haben gute Argumente.“",
+    "bezug": false
+  },
+  {
+    "id": "r147",
+    "ausdruck": "Man könnte einen Mittelweg finden, indem …",
+    "typ": "redemittel",
+    "funktion": "kompromiss",
+    "bedeutung": "schlägt eine Lösung zwischen zwei Extremen vor",
+    "beispiel": "Man könnte einen Mittelweg finden, indem man Noten erst ab Klasse 3 vergibt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Man könnte einen ___ finden, indem man nur Neubauten zu Solaranlagen verpflichtet.",
+      "loesung": "Mittelweg",
+      "optionen": [
+        "Mittelwert",
+        "Mittelweg",
+        "Mittelstand",
+        "Mittelpunkt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie berechnen den Durchschnitt mehrerer Messwerte.",
+        "Sie schlagen eine Lösung vor, die zwischen zwei extremen Positionen liegt.",
+        "Sie verteidigen eine extreme Position."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r148",
+    "ausdruck": "Habe ich Sie richtig verstanden, dass …?",
+    "typ": "redemittel",
+    "funktion": "nachfragen",
+    "bedeutung": "prüft, ob man den anderen richtig verstanden hat",
+    "beispiel": "Habe ich Sie richtig verstanden, dass die Anerkennung bis zu vier Monate dauern kann?",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Habe ich Sie richtig ___, dass Sie gegen ein Verbot sind?",
+      "loesung": "verstanden",
+      "optionen": [
+        "verstanden",
+        "gemerkt",
+        "gesehen",
+        "erkannt"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bitten jemanden, das Fenster zu öffnen.",
+        "Sie fassen am Ende Ihre eigene Meinung zusammen.",
+        "Sie wollen sicherstellen, dass Sie die Aussage Ihrer Gesprächspartnerin korrekt verstanden haben."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "",
+    "bezug": true
+  },
+  {
+    "id": "r149",
+    "ausdruck": "Könnten Sie das bitte genauer erläutern?",
+    "typ": "redemittel",
+    "funktion": "nachfragen",
+    "bedeutung": "bittet höflich um mehr Erklärung",
+    "beispiel": "Könnten Sie das bitte genauer erläutern? Was meinen Sie mit „systemrelevant“?",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Könnten Sie das bitte etwas genauer ___?",
+      "loesung": "erläutern",
+      "optionen": [
+        "erleben",
+        "erlauben",
+        "erläutern",
+        "erledigen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bitten um Erlaubnis, früher zu gehen.",
+        "Sie verstehen einen Begriff Ihres Gesprächspartners nicht genau und bitten um eine Erklärung.",
+        "Sie erklären selbst einen Fachbegriff."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "Konjunktiv II („Könnten Sie …“) wirkt höflich",
+    "bezug": false
+  },
+  {
+    "id": "r150",
+    "ausdruck": "Was genau meinen Sie mit …?",
+    "typ": "redemittel",
+    "funktion": "nachfragen",
+    "bedeutung": "fragt nach der Bedeutung eines Begriffs oder einer Aussage",
+    "beispiel": "Was genau meinen Sie mit „nachhaltiger Mobilität“?",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Was genau ___ Sie mit „Chancengleichheit“?",
+      "loesung": "meinen",
+      "optionen": [
+        "denken",
+        "sagen",
+        "meinen",
+        "glauben"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie beschreiben eine Grafik.",
+        "Sie stimmen Ihrem Gesprächspartner zu.",
+        "Sie bitten Ihren Gesprächspartner, einen Begriff zu präzisieren."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "auch: „Was verstehen Sie unter …?“",
+    "bezug": false
+  },
+  {
+    "id": "r151",
+    "ausdruck": "Das ist eine gute Frage, darüber muss ich kurz nachdenken.",
+    "typ": "redemittel",
+    "funktion": "zeit_gewinnen",
+    "bedeutung": "verschafft Zeit, um eine Antwort zu überlegen",
+    "beispiel": "Das ist eine gute Frage – darüber muss ich kurz nachdenken, weil das an meiner früheren Schule ganz anders geregelt war.",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Das ist eine gute Frage, darüber muss ich kurz ___.",
+      "loesung": "nachdenken",
+      "optionen": [
+        "bedenken",
+        "überdenken",
+        "nachdenken",
+        "andenken"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie stellen selbst eine Frage an die Prüferin.",
+        "Sie haben eine Frage sofort und vollständig beantwortet.",
+        "Eine Prüferin stellt Ihnen eine unerwartete Frage."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„nachdenken über + A“; „bedenken“ und „überdenken“ stehen mit Akkusativ",
+    "bezug": true
+  },
+  {
+    "id": "r152",
+    "ausdruck": "Lassen Sie mich kurz überlegen …",
+    "typ": "redemittel",
+    "funktion": "zeit_gewinnen",
+    "bedeutung": "zeigt, dass man einen Moment zum Nachdenken braucht",
+    "beispiel": "Lassen Sie mich kurz überlegen … Ja, ich denke, das hängt stark vom Einkommen ab.",
+    "register": "muendlich",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Lassen Sie mich kurz ___ …",
+      "loesung": "überlegen",
+      "optionen": [
+        "überlegt",
+        "überlegen",
+        "überleben",
+        "überlassen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie geben einer anderen Person das Wort.",
+        "Sie brauchen in der mündlichen Prüfung einen Moment, bevor Sie antworten.",
+        "Sie beenden Ihre Präsentation."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "nur kurz verwenden – danach inhaltlich antworten",
+    "bezug": false
+  },
+  {
+    "id": "r153",
+    "ausdruck": "Mein Vortrag gliedert sich in … Teile.",
+    "typ": "redemittel",
+    "funktion": "strukturieren",
+    "bedeutung": "gibt einen Überblick über den Aufbau einer Präsentation",
+    "beispiel": "Mein Vortrag gliedert sich in drei Teile: Problem, Ursachen und Lösungen.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Mein Vortrag ___ sich in drei Teile.",
+      "loesung": "gliedert",
+      "optionen": [
+        "ordnet",
+        "bildet",
+        "baut",
+        "gliedert"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bitten das Publikum um Ruhe.",
+        "Sie beantworten eine Frage aus dem Publikum.",
+        "Sie erklären zu Beginn einer Präsentation, wie Ihr Vortrag aufgebaut ist."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "Nomen: „die Gliederung“",
+    "bezug": false
+  },
+  {
+    "id": "r154",
+    "ausdruck": "Damit komme ich zum nächsten Punkt.",
+    "typ": "redemittel",
+    "funktion": "strukturieren",
+    "bedeutung": "leitet zu einem neuen Abschnitt über",
+    "beispiel": "Damit komme ich zum nächsten Punkt: den Kosten der Maßnahme.",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Damit ___ ich zum nächsten Punkt.",
+      "loesung": "komme",
+      "optionen": [
+        "komme",
+        "fahre",
+        "trete",
+        "laufe"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie wechseln in Ihrer Präsentation zum nächsten Abschnitt.",
+        "Sie kommen zu spät zum Seminar.",
+        "Sie beginnen Ihre Präsentation."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Ich komme nun zu …“",
+    "bezug": false
+  },
+  {
+    "id": "r155",
+    "ausdruck": "Ein weiterer Aspekt, auf den ich eingehen möchte, ist …",
+    "typ": "redemittel",
+    "funktion": "strukturieren",
+    "bedeutung": "führt einen neuen Gesichtspunkt ein",
+    "beispiel": "Ein weiterer Aspekt, auf den ich eingehen möchte, ist die Rolle der Medien.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Ein weiterer Aspekt, auf ___ ich eingehen möchte, ist die Finanzierung.",
+      "loesung": "den",
+      "optionen": [
+        "die",
+        "dem",
+        "das",
+        "den"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie stellen eine Rückfrage.",
+        "Sie fassen den ganzen Text zusammen.",
+        "Sie führen in einem Text einen neuen Gesichtspunkt ein."
+      ],
+      "loesung": 2
+    },
+    "hinweis": "„eingehen auf + A“; „der Aspekt“ → „auf den“",
+    "bezug": false
+  },
+  {
+    "id": "r156",
+    "ausdruck": "Zusammenfassend lässt sich sagen, dass …",
+    "typ": "redemittel",
+    "funktion": "zusammenfassen",
+    "bedeutung": "fasst die wichtigsten Ergebnisse zusammen",
+    "beispiel": "Zusammenfassend lässt sich sagen, dass die Vorteile des Projekts überwiegen.",
+    "register": "schriftlich",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "Zusammenfassend lässt sich ___, dass das Projekt erfolgreich war.",
+      "loesung": "sagen",
+      "optionen": [
+        "reden",
+        "sprechen",
+        "sagen",
+        "erzählen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie bündeln am Ende eines Textes die wichtigsten Gedanken.",
+        "Sie leiten ein neues Thema ein.",
+        "Sie erzählen eine lustige Anekdote."
+      ],
+      "loesung": 0
+    },
+    "hinweis": "auch: „Zusammenfassend lässt sich festhalten, dass …“",
+    "bezug": false
+  },
+  {
+    "id": "r157",
+    "ausdruck": "Kurz gesagt: …",
+    "typ": "redemittel",
+    "funktion": "zusammenfassen",
+    "bedeutung": "fasst etwas in wenigen Worten zusammen",
+    "beispiel": "Kurz gesagt: Ohne mehr Personal lässt sich das Problem nicht lösen.",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "___ gesagt: Die Maßnahme ist zu teuer und bringt zu wenig.",
+      "loesung": "Kurz",
+      "optionen": [
+        "Kürzlich",
+        "Klein",
+        "Gekürzt",
+        "Kurz"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie berichten, was vor wenigen Tagen passiert ist.",
+        "Sie fassen eine lange Erklärung in einem Satz zusammen.",
+        "Sie erklären ein Thema sehr ausführlich."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "ähnlich: „Mit anderen Worten: …“",
+    "bezug": false
+  },
+  {
+    "id": "r158",
+    "ausdruck": "Abschließend möchte ich betonen, dass …",
+    "typ": "redemittel",
+    "funktion": "schluss",
+    "bedeutung": "hebt am Ende den wichtigsten Gedanken hervor",
+    "beispiel": "Abschließend möchte ich betonen, dass gute Bildung bereits in der Kita beginnt.",
+    "register": "neutral",
+    "pruefung": "beides",
+    "luecke": {
+      "satz": "___ möchte ich betonen, dass jeder Einzelne Verantwortung trägt. Vielen Dank für Ihre Aufmerksamkeit.",
+      "loesung": "Abschließend",
+      "optionen": [
+        "Abschließend",
+        "Einschließlich",
+        "Beschließend",
+        "Ausschließlich"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie schließen die Tür des Seminarraums ab.",
+        "Sie formulieren am Ende Ihres Vortrags eine letzte wichtige Botschaft.",
+        "Sie beginnen Ihren Vortrag mit einer Frage."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "nicht verwechseln mit „anschließend“ (= danach)",
+    "bezug": true
+  },
+  {
+    "id": "r159",
+    "ausdruck": "Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre Fragen.",
+    "typ": "redemittel",
+    "funktion": "schluss",
+    "bedeutung": "beendet eine Präsentation höflich",
+    "beispiel": "Damit bin ich am Ende. Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre Fragen.",
+    "register": "neutral",
+    "pruefung": "sprechen",
+    "luecke": {
+      "satz": "Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre ___.",
+      "loesung": "Fragen",
+      "optionen": [
+        "Antworten",
+        "Befragung",
+        "Fragen",
+        "Fragebogen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie stellen der Prüferin eine Frage.",
+        "Sie beenden Ihre Präsentation in der mündlichen Prüfung.",
+        "Sie beginnen Ihre Präsentation."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "„sich freuen auf + A“ (Zukunft) – nicht „über“",
+    "bezug": false
+  },
+  {
+    "id": "r160",
+    "ausdruck": "Aus den genannten Gründen bin ich der Meinung, dass …",
+    "typ": "redemittel",
+    "funktion": "schluss",
+    "bedeutung": "nennt am Ende die eigene Position als Ergebnis der Argumentation",
+    "beispiel": "Aus den genannten Gründen bin ich der Meinung, dass ausländische Lehrkräfte schneller anerkannt werden sollten.",
+    "register": "schriftlich",
+    "pruefung": "schreiben",
+    "luecke": {
+      "satz": "Aus den genannten ___ bin ich der Meinung, dass ein Verbot nicht sinnvoll ist.",
+      "loesung": "Gründen",
+      "optionen": [
+        "Grundes",
+        "Gründe",
+        "Grund",
+        "Gründen"
+      ]
+    },
+    "situation": {
+      "frage": "In welcher Situation passt der Ausdruck am besten?",
+      "optionen": [
+        "Sie fragen nach einem Beispiel.",
+        "Sie formulieren am Ende einer Erörterung Ihre eigene, begründete Position.",
+        "Sie zitieren am Anfang eines Textes eine Statistik."
+      ],
+      "loesung": 1
+    },
+    "hinweis": "Dativ Plural: „aus den Gründen“",
+    "bezug": true
+  }
+]

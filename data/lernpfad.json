@@ -1,0 +1,579 @@
+[
+ {
+  "tag": 1,
+  "datum": "2026-11-12",
+  "woche": 1,
+  "titel": "Start: Wo stehe ich?",
+  "schritte": [
+   {
+    "typ": "einstufung"
+   },
+   {
+    "typ": "strategie",
+    "teil": "ueberblick"
+   }
+  ],
+  "hinweis": "Heute nur der Einstufungstest (ca. 25 Min.) – er legt deine Schwerpunkte fest."
+ },
+ {
+  "tag": 2,
+  "datum": "2026-11-13",
+  "woche": 1,
+  "titel": "Konnektoren & Sprachbausteine",
+  "schritte": [
+   {
+    "typ": "strategie",
+    "teil": "sb"
+   },
+   {
+    "typ": "grammatik",
+    "kategorie": "konnektoren"
+   },
+   {
+    "typ": "sb",
+    "modus": "uebung"
+   },
+   {
+    "typ": "hoeren",
+    "teil": "hv1",
+    "modus": "uebung"
+   }
+  ]
+ },
+ {
+  "tag": 3,
+  "datum": "2026-11-14",
+  "woche": 1,
+  "titel": "Präpositionen & Lesen Teil 1",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "praepositionen"
+   },
+   {
+    "typ": "sb",
+    "modus": "uebung"
+   },
+   {
+    "typ": "strategie",
+    "teil": "lv1"
+   },
+   {
+    "typ": "lesen",
+    "teil": "lv1",
+    "modus": "uebung"
+   }
+  ]
+ },
+ {
+  "tag": 4,
+  "datum": "2026-11-15",
+  "woche": 1,
+  "titel": "Der erste eigene Text",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "rektion"
+   },
+   {
+    "typ": "strategie",
+    "teil": "schreiben"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "uebung"
+   }
+  ],
+  "hinweis": "Ohne Zeitdruck schreiben. Nutze den Redemittel-Baukasten."
+ },
+ {
+  "tag": 5,
+  "datum": "2026-11-16",
+  "woche": 1,
+  "titel": "Passiv & Hören Teil 2",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "passiv"
+   },
+   {
+    "typ": "sb",
+    "modus": "uebung"
+   },
+   {
+    "typ": "strategie",
+    "teil": "hv2"
+   },
+   {
+    "typ": "hoeren",
+    "teil": "hv2",
+    "modus": "uebung"
+   }
+  ]
+ },
+ {
+  "tag": 6,
+  "datum": "2026-11-17",
+  "woche": 1,
+  "titel": "Nomen-Verb-Verbindungen & Präsentieren",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "nomen_verb"
+   },
+   {
+    "typ": "strategie",
+    "teil": "lv2"
+   },
+   {
+    "typ": "lesen",
+    "teil": "lv2",
+    "modus": "uebung"
+   },
+   {
+    "typ": "strategie",
+    "teil": "sprechen_1a"
+   },
+   {
+    "typ": "sprechen",
+    "teil": "1a"
+   }
+  ]
+ },
+ {
+  "tag": 7,
+  "datum": "2026-11-18",
+  "woche": 1,
+  "titel": "Relativsätze & Vorlesungen",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "relativsatz"
+   },
+   {
+    "typ": "strategie",
+    "teil": "hv3"
+   },
+   {
+    "typ": "strategie",
+    "teil": "notizen"
+   },
+   {
+    "typ": "hoeren",
+    "teil": "hv3",
+    "modus": "uebung"
+   },
+   {
+    "typ": "fehler"
+   }
+  ]
+ },
+ {
+  "tag": 8,
+  "datum": "2026-11-19",
+  "woche": 2,
+  "titel": "Konjunktiv & SB unter Zeitdruck",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "konjunktiv"
+   },
+   {
+    "typ": "sb",
+    "modus": "pruefung"
+   },
+   {
+    "typ": "strategie",
+    "teil": "lv3"
+   },
+   {
+    "typ": "lesen",
+    "teil": "lv3",
+    "modus": "uebung"
+   }
+  ]
+ },
+ {
+  "tag": 9,
+  "datum": "2026-11-20",
+  "woche": 2,
+  "titel": "Nominalisierung & Schreiben",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "nominalisierung"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "uebung"
+   },
+   {
+    "typ": "hoeren",
+    "teil": "hv1",
+    "modus": "pruefung"
+   }
+  ]
+ },
+ {
+  "tag": 10,
+  "datum": "2026-11-21",
+  "woche": 2,
+  "titel": "Partizipien & Prüfungstempo",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "partizip"
+   },
+   {
+    "typ": "sb",
+    "modus": "pruefung"
+   },
+   {
+    "typ": "hoeren",
+    "teil": "hv2",
+    "modus": "pruefung"
+   },
+   {
+    "typ": "lesen",
+    "teil": "lv1",
+    "modus": "pruefung"
+   }
+  ]
+ },
+ {
+  "tag": 11,
+  "datum": "2026-11-22",
+  "woche": 2,
+  "titel": "Präsentation mit Anschlussfrage",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "deklination"
+   },
+   {
+    "typ": "sprechen",
+    "teil": "1a"
+   },
+   {
+    "typ": "redewendungen"
+   }
+  ]
+ },
+ {
+  "tag": 12,
+  "datum": "2026-11-23",
+  "woche": 2,
+  "titel": "Pronomen & Lesen/Hören",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "pronomen"
+   },
+   {
+    "typ": "lesen",
+    "teil": "lv2",
+    "modus": "pruefung"
+   },
+   {
+    "typ": "hoeren",
+    "teil": "hv3",
+    "modus": "pruefung"
+   }
+  ]
+ },
+ {
+  "tag": 13,
+  "datum": "2026-11-24",
+  "woche": 2,
+  "titel": "Schreiben in 70 Minuten",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "wortstellung"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "pruefung"
+   }
+  ],
+  "hinweis": "Wie in der Prüfung: 10 Min. planen, 50 Min. schreiben, 10 Min. korrigieren."
+ },
+ {
+  "tag": 14,
+  "datum": "2026-11-25",
+  "woche": 2,
+  "titel": "Teiltest Lesen + Sprachbausteine",
+  "schritte": [
+   {
+    "typ": "strategie",
+    "teil": "zeitmanagement"
+   },
+   {
+    "typ": "teiltest",
+    "bereich": "lesen_sb"
+   }
+  ],
+  "hinweis": "90 Minuten am Stück – wie in der Prüfung."
+ },
+ {
+  "tag": 15,
+  "datum": "2026-11-26",
+  "woche": 3,
+  "titel": "Teiltest Hören",
+  "schritte": [
+   {
+    "typ": "teiltest",
+    "bereich": "hoeren"
+   },
+   {
+    "typ": "fehler"
+   }
+  ]
+ },
+ {
+  "tag": 16,
+  "datum": "2026-11-27",
+  "woche": 3,
+  "titel": "Diskutieren mit der KI-Partnerin",
+  "schritte": [
+   {
+    "typ": "strategie",
+    "teil": "sprechen_2"
+   },
+   {
+    "typ": "sprechen",
+    "teil": "2"
+   },
+   {
+    "typ": "auto"
+   }
+  ]
+ },
+ {
+  "tag": 17,
+  "datum": "2026-11-28",
+  "woche": 3,
+  "titel": "Schreiben & Schwachstellen",
+  "schritte": [
+   {
+    "typ": "schreiben",
+    "modus": "pruefung"
+   },
+   {
+    "typ": "auto"
+   }
+  ]
+ },
+ {
+  "tag": 18,
+  "datum": "2026-11-29",
+  "woche": 3,
+  "titel": "Lesen/SB komplett + Präsentation",
+  "schritte": [
+   {
+    "typ": "teiltest",
+    "bereich": "lesen_sb"
+   },
+   {
+    "typ": "sprechen",
+    "teil": "1a"
+   }
+  ]
+ },
+ {
+  "tag": 19,
+  "datum": "2026-11-30",
+  "woche": 3,
+  "titel": "Hören komplett + Diskussion",
+  "schritte": [
+   {
+    "typ": "teiltest",
+    "bereich": "hoeren"
+   },
+   {
+    "typ": "sprechen",
+    "teil": "2"
+   }
+  ]
+ },
+ {
+  "tag": 20,
+  "datum": "2026-12-01",
+  "woche": 3,
+  "titel": "Schreiben & Sprachbausteine",
+  "schritte": [
+   {
+    "typ": "schreiben",
+    "modus": "pruefung"
+   },
+   {
+    "typ": "sb",
+    "modus": "pruefung"
+   }
+  ]
+ },
+ {
+  "tag": 21,
+  "datum": "2026-12-02",
+  "woche": 3,
+  "titel": "Fehler-Marathon",
+  "schritte": [
+   {
+    "typ": "auto"
+   },
+   {
+    "typ": "auto"
+   },
+   {
+    "typ": "fehler"
+   }
+  ],
+  "hinweis": "Heute zählt nur eins: deine häufigsten Fehler."
+ },
+ {
+  "tag": 22,
+  "datum": "2026-12-03",
+  "woche": 4,
+  "titel": "Schwachstellen & Zeitmanagement",
+  "schritte": [
+   {
+    "typ": "strategie",
+    "teil": "zeitmanagement"
+   },
+   {
+    "typ": "auto"
+   },
+   {
+    "typ": "fehler"
+   }
+  ]
+ },
+ {
+  "tag": 23,
+  "datum": "2026-12-04",
+  "woche": 4,
+  "titel": "Mündlich in Form bringen",
+  "schritte": [
+   {
+    "typ": "sprechen",
+    "teil": "1a"
+   },
+   {
+    "typ": "sprechen",
+    "teil": "2"
+   },
+   {
+    "typ": "redewendungen"
+   }
+  ]
+ },
+ {
+  "tag": 24,
+  "datum": "2026-12-05",
+  "woche": 4,
+  "titel": "Generalprobe 1",
+  "schritte": [
+   {
+    "typ": "generalprobe",
+    "nr": 1
+   }
+  ],
+  "hinweis": "Samstag: komplette Probeprüfung mit Originalzeiten (ca. 4,5 Std. inkl. Pause). Du kannst zwischen den Teilen pausieren."
+ },
+ {
+  "tag": 25,
+  "datum": "2026-12-06",
+  "woche": 4,
+  "titel": "Auswertung Generalprobe 1",
+  "schritte": [
+   {
+    "typ": "fehler"
+   },
+   {
+    "typ": "auto"
+   },
+   {
+    "typ": "auto"
+   }
+  ]
+ },
+ {
+  "tag": 26,
+  "datum": "2026-12-07",
+  "woche": 4,
+  "titel": "Gezielt nachschärfen",
+  "schritte": [
+   {
+    "typ": "auto"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "pruefung"
+   }
+  ]
+ },
+ {
+  "tag": 27,
+  "datum": "2026-12-08",
+  "woche": 4,
+  "titel": "Generalprobe 2 – schriftlich",
+  "schritte": [
+   {
+    "typ": "generalprobe",
+    "nr": 2,
+    "teil": "schriftlich"
+   }
+  ],
+  "hinweis": "Plane dir heute Zeit ein (ca. 3,5 Std.). Wenn das nicht geht: Teile auf heute und morgen verteilen."
+ },
+ {
+  "tag": 28,
+  "datum": "2026-12-09",
+  "woche": 4,
+  "titel": "Generalprobe 2 – mündlich",
+  "schritte": [
+   {
+    "typ": "generalprobe",
+    "nr": 2,
+    "teil": "muendlich"
+   },
+   {
+    "typ": "fehler"
+   }
+  ]
+ },
+ {
+  "tag": 29,
+  "datum": "2026-12-10",
+  "woche": 4,
+  "titel": "Leicht: Wiederholen",
+  "schritte": [
+   {
+    "typ": "redewendungen"
+   },
+   {
+    "typ": "strategie",
+    "teil": "ueberblick"
+   },
+   {
+    "typ": "fehler"
+   }
+  ],
+  "hinweis": "Nur noch wiederholen – nichts Neues."
+ },
+ {
+  "tag": 30,
+  "datum": "2026-12-11",
+  "woche": 4,
+  "titel": "Leicht: Bereit für morgen",
+  "schritte": [
+   {
+    "typ": "checkliste"
+   },
+   {
+    "typ": "redewendungen"
+   }
+  ],
+  "hinweis": "Kurz und entspannt. Tasche packen, früh schlafen. Du schaffst das! 💪"
+ }
+]

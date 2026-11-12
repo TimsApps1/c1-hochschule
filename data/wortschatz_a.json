@@ -1,0 +1,6831 @@
+[
+  {
+    "id": "w0001",
+    "wort": "die Hypothese",
+    "wortart": "Nomen",
+    "formen": "die Hypothesen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Eine Annahme, die noch nicht bewiesen ist und die man in einer Untersuchung prüfen will.",
+    "synonyme": [
+      "die Annahme",
+      "die Vermutung"
+    ],
+    "antonyme": [
+      "die Gewissheit"
+    ],
+    "wortfamilie": [
+      "hypothetisch"
+    ],
+    "kollokationen": [
+      "eine Hypothese aufstellen",
+      "eine Hypothese bestätigen",
+      "eine Hypothese verwerfen"
+    ],
+    "beispiel": "Im Biologieunterricht formulieren die Schülerinnen und Schüler vor jedem Experiment eine Hypothese.",
+    "luecke": {
+      "satz": "Die Ergebnisse des Experiments bestätigen die ___, dass Licht das Pflanzenwachstum beschleunigt.",
+      "loesung": "Hypothese",
+      "optionen": [
+        "Hypothese",
+        "Hypothek",
+        "Prothese",
+        "Synthese"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0002",
+    "wort": "die Erhebung",
+    "wortart": "Nomen",
+    "formen": "die Erhebungen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Das systematische Sammeln von Daten, zum Beispiel durch Umfragen oder Messungen.",
+    "synonyme": [
+      "die Datensammlung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "erheben",
+      "die Datenerhebung"
+    ],
+    "kollokationen": [
+      "eine Erhebung durchführen",
+      "laut einer aktuellen Erhebung"
+    ],
+    "beispiel": "Die Erhebung wurde an 25 Gesamtschulen in Nordrhein-Westfalen durchgeführt.",
+    "luecke": {
+      "satz": "Für die ___ der Daten wurden 500 Studierende online befragt.",
+      "loesung": "Erhebung",
+      "optionen": [
+        "Erhöhung",
+        "Erhebung",
+        "Erholung",
+        "Erhaltung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0003",
+    "wort": "der Befund",
+    "wortart": "Nomen",
+    "formen": "die Befunde",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Das Ergebnis einer Untersuchung, in der Wissenschaft oder in der Medizin.",
+    "synonyme": [
+      "das Ergebnis",
+      "die Erkenntnis"
+    ],
+    "antonyme": [],
+    "wortfamilie": [],
+    "kollokationen": [
+      "ein eindeutiger Befund",
+      "die Befunde deuten darauf hin, dass …"
+    ],
+    "beispiel": "Die Befunde der Studie deuten darauf hin, dass Schlafmangel die Konzentration verringert.",
+    "luecke": {
+      "satz": "Die ___ der Langzeitstudie widersprechen früheren Annahmen.",
+      "loesung": "Befunde",
+      "optionen": [
+        "Befugnisse",
+        "Bestände",
+        "Befunde",
+        "Beschlüsse"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0004",
+    "wort": "die Stichprobe",
+    "wortart": "Nomen",
+    "formen": "die Stichproben",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Eine kleine, ausgewählte Gruppe aus einer größeren Gesamtheit, die man untersucht.",
+    "synonyme": [
+      "die Auswahl"
+    ],
+    "antonyme": [
+      "die Vollerhebung"
+    ],
+    "wortfamilie": [
+      "die Probe"
+    ],
+    "kollokationen": [
+      "eine repräsentative Stichprobe",
+      "eine Stichprobe ziehen"
+    ],
+    "beispiel": "Für ihre Abschlussarbeit befragte sie eine Stichprobe von 120 Lehrkräften aus NRW.",
+    "luecke": {
+      "satz": "Die ___ war mit nur 30 Personen zu klein, um allgemeine Aussagen zu treffen.",
+      "loesung": "Stichprobe",
+      "optionen": [
+        "Stichwahl",
+        "Kostprobe",
+        "Stichelei",
+        "Stichprobe"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0005",
+    "wort": "die Fragestellung",
+    "wortart": "Nomen",
+    "formen": "die Fragestellungen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Die zentrale Frage, die eine Arbeit oder Studie beantworten will.",
+    "synonyme": [
+      "die Forschungsfrage",
+      "das Erkenntnisinteresse"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "fragen",
+      "infrage stellen"
+    ],
+    "kollokationen": [
+      "eine Fragestellung formulieren",
+      "einer Fragestellung nachgehen"
+    ],
+    "beispiel": "Eine klare Fragestellung ist die Grundlage jeder guten Hausarbeit.",
+    "luecke": {
+      "satz": "In der Einleitung wird die ___ der Arbeit präzise formuliert und eingegrenzt.",
+      "loesung": "Fragestellung",
+      "optionen": [
+        "Fragestellung",
+        "Fertigstellung",
+        "Freistellung",
+        "Bereitstellung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0006",
+    "wort": "die Schlussfolgerung",
+    "wortart": "Nomen",
+    "formen": "die Schlussfolgerungen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Ein Urteil, das man aus Fakten oder Argumenten ableitet.",
+    "synonyme": [
+      "der Schluss",
+      "die Folgerung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "schlussfolgern",
+      "folgern"
+    ],
+    "kollokationen": [
+      "eine Schlussfolgerung ziehen",
+      "zu der Schlussfolgerung kommen, dass …"
+    ],
+    "beispiel": "Aus den Daten lässt sich die Schlussfolgerung ziehen, dass kleinere Klassen das Lernen erleichtern.",
+    "luecke": {
+      "satz": "Aus den widersprüchlichen Ergebnissen lassen sich keine eindeutigen ___ ziehen.",
+      "loesung": "Schlussfolgerungen",
+      "optionen": [
+        "Verfolgungen",
+        "Schlussfolgerungen",
+        "Erfolge",
+        "Abfolgen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0007",
+    "wort": "die Tragweite",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Wie groß und wichtig die Folgen einer Sache sind.",
+    "synonyme": [
+      "die Bedeutung",
+      "das Ausmaß"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "tragen",
+      "tragend"
+    ],
+    "kollokationen": [
+      "von großer Tragweite sein",
+      "die Tragweite einer Entscheidung erkennen"
+    ],
+    "beispiel": "Viele unterschätzen die Tragweite dieser Entscheidung für künftige Generationen.",
+    "luecke": {
+      "satz": "Erst Jahre später wurde die volle ___ der Entdeckung erkannt.",
+      "loesung": "Tragweite",
+      "optionen": [
+        "Tragfläche",
+        "Wegstrecke",
+        "Tragweite",
+        "Tragbahre"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0008",
+    "wort": "der Kausalzusammenhang",
+    "wortart": "Nomen",
+    "formen": "die Kausalzusammenhänge",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Eine Verbindung zwischen zwei Dingen, bei der das eine die Ursache des anderen ist.",
+    "synonyme": [
+      "die Ursache-Wirkungs-Beziehung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "kausal",
+      "die Kausalität"
+    ],
+    "kollokationen": [
+      "einen Kausalzusammenhang nachweisen",
+      "ein direkter Kausalzusammenhang"
+    ],
+    "beispiel": "Eine Korrelation beweist noch keinen Kausalzusammenhang.",
+    "luecke": {
+      "satz": "Zwischen Handynutzung und schlechteren Noten konnte kein eindeutiger ___ nachgewiesen werden.",
+      "loesung": "Kausalzusammenhang",
+      "optionen": [
+        "Kausalsatz",
+        "Zusammenschluss",
+        "Zusammenbruch",
+        "Kausalzusammenhang"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0009",
+    "wort": "die Methodik",
+    "wortart": "Nomen",
+    "formen": "die Methodiken (selten)",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Alle Methoden zusammen, mit denen man in einer Untersuchung arbeitet.",
+    "synonyme": [
+      "das Vorgehen",
+      "die Vorgehensweise"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Methode",
+      "methodisch"
+    ],
+    "kollokationen": [
+      "die Methodik erläutern",
+      "Mängel in der Methodik"
+    ],
+    "beispiel": "Im Methodenteil der Arbeit wird die Methodik genau beschrieben, damit andere die Studie wiederholen können.",
+    "luecke": {
+      "satz": "Die Gutachter kritisierten vor allem die ___ der Studie, da eine Kontrollgruppe fehlte.",
+      "loesung": "Methodik",
+      "optionen": [
+        "Methodik",
+        "Mechanik",
+        "Metrik",
+        "Thematik"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0010",
+    "wort": "die Gegenüberstellung",
+    "wortart": "Nomen",
+    "formen": "die Gegenüberstellungen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Man stellt zwei oder mehr Dinge nebeneinander, um sie zu vergleichen.",
+    "synonyme": [
+      "der Vergleich"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "gegenüberstellen",
+      "gegenüber"
+    ],
+    "kollokationen": [
+      "eine Gegenüberstellung der Vor- und Nachteile",
+      "in der Gegenüberstellung"
+    ],
+    "beispiel": "Die Tabelle bietet eine Gegenüberstellung des deutschen und des philippinischen Schulsystems.",
+    "luecke": {
+      "satz": "Eine ___ von Pro- und Kontra-Argumenten erleichtert die Entscheidung.",
+      "loesung": "Gegenüberstellung",
+      "optionen": [
+        "Gegendarstellung",
+        "Gegenüberstellung",
+        "Gegenleistung",
+        "Gegenwehr"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0011",
+    "wort": "die Validität",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Ein Test oder eine Studie misst wirklich das, was sie messen soll.",
+    "synonyme": [
+      "die Gültigkeit",
+      "die Aussagekraft"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "valide"
+    ],
+    "kollokationen": [
+      "die Validität überprüfen",
+      "die Validität der Ergebnisse"
+    ],
+    "beispiel": "Um die Validität des Tests zu sichern, wurden die Fragen vorher mit einer kleinen Gruppe erprobt.",
+    "luecke": {
+      "satz": "Wegen der ungenau formulierten Fragen ist die ___ der Umfrage zweifelhaft.",
+      "loesung": "Validität",
+      "optionen": [
+        "Vitalität",
+        "Vielfalt",
+        "Validität",
+        "Volatilität"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0012",
+    "wort": "die Abgrenzung",
+    "wortart": "Nomen",
+    "formen": "die Abgrenzungen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Man zeigt genau, wo ein Begriff oder Thema endet und was nicht dazugehört.",
+    "synonyme": [
+      "die Unterscheidung",
+      "die Eingrenzung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "abgrenzen",
+      "die Grenze"
+    ],
+    "kollokationen": [
+      "in Abgrenzung zu + D",
+      "eine klare Abgrenzung"
+    ],
+    "beispiel": "In Abgrenzung zu früheren Studien untersucht diese Arbeit nur Grundschulen.",
+    "luecke": {
+      "satz": "In ___ zu älteren Definitionen wird der Begriff hier enger gefasst.",
+      "loesung": "Abgrenzung",
+      "optionen": [
+        "Ausgrenzung",
+        "Begrenzung",
+        "Abgabe",
+        "Abgrenzung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0013",
+    "wort": "der Stellenwert",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "allgemein_akademisch",
+    "register": "neutral",
+    "erklaerung": "Wie wichtig etwas in einem bestimmten Zusammenhang ist.",
+    "synonyme": [
+      "die Bedeutung",
+      "die Relevanz"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Stelle",
+      "der Wert"
+    ],
+    "kollokationen": [
+      "einen hohen Stellenwert haben",
+      "der Stellenwert von Bildung"
+    ],
+    "beispiel": "In Deutschland hat die duale Berufsausbildung einen hohen Stellenwert.",
+    "luecke": {
+      "satz": "Praktische Experimente haben im Biologieunterricht einen hohen ___.",
+      "loesung": "Stellenwert",
+      "optionen": [
+        "Stellenwert",
+        "Stellplatz",
+        "Messwert",
+        "Nennwert"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0014",
+    "wort": "die Herangehensweise",
+    "wortart": "Nomen",
+    "formen": "die Herangehensweisen",
+    "thema": "allgemein_akademisch",
+    "register": "neutral",
+    "erklaerung": "Die Art, wie man ein Problem oder eine Aufgabe angeht.",
+    "synonyme": [
+      "der Ansatz",
+      "die Vorgehensweise"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "herangehen an + A"
+    ],
+    "kollokationen": [
+      "eine neue Herangehensweise wählen",
+      "eine interdisziplinäre Herangehensweise"
+    ],
+    "beispiel": "Die Forschungsgruppe wählte eine interdisziplinäre Herangehensweise.",
+    "luecke": {
+      "satz": "Jede Lehrkraft hat ihre eigene ___ an schwierige Situationen im Unterricht.",
+      "loesung": "Herangehensweise",
+      "optionen": [
+        "Lebensweise",
+        "Herangehensweise",
+        "Schreibweise",
+        "Bauweise"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0015",
+    "wort": "die Diskrepanz",
+    "wortart": "Nomen",
+    "formen": "die Diskrepanzen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Ein Unterschied oder Widerspruch zwischen zwei Dingen, die eigentlich übereinstimmen sollten.",
+    "synonyme": [
+      "der Widerspruch",
+      "die Abweichung"
+    ],
+    "antonyme": [
+      "die Übereinstimmung"
+    ],
+    "wortfamilie": [
+      "diskrepant"
+    ],
+    "kollokationen": [
+      "eine Diskrepanz zwischen Theorie und Praxis",
+      "eine erhebliche Diskrepanz"
+    ],
+    "beispiel": "Viele Studierende erleben eine Diskrepanz zwischen Theorie und Praxis.",
+    "luecke": {
+      "satz": "Zwischen den offiziellen Zahlen und den eigenen Messungen besteht eine erhebliche ___.",
+      "loesung": "Diskrepanz",
+      "optionen": [
+        "Diskretion",
+        "Disziplin",
+        "Diskrepanz",
+        "Dissertation"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0016",
+    "wort": "das Fazit",
+    "wortart": "Nomen",
+    "formen": "die Fazits / die Fazite",
+    "thema": "allgemein_akademisch",
+    "register": "neutral",
+    "erklaerung": "Die kurze Zusammenfassung des wichtigsten Ergebnisses am Ende.",
+    "synonyme": [
+      "das Resümee",
+      "die Bilanz"
+    ],
+    "antonyme": [],
+    "wortfamilie": [],
+    "kollokationen": [
+      "ein Fazit ziehen",
+      "im Fazit"
+    ],
+    "beispiel": "Im Fazit ihrer Präsentation fasste sie die drei wichtigsten Ergebnisse noch einmal zusammen.",
+    "luecke": {
+      "satz": "Am Ende des Projekts zog das Team ein durchweg positives ___.",
+      "loesung": "Fazit",
+      "optionen": [
+        "Faktum",
+        "Defizit",
+        "Visum",
+        "Fazit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0017",
+    "wort": "belegen",
+    "wortart": "Verb",
+    "formen": "belegt, belegte, hat belegt",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Mit Fakten oder Quellen zeigen, dass eine Aussage stimmt.",
+    "synonyme": [
+      "nachweisen",
+      "beweisen"
+    ],
+    "antonyme": [
+      "widerlegen"
+    ],
+    "wortfamilie": [
+      "der Beleg",
+      "belegbar"
+    ],
+    "kollokationen": [
+      "eine These mit Daten belegen",
+      "wissenschaftlich belegt"
+    ],
+    "beispiel": "Jede Behauptung in einer Hausarbeit sollte mit einer Quelle belegt werden.",
+    "luecke": {
+      "satz": "Die Autorin ___ ihre These mit Zahlen aus drei unabhängigen Studien.",
+      "loesung": "belegt",
+      "optionen": [
+        "belegt",
+        "belagert",
+        "beliebt",
+        "beleidigt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0018",
+    "wort": "erörtern",
+    "wortart": "Verb",
+    "formen": "erörtert, erörterte, hat erörtert",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Ein Thema gründlich diskutieren und dabei Argumente dafür und dagegen abwägen.",
+    "synonyme": [
+      "diskutieren",
+      "besprechen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Erörterung"
+    ],
+    "kollokationen": [
+      "eine Frage erörtern",
+      "ausführlich erörtern"
+    ],
+    "beispiel": "In der Prüfung sollen Sie die Vor- und Nachteile von Online-Unterricht erörtern.",
+    "luecke": {
+      "satz": "In ihrem Aufsatz ___ die Studentin ausführlich die Vor- und Nachteile von Studiengebühren.",
+      "loesung": "erörtert",
+      "optionen": [
+        "erobert",
+        "erörtert",
+        "erinnert",
+        "ereignet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0019",
+    "wort": "widerlegen",
+    "wortart": "Verb",
+    "formen": "widerlegt, widerlegte, hat widerlegt",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Beweisen, dass eine Aussage oder Theorie falsch ist.",
+    "synonyme": [
+      "entkräften"
+    ],
+    "antonyme": [
+      "belegen",
+      "bestätigen"
+    ],
+    "wortfamilie": [
+      "die Widerlegung",
+      "widerlegbar"
+    ],
+    "kollokationen": [
+      "eine These widerlegen",
+      "eindeutig widerlegt"
+    ],
+    "beispiel": "Der Mythos, dass wir nur zehn Prozent unseres Gehirns nutzen, ist längst widerlegt.",
+    "luecke": {
+      "satz": "Neue Messungen haben die alte Theorie eindeutig ___.",
+      "loesung": "widerlegt",
+      "optionen": [
+        "widersprochen",
+        "widerstanden",
+        "widerlegt",
+        "wiederholt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0020",
+    "wort": "untermauern",
+    "wortart": "Verb",
+    "formen": "untermauert, untermauerte, hat untermauert",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Ein Argument mit zusätzlichen Fakten stärker und sicherer machen.",
+    "synonyme": [
+      "stützen",
+      "bekräftigen"
+    ],
+    "antonyme": [
+      "entkräften"
+    ],
+    "wortfamilie": [
+      "die Untermauerung",
+      "die Mauer"
+    ],
+    "kollokationen": [
+      "eine These mit Beispielen untermauern",
+      "durch Daten untermauert"
+    ],
+    "beispiel": "Die Ergebnisse untermauern die Annahme, dass Bewegung das Lernen fördert.",
+    "luecke": {
+      "satz": "Um ihr Argument zu ___, zitierte sie eine aktuelle Studie.",
+      "loesung": "untermauern",
+      "optionen": [
+        "unterlaufen",
+        "untergraben",
+        "unterbrechen",
+        "untermauern"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0021",
+    "wort": "ableiten aus + D",
+    "wortart": "Verb",
+    "formen": "leitet ab, leitete ab, hat abgeleitet",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Aus etwas einen Schluss oder eine Regel gewinnen.",
+    "synonyme": [
+      "folgern aus + D",
+      "schließen aus + D"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Ableitung",
+      "ableitbar"
+    ],
+    "kollokationen": [
+      "Empfehlungen aus den Ergebnissen ableiten",
+      "sich ableiten lassen"
+    ],
+    "beispiel": "Aus der Beobachtung leiteten die Forschenden eine neue Regel ab.",
+    "luecke": {
+      "satz": "Aus den Ergebnissen lassen sich konkrete Empfehlungen für den Schulunterricht ___.",
+      "loesung": "ableiten",
+      "optionen": [
+        "ableiten",
+        "ablenken",
+        "ablegen",
+        "abwenden"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0022",
+    "wort": "beruhen auf + D",
+    "wortart": "Verb",
+    "formen": "beruht, beruhte, hat beruht",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Etwas hat etwas anderes als Grundlage.",
+    "synonyme": [
+      "basieren auf + D",
+      "sich stützen auf + A"
+    ],
+    "antonyme": [],
+    "wortfamilie": [],
+    "kollokationen": [
+      "auf einem Missverständnis beruhen",
+      "auf Gegenseitigkeit beruhen"
+    ],
+    "beispiel": "Der Streit beruhte auf einem Missverständnis.",
+    "luecke": {
+      "satz": "Die Ergebnisse ___ auf einer Befragung von über 2.000 Eltern.",
+      "loesung": "beruhen",
+      "optionen": [
+        "berufen",
+        "beruhen",
+        "beraten",
+        "bestehen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0023",
+    "wort": "hervorgehen aus + D",
+    "wortart": "Verb",
+    "formen": "geht hervor, ging hervor, ist hervorgegangen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Als Ergebnis aus etwas deutlich werden (oft: Aus der Studie geht hervor, dass …).",
+    "synonyme": [
+      "sich ergeben aus + D"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "hervor",
+      "gehen"
+    ],
+    "kollokationen": [
+      "aus der Tabelle geht hervor, dass …",
+      "als Sieger aus etwas hervorgehen"
+    ],
+    "beispiel": "Aus dem Bericht geht hervor, dass viele Schulen zu wenig Lehrkräfte haben.",
+    "luecke": {
+      "satz": "Aus der Grafik ___ hervor, dass die Zahl der Studienabbrüche gesunken ist.",
+      "loesung": "geht",
+      "optionen": [
+        "hebt",
+        "sticht",
+        "geht",
+        "ruft"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0024",
+    "wort": "sich auseinandersetzen mit + D",
+    "wortart": "Verb",
+    "formen": "setzt sich auseinander, setzte sich auseinander, hat sich auseinandergesetzt",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Sich intensiv und kritisch mit einem Thema beschäftigen.",
+    "synonyme": [
+      "sich befassen mit + D",
+      "sich beschäftigen mit + D"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Auseinandersetzung"
+    ],
+    "kollokationen": [
+      "sich kritisch mit einer Theorie auseinandersetzen",
+      "sich mit den Folgen auseinandersetzen"
+    ],
+    "beispiel": "Im Referendariat setzt man sich intensiv mit der eigenen Unterrichtspraxis auseinander.",
+    "luecke": {
+      "satz": "In ihrer Masterarbeit hat sie sich kritisch mit der Evolutionstheorie ___.",
+      "loesung": "auseinandergesetzt",
+      "optionen": [
+        "auseinandergenommen",
+        "zusammengesetzt",
+        "durchgesetzt",
+        "auseinandergesetzt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0025",
+    "wort": "veranschaulichen",
+    "wortart": "Verb",
+    "formen": "veranschaulicht, veranschaulichte, hat veranschaulicht",
+    "thema": "allgemein_akademisch",
+    "register": "neutral",
+    "erklaerung": "Etwas durch Bilder, Beispiele oder Modelle leichter verständlich machen.",
+    "synonyme": [
+      "verdeutlichen",
+      "illustrieren"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "anschaulich",
+      "die Veranschaulichung"
+    ],
+    "kollokationen": [
+      "etwas an einem Beispiel veranschaulichen",
+      "grafisch veranschaulichen"
+    ],
+    "beispiel": "Das Diagramm veranschaulicht, wie stark die Mieten gestiegen sind.",
+    "luecke": {
+      "satz": "Mit einem Modell der Doppelhelix ___ die Lehrerin den Aufbau der DNA.",
+      "loesung": "veranschaulicht",
+      "optionen": [
+        "veranschaulicht",
+        "verantwortet",
+        "veranlasst",
+        "veranstaltet"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0026",
+    "wort": "relativieren",
+    "wortart": "Verb",
+    "formen": "relativiert, relativierte, hat relativiert",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Eine Aussage einschränken und zeigen, dass sie nicht in jedem Fall gilt.",
+    "synonyme": [
+      "einschränken",
+      "abschwächen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "relativ",
+      "die Relativierung"
+    ],
+    "kollokationen": [
+      "eine Aussage relativieren",
+      "die eigene Position relativieren"
+    ],
+    "beispiel": "Später relativierte der Minister seine Aussage.",
+    "luecke": {
+      "satz": "Die neuen Daten ___ die dramatischen Prognosen etwas.",
+      "loesung": "relativieren",
+      "optionen": [
+        "rekonstruieren",
+        "relativieren",
+        "reagieren",
+        "reklamieren"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0027",
+    "wort": "nachweisen",
+    "wortart": "Verb",
+    "formen": "weist nach, wies nach, hat nachgewiesen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Mit Belegen zeigen, dass etwas wirklich existiert oder stimmt.",
+    "synonyme": [
+      "belegen",
+      "beweisen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Nachweis",
+      "nachweisbar"
+    ],
+    "kollokationen": [
+      "eine Wirkung nachweisen",
+      "Sprachkenntnisse nachweisen"
+    ],
+    "beispiel": "Forschende konnten das Virus im Abwasser nachweisen.",
+    "luecke": {
+      "satz": "Für die Anerkennung als Lehrkraft muss man Deutschkenntnisse auf dem Niveau C1 ___.",
+      "loesung": "nachweisen",
+      "optionen": [
+        "nachschlagen",
+        "nachgeben",
+        "nachweisen",
+        "nachahmen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0028",
+    "wort": "zurückführen auf + A",
+    "wortart": "Verb",
+    "formen": "führt zurück, führte zurück, hat zurückgeführt",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Sagen oder zeigen, dass etwas die Ursache von etwas anderem ist.",
+    "synonyme": [
+      "erklären durch + A"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Zurückführung"
+    ],
+    "kollokationen": [
+      "etwas auf mehrere Ursachen zurückführen",
+      "lässt sich darauf zurückführen, dass …"
+    ],
+    "beispiel": "Die Verbesserung der Noten führt die Schule auf das neue Förderprogramm zurück.",
+    "luecke": {
+      "satz": "Der Rückgang der Bienen lässt sich vor allem auf den Einsatz von Pestiziden ___.",
+      "loesung": "zurückführen",
+      "optionen": [
+        "zurückgeben",
+        "zurücklegen",
+        "zurückhalten",
+        "zurückführen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0029",
+    "wort": "sich beziehen auf + A",
+    "wortart": "Verb",
+    "formen": "bezieht sich, bezog sich, hat sich bezogen",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Etwas als Grundlage nennen oder darauf hinweisen.",
+    "synonyme": [
+      "sich berufen auf + A",
+      "Bezug nehmen auf + A"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Bezug",
+      "bezüglich"
+    ],
+    "kollokationen": [
+      "sich auf eine Studie beziehen",
+      "sich auf eine Frage beziehen"
+    ],
+    "beispiel": "Meine Frage bezieht sich auf die zweite Grafik.",
+    "luecke": {
+      "satz": "In ihrem Vortrag ___ sie sich auf eine aktuelle Studie der Universität Köln.",
+      "loesung": "bezog",
+      "optionen": [
+        "bezog",
+        "beschloss",
+        "betraf",
+        "bewarb"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0030",
+    "wort": "aufstellen",
+    "wortart": "Verb",
+    "formen": "stellt auf, stellte auf, hat aufgestellt",
+    "thema": "allgemein_akademisch",
+    "register": "neutral",
+    "erklaerung": "Hier: eine Hypothese, These oder Regel formulieren und vorschlagen.",
+    "synonyme": [
+      "formulieren"
+    ],
+    "antonyme": [
+      "verwerfen"
+    ],
+    "wortfamilie": [
+      "die Aufstellung"
+    ],
+    "kollokationen": [
+      "eine Hypothese aufstellen",
+      "eine Theorie aufstellen",
+      "Regeln aufstellen"
+    ],
+    "beispiel": "Darwin stellte die Theorie auf, dass sich Arten durch natürliche Selektion verändern.",
+    "luecke": {
+      "satz": "Vor dem Versuch sollen die Schüler eine Hypothese ___.",
+      "loesung": "aufstellen",
+      "optionen": [
+        "aufstehen",
+        "aufstellen",
+        "auflösen",
+        "aufheben"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0031",
+    "wort": "erheben",
+    "wortart": "Verb",
+    "formen": "erhebt, erhob, hat erhoben",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Hier: Daten systematisch sammeln, zum Beispiel durch eine Befragung.",
+    "synonyme": [
+      "sammeln",
+      "ermitteln"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Erhebung"
+    ],
+    "kollokationen": [
+      "Daten erheben",
+      "Gebühren erheben",
+      "Einspruch erheben"
+    ],
+    "beispiel": "Die Universität erhebt jedes Semester Daten zur Zufriedenheit der Studierenden.",
+    "luecke": {
+      "satz": "Die Daten wurden im Rahmen einer Online-Befragung ___.",
+      "loesung": "erhoben",
+      "optionen": [
+        "erhöht",
+        "erhellt",
+        "erhoben",
+        "erholt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0032",
+    "wort": "signifikant",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "In der Statistik: so deutlich, dass es kein Zufall sein kann; allgemein: bedeutend.",
+    "synonyme": [
+      "bedeutsam",
+      "deutlich"
+    ],
+    "antonyme": [
+      "unerheblich",
+      "geringfügig"
+    ],
+    "wortfamilie": [
+      "die Signifikanz"
+    ],
+    "kollokationen": [
+      "ein signifikanter Unterschied",
+      "statistisch signifikant"
+    ],
+    "beispiel": "Die Zahl der Bewerbungen ist signifikant gestiegen.",
+    "luecke": {
+      "satz": "Zwischen den beiden Gruppen zeigte sich ein statistisch ___ Unterschied.",
+      "loesung": "signifikanter",
+      "optionen": [
+        "signifikante",
+        "signifikantes",
+        "signifikanten",
+        "signifikanter"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0033",
+    "wort": "maßgeblich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Sehr wichtig und entscheidend für etwas.",
+    "synonyme": [
+      "entscheidend",
+      "ausschlaggebend"
+    ],
+    "antonyme": [
+      "unbedeutend",
+      "nebensächlich"
+    ],
+    "wortfamilie": [
+      "das Maß",
+      "maßgebend"
+    ],
+    "kollokationen": [
+      "maßgeblich beteiligt sein an + D",
+      "einen maßgeblichen Einfluss haben"
+    ],
+    "beispiel": "Das Wetter hat einen maßgeblichen Einfluss auf die Ernte.",
+    "luecke": {
+      "satz": "Sie war ___ an der Entwicklung des neuen Lehrplans für Biologie beteiligt.",
+      "loesung": "maßgeblich",
+      "optionen": [
+        "maßgeblich",
+        "maßgeschneidert",
+        "vergeblich",
+        "unverbindlich"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0034",
+    "wort": "stichhaltig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Überzeugend, weil gut begründet und schwer zu widerlegen.",
+    "synonyme": [
+      "überzeugend",
+      "fundiert"
+    ],
+    "antonyme": [
+      "haltlos",
+      "fadenscheinig"
+    ],
+    "wortfamilie": [
+      "die Stichhaltigkeit"
+    ],
+    "kollokationen": [
+      "ein stichhaltiges Argument",
+      "stichhaltige Beweise"
+    ],
+    "beispiel": "Ihr Argument war so stichhaltig, dass niemand widersprach.",
+    "luecke": {
+      "satz": "Die Kommission fand keine ___ Beweise für eine Fälschung der Daten.",
+      "loesung": "stichhaltigen",
+      "optionen": [
+        "nachhaltigen",
+        "stichhaltigen",
+        "zurückhaltenden",
+        "gehaltvollen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0035",
+    "wort": "fundiert",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Auf gutem Wissen und sicheren Grundlagen aufgebaut.",
+    "synonyme": [
+      "gut begründet",
+      "solide"
+    ],
+    "antonyme": [
+      "oberflächlich",
+      "unbegründet"
+    ],
+    "wortfamilie": [
+      "das Fundament",
+      "fundieren"
+    ],
+    "kollokationen": [
+      "fundierte Kenntnisse",
+      "wissenschaftlich fundiert"
+    ],
+    "beispiel": "Sie verfügt über fundierte Kenntnisse in Zellbiologie und Genetik.",
+    "luecke": {
+      "satz": "Für das Lehramt braucht man ___ Fachkenntnisse in mindestens zwei Fächern.",
+      "loesung": "fundierte",
+      "optionen": [
+        "fundamentalistische",
+        "fusionierte",
+        "fundierte",
+        "fingierte"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0036",
+    "wort": "empirisch",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Auf Beobachtung, Messung oder Erfahrung beruhend, nicht nur auf Theorie.",
+    "synonyme": [
+      "erfahrungsbasiert"
+    ],
+    "antonyme": [
+      "theoretisch",
+      "spekulativ"
+    ],
+    "wortfamilie": [
+      "die Empirie"
+    ],
+    "kollokationen": [
+      "empirische Daten",
+      "empirisch belegt",
+      "eine empirische Studie"
+    ],
+    "beispiel": "Für ihre Masterarbeit führte sie eine empirische Studie mit Interviews durch.",
+    "luecke": {
+      "satz": "Die Theorie klingt plausibel, ist aber bisher nicht ___ überprüft worden.",
+      "loesung": "empirisch",
+      "optionen": [
+        "empathisch",
+        "emotional",
+        "exotisch",
+        "empirisch"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0037",
+    "wort": "repräsentativ",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "So ausgewählt, dass es die Gesamtheit gut abbildet.",
+    "synonyme": [
+      "aussagekräftig"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "repräsentieren",
+      "die Repräsentativität"
+    ],
+    "kollokationen": [
+      "eine repräsentative Umfrage",
+      "repräsentativ sein für + A"
+    ],
+    "beispiel": "Laut einer repräsentativen Umfrage nutzen fast alle Jugendlichen täglich ein Smartphone.",
+    "luecke": {
+      "satz": "Mit nur 40 Befragten ist die Umfrage nicht ___ für alle Studierenden in Deutschland.",
+      "loesung": "repräsentativ",
+      "optionen": [
+        "repräsentativ",
+        "reparabel",
+        "respektabel",
+        "restriktiv"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0038",
+    "wort": "ausschlaggebend",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Für eine Entscheidung am wichtigsten.",
+    "synonyme": [
+      "entscheidend",
+      "maßgeblich"
+    ],
+    "antonyme": [
+      "nebensächlich"
+    ],
+    "wortfamilie": [
+      "den Ausschlag geben"
+    ],
+    "kollokationen": [
+      "ausschlaggebend sein für + A",
+      "der ausschlaggebende Faktor"
+    ],
+    "beispiel": "Der ausschlaggebende Faktor war am Ende der Preis.",
+    "luecke": {
+      "satz": "Für die Wahl des Studienorts waren die niedrigen Mieten ___.",
+      "loesung": "ausschlaggebend",
+      "optionen": [
+        "ausschließlich",
+        "ausschlaggebend",
+        "ausgiebig",
+        "ausgeglichen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0039",
+    "wort": "vorwiegend",
+    "wortart": "Adverb",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Zum größten Teil; hauptsächlich.",
+    "synonyme": [
+      "überwiegend",
+      "hauptsächlich"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "überwiegen"
+    ],
+    "kollokationen": [
+      "vorwiegend aus + D bestehen",
+      "vorwiegend junge Menschen"
+    ],
+    "beispiel": "Das Publikum bestand vorwiegend aus Studierenden.",
+    "luecke": {
+      "satz": "Die Teilnehmenden der Studie waren ___ Frauen zwischen 20 und 30 Jahren.",
+      "loesung": "vorwiegend",
+      "optionen": [
+        "vorläufig",
+        "vorsätzlich",
+        "vorwiegend",
+        "vorzeitig"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0040",
+    "wort": "weitgehend",
+    "wortart": "Adverb",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Fast vollständig; zum großen Teil.",
+    "synonyme": [
+      "größtenteils",
+      "weitestgehend"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "weit"
+    ],
+    "kollokationen": [
+      "weitgehend unbekannt",
+      "weitgehend übereinstimmen"
+    ],
+    "beispiel": "Die beiden Studien kommen zu weitgehend gleichen Ergebnissen.",
+    "luecke": {
+      "satz": "Die Ursachen der Krankheit sind bis heute ___ unbekannt.",
+      "loesung": "weitgehend",
+      "optionen": [
+        "weitläufig",
+        "weitsichtig",
+        "weitschweifig",
+        "weitgehend"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0041",
+    "wort": "hinsichtlich",
+    "wortart": "Präposition",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Präposition mit Genitiv: in Bezug auf; was … betrifft.",
+    "synonyme": [
+      "bezüglich",
+      "in Bezug auf + A"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Hinsicht"
+    ],
+    "kollokationen": [
+      "hinsichtlich der Kosten",
+      "in dieser Hinsicht"
+    ],
+    "beispiel": "Hinsichtlich der Finanzierung sind noch viele Fragen offen.",
+    "luecke": {
+      "satz": "___ der Methodik gibt es noch einige offene Fragen.",
+      "loesung": "Hinsichtlich",
+      "optionen": [
+        "Hinsichtlich",
+        "Hinsicht",
+        "Anhand",
+        "Seitens"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0042",
+    "wort": "angesichts",
+    "wortart": "Präposition",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Präposition mit Genitiv: wenn man … sieht oder berücksichtigt.",
+    "synonyme": [
+      "in Anbetracht + G"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Angesicht"
+    ],
+    "kollokationen": [
+      "angesichts der Tatsache, dass …",
+      "angesichts der aktuellen Lage"
+    ],
+    "beispiel": "Angesichts der hohen Kosten wurde das Projekt verschoben.",
+    "luecke": {
+      "satz": "___ des Lehrkräftemangels werden in NRW auch Lehrkräfte aus dem Ausland gesucht.",
+      "loesung": "Angesichts",
+      "optionen": [
+        "Anstatt",
+        "Angesichts",
+        "Ungeachtet",
+        "Anhand"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0043",
+    "wort": "ungeachtet",
+    "wortart": "Präposition",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Präposition mit Genitiv: ohne Rücksicht auf; trotz.",
+    "synonyme": [
+      "trotz",
+      "unbeschadet"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "achten",
+      "beachten"
+    ],
+    "kollokationen": [
+      "ungeachtet der Kritik",
+      "ungeachtet dessen"
+    ],
+    "beispiel": "Ungeachtet der Warnungen fuhren viele Menschen in das Gebiet.",
+    "luecke": {
+      "satz": "___ aller Kritik hielt die Regierung an dem umstrittenen Projekt fest.",
+      "loesung": "Ungeachtet",
+      "optionen": [
+        "Angesichts",
+        "Mangels",
+        "Ungeachtet",
+        "Zwecks"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0044",
+    "wort": "anhand",
+    "wortart": "Präposition",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Präposition mit Genitiv (oft: anhand von + D): mithilfe von; auf der Grundlage von.",
+    "synonyme": [
+      "mithilfe + G",
+      "mittels + G"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Hand"
+    ],
+    "kollokationen": [
+      "anhand eines Beispiels",
+      "anhand von Daten"
+    ],
+    "beispiel": "Anhand der Daten lässt sich zeigen, dass die Zahl der Studierenden steigt.",
+    "luecke": {
+      "satz": "Die Lehrerin erklärte die Fotosynthese ___ eines einfachen Experiments.",
+      "loesung": "anhand",
+      "optionen": [
+        "anstelle",
+        "anlässlich",
+        "abseits",
+        "anhand"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0045",
+    "wort": "zugunsten",
+    "wortart": "Präposition",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Präposition mit Genitiv: zum Vorteil von jemandem oder etwas.",
+    "synonyme": [
+      "zum Vorteil von + D"
+    ],
+    "antonyme": [
+      "zuungunsten + G",
+      "zulasten + G"
+    ],
+    "wortfamilie": [
+      "die Gunst",
+      "günstig"
+    ],
+    "kollokationen": [
+      "zugunsten der Umwelt",
+      "sich zugunsten einer Lösung entscheiden"
+    ],
+    "beispiel": "Das Gericht entschied zugunsten der Studentin.",
+    "luecke": {
+      "satz": "Die Universität verzichtete auf Neubauten ___ einer besseren Ausstattung der Bibliothek.",
+      "loesung": "zugunsten",
+      "optionen": [
+        "zugunsten",
+        "zuliebe",
+        "zufolge",
+        "zuwider"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0046",
+    "wort": "infolgedessen",
+    "wortart": "Konnektor",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Verbindet Sätze: als Folge davon; deshalb. Danach steht das Verb an Position 2.",
+    "synonyme": [
+      "deshalb",
+      "folglich"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Folge",
+      "infolge"
+    ],
+    "kollokationen": [
+      "…; infolgedessen + Verb",
+      "und infolgedessen"
+    ],
+    "beispiel": "Es regnete wochenlang nicht; infolgedessen sanken die Ernteerträge.",
+    "luecke": {
+      "satz": "Die Fördermittel wurden gekürzt; ___ musste das Projekt eingestellt werden.",
+      "loesung": "infolgedessen",
+      "optionen": [
+        "trotzdem",
+        "infolgedessen",
+        "stattdessen",
+        "andererseits"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0047",
+    "wort": "demzufolge",
+    "wortart": "Konnektor",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Verbindet Sätze: wie man daraus schließen kann; also.",
+    "synonyme": [
+      "folglich",
+      "somit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "zufolge",
+      "die Folge"
+    ],
+    "kollokationen": [
+      "demzufolge + Verb an Position 2"
+    ],
+    "beispiel": "Die Nachfrage ist gestiegen, demzufolge sind auch die Preise höher.",
+    "luecke": {
+      "satz": "Die Stichprobe war sehr klein; die Ergebnisse sind ___ nur begrenzt aussagekräftig.",
+      "loesung": "demzufolge",
+      "optionen": [
+        "dennoch",
+        "demgegenüber",
+        "demzufolge",
+        "demnächst"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0048",
+    "wort": "wohingegen",
+    "wortart": "Konnektor",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Leitet einen Nebensatz ein und zeigt einen Gegensatz (Verb am Ende).",
+    "synonyme": [
+      "während",
+      "wogegen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [],
+    "kollokationen": [
+      "…, wohingegen + Verb am Ende"
+    ],
+    "beispiel": "Die erste Gruppe verbesserte sich deutlich, wohingegen die zweite Gruppe keine Fortschritte machte.",
+    "luecke": {
+      "satz": "In Deutschland dauert das Lehramtsstudium meist fünf Jahre, ___ es auf den Philippinen in der Regel vier Jahre sind.",
+      "loesung": "wohingegen",
+      "optionen": [
+        "weshalb",
+        "obwohl",
+        "sodass",
+        "wohingegen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0049",
+    "wort": "nichtsdestotrotz",
+    "wortart": "Konnektor",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "neutral",
+    "erklaerung": "Verbindet Sätze: trotzdem; dennoch.",
+    "synonyme": [
+      "dennoch",
+      "trotzdem",
+      "gleichwohl"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "trotz"
+    ],
+    "kollokationen": [
+      "nichtsdestotrotz + Verb an Position 2"
+    ],
+    "beispiel": "Das Experiment ist gescheitert; nichtsdestotrotz haben wir viel daraus gelernt.",
+    "luecke": {
+      "satz": "Die Prüfung war sehr anspruchsvoll; ___ haben fast alle Teilnehmenden bestanden.",
+      "loesung": "nichtsdestotrotz",
+      "optionen": [
+        "nichtsdestotrotz",
+        "infolgedessen",
+        "nämlich",
+        "folglich"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0050",
+    "wort": "zumal",
+    "wortart": "Konnektor",
+    "formen": "",
+    "thema": "allgemein_akademisch",
+    "register": "schriftlich",
+    "erklaerung": "Leitet einen Nebensatz mit einem zusätzlichen, besonders wichtigen Grund ein: vor allem weil.",
+    "synonyme": [
+      "besonders weil",
+      "vor allem da"
+    ],
+    "antonyme": [],
+    "wortfamilie": [],
+    "kollokationen": [
+      "…, zumal + Verb am Ende"
+    ],
+    "beispiel": "Wir sollten das Angebot annehmen, zumal es kostenlos ist.",
+    "luecke": {
+      "satz": "Sie entschied sich gegen den Umzug, ___ sie gerade eine Stelle an einer Schule in Köln gefunden hatte.",
+      "loesung": "zumal",
+      "optionen": [
+        "obgleich",
+        "zumal",
+        "sofern",
+        "damit"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0051",
+    "wort": "die Anerkennung",
+    "wortart": "Nomen",
+    "formen": "die Anerkennungen (selten)",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Eine Behörde bestätigt offiziell, dass ein ausländischer Abschluss gültig ist; auch: Respekt und Wertschätzung.",
+    "synonyme": [
+      "die Bestätigung",
+      "die Wertschätzung"
+    ],
+    "antonyme": [
+      "die Ablehnung"
+    ],
+    "wortfamilie": [
+      "anerkennen",
+      "anerkannt"
+    ],
+    "kollokationen": [
+      "die Anerkennung beantragen",
+      "die Anerkennung ausländischer Berufsabschlüsse"
+    ],
+    "beispiel": "Bei der Bezirksregierung hat sie die Anerkennung ihres philippinischen Lehramtsabschlusses beantragt.",
+    "luecke": {
+      "satz": "Ohne die offizielle ___ ihres Abschlusses darf sie nicht als Lehrerin an einer staatlichen Schule arbeiten.",
+      "loesung": "Anerkennung",
+      "optionen": [
+        "Erkenntnis",
+        "Kenntnisnahme",
+        "Anerkennung",
+        "Bekanntmachung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0052",
+    "wort": "die Gleichwertigkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Zwei Dinge haben den gleichen Wert oder das gleiche Niveau.",
+    "synonyme": [
+      "die Äquivalenz"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "gleichwertig"
+    ],
+    "kollokationen": [
+      "die Gleichwertigkeit feststellen",
+      "die Gleichwertigkeit des Abschlusses"
+    ],
+    "beispiel": "Die Behörde prüft die Gleichwertigkeit des ausländischen Abschlusses mit dem deutschen Lehramtsstudium.",
+    "luecke": {
+      "satz": "Wird die volle ___ festgestellt, kann die ausländische Lehrkraft ohne zusätzliche Prüfung unterrichten.",
+      "loesung": "Gleichwertigkeit",
+      "optionen": [
+        "Gleichgültigkeit",
+        "Gleichzeitigkeit",
+        "Gleichförmigkeit",
+        "Gleichwertigkeit"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0053",
+    "wort": "das Referendariat",
+    "wortart": "Nomen",
+    "formen": "die Referendariate",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "Die praktische Ausbildung nach dem Lehramtsstudium; sie endet mit dem zweiten Staatsexamen.",
+    "synonyme": [
+      "der Vorbereitungsdienst"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Referendar",
+      "die Referendarin"
+    ],
+    "kollokationen": [
+      "das Referendariat absolvieren",
+      "im Referendariat sein"
+    ],
+    "beispiel": "Im Referendariat unterrichten angehende Lehrkräfte schon eigenständig an einer Schule.",
+    "luecke": {
+      "satz": "Nach dem Master of Education beginnt in NRW das 18-monatige ___.",
+      "loesung": "Referendariat",
+      "optionen": [
+        "Referendariat",
+        "Referendum",
+        "Sekretariat",
+        "Proletariat"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0054",
+    "wort": "die Lehrbefähigung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Die offizielle Berechtigung, an Schulen ein bestimmtes Fach zu unterrichten.",
+    "synonyme": [
+      "die Lehrberechtigung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "befähigen",
+      "die Fähigkeit"
+    ],
+    "kollokationen": [
+      "die Lehrbefähigung für Biologie erwerben",
+      "die Lehrbefähigung besitzen"
+    ],
+    "beispiel": "Sie besitzt die Lehrbefähigung für Biologie und Chemie.",
+    "luecke": {
+      "satz": "Mit dem zweiten Staatsexamen erwirbt man die ___ für zwei Unterrichtsfächer.",
+      "loesung": "Lehrbefähigung",
+      "optionen": [
+        "Lehrstelle",
+        "Lehrbefähigung",
+        "Lehrmeinung",
+        "Leerstelle"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0055",
+    "wort": "die Ausgleichsmaßnahme",
+    "wortart": "Nomen",
+    "formen": "die Ausgleichsmaßnahmen",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Eine zusätzliche Prüfung oder ein Lehrgang, um Unterschiede zur deutschen Ausbildung auszugleichen.",
+    "synonyme": [
+      "der Anpassungslehrgang"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "ausgleichen",
+      "der Ausgleich"
+    ],
+    "kollokationen": [
+      "eine Ausgleichsmaßnahme absolvieren",
+      "eine Ausgleichsmaßnahme auferlegen"
+    ],
+    "beispiel": "Da ihr ein zweites Unterrichtsfach fehlt, muss sie eine Ausgleichsmaßnahme absolvieren.",
+    "luecke": {
+      "satz": "Werden wesentliche Unterschiede festgestellt, verlangt die Behörde eine ___, zum Beispiel einen Anpassungslehrgang.",
+      "loesung": "Ausgleichsmaßnahme",
+      "optionen": [
+        "Ausnahmeregelung",
+        "Sparmaßnahme",
+        "Ausgleichsmaßnahme",
+        "Ausbildungsmesse"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0056",
+    "wort": "die Eignungsprüfung",
+    "wortart": "Nomen",
+    "formen": "die Eignungsprüfungen",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "Eine Prüfung, die zeigt, ob jemand für einen Beruf oder ein Studium geeignet ist.",
+    "synonyme": [
+      "der Eignungstest"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "geeignet",
+      "sich eignen für + A"
+    ],
+    "kollokationen": [
+      "eine Eignungsprüfung ablegen",
+      "die Eignungsprüfung bestehen"
+    ],
+    "beispiel": "Statt des Anpassungslehrgangs kann sie auch eine Eignungsprüfung ablegen.",
+    "luecke": {
+      "satz": "Wer Sport auf Lehramt studieren will, muss vorher eine sportpraktische ___ bestehen.",
+      "loesung": "Eignungsprüfung",
+      "optionen": [
+        "Eigentumsprüfung",
+        "Steuerprüfung",
+        "Eingangshalle",
+        "Eignungsprüfung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0057",
+    "wort": "das Curriculum",
+    "wortart": "Nomen",
+    "formen": "die Curricula",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Ein Plan, der festlegt, welche Inhalte und Ziele ein Unterricht oder Studium hat.",
+    "synonyme": [
+      "der Lehrplan"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "curricular"
+    ],
+    "kollokationen": [
+      "das Curriculum überarbeiten",
+      "im Curriculum verankert sein"
+    ],
+    "beispiel": "Die Hochschule hat das Curriculum des Masterstudiengangs grundlegend überarbeitet.",
+    "luecke": {
+      "satz": "Die Evolutionstheorie ist fest im ___ der gymnasialen Oberstufe verankert.",
+      "loesung": "Curriculum",
+      "optionen": [
+        "Curriculum",
+        "Kuriosum",
+        "Kolloquium",
+        "Kuratorium"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0058",
+    "wort": "die Bildungsgerechtigkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Alle Kinder haben die gleichen Bildungschancen, unabhängig von Herkunft und Einkommen der Eltern.",
+    "synonyme": [
+      "die Chancengleichheit in der Bildung"
+    ],
+    "antonyme": [
+      "die Bildungsungleichheit"
+    ],
+    "wortfamilie": [
+      "gerecht",
+      "die Gerechtigkeit"
+    ],
+    "kollokationen": [
+      "mehr Bildungsgerechtigkeit schaffen",
+      "ein Beitrag zur Bildungsgerechtigkeit"
+    ],
+    "beispiel": "Kostenlose Nachhilfe an Schulen soll zu mehr Bildungsgerechtigkeit beitragen.",
+    "luecke": {
+      "satz": "Kritiker meinen, dass die frühe Aufteilung auf verschiedene Schulformen der ___ schadet.",
+      "loesung": "Bildungsgerechtigkeit",
+      "optionen": [
+        "Bildungsreise",
+        "Bildungsgerechtigkeit",
+        "Bildungsurlaub",
+        "Bildschirmzeit"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0059",
+    "wort": "die Binnendifferenzierung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Die Lehrkraft bietet innerhalb einer Klasse verschiedene Aufgaben für verschiedene Leistungsniveaus an.",
+    "synonyme": [
+      "die innere Differenzierung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "differenzieren",
+      "die Differenz"
+    ],
+    "kollokationen": [
+      "Maßnahmen der Binnendifferenzierung",
+      "durch Binnendifferenzierung fördern"
+    ],
+    "beispiel": "Binnendifferenzierung ist in sehr heterogenen Klassen besonders wichtig.",
+    "luecke": {
+      "satz": "Durch ___ können starke und schwache Schüler in derselben Klasse gefördert werden.",
+      "loesung": "Binnendifferenzierung",
+      "optionen": [
+        "Binnenmarkt",
+        "Binnenschifffahrt",
+        "Binnendifferenzierung",
+        "Binnennachfrage"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0060",
+    "wort": "der Kompetenzerwerb",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Das Lernen und Aufbauen von Fähigkeiten und Wissen.",
+    "synonyme": [
+      "die Kompetenzentwicklung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Kompetenz",
+      "erwerben",
+      "kompetent"
+    ],
+    "kollokationen": [
+      "den Kompetenzerwerb fördern",
+      "der Kompetenzerwerb der Lernenden"
+    ],
+    "beispiel": "Projektarbeit unterstützt den Kompetenzerwerb im Bereich Teamarbeit.",
+    "luecke": {
+      "satz": "Moderner Unterricht orientiert sich am ___ der Lernenden und nicht nur am Stoff.",
+      "loesung": "Kompetenzerwerb",
+      "optionen": [
+        "Kompetenzstreit",
+        "Konkurrenzkampf",
+        "Kompromiss",
+        "Kompetenzerwerb"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0061",
+    "wort": "die Regelstudienzeit",
+    "wortart": "Nomen",
+    "formen": "die Regelstudienzeiten",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "Die offiziell vorgesehene Zahl von Semestern für einen Studiengang.",
+    "synonyme": [
+      "die vorgesehene Studiendauer"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Regel",
+      "das Studium"
+    ],
+    "kollokationen": [
+      "die Regelstudienzeit überschreiten",
+      "in der Regelstudienzeit abschließen"
+    ],
+    "beispiel": "Die Regelstudienzeit für den Bachelor beträgt meistens sechs Semester.",
+    "luecke": {
+      "satz": "Nur wenige Studierende schließen ihr Studium innerhalb der ___ ab.",
+      "loesung": "Regelstudienzeit",
+      "optionen": [
+        "Regelstudienzeit",
+        "Ruhezeit",
+        "Regelverletzung",
+        "Sprechzeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0062",
+    "wort": "die Promotion",
+    "wortart": "Nomen",
+    "formen": "die Promotionen",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Das Erwerben des Doktortitels durch eine eigene Forschungsarbeit (Dissertation).",
+    "synonyme": [
+      "die Erlangung des Doktorgrades"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "promovieren",
+      "die Dissertation"
+    ],
+    "kollokationen": [
+      "eine Promotion anstreben",
+      "nach der Promotion"
+    ],
+    "beispiel": "Für eine Promotion braucht man in der Regel einen Masterabschluss.",
+    "luecke": {
+      "satz": "Nach ihrer ___ in Molekularbiologie arbeitete sie als Postdoc an der Universität Bonn.",
+      "loesung": "Promotion",
+      "optionen": [
+        "Prominenz",
+        "Promotion",
+        "Provision",
+        "Proportion"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0063",
+    "wort": "das Gutachten",
+    "wortart": "Nomen",
+    "formen": "die Gutachten",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Eine schriftliche Bewertung durch eine Expertin oder einen Experten.",
+    "synonyme": [
+      "die Expertise",
+      "die Beurteilung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Gutachter",
+      "begutachten"
+    ],
+    "kollokationen": [
+      "ein Gutachten erstellen",
+      "laut Gutachten"
+    ],
+    "beispiel": "Laut Gutachten ist das alte Schulgebäude nicht mehr sicher.",
+    "luecke": {
+      "satz": "Für die Masterarbeit schreiben zwei Professoren jeweils ein ___.",
+      "loesung": "Gutachten",
+      "optionen": [
+        "Guthaben",
+        "Gutdünken",
+        "Gutachten",
+        "Gutschein"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0064",
+    "wort": "die Leistungsbewertung",
+    "wortart": "Nomen",
+    "formen": "die Leistungsbewertungen",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Die Beurteilung und Benotung von Leistungen, zum Beispiel in der Schule.",
+    "synonyme": [
+      "die Benotung",
+      "die Leistungsbeurteilung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "bewerten",
+      "die Leistung"
+    ],
+    "kollokationen": [
+      "Kriterien der Leistungsbewertung",
+      "eine transparente Leistungsbewertung"
+    ],
+    "beispiel": "Die Kriterien der Leistungsbewertung sollten den Schülern vorher bekannt sein.",
+    "luecke": {
+      "satz": "Auch die Mitarbeit im Unterricht fließt in die ___ ein.",
+      "loesung": "Leistungsbewertung",
+      "optionen": [
+        "Leistungsfähigkeit",
+        "Leistungsgesellschaft",
+        "Bewerbung",
+        "Leistungsbewertung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0065",
+    "wort": "absolvieren",
+    "wortart": "Verb",
+    "formen": "absolviert, absolvierte, hat absolviert",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Eine Ausbildung, ein Studium oder ein Praktikum machen und erfolgreich abschließen.",
+    "synonyme": [
+      "abschließen",
+      "durchlaufen"
+    ],
+    "antonyme": [
+      "abbrechen"
+    ],
+    "wortfamilie": [
+      "der Absolvent",
+      "die Absolventin"
+    ],
+    "kollokationen": [
+      "ein Praktikum absolvieren",
+      "ein Studium erfolgreich absolvieren"
+    ],
+    "beispiel": "Jedes Jahr absolvieren Tausende Studierende ein Praxissemester an Schulen.",
+    "luecke": {
+      "satz": "Sie hat ihr Lehramtsstudium in Manila ___ und danach sechs Jahre dort unterrichtet.",
+      "loesung": "absolviert",
+      "optionen": [
+        "absolviert",
+        "absorbiert",
+        "abonniert",
+        "abgelehnt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0066",
+    "wort": "anrechnen",
+    "wortart": "Verb",
+    "formen": "rechnet an, rechnete an, hat angerechnet",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Schon erbrachte Leistungen offiziell berücksichtigen und gelten lassen.",
+    "synonyme": [
+      "anerkennen",
+      "berücksichtigen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Anrechnung",
+      "anrechenbar"
+    ],
+    "kollokationen": [
+      "Studienleistungen anrechnen",
+      "jemandem etwas hoch anrechnen"
+    ],
+    "beispiel": "Ihre Berufserfahrung wurde bei der Einstufung angerechnet.",
+    "luecke": {
+      "satz": "Die Credits aus ihrem Auslandssemester wurden ihr vollständig ___.",
+      "loesung": "angerechnet",
+      "optionen": [
+        "abgerechnet",
+        "angerechnet",
+        "ausgerechnet",
+        "berechnet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0067",
+    "wort": "beglaubigen",
+    "wortart": "Verb",
+    "formen": "beglaubigt, beglaubigte, hat beglaubigt",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Offiziell bestätigen, dass eine Kopie mit dem Original übereinstimmt.",
+    "synonyme": [
+      "bestätigen",
+      "bescheinigen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Beglaubigung",
+      "glauben"
+    ],
+    "kollokationen": [
+      "eine Kopie amtlich beglaubigen lassen",
+      "beglaubigte Übersetzung"
+    ],
+    "beispiel": "Kopien kann man zum Beispiel beim Bürgeramt beglaubigen lassen.",
+    "luecke": {
+      "satz": "Für den Antrag müssen alle Zeugnisse übersetzt und amtlich ___ werden.",
+      "loesung": "beglaubigt",
+      "optionen": [
+        "geglaubt",
+        "begnadigt",
+        "beglaubigt",
+        "bevollmächtigt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0068",
+    "wort": "nachreichen",
+    "wortart": "Verb",
+    "formen": "reicht nach, reichte nach, hat nachgereicht",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Fehlende Dokumente später abgeben.",
+    "synonyme": [
+      "nachliefern"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "einreichen",
+      "reichen"
+    ],
+    "kollokationen": [
+      "Unterlagen nachreichen",
+      "fristgerecht nachreichen"
+    ],
+    "beispiel": "Fehlende Unterlagen können Sie bis zum 30. September nachreichen.",
+    "luecke": {
+      "satz": "Die Behörde bat sie, die fehlende Geburtsurkunde bis Ende des Monats ___.",
+      "loesung": "nachzureichen",
+      "optionen": [
+        "nachzurechnen",
+        "nachzugeben",
+        "nachzuschlagen",
+        "nachzureichen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0069",
+    "wort": "sich immatrikulieren",
+    "wortart": "Verb",
+    "formen": "immatrikuliert sich, immatrikulierte sich, hat sich immatrikuliert",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Sich offiziell als Studentin oder Student an einer Hochschule einschreiben.",
+    "synonyme": [
+      "sich einschreiben"
+    ],
+    "antonyme": [
+      "sich exmatrikulieren"
+    ],
+    "wortfamilie": [
+      "die Immatrikulation"
+    ],
+    "kollokationen": [
+      "sich an einer Universität immatrikulieren",
+      "immatrikuliert sein"
+    ],
+    "beispiel": "Nach der Zulassung hat sie sich an der Universität Duisburg-Essen immatrikuliert.",
+    "luecke": {
+      "satz": "Wer sich für das Wintersemester ___ möchte, muss die Frist genau beachten.",
+      "loesung": "immatrikulieren",
+      "optionen": [
+        "immatrikulieren",
+        "imitieren",
+        "importieren",
+        "integrieren"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0070",
+    "wort": "sich qualifizieren für + A",
+    "wortart": "Verb",
+    "formen": "qualifiziert sich, qualifizierte sich, hat sich qualifiziert",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "Die nötigen Fähigkeiten oder Abschlüsse erwerben, um etwas tun zu dürfen.",
+    "synonyme": [
+      "die Voraussetzungen erfüllen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Qualifikation",
+      "qualifiziert"
+    ],
+    "kollokationen": [
+      "sich für eine Stelle qualifizieren",
+      "sich beruflich weiterqualifizieren"
+    ],
+    "beispiel": "Die Mannschaft hat sich für das Finale qualifiziert.",
+    "luecke": {
+      "satz": "Mit dem Zertifikat C1 Hochschule ___ sie sich für den Anpassungslehrgang.",
+      "loesung": "qualifiziert",
+      "optionen": [
+        "quantifiziert",
+        "qualifiziert",
+        "klassifiziert",
+        "identifiziert"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0071",
+    "wort": "vermitteln",
+    "wortart": "Verb",
+    "formen": "vermittelt, vermittelte, hat vermittelt",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "Hier: Wissen oder Fähigkeiten an andere weitergeben.",
+    "synonyme": [
+      "beibringen",
+      "weitergeben"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Vermittlung",
+      "der Vermittler"
+    ],
+    "kollokationen": [
+      "Wissen vermitteln",
+      "Werte vermitteln"
+    ],
+    "beispiel": "Der Kurs vermittelt Grundlagen des wissenschaftlichen Schreibens.",
+    "luecke": {
+      "satz": "Gute Lehrkräfte können auch komplexe Inhalte verständlich ___.",
+      "loesung": "vermitteln",
+      "optionen": [
+        "vermissen",
+        "vermuten",
+        "vermitteln",
+        "vermehren"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0072",
+    "wort": "sich einarbeiten in + A",
+    "wortart": "Verb",
+    "formen": "arbeitet sich ein, arbeitete sich ein, hat sich eingearbeitet",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "Sich mit etwas Neuem vertraut machen, bis man es gut kann.",
+    "synonyme": [
+      "sich vertraut machen mit + D"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Einarbeitung"
+    ],
+    "kollokationen": [
+      "sich in ein neues Thema einarbeiten",
+      "die Einarbeitungszeit"
+    ],
+    "beispiel": "Für die Hausarbeit musste ich mich erst in die Fachliteratur einarbeiten.",
+    "luecke": {
+      "satz": "In den ersten Wochen an der neuen Schule hat sie sich schnell in die digitale Lernplattform ___.",
+      "loesung": "eingearbeitet",
+      "optionen": [
+        "ausgearbeitet",
+        "bearbeitet",
+        "verarbeitet",
+        "eingearbeitet"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0073",
+    "wort": "zulassen zu + D",
+    "wortart": "Verb",
+    "formen": "lässt zu, ließ zu, hat zugelassen",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Jemandem offiziell erlauben, an etwas teilzunehmen, zum Beispiel an einem Studium oder einer Prüfung.",
+    "synonyme": [
+      "berechtigen",
+      "aufnehmen"
+    ],
+    "antonyme": [
+      "ausschließen",
+      "ablehnen"
+    ],
+    "wortfamilie": [
+      "die Zulassung",
+      "zulassungsbeschränkt"
+    ],
+    "kollokationen": [
+      "zum Studium zugelassen werden",
+      "zur Prüfung zulassen"
+    ],
+    "beispiel": "In Medizin wird nur ein kleiner Teil der Bewerber zum Studium zugelassen.",
+    "luecke": {
+      "satz": "Nur wer alle Pflichtmodule bestanden hat, wird zur Masterprüfung ___.",
+      "loesung": "zugelassen",
+      "optionen": [
+        "zugelassen",
+        "zugelegt",
+        "zugetraut",
+        "zugemutet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0074",
+    "wort": "reglementiert",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Durch staatliche Regeln genau festgelegt; man braucht eine offizielle Erlaubnis.",
+    "synonyme": [
+      "gesetzlich geregelt"
+    ],
+    "antonyme": [
+      "frei zugänglich"
+    ],
+    "wortfamilie": [
+      "reglementieren",
+      "das Reglement"
+    ],
+    "kollokationen": [
+      "ein reglementierter Beruf",
+      "streng reglementiert"
+    ],
+    "beispiel": "Der Zugang zu vielen Gesundheitsberufen ist in Deutschland streng reglementiert.",
+    "luecke": {
+      "satz": "Der Lehrerberuf ist in Deutschland ein ___ Beruf, deshalb braucht man eine Anerkennung.",
+      "loesung": "reglementierter",
+      "optionen": [
+        "reglementierten",
+        "reglementierter",
+        "reglementiertes",
+        "reglementierte"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0075",
+    "wort": "interdisziplinär",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Mehrere Fachgebiete verbindend.",
+    "synonyme": [
+      "fächerübergreifend"
+    ],
+    "antonyme": [
+      "fachspezifisch"
+    ],
+    "wortfamilie": [
+      "die Disziplin",
+      "die Interdisziplinarität"
+    ],
+    "kollokationen": [
+      "interdisziplinär arbeiten",
+      "ein interdisziplinäres Projekt"
+    ],
+    "beispiel": "Klimaforschung ist heute fast immer interdisziplinär.",
+    "luecke": {
+      "satz": "An dem ___ Forschungsprojekt arbeiten Biologen, Informatiker und Ethiker zusammen.",
+      "loesung": "interdisziplinären",
+      "optionen": [
+        "interkontinentalen",
+        "indisponierten",
+        "interdisziplinären",
+        "inkonsequenten"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0076",
+    "wort": "praxisnah",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "Eng mit der beruflichen Praxis verbunden.",
+    "synonyme": [
+      "praxisorientiert",
+      "anwendungsorientiert"
+    ],
+    "antonyme": [
+      "praxisfern",
+      "theoretisch"
+    ],
+    "wortfamilie": [
+      "die Praxis",
+      "praktisch"
+    ],
+    "kollokationen": [
+      "eine praxisnahe Ausbildung",
+      "praxisnah lernen"
+    ],
+    "beispiel": "Fachhochschulen gelten als besonders praxisnah.",
+    "luecke": {
+      "satz": "Viele Studierende wünschen sich eine ___ Ausbildung mit mehr Zeit an Schulen.",
+      "loesung": "praxisnahe",
+      "optionen": [
+        "praxisferne",
+        "praktikable",
+        "präzise",
+        "praxisnahe"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0077",
+    "wort": "bildungsbenachteiligt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Hat wegen der sozialen Herkunft schlechtere Chancen in der Bildung.",
+    "synonyme": [
+      "sozial benachteiligt"
+    ],
+    "antonyme": [
+      "privilegiert"
+    ],
+    "wortfamilie": [
+      "die Benachteiligung",
+      "die Bildung"
+    ],
+    "kollokationen": [
+      "bildungsbenachteiligte Familien",
+      "bildungsbenachteiligte Jugendliche"
+    ],
+    "beispiel": "Mentoring-Programme helfen bildungsbenachteiligten Jugendlichen beim Übergang an die Universität.",
+    "luecke": {
+      "satz": "Das Förderprogramm richtet sich gezielt an Kinder aus ___ Familien.",
+      "loesung": "bildungsbenachteiligten",
+      "optionen": [
+        "bildungsbenachteiligten",
+        "bildungspolitischen",
+        "gebildeten",
+        "bildlichen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0078",
+    "wort": "fachfremd",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "Außerhalb des eigenen studierten Fachs.",
+    "synonyme": [
+      "ohne Fachausbildung"
+    ],
+    "antonyme": [
+      "fachkundig"
+    ],
+    "wortfamilie": [
+      "das Fach",
+      "fremd"
+    ],
+    "kollokationen": [
+      "fachfremd unterrichten",
+      "fachfremder Unterricht"
+    ],
+    "beispiel": "Fachfremder Unterricht ist an vielen Schulen leider Alltag.",
+    "luecke": {
+      "satz": "Wegen des Lehrkräftemangels unterrichten viele Lehrkräfte ___, zum Beispiel Chemie ohne Chemiestudium.",
+      "loesung": "fachfremd",
+      "optionen": [
+        "fachkundig",
+        "fachfremd",
+        "fremdsprachig",
+        "fachlich"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0079",
+    "wort": "verpflichtend",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "bildung_hochschule",
+    "register": "schriftlich",
+    "erklaerung": "Vorgeschrieben; man muss es tun.",
+    "synonyme": [
+      "obligatorisch",
+      "verbindlich"
+    ],
+    "antonyme": [
+      "freiwillig",
+      "fakultativ"
+    ],
+    "wortfamilie": [
+      "die Pflicht",
+      "verpflichten"
+    ],
+    "kollokationen": [
+      "verpflichtend teilnehmen",
+      "ein verpflichtendes Praktikum"
+    ],
+    "beispiel": "Ein Praxissemester ist im Lehramtsstudium in NRW verpflichtend.",
+    "luecke": {
+      "satz": "Die Teilnahme an der Einführungsveranstaltung ist für alle Erstsemester ___.",
+      "loesung": "verpflichtend",
+      "optionen": [
+        "verpfändet",
+        "verpflanzt",
+        "verpflichtend",
+        "verpflegt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0080",
+    "wort": "anschaulich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "bildung_hochschule",
+    "register": "neutral",
+    "erklaerung": "So, dass man es sich gut vorstellen kann; klar und lebendig.",
+    "synonyme": [
+      "verständlich",
+      "bildhaft"
+    ],
+    "antonyme": [
+      "abstrakt"
+    ],
+    "wortfamilie": [
+      "veranschaulichen",
+      "die Anschauung"
+    ],
+    "kollokationen": [
+      "etwas anschaulich erklären",
+      "ein anschauliches Beispiel"
+    ],
+    "beispiel": "Der Professor erklärt auch schwierige Theorien sehr anschaulich.",
+    "luecke": {
+      "satz": "Unter dem Mikroskop wird der Aufbau einer Pflanzenzelle für die Klasse besonders ___.",
+      "loesung": "anschaulich",
+      "optionen": [
+        "ansehnlich",
+        "anständig",
+        "ansässig",
+        "anschaulich"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0081",
+    "wort": "der Algorithmus",
+    "wortart": "Nomen",
+    "formen": "die Algorithmen",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Eine genaue Folge von Rechenschritten, mit der ein Computer ein Problem löst.",
+    "synonyme": [
+      "das Rechenverfahren"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "algorithmisch"
+    ],
+    "kollokationen": [
+      "ein lernender Algorithmus",
+      "Algorithmen entscheiden über …"
+    ],
+    "beispiel": "Ein Algorithmus sortiert die Bewerbungen nach bestimmten Kriterien vor.",
+    "luecke": {
+      "satz": "Der ___ der Plattform entscheidet, welche Videos den Nutzern angezeigt werden.",
+      "loesung": "Algorithmus",
+      "optionen": [
+        "Algorithmus",
+        "Rhythmus",
+        "Organismus",
+        "Logarithmus"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0082",
+    "wort": "die Datensouveränität",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Man hat selbst die Kontrolle darüber, was mit den eigenen Daten passiert.",
+    "synonyme": [
+      "die Datenhoheit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "souverän",
+      "die Souveränität"
+    ],
+    "kollokationen": [
+      "die Datensouveränität stärken",
+      "digitale Souveränität"
+    ],
+    "beispiel": "Die EU möchte die Datensouveränität ihrer Bürgerinnen und Bürger stärken.",
+    "luecke": {
+      "satz": "Viele Schulen setzen auf eigene Server, um die ___ über Schülerdaten zu behalten.",
+      "loesung": "Datensouveränität",
+      "optionen": [
+        "Datenmenge",
+        "Datensouveränität",
+        "Datenpanne",
+        "Datenautobahn"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0083",
+    "wort": "die Automatisierung",
+    "wortart": "Nomen",
+    "formen": "die Automatisierungen",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Arbeiten werden von Maschinen oder Computern ohne Menschen erledigt.",
+    "synonyme": [
+      "die Automation",
+      "die Mechanisierung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "automatisch",
+      "automatisieren"
+    ],
+    "kollokationen": [
+      "die Automatisierung von Routineaufgaben",
+      "fortschreitende Automatisierung"
+    ],
+    "beispiel": "Die fortschreitende Automatisierung verändert viele Berufe grundlegend.",
+    "luecke": {
+      "satz": "Durch die ___ von Korrekturen bleibt Lehrkräften mehr Zeit für den eigentlichen Unterricht.",
+      "loesung": "Automatisierung",
+      "optionen": [
+        "Autorisierung",
+        "Autonomie",
+        "Automatisierung",
+        "Aktualisierung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0084",
+    "wort": "die Verzerrung",
+    "wortart": "Nomen",
+    "formen": "die Verzerrungen",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Ein Ergebnis oder eine Darstellung wird einseitig und falsch, zum Beispiel weil die Daten nicht ausgewogen sind.",
+    "synonyme": [
+      "die Verfälschung",
+      "der Bias"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "verzerren",
+      "verzerrt"
+    ],
+    "kollokationen": [
+      "eine systematische Verzerrung",
+      "Verzerrungen in den Trainingsdaten"
+    ],
+    "beispiel": "Die Grafik führt durch eine abgeschnittene Achse zu einer Verzerrung der Wirklichkeit.",
+    "luecke": {
+      "satz": "Wenn die Trainingsdaten fast nur Männer zeigen, kommt es zu einer ___ der Ergebnisse.",
+      "loesung": "Verzerrung",
+      "optionen": [
+        "Verzierung",
+        "Versorgung",
+        "Verzollung",
+        "Verzerrung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0085",
+    "wort": "die Nachvollziehbarkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Man kann gut verstehen und prüfen, wie ein Ergebnis entstanden ist.",
+    "synonyme": [
+      "die Transparenz",
+      "die Verständlichkeit"
+    ],
+    "antonyme": [
+      "die Undurchsichtigkeit"
+    ],
+    "wortfamilie": [
+      "nachvollziehen",
+      "nachvollziehbar"
+    ],
+    "kollokationen": [
+      "die Nachvollziehbarkeit von Entscheidungen",
+      "Nachvollziehbarkeit gewährleisten"
+    ],
+    "beispiel": "Für die Nachvollziehbarkeit einer Studie müssen alle Schritte genau dokumentiert werden.",
+    "luecke": {
+      "satz": "Kritiker bemängeln die fehlende ___ von KI-Entscheidungen bei der Kreditvergabe.",
+      "loesung": "Nachvollziehbarkeit",
+      "optionen": [
+        "Nachvollziehbarkeit",
+        "Nachbarschaft",
+        "Nachgiebigkeit",
+        "Nachfolge"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0086",
+    "wort": "die Überwachung",
+    "wortart": "Nomen",
+    "formen": "die Überwachungen",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Das ständige Beobachten und Kontrollieren von Menschen oder Vorgängen.",
+    "synonyme": [
+      "die Kontrolle",
+      "die Beobachtung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "überwachen",
+      "wach"
+    ],
+    "kollokationen": [
+      "staatliche Überwachung",
+      "unter Überwachung stehen"
+    ],
+    "beispiel": "Patienten auf der Intensivstation stehen unter ständiger Überwachung.",
+    "luecke": {
+      "satz": "Datenschützer warnen vor einer flächendeckenden ___ durch Gesichtserkennung im öffentlichen Raum.",
+      "loesung": "Überwachung",
+      "optionen": [
+        "Übernachtung",
+        "Überwachung",
+        "Überweisung",
+        "Überwindung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0087",
+    "wort": "das Sprachmodell",
+    "wortart": "Nomen",
+    "formen": "die Sprachmodelle",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Ein KI-Programm, das mit sehr vielen Texten trainiert wurde und selbst Texte erzeugen kann.",
+    "synonyme": [
+      "das KI-Modell"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Sprache",
+      "das Modell"
+    ],
+    "kollokationen": [
+      "ein großes Sprachmodell",
+      "ein Sprachmodell trainieren"
+    ],
+    "beispiel": "Große Sprachmodelle können Texte zusammenfassen und übersetzen, machen aber auch Fehler.",
+    "luecke": {
+      "satz": "Immer mehr Studierende lassen sich von einem ___ beim Formulieren von Hausarbeiten helfen.",
+      "loesung": "Sprachmodell",
+      "optionen": [
+        "Sprachrohr",
+        "Sprachfehler",
+        "Sprachmodell",
+        "Sprichwort"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0088",
+    "wort": "die Schnittstelle",
+    "wortart": "Nomen",
+    "formen": "die Schnittstellen",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Eine Verbindung, über die zwei Systeme oder Bereiche Daten austauschen oder zusammenarbeiten.",
+    "synonyme": [
+      "das Interface",
+      "die Verbindungsstelle"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "schneiden",
+      "der Schnitt"
+    ],
+    "kollokationen": [
+      "an der Schnittstelle zwischen … und …",
+      "eine offene Schnittstelle"
+    ],
+    "beispiel": "Über eine Schnittstelle werden die Noten automatisch in das Zeugnisprogramm übertragen.",
+    "luecke": {
+      "satz": "Die Bioinformatik liegt an der ___ zwischen Biologie und Informatik.",
+      "loesung": "Schnittstelle",
+      "optionen": [
+        "Schnittwunde",
+        "Haltestelle",
+        "Baustelle",
+        "Schnittstelle"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0089",
+    "wort": "die Rechenleistung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Wie schnell und wie viel ein Computer rechnen kann.",
+    "synonyme": [
+      "die Rechenkapazität"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "rechnen",
+      "leisten"
+    ],
+    "kollokationen": [
+      "enorme Rechenleistung",
+      "die Rechenleistung erhöhen"
+    ],
+    "beispiel": "Die Rechenleistung von Smartphones ist in den letzten Jahren stark gestiegen.",
+    "luecke": {
+      "satz": "Das Training großer KI-Modelle erfordert eine enorme ___ und viel Strom.",
+      "loesung": "Rechenleistung",
+      "optionen": [
+        "Rechenleistung",
+        "Rechenschaft",
+        "Rechenaufgabe",
+        "Rechnungsprüfung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0090",
+    "wort": "generieren",
+    "wortart": "Verb",
+    "formen": "generiert, generierte, hat generiert",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Etwas erzeugen oder herstellen, zum Beispiel Texte, Bilder oder Daten.",
+    "synonyme": [
+      "erzeugen",
+      "hervorbringen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Generierung",
+      "generativ"
+    ],
+    "kollokationen": [
+      "Texte generieren",
+      "Einnahmen generieren"
+    ],
+    "beispiel": "Das Programm generiert aus wenigen Stichworten einen ganzen Text.",
+    "luecke": {
+      "satz": "Die Software kann in wenigen Sekunden ein komplettes Arbeitsblatt zur Zellteilung ___.",
+      "loesung": "generieren",
+      "optionen": [
+        "genehmigen",
+        "generieren",
+        "genießen",
+        "generalisieren"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0091",
+    "wort": "verarbeiten",
+    "wortart": "Verb",
+    "formen": "verarbeitet, verarbeitete, hat verarbeitet",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Hier: Daten aufnehmen, ordnen und nutzen.",
+    "synonyme": [
+      "bearbeiten",
+      "auswerten"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Verarbeitung"
+    ],
+    "kollokationen": [
+      "personenbezogene Daten verarbeiten",
+      "Informationen verarbeiten"
+    ],
+    "beispiel": "Das Gehirn verarbeitet Informationen im Schlaf weiter.",
+    "luecke": {
+      "satz": "Schulen dürfen personenbezogene Daten von Schülern nur unter strengen Bedingungen ___.",
+      "loesung": "verarbeiten",
+      "optionen": [
+        "verarzten",
+        "veralten",
+        "verarbeiten",
+        "verachten"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0092",
+    "wort": "auswerten",
+    "wortart": "Verb",
+    "formen": "wertet aus, wertete aus, hat ausgewertet",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Daten oder Ergebnisse genau untersuchen, um Erkenntnisse zu gewinnen.",
+    "synonyme": [
+      "analysieren"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Auswertung"
+    ],
+    "kollokationen": [
+      "Daten statistisch auswerten",
+      "eine Umfrage auswerten"
+    ],
+    "beispiel": "Nach dem Versuch werten die Schüler ihre Messwerte in einer Tabelle aus.",
+    "luecke": {
+      "satz": "Die Umfrageergebnisse wurden mit einer speziellen Software statistisch ___.",
+      "loesung": "ausgewertet",
+      "optionen": [
+        "aufgewertet",
+        "abgewertet",
+        "ausgewiesen",
+        "ausgewertet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0093",
+    "wort": "verknüpfen",
+    "wortart": "Verb",
+    "formen": "verknüpft, verknüpfte, hat verknüpft",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Zwei oder mehr Dinge miteinander verbinden.",
+    "synonyme": [
+      "verbinden",
+      "kombinieren"
+    ],
+    "antonyme": [
+      "trennen"
+    ],
+    "wortfamilie": [
+      "die Verknüpfung",
+      "der Knoten"
+    ],
+    "kollokationen": [
+      "Daten miteinander verknüpfen",
+      "Theorie und Praxis verknüpfen"
+    ],
+    "beispiel": "Das Studium soll Theorie und Praxis sinnvoll verknüpfen.",
+    "luecke": {
+      "satz": "Die App ___ die Gesundheitsdaten der Nutzer mit ihren Bewegungsprofilen.",
+      "loesung": "verknüpft",
+      "optionen": [
+        "verknüpft",
+        "verknappt",
+        "verkündet",
+        "verkürzt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0094",
+    "wort": "anonymisieren",
+    "wortart": "Verb",
+    "formen": "anonymisiert, anonymisierte, hat anonymisiert",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Daten so verändern, dass man nicht mehr erkennen kann, zu welcher Person sie gehören.",
+    "synonyme": [
+      "unkenntlich machen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "anonym",
+      "die Anonymisierung"
+    ],
+    "kollokationen": [
+      "Daten anonymisieren",
+      "anonymisierte Daten"
+    ],
+    "beispiel": "Alle Interviews wurden für die Studie anonymisiert.",
+    "luecke": {
+      "satz": "Bevor die Ergebnisse der Befragung veröffentlicht werden, müssen alle Namen der Schüler ___ werden.",
+      "loesung": "anonymisiert",
+      "optionen": [
+        "antizipiert",
+        "anonymisiert",
+        "annonciert",
+        "analysiert"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0095",
+    "wort": "vernetzen",
+    "wortart": "Verb",
+    "formen": "vernetzt, vernetzte, hat vernetzt",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "Personen, Geräte oder Institutionen miteinander verbinden, damit sie zusammenarbeiten oder Daten austauschen.",
+    "synonyme": [
+      "verbinden"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Netz",
+      "das Netzwerk",
+      "die Vernetzung"
+    ],
+    "kollokationen": [
+      "sich mit Kollegen vernetzen",
+      "digital vernetzt"
+    ],
+    "beispiel": "Im Smart Home sind Heizung, Licht und Türschloss miteinander vernetzt.",
+    "luecke": {
+      "satz": "Auf der Plattform können sich Lehrkräfte aus ganz Deutschland ___ und Material austauschen.",
+      "loesung": "vernetzen",
+      "optionen": [
+        "verletzen",
+        "versetzen",
+        "vernetzen",
+        "verwetten"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0096",
+    "wort": "datenbasiert",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Auf Daten und Messungen gestützt.",
+    "synonyme": [
+      "datengestützt"
+    ],
+    "antonyme": [
+      "intuitiv"
+    ],
+    "wortfamilie": [
+      "die Daten",
+      "die Basis"
+    ],
+    "kollokationen": [
+      "datenbasierte Entscheidungen",
+      "datenbasiert arbeiten"
+    ],
+    "beispiel": "Moderne Landwirtschaft arbeitet zunehmend datenbasiert.",
+    "luecke": {
+      "satz": "Die Schulleitung möchte ___ Entscheidungen treffen und wertet deshalb regelmäßig Lernstandserhebungen aus.",
+      "loesung": "datenbasierte",
+      "optionen": [
+        "grundlose",
+        "datierte",
+        "basische",
+        "datenbasierte"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0097",
+    "wort": "fehleranfällig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "So, dass leicht Fehler entstehen.",
+    "synonyme": [
+      "störanfällig",
+      "unzuverlässig"
+    ],
+    "antonyme": [
+      "zuverlässig",
+      "robust"
+    ],
+    "wortfamilie": [
+      "der Fehler",
+      "anfällig"
+    ],
+    "kollokationen": [
+      "ein fehleranfälliges System",
+      "fehleranfällig sein"
+    ],
+    "beispiel": "Manuelle Dateneingabe ist zeitaufwendig und fehleranfällig.",
+    "luecke": {
+      "satz": "Die automatische Gesichtserkennung gilt bei schlechtem Licht als besonders ___.",
+      "loesung": "fehleranfällig",
+      "optionen": [
+        "fehleranfällig",
+        "fehlerfrei",
+        "anfänglich",
+        "fehlgeleitet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0098",
+    "wort": "intransparent",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Nicht durchschaubar; man versteht nicht, wie etwas funktioniert oder entschieden wird.",
+    "synonyme": [
+      "undurchsichtig"
+    ],
+    "antonyme": [
+      "transparent",
+      "nachvollziehbar"
+    ],
+    "wortfamilie": [
+      "die Transparenz"
+    ],
+    "kollokationen": [
+      "intransparente Entscheidungen",
+      "ein intransparentes Verfahren"
+    ],
+    "beispiel": "Das Auswahlverfahren für die Stipendien wurde als intransparent kritisiert.",
+    "luecke": {
+      "satz": "Viele Nutzer kritisieren, dass die Plattform ihre Regeln für das Löschen von Beiträgen ___ anwendet.",
+      "loesung": "intransparent",
+      "optionen": [
+        "intakt",
+        "intransparent",
+        "inhaltsleer",
+        "intravenös"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0099",
+    "wort": "autonom",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "ki_digitalisierung",
+    "register": "schriftlich",
+    "erklaerung": "Selbstständig, ohne Steuerung von außen.",
+    "synonyme": [
+      "selbstständig",
+      "unabhängig"
+    ],
+    "antonyme": [
+      "abhängig",
+      "ferngesteuert"
+    ],
+    "wortfamilie": [
+      "die Autonomie"
+    ],
+    "kollokationen": [
+      "autonomes Fahren",
+      "autonome Systeme"
+    ],
+    "beispiel": "Hochschulen in Deutschland sind in vielen Fragen autonom.",
+    "luecke": {
+      "satz": "___ Fahrzeuge sollen in Zukunft ohne menschlichen Fahrer im Straßenverkehr unterwegs sein.",
+      "loesung": "Autonome",
+      "optionen": [
+        "Anonyme",
+        "Autoritäre",
+        "Autonome",
+        "Antike"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0100",
+    "wort": "personalisiert",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "ki_digitalisierung",
+    "register": "neutral",
+    "erklaerung": "An eine bestimmte Person und ihre Interessen angepasst.",
+    "synonyme": [
+      "individuell zugeschnitten"
+    ],
+    "antonyme": [
+      "standardisiert"
+    ],
+    "wortfamilie": [
+      "die Person",
+      "personalisieren"
+    ],
+    "kollokationen": [
+      "personalisierte Werbung",
+      "personalisiertes Lernen"
+    ],
+    "beispiel": "Viele Nutzer stört personalisierte Werbung im Internet.",
+    "luecke": {
+      "satz": "Lernplattformen versprechen ___ Lernen, das sich dem Tempo jedes einzelnen Kindes anpasst.",
+      "loesung": "personalisiertes",
+      "optionen": [
+        "personelles",
+        "prominentes",
+        "pauschales",
+        "personalisiertes"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0101",
+    "wort": "die Emission",
+    "wortart": "Nomen",
+    "formen": "die Emissionen",
+    "thema": "klima_nachhaltigkeit",
+    "register": "schriftlich",
+    "erklaerung": "Der Ausstoß von Schadstoffen oder Gasen (zum Beispiel CO₂) in die Luft.",
+    "synonyme": [
+      "der Ausstoß"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "emittieren"
+    ],
+    "kollokationen": [
+      "Emissionen senken",
+      "CO₂-Emissionen"
+    ],
+    "beispiel": "Der Verkehr verursacht einen großen Teil der Emissionen in Städten.",
+    "luecke": {
+      "satz": "Bis 2045 will Deutschland seine ___ auf netto null senken.",
+      "loesung": "Emissionen",
+      "optionen": [
+        "Emissionen",
+        "Emotionen",
+        "Missionen",
+        "Emigranten"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0102",
+    "wort": "die Erderwärmung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Der Anstieg der durchschnittlichen Temperatur auf der Erde.",
+    "synonyme": [
+      "die globale Erwärmung"
+    ],
+    "antonyme": [
+      "die Abkühlung"
+    ],
+    "wortfamilie": [
+      "warm",
+      "erwärmen"
+    ],
+    "kollokationen": [
+      "die Erderwärmung begrenzen",
+      "die Folgen der Erderwärmung"
+    ],
+    "beispiel": "Die Erderwärmung lässt den Meeresspiegel steigen.",
+    "luecke": {
+      "satz": "Das Pariser Abkommen hat zum Ziel, die ___ auf deutlich unter zwei Grad zu begrenzen.",
+      "loesung": "Erderwärmung",
+      "optionen": [
+        "Erdanziehung",
+        "Erderwärmung",
+        "Erderkundung",
+        "Wärmedämmung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0103",
+    "wort": "die Ressourcenschonung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "klima_nachhaltigkeit",
+    "register": "schriftlich",
+    "erklaerung": "Man geht sparsam mit Rohstoffen, Energie und Wasser um.",
+    "synonyme": [
+      "der sparsame Umgang mit Ressourcen"
+    ],
+    "antonyme": [
+      "die Ressourcenverschwendung"
+    ],
+    "wortfamilie": [
+      "schonen",
+      "die Ressource"
+    ],
+    "kollokationen": [
+      "zur Ressourcenschonung beitragen",
+      "aus Gründen der Ressourcenschonung"
+    ],
+    "beispiel": "Aus Gründen der Ressourcenschonung druckt die Universität Skripte nur noch auf Anfrage.",
+    "luecke": {
+      "satz": "Recycling und Reparieren tragen wesentlich zur ___ bei.",
+      "loesung": "Ressourcenschonung",
+      "optionen": [
+        "Ressourcenknappheit",
+        "Ressortleitung",
+        "Ressourcenschonung",
+        "Schonfrist"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0104",
+    "wort": "die Artenvielfalt",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Die große Zahl verschiedener Tier- und Pflanzenarten in einem Gebiet.",
+    "synonyme": [
+      "die Biodiversität"
+    ],
+    "antonyme": [
+      "die Monokultur"
+    ],
+    "wortfamilie": [
+      "die Art",
+      "vielfältig"
+    ],
+    "kollokationen": [
+      "die Artenvielfalt schützen",
+      "der Verlust der Artenvielfalt"
+    ],
+    "beispiel": "Die Korallenriffe der Philippinen gehören zu den Gebieten mit der größten Artenvielfalt der Welt.",
+    "luecke": {
+      "satz": "Monokulturen in der Landwirtschaft führen zu einem Rückgang der ___.",
+      "loesung": "Artenvielfalt",
+      "optionen": [
+        "Arbeitsvielfalt",
+        "Meinungsvielfalt",
+        "Einfalt",
+        "Artenvielfalt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0105",
+    "wort": "das Ökosystem",
+    "wortart": "Nomen",
+    "formen": "die Ökosysteme",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Eine Lebensgemeinschaft von Pflanzen, Tieren und Mikroorganismen zusammen mit ihrem Lebensraum.",
+    "synonyme": [
+      "das ökologische System"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Ökologie",
+      "ökologisch"
+    ],
+    "kollokationen": [
+      "ein empfindliches Ökosystem",
+      "das Ökosystem Wald"
+    ],
+    "beispiel": "Invasive Arten können ein ganzes Ökosystem aus dem Gleichgewicht bringen.",
+    "luecke": {
+      "satz": "Im Biologieunterricht untersuchen die Schüler den Teich als ___ mit seinen Nahrungsketten.",
+      "loesung": "Ökosystem",
+      "optionen": [
+        "Ökosystem",
+        "Ökostrom",
+        "Betriebssystem",
+        "Ökonomie"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0106",
+    "wort": "die Energiewende",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Der Umstieg von fossiler und atomarer Energie auf erneuerbare Energien.",
+    "synonyme": [
+      "die Umstellung auf erneuerbare Energien"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Energie",
+      "die Wende"
+    ],
+    "kollokationen": [
+      "die Energiewende vorantreiben",
+      "die Kosten der Energiewende"
+    ],
+    "beispiel": "Über die Kosten der Energiewende wird in Deutschland viel gestritten.",
+    "luecke": {
+      "satz": "Der Ausbau von Wind- und Solaranlagen ist ein zentraler Bestandteil der ___.",
+      "loesung": "Energiewende",
+      "optionen": [
+        "Zeitenwende",
+        "Energiewende",
+        "Energiekrise",
+        "Wendeltreppe"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0107",
+    "wort": "die Kreislaufwirtschaft",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "klima_nachhaltigkeit",
+    "register": "schriftlich",
+    "erklaerung": "Ein Wirtschaftssystem, in dem Produkte und Materialien möglichst lange genutzt und wiederverwertet werden.",
+    "synonyme": [
+      "die Kreislaufökonomie"
+    ],
+    "antonyme": [
+      "die Wegwerfwirtschaft"
+    ],
+    "wortfamilie": [
+      "der Kreislauf"
+    ],
+    "kollokationen": [
+      "die Kreislaufwirtschaft fördern",
+      "der Übergang zur Kreislaufwirtschaft"
+    ],
+    "beispiel": "Die EU will den Übergang zur Kreislaufwirtschaft beschleunigen.",
+    "luecke": {
+      "satz": "In einer ___ werden Abfälle als Rohstoffe für neue Produkte genutzt.",
+      "loesung": "Kreislaufwirtschaft",
+      "optionen": [
+        "Kreislaufstörung",
+        "Planwirtschaft",
+        "Kreislaufwirtschaft",
+        "Kreisverwaltung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0108",
+    "wort": "der ökologische Fußabdruck",
+    "wortart": "Nomen",
+    "formen": "die ökologischen Fußabdrücke",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Wie viel Fläche der Erde nötig ist, um den Verbrauch eines Menschen oder Landes zu decken.",
+    "synonyme": [
+      "die Umweltbilanz"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Ökologie",
+      "der Abdruck"
+    ],
+    "kollokationen": [
+      "den ökologischen Fußabdruck verringern",
+      "einen großen ökologischen Fußabdruck haben"
+    ],
+    "beispiel": "Industrieländer haben einen viel größeren ökologischen Fußabdruck als die meisten anderen Länder.",
+    "luecke": {
+      "satz": "Wer weniger Fleisch isst und auf Flugreisen verzichtet, verkleinert seinen ökologischen ___.",
+      "loesung": "Fußabdruck",
+      "optionen": [
+        "Fingerabdruck",
+        "Gesichtsausdruck",
+        "Fußgänger",
+        "Fußabdruck"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0109",
+    "wort": "die Dürre",
+    "wortart": "Nomen",
+    "formen": "die Dürren",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Eine lange Zeit ohne Regen, in der der Boden austrocknet.",
+    "synonyme": [
+      "die Trockenheit"
+    ],
+    "antonyme": [
+      "die Überschwemmung"
+    ],
+    "wortfamilie": [
+      "dürr"
+    ],
+    "kollokationen": [
+      "eine anhaltende Dürre",
+      "unter Dürre leiden"
+    ],
+    "beispiel": "Wegen der Dürre fiel die Getreideernte deutlich kleiner aus.",
+    "luecke": {
+      "satz": "Nach der monatelangen ___ waren viele Flüsse fast ausgetrocknet.",
+      "loesung": "Dürre",
+      "optionen": [
+        "Dürre",
+        "Düne",
+        "Dauer",
+        "Dünung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0110",
+    "wort": "eindämmen",
+    "wortart": "Verb",
+    "formen": "dämmt ein, dämmte ein, hat eingedämmt",
+    "thema": "klima_nachhaltigkeit",
+    "register": "schriftlich",
+    "erklaerung": "Die Ausbreitung von etwas Negativem begrenzen und stoppen.",
+    "synonyme": [
+      "begrenzen",
+      "eingrenzen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Damm",
+      "die Eindämmung"
+    ],
+    "kollokationen": [
+      "den Klimawandel eindämmen",
+      "eine Epidemie eindämmen"
+    ],
+    "beispiel": "Mit Impfungen konnte die Epidemie schnell eingedämmt werden.",
+    "luecke": {
+      "satz": "Mit strengen Maßnahmen versuchte man, die Ausbreitung des Waldbrandes ___.",
+      "loesung": "einzudämmen",
+      "optionen": [
+        "einzudecken",
+        "einzudämmen",
+        "einzutauchen",
+        "einzuräumen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0111",
+    "wort": "ausstoßen",
+    "wortart": "Verb",
+    "formen": "stößt aus, stieß aus, hat ausgestoßen",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Hier: Gase oder Stoffe in die Luft abgeben.",
+    "synonyme": [
+      "emittieren",
+      "freisetzen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Ausstoß"
+    ],
+    "kollokationen": [
+      "CO₂ ausstoßen",
+      "Schadstoffe ausstoßen"
+    ],
+    "beispiel": "Ein Hin- und Rückflug von Frankfurt nach Manila stößt pro Person mehrere Tonnen CO₂ aus.",
+    "luecke": {
+      "satz": "Kohlekraftwerke ___ besonders viel Kohlendioxid aus.",
+      "loesung": "stoßen",
+      "optionen": [
+        "geben",
+        "lassen",
+        "stoßen",
+        "stellen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0112",
+    "wort": "kompensieren",
+    "wortart": "Verb",
+    "formen": "kompensiert, kompensierte, hat kompensiert",
+    "thema": "klima_nachhaltigkeit",
+    "register": "schriftlich",
+    "erklaerung": "Etwas Negatives durch etwas Positives ausgleichen.",
+    "synonyme": [
+      "ausgleichen",
+      "wettmachen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Kompensation"
+    ],
+    "kollokationen": [
+      "CO₂-Emissionen kompensieren",
+      "einen Mangel kompensieren"
+    ],
+    "beispiel": "Fehlende Sprachkenntnisse kann man nicht allein durch Fachwissen kompensieren.",
+    "luecke": {
+      "satz": "Viele Fluggäste ___ ihre Emissionen, indem sie für Aufforstungsprojekte spenden.",
+      "loesung": "kompensieren",
+      "optionen": [
+        "komponieren",
+        "kommentieren",
+        "kompromittieren",
+        "kompensieren"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0113",
+    "wort": "sich auswirken auf + A",
+    "wortart": "Verb",
+    "formen": "wirkt sich aus, wirkte sich aus, hat sich ausgewirkt",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Eine Wirkung oder Folge für etwas haben.",
+    "synonyme": [
+      "beeinflussen",
+      "Folgen haben für + A"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Auswirkung"
+    ],
+    "kollokationen": [
+      "sich negativ auf etwas auswirken",
+      "sich positiv auswirken"
+    ],
+    "beispiel": "Der Lehrkräftemangel wirkt sich direkt auf die Unterrichtsqualität aus.",
+    "luecke": {
+      "satz": "Steigende Wassertemperaturen ___ sich negativ auf die Korallenriffe aus.",
+      "loesung": "wirken",
+      "optionen": [
+        "wirken",
+        "setzen",
+        "richten",
+        "gehen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0114",
+    "wort": "einsparen",
+    "wortart": "Verb",
+    "formen": "spart ein, sparte ein, hat eingespart",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Weniger von etwas verbrauchen, damit etwas übrig bleibt.",
+    "synonyme": [
+      "sparen",
+      "reduzieren"
+    ],
+    "antonyme": [
+      "verschwenden",
+      "verbrauchen"
+    ],
+    "wortfamilie": [
+      "die Einsparung",
+      "sparsam"
+    ],
+    "kollokationen": [
+      "Energie einsparen",
+      "Kosten einsparen"
+    ],
+    "beispiel": "Durch Homeoffice lassen sich viele Fahrten einsparen.",
+    "luecke": {
+      "satz": "Durch neue Fenster konnte die Schule fast ein Drittel der Heizenergie ___.",
+      "loesung": "einsparen",
+      "optionen": [
+        "einspannen",
+        "einsparen",
+        "einspielen",
+        "einsperren"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0115",
+    "wort": "bewahren",
+    "wortart": "Verb",
+    "formen": "bewahrt, bewahrte, hat bewahrt",
+    "thema": "klima_nachhaltigkeit",
+    "register": "schriftlich",
+    "erklaerung": "Etwas erhalten und schützen, damit es nicht verloren geht.",
+    "synonyme": [
+      "erhalten",
+      "schützen"
+    ],
+    "antonyme": [
+      "zerstören"
+    ],
+    "wortfamilie": [
+      "die Bewahrung",
+      "wahren"
+    ],
+    "kollokationen": [
+      "die Natur bewahren",
+      "Ruhe bewahren"
+    ],
+    "beispiel": "In schwierigen Situationen sollte man Ruhe bewahren.",
+    "luecke": {
+      "satz": "Schutzgebiete sollen seltene Lebensräume für kommende Generationen ___.",
+      "loesung": "bewahren",
+      "optionen": [
+        "bewähren",
+        "bewerben",
+        "bewahren",
+        "bewältigen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0116",
+    "wort": "klimaneutral",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Verursacht insgesamt keine zusätzlichen Treibhausgase.",
+    "synonyme": [
+      "CO₂-neutral"
+    ],
+    "antonyme": [
+      "klimaschädlich"
+    ],
+    "wortfamilie": [
+      "das Klima",
+      "neutral"
+    ],
+    "kollokationen": [
+      "klimaneutral werden",
+      "ein klimaneutraler Campus"
+    ],
+    "beispiel": "Das Unternehmen möchte seine Produktion bis 2030 klimaneutral gestalten.",
+    "luecke": {
+      "satz": "Die Universität möchte bis 2035 ___ werden.",
+      "loesung": "klimaneutral",
+      "optionen": [
+        "klimatisiert",
+        "klimaschädlich",
+        "kleinteilig",
+        "klimaneutral"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0117",
+    "wort": "erneuerbar",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Kann sich auf natürliche Weise immer wieder neu bilden; geht nicht zu Ende.",
+    "synonyme": [
+      "regenerativ"
+    ],
+    "antonyme": [
+      "fossil",
+      "endlich"
+    ],
+    "wortfamilie": [
+      "erneuern",
+      "neu"
+    ],
+    "kollokationen": [
+      "erneuerbare Energien",
+      "erneuerbare Rohstoffe"
+    ],
+    "beispiel": "Holz ist ein erneuerbarer Rohstoff, wenn der Wald nachhaltig bewirtschaftet wird.",
+    "luecke": {
+      "satz": "Mehr als die Hälfte des Stroms in Deutschland stammt inzwischen aus ___ Energien.",
+      "loesung": "erneuerbaren",
+      "optionen": [
+        "erneuerbaren",
+        "erneuerten",
+        "erträglichen",
+        "ernsthaften"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0118",
+    "wort": "irreversibel",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "klima_nachhaltigkeit",
+    "register": "schriftlich",
+    "erklaerung": "Kann nicht rückgängig gemacht werden.",
+    "synonyme": [
+      "unumkehrbar",
+      "endgültig"
+    ],
+    "antonyme": [
+      "reversibel",
+      "umkehrbar"
+    ],
+    "wortfamilie": [
+      "reversibel"
+    ],
+    "kollokationen": [
+      "irreversible Schäden",
+      "irreversibel geschädigt"
+    ],
+    "beispiel": "Manche Schäden am Gehör durch laute Musik sind irreversibel.",
+    "luecke": {
+      "satz": "Wissenschaftler warnen, dass das Abschmelzen des Grönlandeises ab einem bestimmten Punkt ___ sein könnte.",
+      "loesung": "irreversibel",
+      "optionen": [
+        "irrelevant",
+        "irreversibel",
+        "irritiert",
+        "irrational"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0119",
+    "wort": "umweltverträglich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "klima_nachhaltigkeit",
+    "register": "schriftlich",
+    "erklaerung": "Schadet der Umwelt nicht oder nur wenig.",
+    "synonyme": [
+      "umweltfreundlich",
+      "umweltschonend"
+    ],
+    "antonyme": [
+      "umweltschädlich"
+    ],
+    "wortfamilie": [
+      "die Umwelt",
+      "vertragen"
+    ],
+    "kollokationen": [
+      "umweltverträgliche Verpackungen",
+      "umweltverträglich produzieren"
+    ],
+    "beispiel": "Die Firma stellt ihre Produktion auf umweltverträgliche Materialien um.",
+    "luecke": {
+      "satz": "Viele Verbraucher sind bereit, für ___ Verpackungen mehr zu bezahlen.",
+      "loesung": "umweltverträgliche",
+      "optionen": [
+        "unverträgliche",
+        "umweltschädliche",
+        "umweltverträgliche",
+        "umständliche"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0120",
+    "wort": "fossil",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "klima_nachhaltigkeit",
+    "register": "neutral",
+    "erklaerung": "Aus Resten von Pflanzen und Tieren entstanden, die vor Millionen Jahren lebten (Kohle, Erdöl, Erdgas).",
+    "synonyme": [],
+    "antonyme": [
+      "erneuerbar"
+    ],
+    "wortfamilie": [
+      "das Fossil"
+    ],
+    "kollokationen": [
+      "fossile Brennstoffe",
+      "fossile Energieträger"
+    ],
+    "beispiel": "Fossile Energieträger sind nur begrenzt vorhanden.",
+    "luecke": {
+      "satz": "Der Ausstieg aus ___ Brennstoffen wie Kohle und Erdöl ist für den Klimaschutz entscheidend.",
+      "loesung": "fossilen",
+      "optionen": [
+        "fragilen",
+        "flexiblen",
+        "festlichen",
+        "fossilen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0121",
+    "wort": "die Prävention",
+    "wortart": "Nomen",
+    "formen": "die Präventionen (selten)",
+    "thema": "gesundheit",
+    "register": "schriftlich",
+    "erklaerung": "Maßnahmen, die verhindern sollen, dass eine Krankheit oder ein Problem entsteht.",
+    "synonyme": [
+      "die Vorbeugung",
+      "die Vorsorge"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "präventiv"
+    ],
+    "kollokationen": [
+      "Prävention von Suchterkrankungen",
+      "in Prävention investieren"
+    ],
+    "beispiel": "Die Krankenkassen investieren zunehmend in Prävention.",
+    "luecke": {
+      "satz": "Schulen spielen eine wichtige Rolle bei der ___ von Übergewicht bei Kindern.",
+      "loesung": "Prävention",
+      "optionen": [
+        "Prävention",
+        "Präsentation",
+        "Prädikat",
+        "Provokation"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0122",
+    "wort": "die Resilienz",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "gesundheit",
+    "register": "schriftlich",
+    "erklaerung": "Die Fähigkeit, Krisen und Belastungen gut zu überstehen.",
+    "synonyme": [
+      "die Widerstandsfähigkeit"
+    ],
+    "antonyme": [
+      "die Verletzlichkeit",
+      "die Anfälligkeit"
+    ],
+    "wortfamilie": [
+      "resilient"
+    ],
+    "kollokationen": [
+      "die Resilienz stärken",
+      "psychische Resilienz"
+    ],
+    "beispiel": "Studien zeigen, dass stabile Beziehungen die Resilienz von Kindern stärken.",
+    "luecke": {
+      "satz": "Programme zur Stärkung der ___ sollen Kindern helfen, besser mit Stress umzugehen.",
+      "loesung": "Resilienz",
+      "optionen": [
+        "Residenz",
+        "Resilienz",
+        "Präsenz",
+        "Reverenz"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0123",
+    "wort": "das Gesundheitswesen",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "gesundheit",
+    "register": "schriftlich",
+    "erklaerung": "Alle Einrichtungen und Personen, die für die Gesundheit der Bevölkerung sorgen (Ärzte, Krankenhäuser, Krankenkassen …).",
+    "synonyme": [
+      "das Gesundheitssystem"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "gesund",
+      "die Gesundheit"
+    ],
+    "kollokationen": [
+      "im Gesundheitswesen arbeiten",
+      "Reformen im Gesundheitswesen"
+    ],
+    "beispiel": "Viele Fachkräfte aus den Philippinen arbeiten im deutschen Gesundheitswesen.",
+    "luecke": {
+      "satz": "Der Fachkräftemangel im ___ betrifft vor allem die Pflege.",
+      "loesung": "Gesundheitswesen",
+      "optionen": [
+        "Gesundheitszeugnis",
+        "Lebewesen",
+        "Gesundheitswesen",
+        "Gesundheitsamt"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0124",
+    "wort": "die Nebenwirkung",
+    "wortart": "Nomen",
+    "formen": "die Nebenwirkungen",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Eine unerwünschte Wirkung eines Medikaments.",
+    "synonyme": [
+      "die unerwünschte Wirkung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "wirken",
+      "die Wirkung"
+    ],
+    "kollokationen": [
+      "Risiken und Nebenwirkungen",
+      "starke Nebenwirkungen haben"
+    ],
+    "beispiel": "Lesen Sie vor der Einnahme die Hinweise zu möglichen Nebenwirkungen.",
+    "luecke": {
+      "satz": "Das neue Medikament wirkt gut, hat aber leider starke ___.",
+      "loesung": "Nebenwirkungen",
+      "optionen": [
+        "Nebenkosten",
+        "Nebenfächer",
+        "Nebensätze",
+        "Nebenwirkungen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0125",
+    "wort": "der Erreger",
+    "wortart": "Nomen",
+    "formen": "die Erreger",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Ein Mikroorganismus (zum Beispiel ein Bakterium oder Virus), der eine Krankheit verursacht.",
+    "synonyme": [
+      "der Krankheitserreger",
+      "der Keim"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "erregen",
+      "die Erregung"
+    ],
+    "kollokationen": [
+      "ein gefährlicher Erreger",
+      "den Erreger nachweisen"
+    ],
+    "beispiel": "Im Labor wurde der Erreger der Lungenentzündung schnell identifiziert.",
+    "luecke": {
+      "satz": "Der ___ der Malaria wird von Mücken auf den Menschen übertragen.",
+      "loesung": "Erreger",
+      "optionen": [
+        "Erreger",
+        "Ernährer",
+        "Erbauer",
+        "Erzähler"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0126",
+    "wort": "die Impfquote",
+    "wortart": "Nomen",
+    "formen": "die Impfquoten",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Der Anteil der Menschen in einer Gruppe, die gegen eine Krankheit geimpft sind.",
+    "synonyme": [
+      "die Durchimpfungsrate"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "impfen",
+      "die Impfung"
+    ],
+    "kollokationen": [
+      "eine hohe Impfquote",
+      "die Impfquote erhöhen"
+    ],
+    "beispiel": "Lehrkräfte an deutschen Schulen müssen einen Nachweis über eine Masernimpfung vorlegen; so soll die Impfquote steigen.",
+    "luecke": {
+      "satz": "Damit sich Masern nicht ausbreiten, muss die ___ bei mindestens 95 Prozent liegen.",
+      "loesung": "Impfquote",
+      "optionen": [
+        "Impfstoff",
+        "Impfquote",
+        "Frauenquote",
+        "Impfpflicht"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0127",
+    "wort": "die Früherkennung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Eine Krankheit wird sehr früh entdeckt, oft schon bevor man Beschwerden hat.",
+    "synonyme": [
+      "die Frühdiagnose"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "erkennen",
+      "früh"
+    ],
+    "kollokationen": [
+      "die Früherkennung von Krebs",
+      "Untersuchungen zur Früherkennung"
+    ],
+    "beispiel": "Die Krankenkassen bezahlen viele Untersuchungen zur Früherkennung.",
+    "luecke": {
+      "satz": "Regelmäßige Untersuchungen zur ___ erhöhen die Heilungschancen bei Krebs deutlich.",
+      "loesung": "Früherkennung",
+      "optionen": [
+        "Frühschicht",
+        "Erkenntnis",
+        "Früherkennung",
+        "Frührente"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0128",
+    "wort": "die Volkskrankheit",
+    "wortart": "Nomen",
+    "formen": "die Volkskrankheiten",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Eine Krankheit, an der sehr viele Menschen in einem Land leiden.",
+    "synonyme": [
+      "die weitverbreitete Krankheit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Volk",
+      "die Krankheit"
+    ],
+    "kollokationen": [
+      "Diabetes als Volkskrankheit",
+      "eine Volkskrankheit bekämpfen"
+    ],
+    "beispiel": "Diabetes Typ 2 hat sich zu einer Volkskrankheit entwickelt.",
+    "luecke": {
+      "satz": "Rückenschmerzen gelten in Deutschland als ___, weil sehr viele Menschen darunter leiden.",
+      "loesung": "Volkskrankheit",
+      "optionen": [
+        "Kinderkrankheit",
+        "Volkshochschule",
+        "Volksabstimmung",
+        "Volkskrankheit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0129",
+    "wort": "die Ernährungsweise",
+    "wortart": "Nomen",
+    "formen": "die Ernährungsweisen",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Die Art, wie sich jemand ernährt, also was und wie man isst.",
+    "synonyme": [
+      "die Ernährung",
+      "die Essgewohnheiten"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "ernähren",
+      "die Nahrung"
+    ],
+    "kollokationen": [
+      "eine ausgewogene Ernährungsweise",
+      "eine pflanzliche Ernährungsweise"
+    ],
+    "beispiel": "Im Biologieunterricht der 7. Klasse vergleichen die Schüler verschiedene Ernährungsweisen.",
+    "luecke": {
+      "satz": "Eine ___ mit viel Gemüse und wenig Zucker senkt das Risiko für Diabetes.",
+      "loesung": "Ernährungsweise",
+      "optionen": [
+        "Ernährungsweise",
+        "Bauweise",
+        "Ernährungsberatung",
+        "Denkweise"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0130",
+    "wort": "vorbeugen + D",
+    "wortart": "Verb",
+    "formen": "beugt vor, beugte vor, hat vorgebeugt",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Etwas tun, damit etwas Negatives, zum Beispiel eine Krankheit, nicht entsteht.",
+    "synonyme": [
+      "verhindern",
+      "verhüten"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Vorbeugung",
+      "vorbeugend"
+    ],
+    "kollokationen": [
+      "Krankheiten vorbeugen",
+      "vorbeugende Maßnahmen"
+    ],
+    "beispiel": "Um Missverständnissen vorzubeugen, schickte sie allen eine kurze Zusammenfassung.",
+    "luecke": {
+      "satz": "Regelmäßige Bewegung kann vielen Herz-Kreislauf-Erkrankungen ___.",
+      "loesung": "vorbeugen",
+      "optionen": [
+        "vorbeigehen",
+        "vorbeugen",
+        "vorbereiten",
+        "vorführen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0131",
+    "wort": "diagnostizieren",
+    "wortart": "Verb",
+    "formen": "diagnostiziert, diagnostizierte, hat diagnostiziert",
+    "thema": "gesundheit",
+    "register": "schriftlich",
+    "erklaerung": "Durch eine Untersuchung feststellen, welche Krankheit jemand hat.",
+    "synonyme": [
+      "feststellen",
+      "erkennen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Diagnose",
+      "diagnostisch"
+    ],
+    "kollokationen": [
+      "eine Krankheit diagnostizieren",
+      "bei jemandem etwas diagnostizieren"
+    ],
+    "beispiel": "Die Ärztin diagnostizierte eine leichte Gehirnerschütterung.",
+    "luecke": {
+      "satz": "Bei dem Schüler wurde eine Lese-Rechtschreib-Schwäche ___.",
+      "loesung": "diagnostiziert",
+      "optionen": [
+        "dramatisiert",
+        "diskriminiert",
+        "diagnostiziert",
+        "dirigiert"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0132",
+    "wort": "übertragen",
+    "wortart": "Verb",
+    "formen": "überträgt, übertrug, hat übertragen",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Hier: eine Krankheit an andere Menschen oder Tiere weitergeben.",
+    "synonyme": [
+      "weitergeben"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Übertragung",
+      "übertragbar"
+    ],
+    "kollokationen": [
+      "eine Krankheit übertragen",
+      "durch Tröpfchen übertragen"
+    ],
+    "beispiel": "Zecken können gefährliche Krankheiten übertragen.",
+    "luecke": {
+      "satz": "Das Virus wird hauptsächlich über die Luft ___.",
+      "loesung": "übertragen",
+      "optionen": [
+        "übertrieben",
+        "übertroffen",
+        "überzogen",
+        "übertragen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0133",
+    "wort": "beeinträchtigen",
+    "wortart": "Verb",
+    "formen": "beeinträchtigt, beeinträchtigte, hat beeinträchtigt",
+    "thema": "gesundheit",
+    "register": "schriftlich",
+    "erklaerung": "Eine negative Wirkung auf etwas haben; etwas schlechter machen.",
+    "synonyme": [
+      "einschränken",
+      "stören"
+    ],
+    "antonyme": [
+      "fördern",
+      "verbessern"
+    ],
+    "wortfamilie": [
+      "die Beeinträchtigung"
+    ],
+    "kollokationen": [
+      "die Konzentration beeinträchtigen",
+      "stark beeinträchtigt sein"
+    ],
+    "beispiel": "Der Baulärm beeinträchtigt die Lebensqualität der Anwohner.",
+    "luecke": {
+      "satz": "Schlafmangel kann die Lernleistung von Jugendlichen erheblich ___.",
+      "loesung": "beeinträchtigen",
+      "optionen": [
+        "beeinträchtigen",
+        "beeindrucken",
+        "beerdigen",
+        "beendigen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0134",
+    "wort": "lindern",
+    "wortart": "Verb",
+    "formen": "lindert, linderte, hat gelindert",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Schmerzen oder Leiden schwächer machen.",
+    "synonyme": [
+      "mildern",
+      "abschwächen"
+    ],
+    "antonyme": [
+      "verschlimmern",
+      "verstärken"
+    ],
+    "wortfamilie": [
+      "die Linderung"
+    ],
+    "kollokationen": [
+      "Schmerzen lindern",
+      "die Not lindern"
+    ],
+    "beispiel": "Kühlen kann die Schmerzen nach einem Insektenstich lindern.",
+    "luecke": {
+      "satz": "Das Medikament heilt die Krankheit nicht, kann aber die Beschwerden ___.",
+      "loesung": "lindern",
+      "optionen": [
+        "wandern",
+        "lindern",
+        "plündern",
+        "schildern"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0135",
+    "wort": "verschreiben",
+    "wortart": "Verb",
+    "formen": "verschreibt, verschrieb, hat verschrieben",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Als Ärztin oder Arzt ein Medikament mit einem Rezept anordnen.",
+    "synonyme": [
+      "verordnen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Verschreibung",
+      "verschreibungspflichtig"
+    ],
+    "kollokationen": [
+      "ein Medikament verschreiben",
+      "auf Rezept verschrieben"
+    ],
+    "beispiel": "Der Arzt hat mir Tabletten gegen die Allergie verschrieben.",
+    "luecke": {
+      "satz": "Antibiotika sollten nur dann ___ werden, wenn sie wirklich nötig sind.",
+      "loesung": "verschrieben",
+      "optionen": [
+        "verschoben",
+        "verschwiegen",
+        "verschrieben",
+        "verschrien"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0136",
+    "wort": "chronisch",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Dauert sehr lange oder kommt immer wieder (bei Krankheiten).",
+    "synonyme": [
+      "dauerhaft",
+      "langwierig"
+    ],
+    "antonyme": [
+      "akut"
+    ],
+    "wortfamilie": [
+      "chronisch krank"
+    ],
+    "kollokationen": [
+      "eine chronische Erkrankung",
+      "chronisch krank sein"
+    ],
+    "beispiel": "Viele chronisch kranke Menschen brauchen regelmäßig Medikamente.",
+    "luecke": {
+      "satz": "Diabetes ist eine ___ Erkrankung, die meist ein Leben lang behandelt werden muss.",
+      "loesung": "chronische",
+      "optionen": [
+        "chronologische",
+        "akute",
+        "chaotische",
+        "chronische"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0137",
+    "wort": "ansteckend",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Kann von einem Menschen auf andere übertragen werden.",
+    "synonyme": [
+      "infektiös",
+      "übertragbar"
+    ],
+    "antonyme": [
+      "nicht übertragbar"
+    ],
+    "wortfamilie": [
+      "anstecken",
+      "die Ansteckung"
+    ],
+    "kollokationen": [
+      "eine ansteckende Krankheit",
+      "hoch ansteckend"
+    ],
+    "beispiel": "Ihr Lachen war so ansteckend, dass alle mitlachten.",
+    "luecke": {
+      "satz": "Kinder mit Windpocken dürfen nicht in die Schule, weil die Krankheit hoch ___ ist.",
+      "loesung": "ansteckend",
+      "optionen": [
+        "ansteckend",
+        "anstrengend",
+        "anspruchsvoll",
+        "anständig"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0138",
+    "wort": "psychosomatisch",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gesundheit",
+    "register": "schriftlich",
+    "erklaerung": "Beschreibt körperliche Beschwerden, deren Ursache in der Psyche liegt.",
+    "synonyme": [],
+    "antonyme": [
+      "organisch bedingt"
+    ],
+    "wortfamilie": [
+      "die Psyche",
+      "psychisch"
+    ],
+    "kollokationen": [
+      "psychosomatische Beschwerden",
+      "psychosomatisch bedingt"
+    ],
+    "beispiel": "Stress kann psychosomatische Beschwerden wie Kopfschmerzen auslösen.",
+    "luecke": {
+      "satz": "Die Bauchschmerzen der Schülerin vor jeder Klassenarbeit sind vermutlich ___.",
+      "loesung": "psychosomatisch",
+      "optionen": [
+        "psychedelisch",
+        "psychosomatisch",
+        "programmatisch",
+        "pädagogisch"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0139",
+    "wort": "gesundheitsschädlich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "Schlecht für die Gesundheit.",
+    "synonyme": [
+      "schädlich",
+      "ungesund"
+    ],
+    "antonyme": [
+      "gesundheitsfördernd"
+    ],
+    "wortfamilie": [
+      "die Gesundheit",
+      "schaden"
+    ],
+    "kollokationen": [
+      "gesundheitsschädliche Stoffe",
+      "nachweislich gesundheitsschädlich"
+    ],
+    "beispiel": "Rauchen ist nachweislich gesundheitsschädlich.",
+    "luecke": {
+      "satz": "Feinstaub in der Luft ist besonders für Kinder und ältere Menschen ___.",
+      "loesung": "gesundheitsschädlich",
+      "optionen": [
+        "gesundheitsfördernd",
+        "schadenfroh",
+        "gesundheitsschädlich",
+        "gesundheitlich"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0140",
+    "wort": "ausgewogen",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gesundheit",
+    "register": "neutral",
+    "erklaerung": "In einem guten Gleichgewicht; von allem das richtige Maß.",
+    "synonyme": [
+      "ausgeglichen",
+      "vielseitig"
+    ],
+    "antonyme": [
+      "einseitig"
+    ],
+    "wortfamilie": [
+      "abwägen",
+      "das Gewicht"
+    ],
+    "kollokationen": [
+      "eine ausgewogene Ernährung",
+      "eine ausgewogene Berichterstattung"
+    ],
+    "beispiel": "Die Zeitung bemüht sich um eine ausgewogene Berichterstattung.",
+    "luecke": {
+      "satz": "Eine ___ Ernährung enthält Kohlenhydrate, Eiweiß, Fette, Vitamine und Ballaststoffe.",
+      "loesung": "ausgewogene",
+      "optionen": [
+        "ausgewiesene",
+        "ausgewaschene",
+        "ausgewanderte",
+        "ausgewogene"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0141",
+    "wort": "die Gentechnik",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Methoden, mit denen man das Erbgut von Lebewesen gezielt verändert.",
+    "synonyme": [
+      "die Gentechnologie"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Gen",
+      "gentechnisch"
+    ],
+    "kollokationen": [
+      "grüne Gentechnik",
+      "Gentechnik in der Landwirtschaft"
+    ],
+    "beispiel": "Über den Einsatz von Gentechnik in der Landwirtschaft wird seit Jahren gestritten.",
+    "luecke": {
+      "satz": "Lebensmittel, die mithilfe von ___ hergestellt wurden, müssen in der EU gekennzeichnet werden.",
+      "loesung": "Gentechnik",
+      "optionen": [
+        "Gentechnik",
+        "Gentrifizierung",
+        "Generation",
+        "Genauigkeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0142",
+    "wort": "das Erbgut",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Die gesamte genetische Information eines Lebewesens.",
+    "synonyme": [
+      "das Genom",
+      "die Erbinformation"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "erben",
+      "erblich"
+    ],
+    "kollokationen": [
+      "das Erbgut entschlüsseln",
+      "Schäden am Erbgut"
+    ],
+    "beispiel": "Das Erbgut von Mensch und Schimpanse ist zu etwa 98 Prozent identisch.",
+    "luecke": {
+      "satz": "UV-Strahlung kann das ___ der Hautzellen schädigen.",
+      "loesung": "Erbgut",
+      "optionen": [
+        "Erbe",
+        "Erbgut",
+        "Erbteil",
+        "Erdgas"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0143",
+    "wort": "die Genschere",
+    "wortart": "Nomen",
+    "formen": "die Genscheren",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Ein Werkzeug der Molekularbiologie (zum Beispiel CRISPR/Cas9), mit dem man DNA an einer bestimmten Stelle schneiden und verändern kann.",
+    "synonyme": [
+      "CRISPR/Cas9"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Gen",
+      "die Schere"
+    ],
+    "kollokationen": [
+      "die Genschere CRISPR/Cas9",
+      "mit der Genschere eingreifen"
+    ],
+    "beispiel": "Für die Entwicklung der Genschere erhielten Emmanuelle Charpentier und Jennifer Doudna 2020 den Nobelpreis für Chemie.",
+    "luecke": {
+      "satz": "Mit der ___ CRISPR/Cas9 lassen sich einzelne Gene gezielt ausschneiden.",
+      "loesung": "Genschere",
+      "optionen": [
+        "Nagelschere",
+        "Gartenschere",
+        "Genschere",
+        "Genossenschaft"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0144",
+    "wort": "die Stammzelle",
+    "wortart": "Nomen",
+    "formen": "die Stammzellen",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Eine Zelle, die sich noch zu verschiedenen Zelltypen entwickeln kann.",
+    "synonyme": [],
+    "antonyme": [
+      "die ausdifferenzierte Zelle"
+    ],
+    "wortfamilie": [
+      "der Stamm",
+      "die Zelle"
+    ],
+    "kollokationen": [
+      "embryonale Stammzellen",
+      "die Stammzellforschung"
+    ],
+    "beispiel": "Die Forschung mit embryonalen Stammzellen ist in Deutschland streng geregelt.",
+    "luecke": {
+      "satz": "Embryonale ___ können sich zu fast jedem Gewebe des Körpers entwickeln.",
+      "loesung": "Stammzellen",
+      "optionen": [
+        "Stammkunden",
+        "Gefängniszellen",
+        "Stammbäume",
+        "Stammzellen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0145",
+    "wort": "die Mutation",
+    "wortart": "Nomen",
+    "formen": "die Mutationen",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Eine dauerhafte Veränderung im Erbgut.",
+    "synonyme": [
+      "die Genveränderung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "mutieren"
+    ],
+    "kollokationen": [
+      "eine Mutation auslösen",
+      "spontane Mutationen"
+    ],
+    "beispiel": "Viele Mutationen haben keine sichtbaren Folgen für den Organismus.",
+    "luecke": {
+      "satz": "Durch eine zufällige ___ wurde das Bakterium resistent gegen das Antibiotikum.",
+      "loesung": "Mutation",
+      "optionen": [
+        "Mutation",
+        "Motivation",
+        "Meditation",
+        "Mutmaßung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0146",
+    "wort": "das Saatgut",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Samen, die man in die Erde gibt, um Pflanzen anzubauen.",
+    "synonyme": [
+      "die Saat",
+      "die Samen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "säen",
+      "die Saat"
+    ],
+    "kollokationen": [
+      "gentechnisch verändertes Saatgut",
+      "Saatgut kaufen"
+    ],
+    "beispiel": "Viele Kleinbauern können sich teures Saatgut kaum leisten.",
+    "luecke": {
+      "satz": "Einige Konzerne verkaufen ___, das gegen bestimmte Unkrautvernichtungsmittel resistent ist.",
+      "loesung": "Saatgut",
+      "optionen": [
+        "Sauerstoff",
+        "Saatgut",
+        "Salzgehalt",
+        "Strandgut"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0147",
+    "wort": "der Organismus",
+    "wortart": "Nomen",
+    "formen": "die Organismen",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Ein Lebewesen (Pflanze, Tier, Mensch oder Mikroorganismus).",
+    "synonyme": [
+      "das Lebewesen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Organ",
+      "organisch"
+    ],
+    "kollokationen": [
+      "gentechnisch veränderte Organismen",
+      "ein einzelliger Organismus"
+    ],
+    "beispiel": "Der menschliche Organismus besteht aus Billionen von Zellen.",
+    "luecke": {
+      "satz": "Bakterien sind einzellige ___.",
+      "loesung": "Organismen",
+      "optionen": [
+        "Organisationen",
+        "Organe",
+        "Organismen",
+        "Orgeln"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0148",
+    "wort": "entschlüsseln",
+    "wortart": "Verb",
+    "formen": "entschlüsselt, entschlüsselte, hat entschlüsselt",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Hier: den Aufbau oder die Bedeutung von etwas Kompliziertem herausfinden, zum Beispiel das Genom.",
+    "synonyme": [
+      "dechiffrieren",
+      "aufklären"
+    ],
+    "antonyme": [
+      "verschlüsseln"
+    ],
+    "wortfamilie": [
+      "der Schlüssel",
+      "die Entschlüsselung"
+    ],
+    "kollokationen": [
+      "das menschliche Genom entschlüsseln",
+      "einen Code entschlüsseln"
+    ],
+    "beispiel": "Es dauerte Jahre, bis die Forscher die alte Schrift entschlüsseln konnten.",
+    "luecke": {
+      "satz": "2003 wurde das menschliche Genom fast vollständig ___.",
+      "loesung": "entschlüsselt",
+      "optionen": [
+        "entschlossen",
+        "entschuldigt",
+        "entschädigt",
+        "entschlüsselt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0149",
+    "wort": "modifizieren",
+    "wortart": "Verb",
+    "formen": "modifiziert, modifizierte, hat modifiziert",
+    "thema": "biotechnologie",
+    "register": "schriftlich",
+    "erklaerung": "Etwas teilweise verändern oder anpassen.",
+    "synonyme": [
+      "verändern",
+      "abwandeln"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Modifikation"
+    ],
+    "kollokationen": [
+      "genetisch modifiziert",
+      "ein Verfahren modifizieren"
+    ],
+    "beispiel": "Auf den Philippinen wird seit Jahren über den Anbau von genetisch modifiziertem Reis diskutiert.",
+    "luecke": {
+      "satz": "Die Forscher haben den Reis genetisch so ___, dass er mehr Vitamin A enthält.",
+      "loesung": "modifiziert",
+      "optionen": [
+        "modifiziert",
+        "moderiert",
+        "motiviert",
+        "mobilisiert"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0150",
+    "wort": "züchten",
+    "wortart": "Verb",
+    "formen": "züchtet, züchtete, hat gezüchtet",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Pflanzen oder Tiere gezielt vermehren, um bestimmte Eigenschaften zu erhalten.",
+    "synonyme": [
+      "kultivieren"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Zucht",
+      "die Züchtung"
+    ],
+    "kollokationen": [
+      "neue Sorten züchten",
+      "Zellen im Labor züchten"
+    ],
+    "beispiel": "Die Bauern züchteten über Jahrhunderte Getreide mit immer größeren Körnern.",
+    "luecke": {
+      "satz": "Im Labor werden Hautzellen ___, um Menschen mit schweren Verbrennungen zu helfen.",
+      "loesung": "gezüchtet",
+      "optionen": [
+        "gezüchtigt",
+        "gezüchtet",
+        "gezeichnet",
+        "gezeugt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0151",
+    "wort": "sequenzieren",
+    "wortart": "Verb",
+    "formen": "sequenziert, sequenzierte, hat sequenziert",
+    "thema": "biotechnologie",
+    "register": "schriftlich",
+    "erklaerung": "Die genaue Reihenfolge der Bausteine (zum Beispiel der DNA) bestimmen.",
+    "synonyme": [
+      "entschlüsseln"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Sequenz",
+      "die Sequenzierung"
+    ],
+    "kollokationen": [
+      "DNA sequenzieren",
+      "ein Genom sequenzieren"
+    ],
+    "beispiel": "Während der Pandemie wurden Virusproben sequenziert, um neue Varianten zu finden.",
+    "luecke": {
+      "satz": "Heute kann ein menschliches Genom in wenigen Stunden ___ werden.",
+      "loesung": "sequenziert",
+      "optionen": [
+        "sensibilisiert",
+        "spezialisiert",
+        "sequenziert",
+        "subventioniert"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0152",
+    "wort": "gentechnisch",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Mit Methoden der Gentechnik.",
+    "synonyme": [],
+    "antonyme": [
+      "konventionell"
+    ],
+    "wortfamilie": [
+      "die Gentechnik"
+    ],
+    "kollokationen": [
+      "gentechnisch verändert",
+      "gentechnisch hergestellt"
+    ],
+    "beispiel": "Gentechnisch veränderte Lebensmittel müssen in der EU gekennzeichnet werden.",
+    "luecke": {
+      "satz": "Insulin für Diabetiker wird heute meist ___ hergestellt, nämlich mithilfe von Bakterien.",
+      "loesung": "gentechnisch",
+      "optionen": [
+        "generell",
+        "genüsslich",
+        "gentrifiziert",
+        "gentechnisch"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0153",
+    "wort": "erblich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "biotechnologie",
+    "register": "neutral",
+    "erklaerung": "Kann von den Eltern an die Kinder weitergegeben werden.",
+    "synonyme": [
+      "vererbbar",
+      "genetisch bedingt"
+    ],
+    "antonyme": [
+      "erworben"
+    ],
+    "wortfamilie": [
+      "erben",
+      "das Erbgut"
+    ],
+    "kollokationen": [
+      "erblich bedingt",
+      "erblich vorbelastet sein"
+    ],
+    "beispiel": "Die Augenfarbe ist erblich.",
+    "luecke": {
+      "satz": "Die Neigung zu dieser Krankheit ist teilweise ___ bedingt.",
+      "loesung": "erblich",
+      "optionen": [
+        "erblich",
+        "ehrlich",
+        "erheblich",
+        "erbittert"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0154",
+    "wort": "resistent",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "biotechnologie",
+    "register": "schriftlich",
+    "erklaerung": "Widerstandsfähig; ein Mittel wirkt nicht mehr dagegen.",
+    "synonyme": [
+      "widerstandsfähig",
+      "unempfindlich"
+    ],
+    "antonyme": [
+      "anfällig",
+      "empfindlich"
+    ],
+    "wortfamilie": [
+      "die Resistenz"
+    ],
+    "kollokationen": [
+      "resistent gegen Antibiotika",
+      "resistente Keime"
+    ],
+    "beispiel": "Diese Maissorte ist resistent gegen bestimmte Schädlinge.",
+    "luecke": {
+      "satz": "Immer mehr Bakterien sind gegen gängige Antibiotika ___.",
+      "loesung": "resistent",
+      "optionen": [
+        "resigniert",
+        "resistent",
+        "restlich",
+        "renitent"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0155",
+    "wort": "transgen",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "biotechnologie",
+    "register": "schriftlich",
+    "erklaerung": "Enthält Gene aus einer anderen Art.",
+    "synonyme": [
+      "gentechnisch verändert"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Gen"
+    ],
+    "kollokationen": [
+      "transgene Pflanzen",
+      "transgene Mäuse"
+    ],
+    "beispiel": "Transgene Pflanzen dürfen in Deutschland nur mit Genehmigung angebaut werden.",
+    "luecke": {
+      "satz": "___ Mäuse tragen ein fremdes Gen in ihrem Erbgut und werden in der Forschung eingesetzt.",
+      "loesung": "Transgene",
+      "optionen": [
+        "Transparente",
+        "Tragende",
+        "Transgene",
+        "Trainierte"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0156",
+    "wort": "der Tierversuch",
+    "wortart": "Nomen",
+    "formen": "die Tierversuche",
+    "thema": "wissenschaft_ethik",
+    "register": "neutral",
+    "erklaerung": "Ein wissenschaftliches Experiment mit lebenden Tieren.",
+    "synonyme": [
+      "das Tierexperiment"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Tier",
+      "der Versuch"
+    ],
+    "kollokationen": [
+      "Tierversuche verbieten",
+      "auf Tierversuche verzichten"
+    ],
+    "beispiel": "Forschende suchen nach Methoden, mit denen sich Tierversuche ersetzen lassen.",
+    "luecke": {
+      "satz": "Für Kosmetika sind ___ in der EU verboten.",
+      "loesung": "Tierversuche",
+      "optionen": [
+        "Tierheime",
+        "Tierarten",
+        "Versuchungen",
+        "Tierversuche"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0157",
+    "wort": "die Einwilligung",
+    "wortart": "Nomen",
+    "formen": "die Einwilligungen",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Die ausdrückliche Zustimmung einer Person zu etwas.",
+    "synonyme": [
+      "die Zustimmung",
+      "das Einverständnis"
+    ],
+    "antonyme": [
+      "die Ablehnung",
+      "die Verweigerung"
+    ],
+    "wortfamilie": [
+      "einwilligen in + A",
+      "der Wille"
+    ],
+    "kollokationen": [
+      "die schriftliche Einwilligung",
+      "ohne Einwilligung"
+    ],
+    "beispiel": "Ohne Einwilligung der Teilnehmenden dürfen keine Daten veröffentlicht werden.",
+    "luecke": {
+      "satz": "Für Fotos der Schüler auf der Schulhomepage braucht man die schriftliche ___ der Eltern.",
+      "loesung": "Einwilligung",
+      "optionen": [
+        "Einwilligung",
+        "Einweihung",
+        "Einwanderung",
+        "Einwirkung"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0158",
+    "wort": "das Plagiat",
+    "wortart": "Nomen",
+    "formen": "die Plagiate",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Man übernimmt Texte oder Ideen anderer Personen und gibt sie als eigene aus.",
+    "synonyme": [
+      "der Ideendiebstahl"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "plagiieren",
+      "der Plagiator"
+    ],
+    "kollokationen": [
+      "ein Plagiat aufdecken",
+      "jemandem ein Plagiat vorwerfen"
+    ],
+    "beispiel": "Eine Software prüft jede Abschlussarbeit auf mögliche Plagiate.",
+    "luecke": {
+      "satz": "Weil sie mehrere Seiten ohne Quellenangabe kopiert hatte, wurde ihre Arbeit als ___ gewertet.",
+      "loesung": "Plagiat",
+      "optionen": [
+        "Plakat",
+        "Plagiat",
+        "Plädoyer",
+        "Prädikat"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0159",
+    "wort": "die Forschungsfreiheit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Das Recht von Wissenschaftlerinnen und Wissenschaftlern, ohne Einfluss von außen frei zu forschen.",
+    "synonyme": [
+      "die Wissenschaftsfreiheit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "forschen",
+      "frei"
+    ],
+    "kollokationen": [
+      "die Forschungsfreiheit einschränken",
+      "Grenzen der Forschungsfreiheit"
+    ],
+    "beispiel": "Die Forschungsfreiheit endet dort, wo die Würde des Menschen verletzt wird.",
+    "luecke": {
+      "satz": "In Deutschland ist die ___ im Grundgesetz garantiert.",
+      "loesung": "Forschungsfreiheit",
+      "optionen": [
+        "Forschungsreise",
+        "Steuerfreiheit",
+        "Forschungsfreiheit",
+        "Forschungslücke"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0160",
+    "wort": "die Ethikkommission",
+    "wortart": "Nomen",
+    "formen": "die Ethikkommissionen",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Eine Gruppe von Fachleuten, die prüft, ob ein Forschungsvorhaben moralisch vertretbar ist.",
+    "synonyme": [
+      "das Ethikgremium"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Ethik",
+      "ethisch"
+    ],
+    "kollokationen": [
+      "der Ethikkommission vorlegen",
+      "von der Ethikkommission genehmigt"
+    ],
+    "beispiel": "Das Forschungsvorhaben wurde von der Ethikkommission der Universität genehmigt.",
+    "luecke": {
+      "satz": "Bevor die Studie mit Patienten beginnen darf, muss die ___ zustimmen.",
+      "loesung": "Ethikkommission",
+      "optionen": [
+        "EU-Kommission",
+        "Provision",
+        "Ethnologie",
+        "Ethikkommission"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0161",
+    "wort": "der Interessenkonflikt",
+    "wortart": "Nomen",
+    "formen": "die Interessenkonflikte",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Eine Situation, in der eigene Interessen (zum Beispiel Geld) das neutrale Urteil beeinflussen können.",
+    "synonyme": [
+      "die Befangenheit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "das Interesse",
+      "der Konflikt"
+    ],
+    "kollokationen": [
+      "einen Interessenkonflikt offenlegen",
+      "einen Interessenkonflikt vermeiden"
+    ],
+    "beispiel": "In Fachartikeln müssen die Autoren mögliche Interessenkonflikte offenlegen.",
+    "luecke": {
+      "satz": "Der Forscher hätte angeben müssen, dass er von der Pharmafirma bezahlt wurde – ein klarer ___.",
+      "loesung": "Interessenkonflikt",
+      "optionen": [
+        "Interessenkonflikt",
+        "Interessent",
+        "Generationenkonflikt",
+        "Kurzschluss"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0162",
+    "wort": "die Redlichkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Ehrlichkeit und Korrektheit, besonders in der Wissenschaft.",
+    "synonyme": [
+      "die Ehrlichkeit",
+      "die Integrität"
+    ],
+    "antonyme": [
+      "die Unredlichkeit"
+    ],
+    "wortfamilie": [
+      "redlich"
+    ],
+    "kollokationen": [
+      "wissenschaftliche Redlichkeit",
+      "an jemandes Redlichkeit zweifeln"
+    ],
+    "beispiel": "Niemand zweifelte an der Redlichkeit der jungen Forscherin.",
+    "luecke": {
+      "satz": "Wer Daten fälscht, verstößt gegen die Regeln der wissenschaftlichen ___.",
+      "loesung": "Redlichkeit",
+      "optionen": [
+        "Rechtschreibung",
+        "Redlichkeit",
+        "Rentabilität",
+        "Rednerin"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0163",
+    "wort": "abwägen",
+    "wortart": "Verb",
+    "formen": "wägt ab, wog ab, hat abgewogen",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Vor einer Entscheidung Vor- und Nachteile genau vergleichen.",
+    "synonyme": [
+      "erwägen",
+      "bedenken"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Abwägung",
+      "ausgewogen"
+    ],
+    "kollokationen": [
+      "Vor- und Nachteile abwägen",
+      "sorgfältig abwägen"
+    ],
+    "beispiel": "Sie wog lange ab, ob sie in Deutschland oder auf den Philippinen unterrichten wollte.",
+    "luecke": {
+      "satz": "Bei Tierversuchen muss man den möglichen Nutzen sorgfältig gegen das Leid der Tiere ___.",
+      "loesung": "abwägen",
+      "optionen": [
+        "abwiegeln",
+        "abwehren",
+        "abwägen",
+        "abwählen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0164",
+    "wort": "fälschen",
+    "wortart": "Verb",
+    "formen": "fälscht, fälschte, hat gefälscht",
+    "thema": "wissenschaft_ethik",
+    "register": "neutral",
+    "erklaerung": "Etwas absichtlich falsch machen oder nachmachen, um andere zu täuschen.",
+    "synonyme": [
+      "manipulieren",
+      "verfälschen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Fälschung",
+      "falsch"
+    ],
+    "kollokationen": [
+      "Daten fälschen",
+      "ein gefälschtes Zeugnis"
+    ],
+    "beispiel": "Die Polizei entdeckte mehrere gefälschte Ausweise.",
+    "luecke": {
+      "satz": "Der Wissenschaftler verlor seinen Doktortitel, weil er Messdaten ___ hatte.",
+      "loesung": "gefälscht",
+      "optionen": [
+        "gefaltet",
+        "gefällt",
+        "gefasst",
+        "gefälscht"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0165",
+    "wort": "rechtfertigen",
+    "wortart": "Verb",
+    "formen": "rechtfertigt, rechtfertigte, hat gerechtfertigt",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Gründe nennen, warum etwas richtig oder akzeptabel ist.",
+    "synonyme": [
+      "begründen",
+      "verteidigen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Rechtfertigung",
+      "gerechtfertigt"
+    ],
+    "kollokationen": [
+      "sich rechtfertigen für + A",
+      "etwas ethisch rechtfertigen"
+    ],
+    "beispiel": "Der Minister musste sich für seine Entscheidung vor dem Parlament rechtfertigen.",
+    "luecke": {
+      "satz": "Lässt sich der Einsatz von Affen in der Hirnforschung ethisch ___?",
+      "loesung": "rechtfertigen",
+      "optionen": [
+        "rechtfertigen",
+        "rechnen",
+        "richten",
+        "rechtsprechen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0166",
+    "wort": "verantworten",
+    "wortart": "Verb",
+    "formen": "verantwortet, verantwortete, hat verantwortet",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Die Verantwortung für etwas übernehmen und dafür einstehen.",
+    "synonyme": [
+      "einstehen für + A",
+      "vertreten"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Verantwortung",
+      "verantwortlich"
+    ],
+    "kollokationen": [
+      "etwas nicht verantworten können",
+      "sich verantworten müssen vor + D"
+    ],
+    "beispiel": "Die Schulleiterin verantwortet das neue Konzept persönlich.",
+    "luecke": {
+      "satz": "Die Forscherin konnte es nicht ___, die Versuche ohne Zustimmung der Teilnehmenden fortzusetzen.",
+      "loesung": "verantworten",
+      "optionen": [
+        "beantworten",
+        "verantworten",
+        "überantworten",
+        "verabreden"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0167",
+    "wort": "vertretbar",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Kann man mit guten Gründen akzeptieren.",
+    "synonyme": [
+      "akzeptabel",
+      "zu rechtfertigen"
+    ],
+    "antonyme": [
+      "unvertretbar",
+      "inakzeptabel"
+    ],
+    "wortfamilie": [
+      "vertreten"
+    ],
+    "kollokationen": [
+      "ethisch vertretbar",
+      "ein vertretbarer Aufwand"
+    ],
+    "beispiel": "Die Kosten für das Projekt sind vertretbar.",
+    "luecke": {
+      "satz": "Viele halten es nicht für ethisch ___, Embryonen nur für die Forschung zu erzeugen.",
+      "loesung": "vertretbar",
+      "optionen": [
+        "vertraulich",
+        "vertraut",
+        "vertretbar",
+        "verträumt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0168",
+    "wort": "fragwürdig",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wissenschaft_ethik",
+    "register": "neutral",
+    "erklaerung": "Zweifelhaft; man kann daran zweifeln, ob es richtig oder ehrlich ist.",
+    "synonyme": [
+      "zweifelhaft",
+      "bedenklich"
+    ],
+    "antonyme": [
+      "unbedenklich",
+      "einwandfrei"
+    ],
+    "wortfamilie": [
+      "die Frage",
+      "würdig"
+    ],
+    "kollokationen": [
+      "fragwürdige Methoden",
+      "ethisch fragwürdig"
+    ],
+    "beispiel": "Die Methoden der Firma sind ethisch fragwürdig.",
+    "luecke": {
+      "satz": "Die Studie wurde von einem Zuckerhersteller finanziert, was ihre Ergebnisse ___ erscheinen lässt.",
+      "loesung": "fragwürdig",
+      "optionen": [
+        "fraglos",
+        "würdevoll",
+        "wertvoll",
+        "fragwürdig"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0169",
+    "wort": "verwerflich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Moralisch schlecht und abzulehnen.",
+    "synonyme": [
+      "unmoralisch",
+      "verachtenswert"
+    ],
+    "antonyme": [
+      "lobenswert"
+    ],
+    "wortfamilie": [
+      "verwerfen"
+    ],
+    "kollokationen": [
+      "moralisch verwerflich",
+      "ein verwerfliches Verhalten"
+    ],
+    "beispiel": "Viele finden es verwerflich, mit der Angst von Menschen Geld zu verdienen.",
+    "luecke": {
+      "satz": "Es ist moralisch ___, Patienten ohne ihr Wissen an Experimenten teilnehmen zu lassen.",
+      "loesung": "verwerflich",
+      "optionen": [
+        "verwerflich",
+        "verwertbar",
+        "verwechselbar",
+        "verbindlich"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0170",
+    "wort": "unbedenklich",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "wissenschaft_ethik",
+    "register": "schriftlich",
+    "erklaerung": "Ohne Gefahr; man muss sich keine Sorgen machen.",
+    "synonyme": [
+      "ungefährlich",
+      "harmlos"
+    ],
+    "antonyme": [
+      "bedenklich",
+      "gefährlich"
+    ],
+    "wortfamilie": [
+      "bedenken",
+      "die Bedenken"
+    ],
+    "kollokationen": [
+      "gesundheitlich unbedenklich",
+      "als unbedenklich gelten"
+    ],
+    "beispiel": "Der Stoff gilt in kleinen Mengen als unbedenklich.",
+    "luecke": {
+      "satz": "Erst nach langen Tests wurde der Impfstoff als gesundheitlich ___ eingestuft.",
+      "loesung": "unbedenklich",
+      "optionen": [
+        "unbedingt",
+        "unbedenklich",
+        "unbeholfen",
+        "unbeachtet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0171",
+    "wort": "die Desinformation",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "medien_desinformation",
+    "register": "schriftlich",
+    "erklaerung": "Falsche Informationen, die absichtlich verbreitet werden, um Menschen zu täuschen.",
+    "synonyme": [
+      "die Falschinformation",
+      "die Propaganda"
+    ],
+    "antonyme": [
+      "die Aufklärung"
+    ],
+    "wortfamilie": [
+      "die Information",
+      "desinformieren"
+    ],
+    "kollokationen": [
+      "gezielte Desinformation",
+      "Desinformation verbreiten"
+    ],
+    "beispiel": "Die EU will stärker gegen Desinformation im Internet vorgehen.",
+    "luecke": {
+      "satz": "Vor Wahlen nimmt die gezielte ___ in sozialen Netzwerken oft deutlich zu.",
+      "loesung": "Desinformation",
+      "optionen": [
+        "Deformation",
+        "Dekoration",
+        "Desinformation",
+        "Destination"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0172",
+    "wort": "die Filterblase",
+    "wortart": "Nomen",
+    "formen": "die Filterblasen",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Man sieht im Internet vor allem Inhalte, die zur eigenen Meinung passen, weil Algorithmen sie auswählen.",
+    "synonyme": [
+      "die Echokammer"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "filtern",
+      "die Blase"
+    ],
+    "kollokationen": [
+      "in einer Filterblase leben",
+      "aus der Filterblase ausbrechen"
+    ],
+    "beispiel": "Um aus der eigenen Filterblase herauszukommen, liest er bewusst auch Zeitungen mit anderer Ausrichtung.",
+    "luecke": {
+      "satz": "Wer nur Nachrichten liest, die die eigene Meinung bestätigen, lebt in einer ___.",
+      "loesung": "Filterblase",
+      "optionen": [
+        "Sprechblase",
+        "Filterkaffee",
+        "Schlagzeile",
+        "Filterblase"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0173",
+    "wort": "die Glaubwürdigkeit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Man kann jemandem oder einer Quelle vertrauen.",
+    "synonyme": [
+      "die Vertrauenswürdigkeit",
+      "die Seriosität"
+    ],
+    "antonyme": [
+      "die Unglaubwürdigkeit"
+    ],
+    "wortfamilie": [
+      "glaubwürdig",
+      "glauben"
+    ],
+    "kollokationen": [
+      "an Glaubwürdigkeit verlieren",
+      "die Glaubwürdigkeit einer Quelle prüfen"
+    ],
+    "beispiel": "Vor dem Zitieren sollte man die Glaubwürdigkeit einer Quelle prüfen.",
+    "luecke": {
+      "satz": "Nach dem Skandal hat die Zeitung stark an ___ verloren.",
+      "loesung": "Glaubwürdigkeit",
+      "optionen": [
+        "Glaubwürdigkeit",
+        "Gläubigkeit",
+        "Gleichgültigkeit",
+        "Feuchtigkeit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0174",
+    "wort": "der Faktencheck",
+    "wortart": "Nomen",
+    "formen": "die Faktenchecks",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Die Überprüfung, ob Aussagen oder Meldungen wirklich stimmen.",
+    "synonyme": [
+      "die Faktenprüfung",
+      "die Verifikation"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Fakt",
+      "checken"
+    ],
+    "kollokationen": [
+      "einen Faktencheck durchführen",
+      "einem Faktencheck unterziehen"
+    ],
+    "beispiel": "Nach der Fernsehdebatte veröffentlichten mehrere Redaktionen einen Faktencheck.",
+    "luecke": {
+      "satz": "Ein ___ ergab, dass das Zitat des Politikers frei erfunden war.",
+      "loesung": "Faktencheck",
+      "optionen": [
+        "Gesundheitscheck",
+        "Faktencheck",
+        "Sicherheitscheck",
+        "Fakultät"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0175",
+    "wort": "die Meinungsbildung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "medien_desinformation",
+    "register": "schriftlich",
+    "erklaerung": "Der Prozess, in dem sich Menschen eine eigene Meinung bilden.",
+    "synonyme": [
+      "die Urteilsbildung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Meinung",
+      "bilden"
+    ],
+    "kollokationen": [
+      "die öffentliche Meinungsbildung",
+      "zur Meinungsbildung beitragen"
+    ],
+    "beispiel": "Talkshows tragen nur begrenzt zur politischen Meinungsbildung bei.",
+    "luecke": {
+      "satz": "Unabhängige Medien sind für die demokratische ___ unverzichtbar.",
+      "loesung": "Meinungsbildung",
+      "optionen": [
+        "Meinungsverschiedenheit",
+        "Weiterbildung",
+        "Meinungsbildung",
+        "Bildungslücke"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0176",
+    "wort": "die Medienkompetenz",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Die Fähigkeit, Medien sinnvoll zu nutzen und Informationen kritisch zu bewerten.",
+    "synonyme": [
+      "die Medienbildung"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Medien",
+      "kompetent"
+    ],
+    "kollokationen": [
+      "Medienkompetenz vermitteln",
+      "die Medienkompetenz stärken"
+    ],
+    "beispiel": "Auch ältere Menschen profitieren von Kursen zur Medienkompetenz.",
+    "luecke": {
+      "satz": "Schulen sollen die ___ der Schüler stärken, damit sie Falschmeldungen besser erkennen.",
+      "loesung": "Medienkompetenz",
+      "optionen": [
+        "Medienvielfalt",
+        "Medienkonzern",
+        "Mediathek",
+        "Medienkompetenz"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0177",
+    "wort": "die Polarisierung",
+    "wortart": "Nomen",
+    "formen": "die Polarisierungen",
+    "thema": "medien_desinformation",
+    "register": "schriftlich",
+    "erklaerung": "Eine Gesellschaft teilt sich immer stärker in zwei gegensätzliche Gruppen.",
+    "synonyme": [
+      "die Spaltung"
+    ],
+    "antonyme": [
+      "die Annäherung"
+    ],
+    "wortfamilie": [
+      "der Pol",
+      "polarisieren"
+    ],
+    "kollokationen": [
+      "die zunehmende Polarisierung der Gesellschaft",
+      "politische Polarisierung"
+    ],
+    "beispiel": "Die Debatte über das Thema führte zu einer starken Polarisierung.",
+    "luecke": {
+      "satz": "Soziale Medien werden oft für die zunehmende ___ der Gesellschaft verantwortlich gemacht.",
+      "loesung": "Polarisierung",
+      "optionen": [
+        "Polarisierung",
+        "Popularisierung",
+        "Pasteurisierung",
+        "Polsterung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0178",
+    "wort": "manipulieren",
+    "wortart": "Verb",
+    "formen": "manipuliert, manipulierte, hat manipuliert",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Menschen oder Dinge heimlich so beeinflussen oder verändern, dass sie etwas Bestimmtes tun oder zeigen.",
+    "synonyme": [
+      "beeinflussen",
+      "fälschen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Manipulation",
+      "manipulativ"
+    ],
+    "kollokationen": [
+      "die öffentliche Meinung manipulieren",
+      "ein manipuliertes Foto"
+    ],
+    "beispiel": "Werbung versucht oft, unsere Wünsche zu manipulieren.",
+    "luecke": {
+      "satz": "Mit KI lassen sich Videos so ___, dass Politiker Dinge sagen, die sie nie gesagt haben.",
+      "loesung": "manipulieren",
+      "optionen": [
+        "mobilisieren",
+        "manipulieren",
+        "musizieren",
+        "markieren"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0179",
+    "wort": "hinterfragen",
+    "wortart": "Verb",
+    "formen": "hinterfragt, hinterfragte, hat hinterfragt",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Kritisch prüfen, ob etwas wirklich stimmt und welche Gründe dahinterstehen.",
+    "synonyme": [
+      "kritisch prüfen",
+      "infrage stellen"
+    ],
+    "antonyme": [
+      "hinnehmen"
+    ],
+    "wortfamilie": [
+      "die Frage"
+    ],
+    "kollokationen": [
+      "etwas kritisch hinterfragen",
+      "die eigene Meinung hinterfragen"
+    ],
+    "beispiel": "Eine gute Wissenschaftlerin hinterfragt auch ihre eigenen Ergebnisse.",
+    "luecke": {
+      "satz": "Im Unterricht lernen die Jugendlichen, Informationen aus dem Internet kritisch zu ___.",
+      "loesung": "hinterfragen",
+      "optionen": [
+        "hinterlassen",
+        "hinterziehen",
+        "hinterfragen",
+        "hintergehen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0180",
+    "wort": "entlarven",
+    "wortart": "Verb",
+    "formen": "entlarvt, entlarvte, hat entlarvt",
+    "thema": "medien_desinformation",
+    "register": "schriftlich",
+    "erklaerung": "Zeigen, dass jemand oder etwas falsch ist und andere täuscht.",
+    "synonyme": [
+      "aufdecken",
+      "enttarnen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Entlarvung",
+      "die Larve"
+    ],
+    "kollokationen": [
+      "eine Lüge entlarven",
+      "als Fälschung entlarven"
+    ],
+    "beispiel": "Der angebliche Experte wurde schnell als Betrüger entlarvt.",
+    "luecke": {
+      "satz": "Journalisten konnten das angebliche Foto vom Hochwasser als Fälschung ___.",
+      "loesung": "entlarven",
+      "optionen": [
+        "entlasten",
+        "entlassen",
+        "entladen",
+        "entlarven"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0181",
+    "wort": "verbreiten",
+    "wortart": "Verb",
+    "formen": "verbreitet, verbreitete, hat verbreitet",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Dafür sorgen, dass etwas (zum Beispiel eine Nachricht) viele Menschen erreicht; reflexiv: sich ausbreiten.",
+    "synonyme": [
+      "in Umlauf bringen",
+      "streuen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Verbreitung",
+      "breit"
+    ],
+    "kollokationen": [
+      "Gerüchte verbreiten",
+      "Falschmeldungen verbreiten"
+    ],
+    "beispiel": "Wer bewusst Lügen über andere verbreitet, kann sich strafbar machen.",
+    "luecke": {
+      "satz": "Falschmeldungen ___ sich in sozialen Netzwerken oft schneller als seriöse Nachrichten.",
+      "loesung": "verbreiten",
+      "optionen": [
+        "verbreiten",
+        "verbreitern",
+        "vertreiben",
+        "verbleiben"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0182",
+    "wort": "irreführend",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "medien_desinformation",
+    "register": "schriftlich",
+    "erklaerung": "Führt Menschen zu einem falschen Eindruck.",
+    "synonyme": [
+      "täuschend",
+      "missverständlich"
+    ],
+    "antonyme": [
+      "zutreffend"
+    ],
+    "wortfamilie": [
+      "irreführen",
+      "irren"
+    ],
+    "kollokationen": [
+      "eine irreführende Schlagzeile",
+      "irreführende Angaben"
+    ],
+    "beispiel": "Die Werbung für das Produkt war irreführend.",
+    "luecke": {
+      "satz": "Die Überschrift war ___, denn im Artikel stand etwas ganz anderes.",
+      "loesung": "irreführend",
+      "optionen": [
+        "irreversibel",
+        "irreführend",
+        "wegweisend",
+        "zutreffend"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0183",
+    "wort": "seriös",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Vertrauenswürdig und ernsthaft.",
+    "synonyme": [
+      "vertrauenswürdig",
+      "zuverlässig"
+    ],
+    "antonyme": [
+      "unseriös",
+      "dubios"
+    ],
+    "wortfamilie": [
+      "die Seriosität"
+    ],
+    "kollokationen": [
+      "eine seriöse Quelle",
+      "seriöse Berichterstattung"
+    ],
+    "beispiel": "Das Angebot klang nicht besonders seriös.",
+    "luecke": {
+      "satz": "Für Hausarbeiten sollte man nur ___ Quellen wie Fachzeitschriften verwenden.",
+      "loesung": "seriöse",
+      "optionen": [
+        "serielle",
+        "sensible",
+        "seriöse",
+        "solare"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0184",
+    "wort": "reißerisch",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Übertrieben und sensationell, um Aufmerksamkeit zu bekommen.",
+    "synonyme": [
+      "sensationslüstern",
+      "effekthascherisch"
+    ],
+    "antonyme": [
+      "sachlich",
+      "nüchtern"
+    ],
+    "wortfamilie": [
+      "reißen",
+      "der Reißer"
+    ],
+    "kollokationen": [
+      "eine reißerische Schlagzeile",
+      "reißerisch aufgemacht"
+    ],
+    "beispiel": "Der Artikel war reißerisch aufgemacht, enthielt aber kaum Fakten.",
+    "luecke": {
+      "satz": "Boulevardzeitungen sind oft für ihre ___ Schlagzeilen bekannt.",
+      "loesung": "reißerischen",
+      "optionen": [
+        "rissigen",
+        "reißfesten",
+        "reiselustigen",
+        "reißerischen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0185",
+    "wort": "gezielt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "medien_desinformation",
+    "register": "neutral",
+    "erklaerung": "Genau auf ein bestimmtes Ziel gerichtet; absichtlich.",
+    "synonyme": [
+      "bewusst",
+      "zielgerichtet"
+    ],
+    "antonyme": [
+      "zufällig",
+      "wahllos"
+    ],
+    "wortfamilie": [
+      "das Ziel",
+      "zielen"
+    ],
+    "kollokationen": [
+      "gezielte Desinformation",
+      "gezielt fördern"
+    ],
+    "beispiel": "Das Programm fördert gezielt Schülerinnen, die sich für Naturwissenschaften interessieren.",
+    "luecke": {
+      "satz": "Die Falschmeldungen wurden ___ kurz vor der Wahl verbreitet, um Wähler zu verunsichern.",
+      "loesung": "gezielt",
+      "optionen": [
+        "gezielt",
+        "gezählt",
+        "geziert",
+        "gezogen"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0186",
+    "wort": "die Gleichstellung",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "schriftlich",
+    "erklaerung": "Alle Gruppen (zum Beispiel Frauen und Männer) haben rechtlich und tatsächlich die gleichen Rechte und Chancen.",
+    "synonyme": [
+      "die Gleichberechtigung"
+    ],
+    "antonyme": [
+      "die Benachteiligung"
+    ],
+    "wortfamilie": [
+      "gleichstellen",
+      "gleichgestellt"
+    ],
+    "kollokationen": [
+      "die Gleichstellung von Frauen und Männern",
+      "Gleichstellung fördern"
+    ],
+    "beispiel": "Bei der Gleichstellung von Frauen und Männern gibt es noch viel zu tun.",
+    "luecke": {
+      "satz": "Die Universität hat eine Beauftragte für ___, die sich um die Förderung von Frauen in der Wissenschaft kümmert.",
+      "loesung": "Gleichstellung",
+      "optionen": [
+        "Gleichgewicht",
+        "Gleichstellung",
+        "Bestellung",
+        "Gleichung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0187",
+    "wort": "die Benachteiligung",
+    "wortart": "Nomen",
+    "formen": "die Benachteiligungen",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "schriftlich",
+    "erklaerung": "Eine Person oder Gruppe wird schlechter behandelt oder hat schlechtere Chancen als andere.",
+    "synonyme": [
+      "die Diskriminierung",
+      "die Schlechterstellung"
+    ],
+    "antonyme": [
+      "die Bevorzugung"
+    ],
+    "wortfamilie": [
+      "benachteiligen",
+      "der Nachteil"
+    ],
+    "kollokationen": [
+      "strukturelle Benachteiligung",
+      "Benachteiligung aufgrund des Geschlechts"
+    ],
+    "beispiel": "Viele Studien belegen die Benachteiligung von Bewerbern mit ausländisch klingenden Namen.",
+    "luecke": {
+      "satz": "Das Gesetz soll jede ___ aufgrund von Herkunft, Geschlecht oder Behinderung verhindern.",
+      "loesung": "Benachteiligung",
+      "optionen": [
+        "Beteiligung",
+        "Benachrichtigung",
+        "Benachteiligung",
+        "Beschleunigung"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0188",
+    "wort": "die Teilhabe",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "schriftlich",
+    "erklaerung": "Die Möglichkeit, aktiv am gesellschaftlichen Leben teilzunehmen.",
+    "synonyme": [
+      "die Partizipation",
+      "die Beteiligung"
+    ],
+    "antonyme": [
+      "die Ausgrenzung"
+    ],
+    "wortfamilie": [
+      "teilhaben an + D"
+    ],
+    "kollokationen": [
+      "gesellschaftliche Teilhabe",
+      "Teilhabe ermöglichen"
+    ],
+    "beispiel": "Barrierefreie Gebäude ermöglichen Menschen mit Behinderung mehr Teilhabe.",
+    "luecke": {
+      "satz": "Gute Deutschkenntnisse sind eine wichtige Voraussetzung für die gesellschaftliche ___.",
+      "loesung": "Teilhabe",
+      "optionen": [
+        "Teilzeit",
+        "Habe",
+        "Teilung",
+        "Teilhabe"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0189",
+    "wort": "die Frauenquote",
+    "wortart": "Nomen",
+    "formen": "die Frauenquoten",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "neutral",
+    "erklaerung": "Eine Regel, dass ein bestimmter Anteil von Positionen mit Frauen besetzt werden muss.",
+    "synonyme": [
+      "die Geschlechterquote"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Quote"
+    ],
+    "kollokationen": [
+      "eine verbindliche Frauenquote",
+      "die Frauenquote einführen"
+    ],
+    "beispiel": "Über die Frauenquote wird in Politik und Wirtschaft seit Jahren diskutiert.",
+    "luecke": {
+      "satz": "Durch die ___ soll der Anteil von Frauen in Führungspositionen steigen.",
+      "loesung": "Frauenquote",
+      "optionen": [
+        "Frauenquote",
+        "Impfquote",
+        "Frauenzeitschrift",
+        "Arbeitslosenquote"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0190",
+    "wort": "die Barrierefreiheit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "schriftlich",
+    "erklaerung": "Gebäude, Webseiten oder Angebote können von allen Menschen ohne Hindernisse genutzt werden, auch von Menschen mit Behinderung.",
+    "synonyme": [
+      "die Zugänglichkeit"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "barrierefrei",
+      "die Barriere"
+    ],
+    "kollokationen": [
+      "Barrierefreiheit gewährleisten",
+      "digitale Barrierefreiheit"
+    ],
+    "beispiel": "Öffentliche Webseiten müssen auf Barrierefreiheit geprüft werden.",
+    "luecke": {
+      "satz": "Zur ___ des Schulgebäudes gehören ein Aufzug und breite Türen.",
+      "loesung": "Barrierefreiheit",
+      "optionen": [
+        "Barrikade",
+        "Barrierefreiheit",
+        "Bewegungsfreiheit",
+        "Pressefreiheit"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0191",
+    "wort": "das Stereotyp",
+    "wortart": "Nomen",
+    "formen": "die Stereotype",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "schriftlich",
+    "erklaerung": "Eine vereinfachte, oft falsche Vorstellung davon, wie eine Gruppe von Menschen ist.",
+    "synonyme": [
+      "das Klischee",
+      "das Vorurteil"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "stereotyp"
+    ],
+    "kollokationen": [
+      "Stereotype abbauen",
+      "gängige Stereotype"
+    ],
+    "beispiel": "Schulbücher sollen keine Stereotype über bestimmte Gruppen verbreiten.",
+    "luecke": {
+      "satz": "Das ___, dass Mädchen schlechter in Mathematik sind, ist wissenschaftlich nicht haltbar.",
+      "loesung": "Stereotyp",
+      "optionen": [
+        "Stereo",
+        "Prototyp",
+        "Stereotyp",
+        "Stethoskop"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0192",
+    "wort": "die Chancengleichheit",
+    "wortart": "Nomen",
+    "formen": "nur Singular",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "neutral",
+    "erklaerung": "Alle Menschen haben die gleichen Möglichkeiten, egal woher sie kommen.",
+    "synonyme": [
+      "die Chancengerechtigkeit"
+    ],
+    "antonyme": [
+      "die Chancenungleichheit"
+    ],
+    "wortfamilie": [
+      "die Chance",
+      "gleich"
+    ],
+    "kollokationen": [
+      "Chancengleichheit herstellen",
+      "für Chancengleichheit sorgen"
+    ],
+    "beispiel": "Stipendien sollen für mehr Chancengleichheit im Studium sorgen.",
+    "luecke": {
+      "satz": "Kostenlose Kitas sollen mehr ___ für Kinder aus ärmeren Familien schaffen.",
+      "loesung": "Chancengleichheit",
+      "optionen": [
+        "Gleichgültigkeit",
+        "Chancenlosigkeit",
+        "Gleichmäßigkeit",
+        "Chancengleichheit"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0193",
+    "wort": "diskriminieren",
+    "wortart": "Verb",
+    "formen": "diskriminiert, diskriminierte, hat diskriminiert",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "neutral",
+    "erklaerung": "Menschen wegen eines Merkmals (zum Beispiel Herkunft, Geschlecht, Religion) schlechter behandeln.",
+    "synonyme": [
+      "benachteiligen",
+      "herabsetzen"
+    ],
+    "antonyme": [
+      "gleichbehandeln"
+    ],
+    "wortfamilie": [
+      "die Diskriminierung",
+      "diskriminierend"
+    ],
+    "kollokationen": [
+      "jemanden wegen seiner Herkunft diskriminieren",
+      "sich diskriminiert fühlen"
+    ],
+    "beispiel": "Viele Menschen fühlen sich bei der Wohnungssuche diskriminiert.",
+    "luecke": {
+      "satz": "Laut Gesetz darf niemand wegen seines Geschlechts oder seiner Herkunft ___ werden.",
+      "loesung": "diskriminiert",
+      "optionen": [
+        "diskriminiert",
+        "diskutiert",
+        "dirigiert",
+        "dekoriert"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0194",
+    "wort": "ausgrenzen",
+    "wortart": "Verb",
+    "formen": "grenzt aus, grenzte aus, hat ausgegrenzt",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "neutral",
+    "erklaerung": "Jemanden aus einer Gruppe ausschließen und nicht mitmachen lassen.",
+    "synonyme": [
+      "ausschließen",
+      "isolieren"
+    ],
+    "antonyme": [
+      "integrieren",
+      "einbeziehen"
+    ],
+    "wortfamilie": [
+      "die Ausgrenzung",
+      "die Grenze"
+    ],
+    "kollokationen": [
+      "sich ausgegrenzt fühlen",
+      "sozial ausgegrenzt werden"
+    ],
+    "beispiel": "Menschen ohne Internetzugang werden zunehmend ausgegrenzt.",
+    "luecke": {
+      "satz": "Der neue Schüler fühlte sich von seinen Mitschülern ___ und wollte nicht mehr zur Schule gehen.",
+      "loesung": "ausgegrenzt",
+      "optionen": [
+        "ausgezeichnet",
+        "ausgegrenzt",
+        "ausgeruht",
+        "ausgeglichen"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0195",
+    "wort": "sich einsetzen für + A",
+    "wortart": "Verb",
+    "formen": "setzt sich ein, setzte sich ein, hat sich eingesetzt",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "neutral",
+    "erklaerung": "Sich aktiv bemühen, damit etwas erreicht wird oder jemand Unterstützung bekommt.",
+    "synonyme": [
+      "sich engagieren für + A",
+      "eintreten für + A"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "der Einsatz"
+    ],
+    "kollokationen": [
+      "sich für die Rechte von Minderheiten einsetzen",
+      "sich mit aller Kraft einsetzen"
+    ],
+    "beispiel": "Die Studierendenvertretung setzt sich für günstigere Mensapreise ein.",
+    "luecke": {
+      "satz": "Die Organisation ___ sich seit Jahren für die Rechte von Menschen mit Behinderung ein.",
+      "loesung": "setzt",
+      "optionen": [
+        "stellt",
+        "legt",
+        "setzt",
+        "tritt"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0196",
+    "wort": "gewährleisten",
+    "wortart": "Verb",
+    "formen": "gewährleistet, gewährleistete, hat gewährleistet",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "schriftlich",
+    "erklaerung": "Dafür sorgen, dass etwas sicher passiert oder vorhanden ist; garantieren.",
+    "synonyme": [
+      "garantieren",
+      "sicherstellen"
+    ],
+    "antonyme": [],
+    "wortfamilie": [
+      "die Gewährleistung"
+    ],
+    "kollokationen": [
+      "die Sicherheit gewährleisten",
+      "Chancengleichheit gewährleisten"
+    ],
+    "beispiel": "Der Staat muss die Sicherheit seiner Bürger gewährleisten.",
+    "luecke": {
+      "satz": "Die Schule muss ___, dass auch Kinder im Rollstuhl am Unterricht teilnehmen können.",
+      "loesung": "gewährleisten",
+      "optionen": [
+        "gewöhnen",
+        "bewähren",
+        "gewinnen",
+        "gewährleisten"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0197",
+    "wort": "gleichberechtigt",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "neutral",
+    "erklaerung": "Mit den gleichen Rechten wie andere.",
+    "synonyme": [
+      "gleichgestellt"
+    ],
+    "antonyme": [
+      "benachteiligt"
+    ],
+    "wortfamilie": [
+      "die Gleichberechtigung",
+      "das Recht"
+    ],
+    "kollokationen": [
+      "gleichberechtigt sein",
+      "gleichberechtigte Partner"
+    ],
+    "beispiel": "In einer modernen Partnerschaft teilen sich gleichberechtigte Partner die Hausarbeit.",
+    "luecke": {
+      "satz": "„Männer und Frauen sind ___.“ So steht es in Artikel 3 des Grundgesetzes.",
+      "loesung": "gleichberechtigt",
+      "optionen": [
+        "gleichberechtigt",
+        "gleichgültig",
+        "gleichzeitig",
+        "gleichförmig"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0198",
+    "wort": "inklusiv",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "schriftlich",
+    "erklaerung": "So, dass alle Menschen (zum Beispiel mit und ohne Behinderung) selbstverständlich dazugehören.",
+    "synonyme": [
+      "einbeziehend"
+    ],
+    "antonyme": [
+      "exklusiv",
+      "ausgrenzend"
+    ],
+    "wortfamilie": [
+      "die Inklusion",
+      "inkludieren"
+    ],
+    "kollokationen": [
+      "inklusiver Unterricht",
+      "eine inklusive Gesellschaft"
+    ],
+    "beispiel": "Die Stadt plant ein inklusives Sportfest für alle Generationen.",
+    "luecke": {
+      "satz": "In ___ Klassen lernen Kinder mit und ohne Behinderung gemeinsam.",
+      "loesung": "inklusiven",
+      "optionen": [
+        "exklusiven",
+        "inklusiven",
+        "intensiven",
+        "invasiven"
+      ]
+    },
+    "bezug": true
+  },
+  {
+    "id": "w0199",
+    "wort": "unterrepräsentiert",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "schriftlich",
+    "erklaerung": "In einer Gruppe weniger stark vertreten, als es dem Anteil an der Bevölkerung entspricht.",
+    "synonyme": [
+      "zu wenig vertreten"
+    ],
+    "antonyme": [
+      "überrepräsentiert"
+    ],
+    "wortfamilie": [
+      "repräsentativ",
+      "repräsentieren"
+    ],
+    "kollokationen": [
+      "in Führungspositionen unterrepräsentiert sein",
+      "stark unterrepräsentiert"
+    ],
+    "beispiel": "Menschen mit Migrationsgeschichte sind in vielen Parlamenten unterrepräsentiert.",
+    "luecke": {
+      "satz": "Frauen sind in technischen Studiengängen nach wie vor ___.",
+      "loesung": "unterrepräsentiert",
+      "optionen": [
+        "überrepräsentiert",
+        "unterbrochen",
+        "unterrepräsentiert",
+        "untergeordnet"
+      ]
+    },
+    "bezug": false
+  },
+  {
+    "id": "w0200",
+    "wort": "divers",
+    "wortart": "Adjektiv",
+    "formen": "",
+    "thema": "gleichberechtigung_diversitaet",
+    "register": "neutral",
+    "erklaerung": "Vielfältig, unterschiedlich; in Deutschland auch eine offizielle Geschlechtsangabe neben „weiblich“ und „männlich“.",
+    "synonyme": [
+      "vielfältig",
+      "verschieden"
+    ],
+    "antonyme": [
+      "homogen",
+      "einheitlich"
+    ],
+    "wortfamilie": [
+      "die Diversität"
+    ],
+    "kollokationen": [
+      "ein diverses Team",
+      "divers zusammengesetzt"
+    ],
+    "beispiel": "Das Kollegium an ihrer Schule ist sehr divers zusammengesetzt.",
+    "luecke": {
+      "satz": "Studien zeigen, dass ___ Teams oft kreativere Lösungen finden als sehr einheitliche Gruppen.",
+      "loesung": "diverse",
+      "optionen": [
+        "diskrete",
+        "defekte",
+        "direkte",
+        "diverse"
+      ]
+    },
+    "bezug": false
+  }
+]

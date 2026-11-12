@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "lv1_01",
+    "teil": "lv1",
+    "titel": "Woher die Pflanze ihre Masse hat",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 0,
+    "einstufung": true,
+    "niveau": "B2+",
+    "quelle": "fiktiver Artikel, Fachzeitschrift für Lehrkräfte",
+    "text": "Fragt man Jugendliche, woher ein großer Baum seine Masse bekommt, hört man fast immer dieselbe Antwort: aus der Erde. Diese Vorstellung wirkt zunächst logisch, denn Pflanzen wurzeln im Boden und werden dort mit Wasser und Mineralstoffen versorgt. [1] Tatsächlich stammt der größte Teil der Trockenmasse einer Pflanze aus der Luft, genauer gesagt aus dem Kohlenstoffdioxid, das sie über winzige Öffnungen in ihren Blättern aufnimmt.\n\nIn der Biologiedidaktik bezeichnet man solche Annahmen als Schüler- oder Alltagsvorstellungen. Lange Zeit galten sie schlicht als Fehler, die man im Unterricht möglichst schnell korrigieren müsse. [2] Heute weiß man, dass Lernende ihre Vorstellungen nicht einfach aufgeben, nur weil eine Lehrkraft die richtige Erklärung an die Tafel schreibt. Vorstellungen aus dem Alltag sind oft erstaunlich stabil, weil sie sich in vielen Situationen bewährt haben und mit anderen Erfahrungen verknüpft sind.\n\nEine Arbeitsgruppe an der Pädagogischen Hochschule Lindenau hat deshalb untersucht, wie Lehrkräfte mit solchen Vorstellungen sinnvoll umgehen können. Die Forschenden ließen Schülerinnen und Schüler der siebten Klasse zunächst ihre eigenen Vermutungen aufschreiben und in kleinen Gruppen diskutieren. [3] Dabei wogen sie zum Beispiel die Erde in einem Blumentopf, bevor sie einen Samen einpflanzten, und wiederholten die Messung nach sechs Wochen. Das Ergebnis überraschte viele: Die Pflanze war deutlich gewachsen, die Erde aber kaum leichter geworden.\n\nGenau solche Momente der Irritation halten die Forschenden für entscheidend. [4] Die Lehrkraft sollte diese Gelegenheit nutzen und die wissenschaftliche Erklärung behutsam einführen: Pflanzen stellen aus Kohlenstoffdioxid und Wasser mithilfe von Lichtenergie Zucker her. Aus diesem Zucker bauen sie anschließend Zellulose, Stärke und viele andere Stoffe auf, die zusammen das Gewicht der Pflanze ausmachen. Das Wasser aus dem Boden ist also zwar notwendig, liefert aber nur einen kleinen Teil des Materials.\n\nAllerdings warnen die Autorinnen der Studie vor allzu hohen Erwartungen. Auch einige Wochen nach der Unterrichtseinheit griffen manche Jugendliche in einem Test wieder auf ihre alte Vorstellung zurück. [5] Sinnvoller sei es, das Thema im Laufe der Schulzeit mehrmals aufzugreifen, etwa bei der Ernährung, beim Kohlenstoffkreislauf oder beim Klimawandel. [6] Für Lehrkräfte bedeutet das: Die Fehler der Lernenden sind kein Ärgernis, sondern ein wertvoller Ausgangspunkt für guten Unterricht.",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Das zeigt, dass ein einzelnes Experiment selten ausreicht, um Denkweisen dauerhaft zu verändern."
+      },
+      {
+        "b": "b",
+        "text": "Diese Sichtweise hat sich in den letzten Jahrzehnten jedoch grundlegend gewandelt."
+      },
+      {
+        "b": "c",
+        "text": "Schon nach dieser einen Unterrichtsstunde hatten daher alle Jugendlichen ihre alte Vorstellung aufgegeben."
+      },
+      {
+        "b": "d",
+        "text": "Anschließend sollten die Jugendlichen diese Vermutungen in einfachen Experimenten selbst überprüfen."
+      },
+      {
+        "b": "e",
+        "text": "Trotzdem ist sie falsch, und das gilt erstaunlicherweise auch für viele Erwachsene."
+      },
+      {
+        "b": "f",
+        "text": "Deshalb verzichteten die Forschenden bewusst darauf, die Klasse selbst experimentieren zu lassen."
+      },
+      {
+        "b": "g",
+        "text": "Auf diese Weise erkennen die Lernenden, dass Fotosynthese weit mehr ist als ein Prüfungsthema."
+      },
+      {
+        "b": "h",
+        "text": "Erst wenn die eigene Erklärung nicht mehr funktioniert, sind Lernende offen für eine neue."
+      }
+    ],
+    "loesungen": {
+      "1": "e",
+      "2": "b",
+      "3": "d",
+      "4": "h",
+      "5": "a",
+      "6": "g"
+    },
+    "erklaerungen": {
+      "1": "„sie“ meint „diese Vorstellung“ aus dem Satz davor. „Trotzdem“ zeigt den Gegensatz: Die Idee wirkt logisch, ist aber falsch. Danach folgt mit „Tatsächlich“ die richtige Erklärung.",
+      "2": "„Diese Sichtweise“ nimmt die alte Meinung auf („galten als Fehler“). „jedoch“ leitet zum neuen Wissen über, das mit „Heute weiß man“ weitergeht.",
+      "3": "„Anschließend“ passt zu „zunächst“ im Satz davor, „diese Vermutungen“ verweist auf die aufgeschriebenen Vermutungen. Der nächste Satz („Dabei wogen sie …“) beschreibt das Experiment. Satz f widerspricht genau diesem Experiment.",
+      "4": "Der Satz erklärt, warum die „Irritation“ so wichtig ist: Die alte Erklärung funktioniert nicht mehr. Danach heißt es „diese Gelegenheit“ – gemeint ist genau dieser Moment.",
+      "5": "„Das zeigt“ bezieht sich auf das Ergebnis davor: Manche Jugendliche denken wieder wie vorher. Daraus folgt der Rat, das Thema mehrmals zu behandeln. Satz c passt nicht, weil er das Gegenteil behauptet („alle … aufgegeben“).",
+      "6": "„Auf diese Weise“ meint das mehrmalige Aufgreifen in verschiedenen Themen (Ernährung, Kohlenstoffkreislauf, Klimawandel), das direkt davor genannt wird."
+    },
+    "distraktoren": {
+      "c": "Widerspricht dem Text: Im letzten Absatz steht, dass manche Jugendliche ihre alte Vorstellung behalten haben.",
+      "f": "Widerspricht dem Text: Die Jugendlichen haben selbst experimentiert (Erde gewogen), die Forschenden haben also nicht darauf verzichtet."
+    }
+  },
+  {
+    "id": "lv1_02",
+    "teil": "lv1",
+    "titel": "Getrocknete Pflanzen als Zeitzeugen",
+    "thema": "allgemein_akademisch",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "quelle": "fiktiver Artikel, populärwissenschaftliches Magazin",
+    "text": "Seit fast fünfhundert Jahren pressen Botanikerinnen und Botaniker Pflanzen zwischen Papierbögen, trocknen sie und kleben sie anschließend auf festen Karton. Die so entstandenen Sammlungen nennt man Herbarien. [1] Wer als Arzt oder Apotheker arbeitete, musste wissen, welches Kraut half und welches giftig war, und ein getrocknetes Exemplar war dabei zuverlässiger als jede Zeichnung in einem Buch. Viele dieser frühen Sammlungen waren übrigens als gebundene Bücher angelegt, die man leicht mitnehmen und durchblättern konnte.\n\nMit der Zeit wuchsen die Sammlungen enorm. Forschungsreisende brachten von ihren Expeditionen Tausende unbekannter Arten mit, und viele Universitäten legten eigene Herbarien an. [2] Diese Angaben interessierten damals allerdings kaum jemanden. Im Mittelpunkt stand die Frage, wie man die überwältigende Vielfalt der Pflanzen sinnvoll ordnen und benennen könne. Botaniker stritten jahrzehntelang darüber, nach welchen Merkmalen man Arten zu Gattungen und Familien zusammenfassen sollte.\n\nIm zwanzigsten Jahrhundert gerieten viele Herbarien in Vergessenheit. Die Biologie wandte sich neuen Methoden zu, etwa der Genetik oder der Ökologie im Freiland, und alte Pflanzenbögen galten als verstaubtes Erbe. [3] Wer Geld für ein Forschungsprojekt beantragte, hatte mit einer Sammlung getrockneter Pflanzen jedenfalls schlechte Karten. Nur in wenigen großen Museen kümmerten sich weiterhin Fachleute um die Bestände und ergänzten sie Jahr für Jahr.\n\nHeute erleben die Herbarien jedoch eine überraschende Renaissance. Denn genau die Angaben, die man früher kaum beachtete, sind für die Klimaforschung äußerst wertvoll. [4] Vergleicht man Belege aus verschiedenen Jahrzehnten, zeigt sich bei vielen Arten ein deutlicher Trend: Sie blühen heute früher als vor hundert Jahren. Auch die Ausbreitung eingeschleppter Pflanzen lässt sich auf diese Weise Schritt für Schritt rekonstruieren. Für manche Regionen reichen die Belege so weit zurück, dass sie Messreihen ergänzen können, die erst viel später beginnen.\n\nSogar das Erbgut der getrockneten Pflanzen kann man inzwischen untersuchen. [5] So können Forschende verfolgen, wie sich Pflanzen im Lauf der Zeit genetisch an veränderte Bedingungen angepasst haben. Damit diese Arbeit möglich ist, werden viele Sammlungen derzeit digitalisiert: Jeder Bogen wird fotografiert, und die Angaben auf den Etiketten werden in Datenbanken übertragen. [6] Was einst als Hobby einiger Liebhaber galt, ist so zu einem wertvollen Archiv der Umweltgeschichte geworden.",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Dafür genügt oft schon ein winziges Stück Blatt von wenigen Millimetern Größe."
+      },
+      {
+        "b": "b",
+        "text": "Diese aufwendige Technik wurde allerdings schon im neunzehnten Jahrhundert wieder aufgegeben."
+      },
+      {
+        "b": "c",
+        "text": "Ursprünglich dienten sie vor allem dazu, Heilpflanzen sicher voneinander zu unterscheiden."
+      },
+      {
+        "b": "d",
+        "text": "Auf diese Weise stehen die Daten Forschenden auf der ganzen Welt zur Verfügung."
+      },
+      {
+        "b": "e",
+        "text": "Mit ihrer Hilfe lässt sich nämlich verfolgen, wie sich die Blütezeit einer Art verschoben hat."
+      },
+      {
+        "b": "f",
+        "text": "Deshalb verzichtete man auf den Bögen bewusst auf Angaben zu Fundort und Datum."
+      },
+      {
+        "b": "g",
+        "text": "Manche Sammlungen landeten deshalb in feuchten Kellern oder wurden sogar weggeworfen."
+      },
+      {
+        "b": "h",
+        "text": "Auf jedem Bogen vermerkten die Sammler dabei sorgfältig, wann und wo sie die Pflanze gefunden hatten."
+      }
+    ],
+    "loesungen": {
+      "1": "c",
+      "2": "h",
+      "3": "g",
+      "4": "e",
+      "5": "a",
+      "6": "d"
+    },
+    "erklaerungen": {
+      "1": "„sie“ meint die Herbarien. „Ursprünglich“ passt zum Anfang der Geschichte. Der nächste Satz über Ärzte und Apotheker erklärt den Zweck „Heilpflanzen unterscheiden“.",
+      "2": "Der folgende Satz spricht von „diese Angaben“ – gemeint sind Ort und Zeit des Fundes. Nur Satz h nennt solche Angaben. Satz f passt nicht: Ohne Angaben gäbe es keine „diese Angaben“.",
+      "3": "„deshalb“ nennt die Folge davon, dass Herbarien vergessen und als „verstaubtes Erbe“ betrachtet wurden: Sie wurden schlecht aufbewahrt oder weggeworfen.",
+      "4": "„nämlich“ begründet, warum die alten Angaben für die Klimaforschung wertvoll sind. „Blütezeit“ wird im nächsten Satz aufgenommen („Sie blühen heute früher“).",
+      "5": "„Dafür“ bezieht sich auf die Untersuchung des Erbguts im Satz davor. Satz b passt nicht, denn es heißt „inzwischen“ – die Technik ist neu und nicht aufgegeben.",
+      "6": "„Auf diese Weise“ meint die Digitalisierung (fotografieren, in Datenbanken übertragen). Digitale Daten kann man weltweit nutzen."
+    },
+    "distraktoren": {
+      "b": "Klingt nach Wissenschaftsgeschichte, aber keine Technik im Text wurde aufgegeben; die Erbgut-Analyse ist ausdrücklich neu („inzwischen“).",
+      "f": "Widerspricht dem Text: Die Angaben zu Ort und Zeit sind gerade das, was heute so wertvoll ist."
+    }
+  },
+  {
+    "id": "lv1_03",
+    "teil": "lv1",
+    "titel": "Lernen im Schlaf – was wirklich dran ist",
+    "thema": "gesundheit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "quelle": "fiktiver Artikel, Hochschulmagazin",
+    "text": "Die Idee klingt verlockend: Man legt sich mit Kopfhörern ins Bett, hört die ganze Nacht Vokabeln und wacht am nächsten Morgen mit perfekten Sprachkenntnissen auf. [1] Neue Informationen, die man im Tiefschlaf hört, werden kaum dauerhaft gespeichert. Dennoch spielt der Schlaf für das Lernen eine zentrale Rolle – nur eben auf eine andere Weise, als viele Menschen denken. Wer das verstehen will, muss sich ansehen, was in unserem Kopf während der Nacht geschieht.\n\nWährend wir schlafen, ist das Gehirn keineswegs untätig. In bestimmten Schlafphasen werden die Erlebnisse und Informationen des Tages noch einmal aktiviert und neu verarbeitet. [2] Wichtiges wird sorgfältig in Ordnern abgelegt, Unwichtiges landet im Papierkorb. Forschende sprechen in diesem Zusammenhang von Gedächtniskonsolidierung, also der Festigung von Gedächtnisinhalten. Ohne diesen nächtlichen Prozess würde vieles von dem, was wir tagsüber lernen, rasch wieder verblassen.\n\nWie stark dieser Effekt ist, zeigen Experimente, die ein Schlaflabor an der Universität Brakenfeld durchgeführt hat. Zwei Gruppen von Studierenden lernten am Abend Wortpaare auswendig. [3] Am nächsten Tag konnten sich die ausgeschlafenen Teilnehmenden an deutlich mehr Wortpaare erinnern. Der Unterschied blieb sogar bestehen, nachdem die zweite Gruppe in der folgenden Nacht den fehlenden Schlaf nachgeholt hatte. Eine versäumte Nacht lässt sich also offenbar nicht einfach nachholen, zumindest nicht, was das Gedächtnis betrifft.\n\nFür Studierende ergibt sich daraus eine unbequeme Wahrheit. [4] Zwar hat man am Morgen das Gefühl, den Stoff gerade erst gesehen zu haben und ihn deshalb besonders gut zu kennen. Doch ohne Schlaf fehlt dem Gehirn die Gelegenheit, das Gelernte zu festigen. Hinzu kommt, dass Müdigkeit die Konzentration in der Prüfung selbst deutlich beeinträchtigt. Wer dagegen rechtzeitig mit dem Lernen beginnt und den Stoff über mehrere Tage verteilt, profitiert gleich mehrfach von den Nächten dazwischen.\n\nAuch kurze Pausen am Tag können helfen. In mehreren Studien schnitten Versuchspersonen, die nach dem Lernen ein kurzes Nickerchen machten, besser ab als Personen ohne Pause. [5] Ähnliche Effekte zeigten sich nämlich auch, wenn die Teilnehmenden nur ruhig mit geschlossenen Augen dasaßen und nichts Neues aufnahmen. Für den Lernalltag bedeutet das: Wer nach einer intensiven Lerneinheit nicht sofort zum Smartphone greift, gibt seinem Gedächtnis eine Chance. [6]",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Die wach gebliebene Gruppe konnte sich dagegen am nächsten Tag an mehr Wörter erinnern."
+      },
+      {
+        "b": "b",
+        "text": "Man kann sich diesen Vorgang wie das Aufräumen eines unordentlichen Schreibtischs vorstellen."
+      },
+      {
+        "b": "c",
+        "text": "Leider hat dieser Traum mit der Realität des menschlichen Gehirns nur wenig zu tun."
+      },
+      {
+        "b": "d",
+        "text": "Dabei kommt es offenbar gar nicht so sehr auf den Schlaf selbst an."
+      },
+      {
+        "b": "e",
+        "text": "Deshalb empfehlen Fachleute, Vokabeln möglichst nachts über Kopfhörer zu wiederholen."
+      },
+      {
+        "b": "f",
+        "text": "Wer vor einer Prüfung die Nacht durchlernt, schadet sich meist mehr, als er sich nützt."
+      },
+      {
+        "b": "g",
+        "text": "Eine kurze Pause ohne Bildschirm kostet nichts und lässt sich in jeden Tagesablauf einbauen."
+      },
+      {
+        "b": "h",
+        "text": "Die eine Gruppe durfte danach ganz normal schlafen, die andere musste die Nacht wach verbringen."
+      }
+    ],
+    "loesungen": {
+      "1": "c",
+      "2": "b",
+      "3": "h",
+      "4": "f",
+      "5": "d",
+      "6": "g"
+    },
+    "erklaerungen": {
+      "1": "„dieser Traum“ nimmt die „verlockende Idee“ vom Lernen im Schlaf auf. „Leider“ leitet die Enttäuschung ein, die der nächste Satz begründet. Satz e passt nicht: Der Text sagt, dass Lernen im Tiefschlaf kaum funktioniert.",
+      "2": "„diesen Vorgang“ meint das erneute Aktivieren und Verarbeiten der Informationen. Das Bild vom Schreibtisch wird im nächsten Satz fortgeführt („Ordner“, „Papierkorb“).",
+      "3": "„Die eine Gruppe … die andere“ greift die „zwei Gruppen“ auf. Danach ist von den „ausgeschlafenen Teilnehmenden“ und der „zweiten Gruppe“ die Rede. Satz a passt nicht, weil die Ausgeschlafenen sich an mehr erinnerten.",
+      "4": "Der Satz nennt die „unbequeme Wahrheit“ konkret. Mit „Zwar … Doch“ wird danach erklärt, warum das Durchlernen schadet.",
+      "5": "Der nächste Satz beginnt mit „nämlich“ und begründet: Auch ruhiges Sitzen ohne Schlaf hilft. Das passt nur zu Satz d („kommt nicht so sehr auf den Schlaf an“).",
+      "6": "„Eine kurze Pause ohne Bildschirm“ nimmt das Beispiel davor auf (nicht zum Smartphone greifen) und schließt den Text mit einem praktischen Rat."
+    },
+    "distraktoren": {
+      "a": "Widerspricht dem Experiment: Die ausgeschlafene Gruppe erinnerte sich an mehr Wortpaare, nicht die wache Gruppe.",
+      "e": "Passt thematisch zum Anfang, widerspricht aber der Aussage, dass Informationen im Tiefschlaf kaum gespeichert werden."
+    }
+  },
+  {
+    "id": "lv1_04",
+    "teil": "lv1",
+    "titel": "Stadtbäume unter Stress",
+    "thema": "wohnen_stadt",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "quelle": "fiktiver Artikel, Wissenschaftsseite einer Tageszeitung",
+    "text": "An heißen Sommertagen kann es in der Innenstadt um mehrere Grad wärmer sein als im ländlichen Umland. Fachleute sprechen vom städtischen Wärmeinseleffekt. [1] Nachts geben diese Materialien die gespeicherte Energie nur langsam wieder ab, sodass die Temperaturen selbst nach Sonnenuntergang kaum sinken. Für ältere oder kranke Menschen kann das gefährlich werden, denn ihr Körper findet in solchen Nächten kaum Erholung. Hitzewellen, die in Zukunft häufiger auftreten dürften, verschärfen dieses Problem zusätzlich.\n\nAls wirksames Gegenmittel gelten Stadtbäume. Sie spenden Schatten und kühlen zugleich ihre Umgebung, indem sie über ihre Blätter Wasser verdunsten. [2] Ein großer, gesunder Baum kann damit erstaunlich viel bewirken – und verbraucht dabei, anders als eine Klimaanlage, keinen Strom. Zudem filtern Bäume Staub aus der Luft und bieten Vögeln und Insekten Lebensraum. Kein Wunder also, dass viele Städte ehrgeizige Pläne verkünden, in den kommenden Jahren Tausende neuer Bäume zu pflanzen.\n\nDas Paradoxe ist: Ausgerechnet die Bäume, die die Stadt so dringend braucht, leiden besonders unter ihr. Ihre Wurzeln finden unter Straßen und Leitungen kaum Platz, der Boden ist verdichtet, und Regenwasser fließt über versiegelte Flächen direkt in die Kanalisation. [3] Viele Straßenbäume erreichen deshalb nur einen Bruchteil des Alters, das ihre Artgenossen im Wald erreichen können. Für die Stadtverwaltungen bedeutet das hohe Kosten, denn jeder abgestorbene Baum muss gefällt und ersetzt werden.\n\nVerschärft wird die Lage durch den Klimawandel. Einige heimische Arten, die man über Jahrzehnte entlang von Straßen gepflanzt hat, kommen mit langen Trockenperioden schlecht zurecht. [4] Diese Strategie ist allerdings nicht unumstritten. Naturschutzverbände geben zu bedenken, dass viele einheimische Insekten mit fremden Baumarten wenig anfangen können. Die Suche nach Baumarten, die sowohl dem Klima als auch der heimischen Tierwelt gerecht werden, gleicht daher einem schwierigen Balanceakt.\n\nEin anderer Ansatz setzt beim Boden an. In einigen Städten pflanzt man Bäume inzwischen über unterirdischen Speichern, die Regenwasser sammeln und nach und nach an die Wurzeln abgeben. Man spricht dabei vom Prinzip der Schwammstadt. [5] Gleichzeitig mindert ein solches System die Gefahr von Überschwemmungen, die mit dem Klimawandel ebenfalls zunehmen dürfte. Natürlich sind derartige Umbauten aufwendig und teuer. [6] Ein Baum, der achtzig statt zwanzig Jahre lang wächst, spendet schließlich über Generationen hinweg Schatten.",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Wie ein Schwamm soll die Stadt Wasser aufnehmen, speichern und langsam wieder abgeben."
+      },
+      {
+        "b": "b",
+        "text": "Diese exotischen Arten werden von heimischen Insekten deshalb besonders gern als Nahrung genutzt."
+      },
+      {
+        "b": "c",
+        "text": "Hinzu kommen Streusalz im Winter und Hundeurin, der die Rinde angreift."
+      },
+      {
+        "b": "d",
+        "text": "Verantwortlich dafür sind vor allem Asphalt, Beton und Glas, die tagsüber Wärme speichern."
+      },
+      {
+        "b": "e",
+        "text": "Im Winter kehrt sich dieser Effekt allerdings um, sodass Städte kälter sind als das Umland."
+      },
+      {
+        "b": "f",
+        "text": "Langfristig dürften sich die Investitionen jedoch auszahlen, weil gesunde Bäume länger leben."
+      },
+      {
+        "b": "g",
+        "text": "Viele Kommunen testen daher sogenannte Zukunftsbäume aus wärmeren Regionen Südeuropas oder Asiens."
+      },
+      {
+        "b": "h",
+        "text": "Dieser Prozess entzieht der Luft Wärme, ähnlich wie Schweiß auf unserer Haut."
+      }
+    ],
+    "loesungen": {
+      "1": "d",
+      "2": "h",
+      "3": "c",
+      "4": "g",
+      "5": "a",
+      "6": "f"
+    },
+    "erklaerungen": {
+      "1": "„dafür“ meint den Wärmeinseleffekt. Der nächste Satz spricht von „diese Materialien“ – nur Satz d nennt Materialien (Asphalt, Beton, Glas). Satz e passt nicht: Danach fehlt der Bezug für „diese Materialien“.",
+      "2": "„Dieser Prozess“ nimmt das Verdunsten von Wasser über die Blätter auf. Der Vergleich mit Schweiß erklärt die Kühlung.",
+      "3": "„Hinzu kommen“ ergänzt die Liste der Belastungen (wenig Platz, verdichteter Boden, kein Regenwasser). Danach folgt mit „deshalb“ die Konsequenz: Die Bäume sterben früh.",
+      "4": "„daher“ ist die Reaktion auf das Problem mit der Trockenheit. Der nächste Satz spricht von „Diese Strategie“ – gemeint ist das Testen fremder Baumarten.",
+      "5": "Der Satz erklärt den Begriff „Schwammstadt“ mit einem Bild („Wie ein Schwamm“). Danach heißt es „ein solches System“.",
+      "6": "„jedoch“ bildet den Gegensatz zu „aufwendig und teuer“; „die Investitionen“ meint die Umbauten. Der letzte Satz („achtzig statt zwanzig Jahre“) begründet, warum sich das lohnt."
+    },
+    "distraktoren": {
+      "b": "Widerspricht dem Text: Einheimische Insekten können mit fremden Baumarten gerade wenig anfangen. Außerdem fehlt vor Lücke 4 ein Bezug für „Diese exotischen Arten“.",
+      "e": "Klingt nach Fachwissen, aber der Text sagt dazu nichts. Vor allem passt es nicht in Lücke 1, weil danach „diese Materialien“ keinen Bezug hätte."
+    }
+  },
+  {
+    "id": "lv1_05",
+    "teil": "lv1",
+    "titel": "Mehrsprachigkeit im Klassenzimmer",
+    "thema": "migration_interkulturalitaet",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "quelle": "fiktiver Artikel, Bildungsmagazin",
+    "text": "In vielen deutschen Klassenzimmern werden mehr Sprachen gesprochen, als es Schulfächer gibt. Kinder unterhalten sich in der Pause auf Türkisch, Arabisch, Polnisch oder Tagalog, im Unterricht dagegen herrscht meist ausschließlich Deutsch. [1] Man nahm an, dass jede Minute in der Herkunftssprache dem Erwerb des Deutschen wertvolle Zeit wegnehme. Manche Schulen untersagten deshalb sogar auf dem Schulhof alle anderen Sprachen. Mehrsprachige Kinder galten in dieser Logik weniger als Bereicherung denn als pädagogische Herausforderung.\n\nDie Sprachwissenschaft sieht das inzwischen weitgehend anders. Zahlreiche Untersuchungen deuten darauf hin, dass sich Sprachen im Kopf nicht gegenseitig verdrängen, sondern eng miteinander vernetzt sind. [2] Fachleute gehen deshalb von einer gemeinsamen Grundlage aus, auf die alle Sprachen eines Menschen zurückgreifen. Ein Kind, das mit zwei Sprachen aufwächst, verfügt demnach nicht über zwei halbe Sprachsysteme, sondern über ein besonders reichhaltiges. Dieses Wissen hat sich allerdings bislang nur langsam in den Schulen herumgesprochen.\n\nWie sich diese Erkenntnis im Unterricht nutzen lässt, erprobt derzeit ein Projekt an mehreren Gesamtschulen. Die Lehrkräfte ermutigen die Schülerinnen und Schüler dort ausdrücklich, Fachbegriffe auch in ihren Familiensprachen zu sammeln. [3] Eine Biologielehrerin berichtet, dass gerade stille Kinder plötzlich aufblühen, wenn ihr Wissen in der Herkunftssprache gefragt ist. Sie selbst spricht keine dieser Sprachen – und muss es auch nicht. Es genüge, Neugier zu zeigen und die Kinder als Expertinnen und Experten ihrer eigenen Sprachen ernst zu nehmen.\n\nKritiker wenden ein, dass Lehrkräfte auf diese Weise die Kontrolle über das Unterrichtsgespräch verlieren könnten. [4] Die Projektleitung nimmt diesen Einwand ernst, hält ihn aber für lösbar. Entscheidend sei, dass die Ergebnisse am Ende auf Deutsch präsentiert und so für alle überprüfbar würden. Die Herkunftssprache diene als Werkzeug zum Denken, nicht als Ersatz für das Deutsche. Erste Beobachtungen deuten zudem darauf hin, dass die Schülerinnen und Schüler Fachbegriffe auf diese Weise besser behalten.\n\nAuch für Lehrkräfte mit eigener Migrationsgeschichte eröffnet dieser Ansatz neue Perspektiven. Wer selbst mehrsprachig aufgewachsen ist, erkennt oft schneller, an welchen Stellen Kinder sprachliche Hürden überwinden müssen. [5] Bildungsforscherinnen fordern deshalb, Mehrsprachigkeit stärker in der Lehrkräftebildung zu verankern. [6] Bis dahin bleibt es oft dem Engagement einzelner Lehrkräfte überlassen, ob Tagalog oder Türkisch im Unterricht ihren Platz finden.",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Schließlich können sie nicht beurteilen, ob in einer fremden Sprache wirklich über das Thema gesprochen wird."
+      },
+      {
+        "b": "b",
+        "text": "Hinter dieser strikten Trennung steht eine Befürchtung, die lange Zeit weit verbreitet war."
+      },
+      {
+        "b": "c",
+        "text": "Nur dann könne die Schule das sprachliche Potenzial ihrer Schülerschaft wirklich ausschöpfen."
+      },
+      {
+        "b": "d",
+        "text": "Diese Kinder schneiden deshalb in fast allen Fächern schlechter ab als ihre einsprachigen Mitschüler."
+      },
+      {
+        "b": "e",
+        "text": "Im Biologieunterricht entstehen so zum Beispiel mehrsprachige Plakate zum Aufbau der Zelle."
+      },
+      {
+        "b": "f",
+        "text": "Wer etwa in seiner Erstsprache gelernt hat, Texte zusammenzufassen, kann diese Fähigkeit aufs Deutsche übertragen."
+      },
+      {
+        "b": "g",
+        "text": "Die Projektleitung hat deshalb beschlossen, Präsentationen künftig auch in den Herkunftssprachen zuzulassen."
+      },
+      {
+        "b": "h",
+        "text": "Diese Erfahrung gilt in vielen Kollegien bislang jedoch eher als Nebensache denn als Kompetenz."
+      }
+    ],
+    "loesungen": {
+      "1": "b",
+      "2": "f",
+      "3": "e",
+      "4": "a",
+      "5": "h",
+      "6": "c"
+    },
+    "erklaerungen": {
+      "1": "„dieser strikten Trennung“ nimmt den Gegensatz Pause (andere Sprachen) – Unterricht (nur Deutsch) auf. Die „Befürchtung“ wird im nächsten Satz erklärt („Man nahm an, …“).",
+      "2": "Satz f ist ein Beispiel dafür, dass Sprachen „vernetzt“ sind: Eine Fähigkeit wandert von einer Sprache in die andere. Daraus folgt „deshalb … gemeinsame Grundlage“. Satz d passt nicht: „Diese Kinder“ hat keinen Bezug und widerspricht dem Absatz.",
+      "3": "„so“ meint das Sammeln von Fachbegriffen in Familiensprachen. Das Beispiel „Biologieunterricht“ führt zur „Biologielehrerin“ im nächsten Satz.",
+      "4": "„Schließlich“ begründet den Einwand der Kritiker; „sie“ sind die Lehrkräfte. Danach heißt es „diesen Einwand“. Satz g passt nicht, denn die Projektleitung verlangt Präsentationen auf Deutsch.",
+      "5": "„Diese Erfahrung“ meint, selbst mehrsprachig aufgewachsen zu sein. Weil sie zu wenig anerkannt wird, folgt die Forderung mit „deshalb“.",
+      "6": "Konjunktiv „könne“ zeigt: Hier wird die Meinung der Forscherinnen wiedergegeben. „Nur dann“ bezieht sich auf die Forderung davor, „Bis dahin“ im letzten Satz ebenfalls."
+    },
+    "distraktoren": {
+      "d": "Passt zum alten Vorurteil, aber der Text vertritt das Gegenteil (Mehrsprachigkeit als Ressource); „Diese Kinder“ hat außerdem keinen klaren Bezug.",
+      "g": "Widerspricht dem Text: Die Projektleitung besteht darauf, dass die Ergebnisse auf Deutsch präsentiert werden."
+    }
+  },
+  {
+    "id": "lv1_06",
+    "teil": "lv1",
+    "titel": "Die erstaunliche Karriere der Scheinmedikamente",
+    "thema": "wissenschaft_ethik",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1+",
+    "quelle": "fiktiver Essay, Wissenschaftsmagazin",
+    "text": "Über Jahrhunderte hinweg war es für Ärzte selbstverständlich, Kranken gelegentlich Mittel zu verabreichen, die keinerlei Wirkstoff enthielten. Mal handelte es sich um gefärbtes Wasser, mal um Pillen aus Brotteig oder Zucker. [1] Der Begriff „Placebo“ – lateinisch für „ich werde gefallen“ – bringt diese Haltung treffend zum Ausdruck: Das Mittel sollte dem Patienten gefallen, nicht seine Krankheit heilen. Ob ein Mittel wirkte, ließ sich ohnehin kaum überprüfen, da es lange keine verlässlichen Methoden gab, Behandlungen miteinander zu vergleichen.\n\nIm zwanzigsten Jahrhundert änderte sich der Blick auf das Phänomen grundlegend. Mit dem Aufkommen kontrollierter Studien wurde das Placebo zum methodischen Werkzeug. [2] Nur wenn das echte Mittel deutlich besser abschnitt, galt es als wirksam. Der Placeboeffekt selbst erschien in dieser Logik vor allem als lästiger Störfaktor, den es herauszurechnen galt. Damit die Ergebnisse nicht verzerrt wurden, erfuhren die Versuchspersonen nicht, ob sie das echte Medikament oder eine Attrappe erhielten.\n\nErst in den vergangenen Jahrzehnten begannen Forschende, sich für diesen vermeintlichen Störfaktor um seiner selbst willen zu interessieren. Dabei zeigte sich, dass die bloße Erwartung einer Wirkung tatsächlich messbare Vorgänge im Körper auslösen kann. [3] Auch Farbe, Größe und Preis einer Tablette beeinflussen offenbar, wie stark sie wirkt. In manchen Experimenten schnitten vermeintlich teure Präparate besser ab als billige, obwohl keines von beiden einen Wirkstoff enthielt. Selbst unerwünschte Nebenwirkungen können übrigens auftreten, wenn Menschen sie erwarten – man spricht dann vom Noceboeffekt.\n\nBesonders verblüffend sind Versuche mit sogenannten offenen Placebos. [4] Dennoch berichteten in einer Studie an der Universitätsklinik Westerholt viele Personen mit chronischen Rückenschmerzen von einer spürbaren Besserung. Die Forschenden vermuten, dass bereits das Ritual der regelmäßigen Einnahme eine Rolle spielt. [5] Ganz verstanden ist dieser Mechanismus allerdings bis heute nicht.\n\nFür die Medizinethik werfen diese Befunde heikle Fragen auf. Darf eine Ärztin bewusst ein Scheinpräparat verschreiben, wenn sie weiß, dass es ihrer Patientin helfen könnte? Ein verdecktes Placebo verletzt zweifellos das Recht der Patientin, über ihre Behandlung vollständig informiert zu werden. [6] Ob sie im klinischen Alltag eine Zukunft haben, ist dennoch offen: Noch fehlen große Studien, die zeigen, bei welchen Beschwerden sie zuverlässig helfen und bei welchen nicht.",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Hier erfahren die Teilnehmenden ausdrücklich, dass ihre Tabletten keinerlei Wirkstoff enthalten."
+      },
+      {
+        "b": "b",
+        "text": "Deshalb verzichten die meisten Ärzte heute auch bei offenen Placebos auf jede Aufklärung."
+      },
+      {
+        "b": "c",
+        "text": "Gegen offene Placebos lässt sich dieser Einwand dagegen kaum erheben."
+      },
+      {
+        "b": "d",
+        "text": "Dahinter stand weniger Betrug als die Einsicht, dass Zuwendung allein manchmal Linderung verschafft."
+      },
+      {
+        "b": "e",
+        "text": "Offenbar reagiert der Körper auf die Handlung selbst, unabhängig davon, was der Verstand darüber weiß."
+      },
+      {
+        "b": "f",
+        "text": "Diese teuren Präparate enthielten allerdings deutlich mehr Wirkstoff als die billigen Vergleichstabletten."
+      },
+      {
+        "b": "g",
+        "text": "So schüttet das Gehirn etwa körpereigene Schmerzmittel aus, wenn ein Patient Linderung erwartet."
+      },
+      {
+        "b": "h",
+        "text": "Um die Wirksamkeit eines neuen Medikaments nachzuweisen, verglich man es fortan mit einem Scheinpräparat."
+      }
+    ],
+    "loesungen": {
+      "1": "d",
+      "2": "h",
+      "3": "g",
+      "4": "a",
+      "5": "e",
+      "6": "c"
+    },
+    "erklaerungen": {
+      "1": "„Dahinter“ bezieht sich auf die Praxis, Mittel ohne Wirkstoff zu geben. „diese Haltung“ im nächsten Satz nimmt die „Einsicht“ auf: Das Mittel soll gefallen, also Zuwendung zeigen.",
+      "2": "Der Satz erklärt, wie das Placebo zum „methodischen Werkzeug“ wurde. Danach: „Nur wenn das echte Mittel deutlich besser abschnitt“ – das setzt den Vergleich aus Satz h voraus.",
+      "3": "„So … etwa“ leitet ein Beispiel für die „messbaren Vorgänge im Körper“ ein. Satz e passt hier nicht, weil „die Handlung“ noch keinen Bezug hat.",
+      "4": "„Hier“ meint die offenen Placebos. Der nächste Satz beginnt mit „Dennoch“: Obwohl die Personen es wissen, geht es ihnen besser.",
+      "5": "„die Handlung“ nimmt „das Ritual der regelmäßigen Einnahme“ auf; „was der Verstand darüber weiß“ passt zu den offenen Placebos.",
+      "6": "„dieser Einwand“ meint die Verletzung des Rechts auf Information; „dagegen“ stellt offene und verdeckte Placebos gegenüber. Satz b ist unlogisch: Offene Placebos bedeuten gerade Aufklärung."
+    },
+    "distraktoren": {
+      "b": "In sich widersprüchlich: Bei offenen Placebos werden die Patienten immer aufgeklärt – das ist ihre Definition.",
+      "f": "Widerspricht dem Text: Weder die teuren noch die billigen Präparate enthielten einen Wirkstoff."
+    }
+  },
+  {
+    "id": "lv1_07",
+    "teil": "lv1",
+    "titel": "Warum Falschmeldungen schneller reisen",
+    "thema": "medien_desinformation",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1+",
+    "quelle": "fiktiver Artikel, Wissenschaftsmagazin",
+    "text": "Dass Lügen kurze Beine haben, besagt ein bekanntes Sprichwort. In sozialen Netzwerken scheint eher das Gegenteil zu gelten: Falschmeldungen verbreiten sich dort offenbar schneller und weiter als korrekte Nachrichten. [1] Neuere Auswertungen relativieren diese Annahme jedoch erheblich. Zwar tragen Bots durchaus zur Verbreitung bei, doch sie verbreiten wahre und falsche Inhalte in ähnlichem Maße. Für die Frage, wie man Desinformation eindämmen kann, ist dieser Befund von erheblicher Bedeutung.\n\nDen entscheidenden Unterschied machen demnach die Menschen selbst. Falschmeldungen sind häufig überraschender als die Wirklichkeit, und gerade Neues zieht unsere Aufmerksamkeit an. [2] Hinzu kommt, dass erfundene Geschichten oft starke Gefühle wie Empörung oder Angst auslösen. Solche Emotionen senken die Schwelle, einen Beitrag ohne gründliche Prüfung mit anderen zu teilen. Wer sich ärgert, klickt schneller auf „Teilen“ als jemand, der in Ruhe abwägt.\n\nWas folgt daraus für den Umgang mit Desinformation? Lange setzte man vor allem auf nachträgliche Richtigstellungen, das sogenannte Debunking. [3] Bis ein Faktencheck erscheint, hat die ursprüngliche Meldung oft schon unzählige Menschen erreicht. Außerdem bleibt eine einmal gehörte Behauptung erstaunlich hartnäckig im Gedächtnis haften, selbst wenn man weiß, dass sie längst widerlegt wurde. Manche Fachleute befürchten zudem, dass eine Richtigstellung den widerlegten Mythos durch die Wiederholung unter Umständen noch bekannter macht.\n\nEine Forschungsgruppe am Institut für Kommunikationspsychologie in Bergstedt setzt daher auf einen anderen Ansatz, der an eine Impfung erinnert. [4] In einem kurzen Onlinespiel schlüpfen die Teilnehmenden etwa selbst in die Rolle eines Desinformanten und lernen, mit welchen Tricks man Empörung erzeugt. Wer diese Mechanismen einmal durchschaut hat, so die Hoffnung, erkennt sie später auch im eigenen Nachrichtenstrom wieder. Erprobt wurde das Spiel bislang vor allem mit Studierenden und Schulklassen in mehreren Ländern.\n\nDie ersten Ergebnisse sind ermutigend, geben aber keinen Anlass zur Euphorie. [5] Die Forschenden empfehlen deshalb regelmäßige „Auffrischungen“, etwa in Form kurzer Videos, die vor anderen Inhalten abgespielt werden. Ob Plattformen bereit sind, solche Hinweise dauerhaft einzubauen, ist allerdings fraglich. [6] Solange Empörung Klicks bringt, haben Plattformen wenig Anreiz, sie zu bremsen. Letztlich wird man um eine grundsätzliche Debatte über die Geschäftsmodelle der Netzwerke kaum herumkommen.",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Dabei werden Menschen gezielt mit abgeschwächten Formen typischer Manipulationstechniken konfrontiert."
+      },
+      {
+        "b": "b",
+        "text": "Faktenchecks erreichen deshalb in der Regel mehr Menschen als die ursprüngliche Falschmeldung."
+      },
+      {
+        "b": "c",
+        "text": "Denn jede Sekunde, die Nutzer vor dem Teilen zögern, kostet die Anbieter Reichweite und Geld."
+      },
+      {
+        "b": "d",
+        "text": "Lange Zeit machte man dafür vor allem automatisierte Konten verantwortlich, sogenannte Bots."
+      },
+      {
+        "b": "e",
+        "text": "Diese Spiele haben sich allerdings als völlig wirkungslos erwiesen und wurden inzwischen eingestellt."
+      },
+      {
+        "b": "f",
+        "text": "Der Schutz scheint nämlich nach einigen Wochen spürbar nachzulassen, ähnlich wie bei manchen Impfungen."
+      },
+      {
+        "b": "g",
+        "text": "Wer etwas Unerwartetes weitergibt, kann sich zudem als besonders gut informiert präsentieren."
+      },
+      {
+        "b": "h",
+        "text": "Diese Strategie hat allerdings einen gravierenden Nachteil: Sie kommt fast immer zu spät."
+      }
+    ],
+    "loesungen": {
+      "1": "d",
+      "2": "g",
+      "3": "h",
+      "4": "a",
+      "5": "f",
+      "6": "c"
+    },
+    "erklaerungen": {
+      "1": "„dafür“ meint die schnelle Verbreitung von Falschmeldungen. Danach folgen „diese Annahme“ und „Bots“ – beides wird nur in Satz d eingeführt.",
+      "2": "„zudem“ ergänzt einen zweiten Grund, warum Menschen Falschmeldungen teilen; „Unerwartetes“ nimmt „überraschender“ und „Neues“ auf.",
+      "3": "„Diese Strategie“ meint das Debunking. Der Nachteil („zu spät“) wird im nächsten Satz erklärt („Bis ein Faktencheck erscheint …“). Satz b widerspricht genau dieser Erklärung.",
+      "4": "„Dabei“ bezieht sich auf den neuen Ansatz; „abgeschwächte Formen“ passt zum Vergleich mit der Impfung. Das Onlinespiel im nächsten Satz ist ein Beispiel dafür.",
+      "5": "„nämlich“ begründet, warum es keinen Anlass zur Euphorie gibt. Daraus folgen „deshalb“ die „Auffrischungen“. Satz e passt nicht, weil die Ergebnisse „ermutigend“ sind.",
+      "6": "„Denn“ begründet, warum es fraglich ist, ob Plattformen solche Hinweise einbauen: Zögern kostet sie Geld. Das führt zur Debatte über Geschäftsmodelle."
+    },
+    "distraktoren": {
+      "b": "Widerspricht dem Text: Faktenchecks kommen zu spät, die Falschmeldung hat dann schon sehr viele Menschen erreicht.",
+      "e": "Widerspricht dem Text: Die Ergebnisse sind „ermutigend“ und es werden Auffrischungen empfohlen, das Projekt läuft also weiter."
+    }
+  },
+  {
+    "id": "lv1_08",
+    "teil": "lv1",
+    "titel": "Das stille Verschwinden der Insekten",
+    "thema": "klima_nachhaltigkeit",
+    "bezug": true,
+    "pruefung": 1,
+    "niveau": "C1",
+    "quelle": "fiktiver Artikel, Wissenschaftsmagazin",
+    "text": "Wer früher im Sommer mit dem Auto über Land fuhr, musste regelmäßig die Windschutzscheibe von Insekten befreien. Heute bleibt sie nach langen Fahrten oft erstaunlich sauber. [1] Langzeitmessungen aus verschiedenen Regionen Europas deuten darauf hin, dass die Biomasse fliegender Insekten in den vergangenen Jahrzehnten deutlich zurückgegangen ist – und zwar auch in Schutzgebieten. Die genauen Zahlen schwanken je nach Region und Methode, doch die Richtung ist in den meisten Studien dieselbe.\n\nDie Ursachen sind vielfältig und lassen sich nur schwer voneinander trennen. Als Hauptfaktor gilt der Verlust von Lebensräumen: Blühende Wegränder, Hecken und Brachflächen sind vielerorts intensiv bewirtschafteten Äckern gewichen. [2] Auch die Lichtverschmutzung spielt offenbar eine Rolle, denn nachtaktive Insekten umkreisen künstliche Lichtquellen oft bis zur völligen Erschöpfung. Welcher dieser Faktoren am schwersten wiegt, ist unter Fachleuten allerdings umstritten.\n\nDie Folgen reichen weit über die Insekten selbst hinaus. Ein großer Teil der Wild- und Kulturpflanzen ist auf die Bestäubung durch Tiere angewiesen. [3] Zudem bilden Insekten die Nahrungsgrundlage zahlreicher Vögel, Fledermäuse und Amphibien. Fehlen sie, gerät das gesamte Nahrungsnetz ins Wanken. Insekten zersetzen außerdem abgestorbenes Pflanzenmaterial und tragen so zur Fruchtbarkeit der Böden bei.\n\nIm Mittelpunkt der öffentlichen Debatte stand lange fast ausschließlich die Honigbiene. [4] Weitaus kritischer ist die Lage vieler Wildbienen, Schwebfliegen und Schmetterlinge, um die sich niemand gezielt kümmert. Für manche Pflanzenarten sind diese wilden Bestäuber sogar unersetzlich, da die Honigbiene ihre Blüten gar nicht wirksam bestäuben kann. Wer Bienen schützen will, sollte daher nicht nur an Bienenstöcke denken, sondern vor allem an vielfältige Lebensräume.\n\nWas lässt sich tun? Eine Arbeitsgruppe der Hochschule für Agrarökologie in Rendsfeld hat untersucht, wie Landwirte mit vertretbarem Aufwand Insekten fördern können. Schon schmale Blühstreifen am Rand der Felder erwiesen sich als wirksam, sofern sie mehrjährig angelegt wurden. [5] Für die Betriebe sind solche Maßnahmen vor allem dann attraktiv, wenn sie finanziell gefördert werden. Auch Schulen können einen Beitrag leisten: Ein naturnah gestalteter Schulgarten bietet Lebensraum und eignet sich zugleich hervorragend für den Biologieunterricht. [6] Solche Erfahrungen prägen junge Menschen oft nachhaltiger als jedes Lehrbuch und wecken im besten Fall ein dauerhaftes Interesse am Naturschutz.",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Einjährige Streifen bieten dagegen kaum Überwinterungsmöglichkeiten für Larven und Puppen."
+      },
+      {
+        "b": "b",
+        "text": "Aus diesem Grund verzichten inzwischen fast alle Landwirte freiwillig auf chemischen Pflanzenschutz."
+      },
+      {
+        "b": "c",
+        "text": "Ohne sie würden zahlreiche Obst- und Gemüsesorten deutlich geringere Erträge liefern."
+      },
+      {
+        "b": "d",
+        "text": "Dort können Schülerinnen und Schüler Bestäuber beobachten, bestimmen und ihre Entwicklung über Monate dokumentieren."
+      },
+      {
+        "b": "e",
+        "text": "Was zunächst nur eine beiläufige Beobachtung war, hat sich inzwischen als ernstes ökologisches Warnsignal erwiesen."
+      },
+      {
+        "b": "f",
+        "text": "Die Honigbiene ist daher von allen Insekten am stärksten vom Aussterben bedroht."
+      },
+      {
+        "b": "g",
+        "text": "Hinzu kommt der Einsatz von Pestiziden, die nicht nur Schädlinge, sondern auch nützliche Arten treffen."
+      },
+      {
+        "b": "h",
+        "text": "Ausgerechnet sie ist als Nutztier jedoch vergleichsweise wenig gefährdet, weil Imker ihre Völker betreuen."
+      }
+    ],
+    "loesungen": {
+      "1": "e",
+      "2": "g",
+      "3": "c",
+      "4": "h",
+      "5": "a",
+      "6": "d"
+    },
+    "erklaerungen": {
+      "1": "„eine beiläufige Beobachtung“ fasst das Beispiel mit der Windschutzscheibe zusammen. Danach folgen die wissenschaftlichen „Langzeitmessungen“, die das „Warnsignal“ belegen.",
+      "2": "„Hinzu kommt“ nennt eine weitere Ursache nach dem „Hauptfaktor“. Der nächste Satz setzt die Liste mit „Auch die Lichtverschmutzung“ fort. Satz b passt nicht: Die Folge „verzichten auf Pflanzenschutz“ steht nicht im Text und unterbricht die Liste der Ursachen.",
+      "3": "„sie“ meint die Bestäubung durch Tiere. Der Satz zeigt eine Folge für die Landwirtschaft; „Zudem“ fügt danach eine zweite Folge hinzu.",
+      "4": "„sie“ meint die Honigbiene. „jedoch“ widerspricht der großen öffentlichen Aufmerksamkeit; der nächste Satz („Weitaus kritischer …“) setzt den Vergleich fort. Satz f widerspricht dem: Die Lage der Wildbienen ist kritischer.",
+      "5": "„dagegen“ stellt einjährige Streifen den „mehrjährig“ angelegten gegenüber.",
+      "6": "„Dort“ bezieht sich auf den Schulgarten. „Solche Erfahrungen“ im letzten Satz meint das Beobachten und Dokumentieren."
+    },
+    "distraktoren": {
+      "b": "Klingt passend zum Thema Landwirtschaft, aber der Text sagt das nicht, und „Aus diesem Grund“ hat an keiner Stelle eine logische Ursache.",
+      "f": "Widerspricht dem Text: Die Honigbiene ist vergleichsweise wenig gefährdet; Wildbienen und andere Bestäuber sind stärker bedroht."
+    }
+  },
+  {
+    "id": "lv1_09",
+    "teil": "lv1",
+    "titel": "Als die Eisenbahn die Uhren gleichschaltete",
+    "thema": "mobilitaet",
+    "bezug": false,
+    "pruefung": 2,
+    "niveau": "C1",
+    "quelle": "fiktiver Essay, Zeitschrift für Technikgeschichte",
+    "text": "Bis weit ins neunzehnte Jahrhundert hinein hatte jede Stadt ihre eigene Zeit. Maßgeblich war der Stand der Sonne: Wenn sie ihren höchsten Punkt erreichte, war es Mittag. [1] Zwischen zwei Orten, die nur hundert Kilometer voneinander entfernt lagen, konnten so mehrere Minuten Unterschied liegen. Im Alltag störte das kaum jemanden, denn wer mit der Postkutsche reiste, bemerkte die Abweichungen ohnehin nicht. Zeit war eine lokale Angelegenheit, ähnlich wie Dialekte oder Maßeinheiten, die sich von Region zu Region unterschieden.\n\nMit der Eisenbahn änderte sich das grundlegend. [2] Die Fahrpläne mussten nun minutengenau aufeinander abgestimmt werden – doch nach welcher Zeit? Zunächst rechnete jede Bahngesellschaft nach der Ortszeit ihres Hauptsitzes. Auf großen Bahnhöfen hingen daher bisweilen mehrere Uhren nebeneinander, die unterschiedliche Zeiten anzeigten. Reisende mussten also nicht nur den richtigen Zug finden, sondern auch die richtige Uhr.\n\nFür die Fahrgäste war dieses Nebeneinander höchst verwirrend. [3] Für die Bahngesellschaften selbst war die Lage sogar gefährlich. Auf eingleisigen Strecken hing die Sicherheit davon ab, dass sich Züge zur vereinbarten Zeit an bestimmten Ausweichstellen begegneten. Unterschiedliche Uhrzeiten erhöhten das Risiko von Zusammenstößen erheblich. Mehrere schwere Unglücke führten schließlich dazu, dass der Ruf nach einer gemeinsamen Zeit immer lauter wurde.\n\nSchrittweise setzte sich deshalb eine einheitliche Zeit durch – zuerst nur im Bahnbetrieb, später im gesamten öffentlichen Leben. [4] Manche Bürger empfanden es als Anmaßung, dass die Uhr nicht mehr nach der Sonne gehen sollte, sondern nach einer fernen Hauptstadt. In einigen Orten zeigten die Kirchturmuhren noch jahrelang trotzig die alte Ortszeit an. Erst nach und nach gewöhnten sich die Menschen daran, dass die Mittagszeit nicht mehr mit dem höchsten Sonnenstand zusammenfiel.\n\nHeute erscheint uns eine gemeinsame Zeit so selbstverständlich, dass wir ihre Entstehung leicht vergessen. [5] Die Eisenbahn hat nicht nur Entfernungen schrumpfen lassen, sondern auch ein neues Verständnis von Pünktlichkeit hervorgebracht. Wer heute in einen Zug steigt, erwartet ganz selbstverständlich, dass dieser auf die Minute genau abfährt. Ähnliches lässt sich gegenwärtig beobachten: Smartphones und Computer synchronisieren sich automatisch über das Internet, und Abweichungen von wenigen Sekunden gelten bereits als Fehler. [6]",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Diese Umstellung stieß in der Bevölkerung allerdings keineswegs überall auf Zustimmung."
+      },
+      {
+        "b": "b",
+        "text": "Diese Zeitzonen waren damals bereits auf der ganzen Welt verbindlich eingeführt."
+      },
+      {
+        "b": "c",
+        "text": "Dabei lohnt sich der Blick zurück, denn er zeigt, wie sehr Technik unser Zeitempfinden prägt."
+      },
+      {
+        "b": "d",
+        "text": "Plötzlich legten Reisende in wenigen Stunden Strecken zurück, für die sie früher Tage brauchten."
+      },
+      {
+        "b": "e",
+        "text": "Durch diese ständige Synchronisation ist die Zeit endgültig zu einer Sache der Technik geworden."
+      },
+      {
+        "b": "f",
+        "text": "Da die Sonne im Osten früher ihren höchsten Stand erreicht, gingen die Uhren dort etwas vor."
+      },
+      {
+        "b": "g",
+        "text": "Die Postkutschen fuhren deshalb stets nach einem landesweit einheitlichen Fahrplan."
+      },
+      {
+        "b": "h",
+        "text": "Wer umsteigen wollte, musste ausrechnen, um wie viele Minuten die Uhr der Anschlussbahn abwich."
+      }
+    ],
+    "loesungen": {
+      "1": "f",
+      "2": "d",
+      "3": "h",
+      "4": "a",
+      "5": "c",
+      "6": "e"
+    },
+    "erklaerungen": {
+      "1": "Der Satz erklärt, warum es Unterschiede gab („im Osten früher“). Der nächste Satz zieht mit „so“ die Folge: mehrere Minuten Unterschied. Satz g passt nicht, denn dann fehlt die Erklärung für „so“.",
+      "2": "„Plötzlich“ zeigt die Veränderung durch die Eisenbahn („änderte sich das grundlegend“). Die höhere Geschwindigkeit erklärt, warum Fahrpläne nun „minutengenau“ sein mussten.",
+      "3": "Der Satz zeigt konkret, warum das „Nebeneinander“ für Fahrgäste „verwirrend“ war. Danach folgt der Kontrast „Für die Bahngesellschaften selbst“.",
+      "4": "„Diese Umstellung“ meint die Einführung der einheitlichen Zeit. „keineswegs überall auf Zustimmung“ wird im nächsten Satz mit dem Protest der Bürger belegt.",
+      "5": "„Dabei“ stellt einen Gegensatz zu „leicht vergessen“ her: Man vergisst die Geschichte, obwohl sie lehrreich ist. Danach folgt, was die Eisenbahn verändert hat.",
+      "6": "„diese ständige Synchronisation“ nimmt „synchronisieren sich automatisch“ aus dem Satz davor auf und schließt den Text ab."
+    },
+    "distraktoren": {
+      "b": "Widerspricht dem Text: Damals hatte jede Stadt ihre eigene Zeit; „Diese Zeitzonen“ hat außerdem keinen Bezug im Text.",
+      "g": "Widerspricht dem Text: Für Postkutschen spielte die genaue Zeit keine Rolle; Fahrpläne „minutengenau“ gab es erst mit der Eisenbahn."
+    }
+  },
+  {
+    "id": "lv1_10",
+    "teil": "lv1",
+    "titel": "Gibt es die „Generation Z“ überhaupt?",
+    "thema": "demografie",
+    "bezug": false,
+    "pruefung": 3,
+    "niveau": "C1",
+    "quelle": "fiktiver Artikel, Wirtschafts- und Sozialmagazin",
+    "text": "Kaum ein Thema beschäftigt Personalabteilungen und Ratgeberliteratur derzeit so sehr wie die Frage, wie die sogenannte Generation Z denkt und arbeitet. Die zwischen Mitte der Neunzigerjahre und etwa 2010 Geborenen gelten wahlweise als anspruchsvoll, wenig belastbar oder besonders sinnorientiert. [1] Zu diesem Schluss kommt jedenfalls eine Übersichtsarbeit, für die ein Team des Instituts für Sozialforschung in Großhagen Dutzende Studien ausgewertet hat. Ihr Fazit fällt für die florierende Ratgeberbranche wenig schmeichelhaft aus, für die Personalpraxis dagegen durchaus aufschlussreich.\n\nDas grundlegende Problem liegt in der Methodik. Die meisten Untersuchungen befragen junge Menschen zu einem einzigen Zeitpunkt und vergleichen ihre Antworten mit denen älterer Jahrgänge. [2] Sie könnten ebenso gut schlicht mit dem Lebensalter zusammenhängen. Dass Zwanzigjährige andere Prioritäten setzen als Fünfzigjährige, war schließlich schon immer so. Auch die Eltern der heutigen Berufseinsteiger galten in ihrer Jugend bereits als bequem und anspruchsvoll.\n\nUm diese beiden Effekte voneinander zu trennen, bräuchte man Daten über lange Zeiträume. Man müsste also beispielsweise wissen, wie die heute Fünfzigjährigen geantwortet haben, als sie selbst zwanzig waren. [3] Wo sie existieren, zeigt sich häufig ein ernüchterndes Bild: Die Unterschiede zwischen den Generationen fallen deutlich kleiner aus als die Unterschiede innerhalb einer Generation. Wer nur das Geburtsjahr eines Menschen kennt, weiß über seine Einstellungen also erstaunlich wenig.\n\nHinzu kommt ein weiterer Effekt, den Fachleute als Periodeneffekt bezeichnen. [4] Wenn nach einer solchen Phase plötzlich alle Beschäftigten mehr Wert auf Sicherheit legen, wäre es irreführend, dies allein den Jüngsten zuzuschreiben. Genau das geschieht jedoch in vielen populären Darstellungen, die aus einer Momentaufnahme ein Generationenporträt machen. Dabei hätten die zugrunde liegenden Daten durchaus eine differenziertere Deutung erlaubt.\n\nWarum hält sich das Denken in Generationen dennoch so hartnäckig? Die Autorinnen und Autoren der Übersichtsarbeit sehen mehrere Gründe. Generationenetiketten reduzieren Komplexität und bieten eine eingängige Erzählung. Sie scheinen Veränderungen in der Arbeitswelt auf einfache Weise zu erklären. [5] Problematisch wird es, wenn Klischees konkrete Entscheidungen beeinflussen, etwa in Bewerbungsgesprächen. [6] Statt pauschal nach Geburtsjahrgängen zu urteilen, sollte man deshalb den einzelnen Menschen in den Blick nehmen – mit seinen Erfahrungen, Fähigkeiten und Zielen.",
+    "saetze": [
+      {
+        "b": "a",
+        "text": "Gemeint sind Ereignisse, die alle Altersgruppen gleichzeitig prägen, etwa eine Wirtschaftskrise oder eine Pandemie."
+      },
+      {
+        "b": "b",
+        "text": "Deshalb verzichten die meisten Forschenden inzwischen ganz auf Befragungen junger Menschen."
+      },
+      {
+        "b": "c",
+        "text": "Solche Zuschreibungen sind bequem, doch sie halten einer genaueren Prüfung erstaunlich selten stand."
+      },
+      {
+        "b": "d",
+        "text": "Wer einer Bewerberin von vornherein mangelnde Belastbarkeit unterstellt, übersieht womöglich ihre tatsächlichen Stärken."
+      },
+      {
+        "b": "e",
+        "text": "Die Übersichtsarbeit bestätigt damit die meisten verbreiteten Annahmen über junge Beschäftigte."
+      },
+      {
+        "b": "f",
+        "text": "Solche Langzeitdaten sind allerdings rar und nur für wenige Fragen überhaupt vorhanden."
+      },
+      {
+        "b": "g",
+        "text": "Unterschiede, die dabei zutage treten, lassen sich jedoch nicht eindeutig auf die Generation zurückführen."
+      },
+      {
+        "b": "h",
+        "text": "Außerdem verdient eine ganze Beraterbranche gut daran, Unternehmen den Umgang mit „der Jugend“ zu erklären."
+      }
+    ],
+    "loesungen": {
+      "1": "c",
+      "2": "g",
+      "3": "f",
+      "4": "a",
+      "5": "h",
+      "6": "d"
+    },
+    "erklaerungen": {
+      "1": "„Solche Zuschreibungen“ fasst die Eigenschaften „anspruchsvoll, wenig belastbar …“ zusammen. Danach: „Zu diesem Schluss kommt …“ – der Schluss ist, dass die Zuschreibungen nicht stimmen. Satz e passt nicht: Er sagt das Gegenteil, und „Die Übersichtsarbeit“ wird erst danach eingeführt.",
+      "2": "„dabei“ bezieht sich auf die Befragung zu einem Zeitpunkt. Der nächste Satz („Sie könnten ebenso gut …“) nimmt „Unterschiede“ mit „Sie“ wieder auf.",
+      "3": "„Solche Langzeitdaten“ nimmt die „Daten über lange Zeiträume“ auf. Danach heißt es „Wo sie existieren“ – das passt zu „rar“. Satz b ergibt hier keinen Sinn, denn danach fehlt ein Bezug für „sie“.",
+      "4": "„Gemeint sind“ erklärt den Fachbegriff „Periodeneffekt“. Der nächste Satz greift mit „nach einer solchen Phase“ die Krise oder Pandemie auf.",
+      "5": "„Außerdem“ nennt einen weiteren Grund, warum sich das Denken in Generationen hält. Es geht um die Frage am Anfang des Absatzes.",
+      "6": "Der Satz ist ein Beispiel für die Situation „Bewerbungsgespräch“ davor: Ein Klischee („wenig belastbar“) beeinflusst die Entscheidung. Daraus folgt der Rat im letzten Satz."
+    },
+    "distraktoren": {
+      "b": "Widerspricht dem Text: Die meisten Untersuchungen befragen junge Menschen; es fehlen nur Langzeitdaten.",
+      "e": "Widerspricht dem Text: Die Übersichtsarbeit zeigt, dass die verbreiteten Annahmen selten stimmen."
+    }
+  },
+  {
+    "id": "lv2_01",
+    "teil": "lv2",
+    "titel": "Lehrkräfte aus dem Ausland: Warum die Anerkennung so lange dauert",
+    "thema": "migration_interkulturalitaet",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "An einem Gymnasium in einer Kleinstadt am Niederrhein fällt seit Monaten der Chemieunterricht in zwei Jahrgangsstufen aus. Nur wenige Kilometer entfernt sitzt Lucía Herrera in einem Sprachkurs und wartet. Die 38-Jährige hat in Kolumbien zwölf Jahre lang Chemie und Biologie unterrichtet, zuletzt als Leiterin ihres Fachbereichs. Seit anderthalb Jahren liegt ihr Antrag auf Anerkennung bei der zuständigen Behörde. „Ich würde morgen anfangen, wenn man mich ließe“, sagt sie und zuckt mit den Schultern. Ihre Geschichte ist kein Einzelfall. Viele zugewanderte Lehrkräfte arbeiten in der Zwischenzeit in Bereichen, die mit ihrer Ausbildung nichts zu tun haben – in Lagerhallen, in der Gastronomie oder als Hilfskräfte in der Pflege. Während Schulen in ganz Deutschland händeringend nach Lehrkräften suchen, warten zahlreiche gut ausgebildete Pädagoginnen und Pädagogen aus dem Ausland darauf, endlich in ihrem Beruf arbeiten zu dürfen. Der Mangel auf der einen und das ungenutzte Potenzial auf der anderen Seite passen schlecht zusammen – und das in einer Zeit, in der jede Lehrkraft gebraucht wird. Leidtragende sind am Ende vor allem die Schülerinnen und Schüler, deren Stunden ersatzlos ausfallen."
+      },
+      {
+        "b": "b",
+        "text": "Um zu verstehen, warum die Anerkennung so kompliziert ist, muss man einen Blick auf die deutsche Lehrkräftebildung werfen. Wer hierzulande Lehrerin oder Lehrer werden will, studiert in der Regel zwei Unterrichtsfächer und absolviert anschließend einen praktischen Vorbereitungsdienst, das sogenannte Referendariat. In vielen anderen Ländern wird man dagegen nur für ein einziges Fach ausgebildet, und eine vergleichbare praktische Ausbildungsphase gibt es nicht. Die Behörden vergleichen deshalb Fach für Fach, welche Inhalte im Ausland studiert wurden und welche fehlen. Stellen sie wesentliche Unterschiede fest, wird der Abschluss nicht einfach abgelehnt, sondern nur unter bestimmten Auflagen anerkannt. Die Antragstellenden müssen dann entweder einen Anpassungslehrgang an einer Schule absolvieren oder eine Eignungsprüfung ablegen. Hinzu kommt der Nachweis sehr guter Deutschkenntnisse, meist auf dem Niveau C1 oder sogar C2. Für Biologie- oder Chemielehrkräfte aus dem Ausland bedeutet das häufig, dass ihr zweites Fach fehlt oder dass ihre pädagogischen Studienanteile als zu gering eingestuft werden."
+      },
+      {
+        "b": "c",
+        "text": "So nachvollziehbar diese Regeln im Einzelnen sein mögen, so unbefriedigend ist ihre Umsetzung. Dass ein Verfahren anderthalb Jahre dauert, ist kaum zu rechtfertigen, zumal ein Großteil der Zeit offenbar mit dem Hin- und Herschicken von Papieren vergeht. Viele Antragstellende berichten, dass sie beglaubigte Übersetzungen mehrfach einreichen mussten, weil Unterlagen verloren gegangen waren oder eine andere Stelle zuständig wurde. Hinzu kommt, dass jedes Bundesland eigene Regeln hat; wer umzieht, beginnt im schlimmsten Fall wieder von vorn. Dabei läge eine Lösung nahe: ein bundesweites digitales Portal, über das alle Dokumente ein einziges Mal hochgeladen und von jeder zuständigen Stelle eingesehen werden können. Ein solches Portal würde nicht nur den Betroffenen viel Zeit sparen, sondern auch die Mitarbeitenden in den Behörden entlasten, die selbst unter der Flut an Anträgen leiden. Dass es so etwas bis heute nicht gibt, ist schwer zu verstehen."
+      },
+      {
+        "b": "d",
+        "text": "In der zuständigen Landesbehörde sieht man die Lage naturgemäß etwas anders. Eine Sprecherin verweist darauf, dass die Zahl der Anträge in den vergangenen Jahren stark gestiegen sei, während die Zahl der Sachbearbeiterinnen und Sachbearbeiter kaum gewachsen sei. Außerdem gehe es um die Qualität des Unterrichts: Kinder und Eltern hätten ein Recht darauf, dass alle Lehrkräfte vergleichbar qualifiziert seien. Eine pauschale Anerkennung ohne genaue Prüfung lehne man deshalb ab. Man arbeite aber daran, die Verfahren zu vereinfachen, und habe bereits zusätzliche Stellen geschaffen. Zudem prüfe man derzeit, ob Lehrkräfte mit nur einem Fach künftig leichter eingesetzt werden könnten, etwa in Fächern mit besonders großem Bedarf. Eine Entscheidung darüber werde aber erst im kommenden Jahr fallen. Die Wartezeiten seien inzwischen kürzer als noch vor zwei Jahren, betont die Sprecherin."
+      },
+      {
+        "b": "e",
+        "text": "Für Lehrkräfte, die mit dem Gedanken spielen, in Deutschland zu unterrichten, lassen sich aus all dem einige praktische Schlüsse ziehen. Wer kann, sollte den Antrag schon aus dem Herkunftsland stellen und sich parallel intensiv um die deutsche Sprache kümmern, denn ohne ein C1-Zertifikat geht in den meisten Bundesländern nichts. Sinnvoll ist es außerdem, sich frühzeitig an eine Anerkennungsberatung zu wenden; solche Stellen gibt es in vielen Städten, und ihre Unterstützung ist kostenlos. Wichtig ist auch, alle Zeugnisse und Studiennachweise vollständig zu sammeln und rechtzeitig übersetzen zu lassen, denn fehlende Unterlagen verzögern ein Verfahren erfahrungsgemäß am stärksten. Schließlich lohnt sich der Kontakt zu anderen Betroffenen, etwa in Netzwerken zugewanderter Lehrkräfte. Lucía Herrera hat dort erfahren, dass sie schon während des laufenden Verfahrens als Vertretungslehrkraft arbeiten darf. Im kommenden Halbjahr wird sie den ausgefallenen Chemieunterricht übernehmen – vorerst befristet, aber immerhin."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt kritisiert die Autorin, dass die Verfahren unnötig lange dauern?",
+        "loesung": "c",
+        "erklaerung": "In c steht: „ist kaum zu rechtfertigen“ und „so unbefriedigend ist ihre Umsetzung“. Abschnitt b erklärt die Regeln nur neutral, ohne Kritik."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt beschreibt die Autorin eine widersprüchliche Situation an Schulen?",
+        "loesung": "a",
+        "erklaerung": "In a: Unterricht fällt aus, gleichzeitig warten ausgebildete Lehrkräfte – „passen schlecht zusammen“. Das ist der Widerspruch."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt gibt die Autorin die Sicht der zuständigen Behörde wieder?",
+        "loesung": "d",
+        "erklaerung": "In d spricht eine Sprecherin der Landesbehörde; der Konjunktiv („sei gestiegen“, „lehne man ab“) zeigt die indirekte Rede."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt rät die Autorin Betroffenen, sich früh Unterstützung zu holen?",
+        "loesung": "e",
+        "erklaerung": "In e: „sich frühzeitig an eine Anerkennungsberatung zu wenden“. Die Forderung in c richtet sich an die Politik, nicht an die Betroffenen."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt schlägt die Autorin eine technische Lösung für ein Verwaltungsproblem vor?",
+        "loesung": "c",
+        "erklaerung": "In c: „Dabei läge eine Lösung nahe: ein bundesweites digitales Portal“. Abschnitt d erwähnt zusätzliche Stellen, aber keine technische Lösung, und das ist die Sicht der Behörde."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt lässt die Autorin eine betroffene Person selbst zu Wort kommen?",
+        "loesung": "a",
+        "erklaerung": "Nur in a gibt es ein direktes Zitat von Lucía Herrera („Ich würde morgen anfangen …“). In e wird nur über sie berichtet."
+      }
+    ]
+  },
+  {
+    "id": "lv2_02",
+    "teil": "lv2",
+    "titel": "Schreiben mit KI: Verbot oder Werkzeug?",
+    "thema": "ki_digitalisierung",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "Als die ersten frei zugänglichen Textgeneratoren auftauchten, reagierten viele Hochschulen fast panisch. Prüfungsämter verschickten Rundmails, in denen jede Nutzung künstlicher Intelligenz streng untersagt wurde, und manche Lehrende kehrten zu handschriftlichen Klausuren zurück. In Gremien wurde darüber gestritten, ob man Laptops in Prüfungsräumen ganz verbieten solle, und einige Fakultäten richteten eigens Arbeitsgruppen ein, die sich mit der neuen „Bedrohung“ beschäftigen sollten. Man fürchtete, dass Hausarbeiten künftig nur noch von Maschinen geschrieben würden und niemand mehr selbst denken müsse. Wer schon etwas länger an einer Universität arbeitet, kennt solche Reaktionen. Als vor einigen Jahrzehnten Taschenrechner in die Schulen kamen, warnten Fachleute ebenfalls davor, dass bald niemand mehr rechnen könne. Heute benutzt man sie selbstverständlich, und Mathematik wird trotzdem unterrichtet – nur eben anders als früher. Auch die Verbreitung des Internets in den Hörsälen wurde seinerzeit von ähnlich düsteren Prognosen begleitet."
+      },
+      {
+        "b": "b",
+        "text": "Wie sehen die Studierenden selbst die neue Technik? Einer Umfrage einer großen Studierendenvertretung zufolge nutzt inzwischen eine deutliche Mehrheit regelmäßig KI-Werkzeuge, vor allem zum Zusammenfassen von Fachliteratur, zum Formulieren von Gliederungen oder zum Überprüfen der eigenen Grammatik. Bemerkenswert ist, dass nur eine Minderheit angab, ganze Texte von einem Programm schreiben zu lassen. Viele Befragte gaben an, dass sie sich dabei unsicher fühlen, weil die Regeln von Seminar zu Seminar verschieden seien. Was in der einen Veranstaltung ausdrücklich erlaubt sei, gelte in der nächsten als Täuschungsversuch. Einige Studierende äußerten außerdem die Sorge, dass sie durch die Werkzeuge bequemer würden und wichtige Fähigkeiten gar nicht mehr richtig lernten. Zugleich betonten sie, dass sie auf die Programme nicht mehr verzichten wollten. Gewünscht werden vor allem klare und einheitliche Regeln, die für alle Lehrveranstaltungen eines Studiengangs gelten, sowie Kurse, in denen man den verantwortungsvollen Umgang mit den Werkzeugen lernen kann."
+      },
+      {
+        "b": "c",
+        "text": "Inzwischen ist an vielen Hochschulen Ernüchterung eingekehrt, was die Verbote betrifft. Man muss offen zugeben: Ob ein Text mit oder ohne maschinelle Hilfe entstanden ist, lässt sich kaum zuverlässig feststellen. Programme, die angeblich KI-Texte erkennen, liefern häufig falsche Ergebnisse und haben schon mehrfach Studierende zu Unrecht verdächtigt. Hinzu kommt der Verdacht, dass solche Programme Texte von Nicht-Muttersprachlern besonders häufig fälschlich als maschinell einstufen. Auch erfahrene Lehrende tun sich schwer damit, maschinell erzeugte Texte allein am Stil zu erkennen. Ein Verbot, dessen Einhaltung niemand überprüfen kann, verliert jedoch schnell seine Wirkung. Es bestraft am Ende vor allem die Ehrlichen, die sich an die Regeln halten, während andere unbemerkt davon profitieren. Viele Prüfungsordnungen sind deshalb in den letzten Semestern überarbeitet worden, und an die Stelle pauschaler Verbote treten zunehmend Regeln zur Kennzeichnung. Studierende müssen dann angeben, wofür sie welches Werkzeug verwendet haben."
+      },
+      {
+        "b": "d",
+        "text": "Wer KI im Studium nutzt, sollte sich allerdings ihrer Grenzen bewusst sein. Die Programme formulieren flüssig und klingen überzeugend, aber sie verstehen nicht, was sie schreiben. Sie berechnen lediglich, welches Wort mit hoher Wahrscheinlichkeit auf das vorherige folgt. Sie erfinden gelegentlich Quellen, die es gar nicht gibt, oder geben veraltete Forschungsstände als aktuelle Erkenntnisse aus. Wer solche Texte ungeprüft in eine Hausarbeit übernimmt, riskiert nicht nur eine schlechte Note, sondern im schlimmsten Fall ein Verfahren wegen wissenschaftlichen Fehlverhaltens. Jede Angabe, jedes Zitat und jede Zahl muss deshalb an der Originalquelle überprüft werden. Die Verantwortung für den Inhalt bleibt in jedem Fall bei der Person, die den Text einreicht, und nicht bei der Maschine. Nützlich sind die Programme dagegen dort, wo man ihre Ergebnisse leicht kontrollieren kann, etwa bei Formulierungsvorschlägen oder beim Korrekturlesen."
+      },
+      {
+        "b": "e",
+        "text": "Was folgt daraus für die Lehre? Statt immer neue Regeln für alte Prüfungsformen zu erfinden, sollten die Hochschulen die Prüfungen selbst überdenken. Eine Hausarbeit, die ein Programm in wenigen Minuten erstellen kann, misst offensichtlich nicht mehr das, was sie messen soll. Sinnvoller wären Formate, in denen der Denkprozess sichtbar wird: mündliche Prüfungen, in denen Studierende ihre Arbeit verteidigen, Lerntagebücher oder Projektarbeiten mit regelmäßigen Zwischengesprächen. Solche Formate sind aufwendiger, keine Frage. Gerade in Massenfächern mit Hunderten von Studierenden stellt das die Lehrenden vor erhebliche organisatorische Probleme. Sie hätten aber den Vorteil, dass sie Fähigkeiten prüfen, die eine Maschine nicht ersetzen kann – etwa die Fähigkeit, eine eigene Position zu begründen und auf Nachfragen zu reagieren. Genau diese Fähigkeiten dürften im Berufsleben künftig wichtiger sein als je zuvor."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt räumt der Autor ein, dass sich Verbote kaum kontrollieren lassen?",
+        "loesung": "c",
+        "erklaerung": "In c: „Man muss offen zugeben“ – „lässt sich kaum zuverlässig feststellen“ und „Ein Verbot, dessen Einhaltung niemand überprüfen kann“. Abschnitt a erwähnt Verbote nur als erste Reaktion."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt vergleicht der Autor die heutige Situation mit einer früheren technischen Neuerung?",
+        "loesung": "a",
+        "erklaerung": "In a erinnert der Autor an die Einführung von Taschenrechnern und die damaligen Warnungen."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt warnt der Autor davor, Ergebnisse von Programmen ohne Kontrolle zu übernehmen?",
+        "loesung": "d",
+        "erklaerung": "In d: „Wer solche Texte ungeprüft … übernimmt, riskiert …“ und „muss … überprüft werden“. In c geht es um Erkennungsprogramme, nicht um die Übernahme von Texten."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt gibt der Autor die Erfahrungen von Studierenden wieder?",
+        "loesung": "b",
+        "erklaerung": "In b berichtet der Autor über eine Umfrage: „Viele Befragte gaben an …“ (indirekte Rede mit Konjunktiv)."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt fordert der Autor, die Art des Prüfens grundlegend zu verändern?",
+        "loesung": "e",
+        "erklaerung": "In e: „sollten die Hochschulen die Prüfungen selbst überdenken“ und nennt neue Formate. In c werden nur Prüfungsordnungen angepasst – das ist eine Beschreibung, keine Forderung."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt schildert der Autor, wie Hochschulen zunächst auf die neue Technik reagierten?",
+        "loesung": "a",
+        "erklaerung": "In a: „reagierten viele Hochschulen fast panisch“, Rundmails mit Verboten, Rückkehr zu handschriftlichen Klausuren."
+      }
+    ]
+  },
+  {
+    "id": "lv2_03",
+    "teil": "lv2",
+    "titel": "Forschen ohne Doktortitel: Bürgerwissenschaft",
+    "thema": "wissenschaft_ethik",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "B2+",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "Jedes Frühjahr legen sich in Deutschland Tausende Menschen eine Stunde lang auf die Lauer: Sie zählen die Vögel in ihrem Garten, auf dem Balkon oder im nächsten Park und melden die Ergebnisse anschließend über eine Internetseite. Andere fotografieren Wildbienen, sammeln Wasserproben aus Bächen oder bestimmen Pflanzen am Straßenrand. Die Projekte reichen von der Astronomie über die Medizin bis zur Sprachforschung. Man nennt diese Form der Beteiligung „Citizen Science“, auf Deutsch auch Bürgerwissenschaft. Gemeint sind Forschungsprojekte, bei denen Laien – also Menschen ohne wissenschaftliche Ausbildung im jeweiligen Fach – Daten erheben, auswerten oder sogar eigene Fragen einbringen. Die Idee ist nicht neu: Schon im neunzehnten Jahrhundert schickten Hobbyforscher ihre Wetterbeobachtungen an Fachgesellschaften. Neu ist allerdings das Ausmaß, das durch Smartphones und Online-Plattformen möglich geworden ist. Heute kann praktisch jeder mit wenigen Klicks Teil eines Forschungsprojekts werden. Für die Wissenschaft ist das ein Gewinn, denn viele Fragen lassen sich nur mit sehr großen Datenmengen beantworten, die kein Institut allein sammeln könnte."
+      },
+      {
+        "b": "b",
+        "text": "Dass dabei mehr herauskommt als ein netter Zeitvertreib, zeigt ein Beispiel aus Norddeutschland. Ehrenamtliche Insektenkundler hatten dort über viele Jahre hinweg in einem Naturschutzgebiet Fallen aufgestellt und die gefangenen Tiere sorgfältig bestimmt. Bezahlt wurden sie dafür nicht; viele investierten sogar eigenes Geld in Ausrüstung und Fahrten. Ihre Daten trugen später entscheidend dazu bei, den Rückgang der Insekten überhaupt erst sichtbar zu machen – lange bevor Universitäten das Thema aufgriffen. Auch eine Pflanzenart, die in der Region als ausgestorben galt, wurde von einer Wandergruppe wiederentdeckt. Einer der Ehrenamtlichen, ein pensionierter Vermessungsingenieur, beschreibt seine Motivation so: „Ich wollte im Ruhestand nicht nur Kreuzworträtsel lösen. Hier habe ich das Gefühl, dass meine Beobachtungen wirklich gebraucht werden.“ Viele Teilnehmende berichten Ähnliches: Sie schätzen es, Teil von etwas Größerem zu sein. Manche haben sich im Laufe der Jahre ein so großes Fachwissen angeeignet, dass sie heute selbst von Universitäten um Rat gefragt werden."
+      },
+      {
+        "b": "c",
+        "text": "Nicht alle in der Wissenschaft teilen jedoch die Begeisterung. Kritiker bemängeln vor allem die Qualität der Daten. Laien, so ihr Einwand, verwechselten häufig ähnlich aussehende Arten oder hielten sich nicht an die vorgeschriebene Methode. Zudem beobachteten Freiwillige bevorzugt dort, wo sie wohnen oder gern spazieren gehen, also eher in Städten und schönen Landschaften als in eintönigen Agrargebieten. Das könne die Ergebnisse verzerren. Ein weiteres Problem sei, dass viele Freiwillige nach einiger Zeit das Interesse verlören, sodass lange Messreihen plötzlich abbrächen. Ein Biologe einer großen Forschungseinrichtung bringt die Bedenken auf den Punkt: Wer nicht wisse, wie zuverlässig ein Datensatz sei, könne daraus auch keine sicheren Schlüsse ziehen. Manche Fachleute befürchten außerdem, dass Bürgerprojekte als billiger Ersatz für bezahlte Forschungsstellen missbraucht werden könnten. Auch ethische Fragen werden diskutiert, etwa wem die gesammelten Daten gehören und ob die Teilnehmenden an Veröffentlichungen beteiligt werden sollten."
+      },
+      {
+        "b": "d",
+        "text": "Ganz von der Hand zu weisen sind diese Einwände nicht. Allerdings sind sie in vielen Fällen weniger gravierend, als es auf den ersten Blick scheint. Gut organisierte Projekte schulen ihre Teilnehmenden vorab und verlangen bei seltenen Arten ein Foto als Beleg, das anschließend von Fachleuten überprüft wird. Moderne Auswertungsverfahren können zudem berücksichtigen, wo und wie viel beobachtet wurde, und so Verzerrungen zumindest teilweise ausgleichen. Und schließlich gleicht die große Menge an Beobachtungen manche Ungenauigkeit im Einzelfall wieder aus. Kein bezahltes Forschungsteam könnte jemals an Tausenden Orten gleichzeitig zählen. Vergleiche, bei denen Laien und Fachleute dieselben Flächen untersuchten, deuten zudem darauf hin, dass die Unterschiede oft geringer sind als befürchtet. Fehlerfrei sind die Daten dadurch nicht – aber das sind professionell erhobene Daten auch nicht immer."
+      },
+      {
+        "b": "e",
+        "text": "Besonders vielversprechend ist Bürgerwissenschaft für Schulen. Wenn eine Klasse den Zustand des Bachs hinter dem Schulgelände untersucht und ihre Messwerte in eine echte Datenbank einspeist, erleben die Jugendlichen Biologie nicht als Stoff aus dem Lehrbuch, sondern als offene Forschung. Sie lernen, sorgfältig zu beobachten, Messfehler zu erkennen und Ergebnisse kritisch zu diskutieren – Fähigkeiten, die weit über das Fach hinaus wichtig sind. Eine Biologielehrerin aus Münster berichtet, dass selbst Jugendliche, die sich sonst kaum für Naturwissenschaften interessieren, bei der Untersuchung des Bachs mit Begeisterung dabei seien. Bislang beteiligen sich allerdings nur wenige Schulen an solchen Projekten, oft aus Zeitmangel oder weil Lehrkräfte die Angebote gar nicht kennen. Es wäre zu wünschen, dass Bildungsministerien und Forschungseinrichtungen hier enger zusammenarbeiten und Materialien bereitstellen, die sich ohne großen Aufwand in den Unterricht einbauen lassen."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt relativiert die Autorin die Zweifel an der Zuverlässigkeit der Beobachtungen?",
+        "loesung": "d",
+        "erklaerung": "In d: „Ganz von der Hand zu weisen sind diese Einwände nicht. Allerdings …“ – die Autorin schwächt die Kritik ab. Abschnitt c gibt die Kritik nur wieder, ohne sie zu relativieren."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt erläutert die Autorin, was man unter dem Fachbegriff versteht?",
+        "loesung": "a",
+        "erklaerung": "In a: „Man nennt diese Form … Citizen Science“ und „Gemeint sind …“ – das ist eine Definition."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt äußert die Autorin den Wunsch nach einer besseren Zusammenarbeit von Institutionen?",
+        "loesung": "e",
+        "erklaerung": "In e: „Es wäre zu wünschen, dass Bildungsministerien und Forschungseinrichtungen … enger zusammenarbeiten“."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt zitiert die Autorin einen Freiwilligen, der über seine Beweggründe spricht?",
+        "loesung": "b",
+        "erklaerung": "In b steht ein direktes Zitat des pensionierten Ingenieurs zu seiner Motivation. In c wird ein Biologe zitiert, aber er ist kein Freiwilliger und spricht über Bedenken."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt zeigt die Autorin an einem Beispiel, dass Laien wichtige Ergebnisse erzielt haben?",
+        "loesung": "b",
+        "erklaerung": "In b: Die Daten der Ehrenamtlichen machten den Insektenrückgang „überhaupt erst sichtbar“; eine Wandergruppe entdeckte eine Pflanzenart wieder."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt beschreibt die Autorin, was Jugendliche durch die Teilnahme lernen können?",
+        "loesung": "e",
+        "erklaerung": "In e: „Sie lernen, sorgfältig zu beobachten, Messfehler zu erkennen …“."
+      }
+    ]
+  },
+  {
+    "id": "lv2_04",
+    "teil": "lv2",
+    "titel": "Quereinstieg ins Lehramt: Notlösung mit Zukunft?",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "Der Mangel an Lehrkräften ist längst kein Randthema mehr. In vielen Bundesländern bleiben zu Beginn des Schuljahres Stellen unbesetzt, Unterricht fällt aus oder wird von Personen erteilt, die das betreffende Fach nie studiert haben. Besonders angespannt ist die Lage an Grundschulen, an Förderschulen und in den naturwissenschaftlichen Fächern. Auf dem Land und in sozial benachteiligten Stadtteilen ist der Mangel dabei besonders deutlich zu spüren. Wer sich die Altersstruktur der Kollegien ansieht, kann sich keine großen Hoffnungen auf eine rasche Entspannung machen: In den kommenden Jahren geht ein erheblicher Teil der Lehrerinnen und Lehrer in den Ruhestand, während an den Universitäten nicht annähernd genug Nachwuchs ausgebildet wird. Gerade in Physik, Chemie und Informatik dürfte sich die Lücke daher eher noch vergrößern, als dass sie sich schließt. Bildungsforscherinnen haben auf diese Entwicklung schon früh hingewiesen, doch ihre Berechnungen wurden lange als zu pessimistisch abgetan. Hinzu kommt, dass viele Lehramtsstudierende ihr Studium abbrechen oder nach dem Abschluss einen anderen Beruf wählen."
+      },
+      {
+        "b": "b",
+        "text": "Die Kultusministerien haben auf diese Entwicklung reagiert, indem sie den sogenannten Quer- und Seiteneinstieg geöffnet haben. Wer ein Hochschulstudium in einem schulrelevanten Fach abgeschlossen hat – etwa in Biologie, Mathematik oder Ingenieurwissenschaften –, kann unter bestimmten Bedingungen ohne Lehramtsstudium an einer Schule unterrichten. Inzwischen stammt an einigen Schulen ein beachtlicher Teil der neu eingestellten Lehrkräfte aus anderen Berufen. Man mag diesen Schritt als Eingeständnis eines Versäumnisses betrachten, und tatsächlich hat die Politik den Mangel jahrelang unterschätzt. Doch angesichts der Lage war die Entscheidung im Grunde alternativlos. Hätte man an den strengen Zugangsregeln festgehalten, würden heute noch deutlich mehr Stunden ausfallen. An manchen Schulen gäbe es in bestimmten Fächern überhaupt keinen Fachunterricht mehr. Insofern ist es nachvollziehbar, dass die Länder pragmatisch gehandelt haben, auch wenn sich darüber streiten lässt, ob sie es mit der nötigen Sorgfalt getan haben."
+      },
+      {
+        "b": "c",
+        "text": "Die Lehrerverbände sehen die Entwicklung mit gemischten Gefühlen. Ein Vertreter eines großen Verbands betonte kürzlich, man begrüße grundsätzlich jede zusätzliche Kraft an den Schulen. Unterrichten sei jedoch ein anspruchsvoller Beruf, der mehr erfordere als Fachwissen. Wer nie gelernt habe, wie man eine Unterrichtsstunde plant, mit Konflikten in der Klasse umgeht oder Leistungen gerecht bewertet, werde schnell überfordert. Der Verband fordert deshalb, dass Quereinsteigende in den ersten beiden Jahren eine deutlich reduzierte Stundenzahl unterrichten und verbindlich von erfahrenen Mentorinnen und Mentoren begleitet werden. Außerdem müssten die Schulen, die Quereinsteigende aufnehmen, dafür zusätzliche Stunden erhalten, damit die Mentorinnen und Mentoren diese Aufgabe nicht nebenbei erledigen müssten. Zudem dürfe der Quereinstieg nicht dazu führen, dass die reguläre Lehrkräftebildung vernachlässigt werde. Langfristig, so der Verband, müsse das grundständige Lehramtsstudium wieder attraktiver werden."
+      },
+      {
+        "b": "d",
+        "text": "Die Realität sieht vielerorts allerdings anders aus. Viele Quereinsteigende berichten, dass sie praktisch vom ersten Tag an mit voller Stundenzahl vor der Klasse standen und die pädagogische Qualifizierung nebenbei absolvieren mussten – abends, an Wochenenden und in den Ferien. Dass auf diese Weise manche nach kurzer Zeit erschöpft aufgeben, ist kaum verwunderlich; hier wird wertvolles Engagement leichtfertig verspielt. Dass es auch anders geht, zeigt ein Programm in einer norddeutschen Großstadt. Dort beginnen Quereinsteigende mit einem dreimonatigen Vorbereitungskurs, bevor sie überhaupt unterrichten. Anschließend arbeiten sie zwei Jahre lang im Tandem mit einer erfahrenen Lehrkraft und haben jede Woche feste Zeiten für Reflexion und Fortbildung. Die Teilnehmenden loben vor allem, dass sie Fehler machen dürfen, ohne sofort allein dafür verantwortlich zu sein. Die Abbrecherquote liegt nach Angaben der Projektleitung deutlich unter dem Durchschnitt. Ob sich das Modell auf andere Regionen übertragen lässt, hängt allerdings stark von der Finanzierung ab."
+      },
+      {
+        "b": "e",
+        "text": "In der öffentlichen Debatte wird oft gefordert, einfach mehr Studienplätze für das Lehramt zu schaffen. Diese Forderung greift jedoch zu kurz. Schon heute bleiben in manchen Fächern Studienplätze frei, weil sich zu wenige junge Menschen für den Beruf entscheiden. Das Problem liegt also weniger im Angebot als in der Attraktivität des Berufs selbst: Hohe Arbeitsbelastung, große Klassen, wachsende Verwaltungsaufgaben und mangelnde gesellschaftliche Anerkennung schrecken viele ab. Wer den Mangel dauerhaft beheben will, muss an diesen Bedingungen ansetzen. Bessere Arbeitsbedingungen kosten Geld, das ist unbestreitbar. Doch auch ein dauerhafter Unterrichtsausfall hat seinen Preis – für die Schülerinnen und Schüler ebenso wie für die Gesellschaft. Dazu gehört auch, die Erfahrungen der Quereinsteigenden ernst zu nehmen. Sie bringen Perspektiven aus anderen Berufen mit, von denen Schulen profitieren können – vorausgesetzt, man gibt ihnen die Chance, gut anzukommen."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt bemängelt der Autor, dass Quereinsteigende ohne ausreichende Vorbereitung unterrichten müssen?",
+        "loesung": "d",
+        "erklaerung": "In d: „vom ersten Tag an mit voller Stundenzahl“ und „hier wird wertvolles Engagement leichtfertig verspielt“ – das ist die Kritik des Autors. In c fordert der Verband eine Begleitung; das ist nicht die Meinung des Autors."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt prognostiziert der Autor, dass sich die Lage in einigen Fächern noch verschlechtern wird?",
+        "loesung": "a",
+        "erklaerung": "In a: „Gerade in Physik, Chemie und Informatik dürfte sich die Lücke daher eher noch vergrößern“ – „dürfte“ zeigt eine Vermutung über die Zukunft."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt gibt der Autor die Forderungen einer Berufsvertretung wieder?",
+        "loesung": "c",
+        "erklaerung": "In c spricht ein Vertreter eines Lehrerverbands; der Konjunktiv („sei“, „erfordere“, „dürfe“) zeigt die indirekte Rede."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt zeigt der Autor Verständnis für eine Entscheidung der Kultusministerien?",
+        "loesung": "b",
+        "erklaerung": "In b: „war die Entscheidung im Grunde alternativlos“ und „Insofern ist es nachvollziehbar, dass die Länder pragmatisch gehandelt haben“."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt stellt der Autor ein Programm vor, das als positives Beispiel gelten kann?",
+        "loesung": "d",
+        "erklaerung": "In d: „Dass es auch anders geht, zeigt ein Programm …“ – mit Vorbereitungskurs und Tandem-Modell. Abschnitt c nennt nur Forderungen, kein bestehendes Programm."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt bezeichnet der Autor einen verbreiteten Lösungsvorschlag als unzureichend?",
+        "loesung": "e",
+        "erklaerung": "In e: „Diese Forderung greift jedoch zu kurz“ – gemeint ist die Forderung nach mehr Studienplätzen."
+      }
+    ]
+  },
+  {
+    "id": "lv2_05",
+    "teil": "lv2",
+    "titel": "Mikroplastik: Ein unsichtbares Problem",
+    "thema": "klima_nachhaltigkeit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "Es gibt kaum noch einen Ort auf der Erde, an dem man nicht fündig wird. Forschende haben winzige Kunststoffteilchen in der Tiefsee nachgewiesen, im Eis der Arktis, im Schnee abgelegener Berggipfel und in der Luft über Großstädten. Selbst in entlegenen Bergseen, an deren Ufer kaum je ein Mensch gestanden hat, wurden Partikel gefunden, die offenbar mit dem Wind dorthin gelangt sind. Auch in Lebensmitteln wie Speisesalz, Honig oder Mineralwasser sind sie aufgetaucht, ebenso in menschlichem Blut und in Gewebeproben. Als Mikroplastik bezeichnet man dabei Kunststoffpartikel, die kleiner als fünf Millimeter sind; die kleinsten von ihnen sind mit bloßem Auge längst nicht mehr zu erkennen. Ein Teil davon wird gezielt in dieser Größe hergestellt, etwa als Granulat für die Industrie. Der weitaus größere Teil entsteht jedoch erst nachträglich, wenn größere Kunststoffgegenstände durch Sonnenlicht, Wind, Wellen und Reibung nach und nach in immer kleinere Stücke zerfallen. Dieser Prozess kann Jahrzehnte dauern, und am Ende verschwindet der Kunststoff nicht, sondern wird nur unsichtbar."
+      },
+      {
+        "b": "b",
+        "text": "Fragt man Passanten, woher Mikroplastik stammt, nennen viele zuerst Peelings, Zahnpasta oder Duschgels mit kleinen Kunststoffkügelchen. Dieses Bild ist zwar verständlich, weil gerade diese Produkte vor einigen Jahren in den Schlagzeilen waren, es führt aber in die Irre. Kosmetika machen nach heutigem Kenntnisstand nur einen kleinen Bruchteil der Gesamtmenge aus. Zu den wichtigsten Quellen gehört vielmehr der Abrieb von Autoreifen, der bei jeder Fahrt entsteht und mit dem Regen von den Straßen in Böden und Gewässer gespült wird. Eine weitere große Quelle sind Kleidungsstücke aus synthetischen Fasern wie Polyester: Bei jedem Waschgang lösen sich Tausende feinster Fasern, die von vielen Kläranlagen nicht vollständig zurückgehalten werden. Hinzu kommen Abrieb von Schuhsohlen, Kunstrasenplätze und zerfallende Verpackungen. Mit anderen Worten: Das Problem steckt weniger im Badezimmer als auf der Straße und im Kleiderschrank."
+      },
+      {
+        "b": "c",
+        "text": "Wie gefährlich Mikroplastik für die menschliche Gesundheit ist, lässt sich derzeit nicht seriös beantworten. Das liegt unter anderem daran, dass es „das“ Mikroplastik gar nicht gibt: Die Teilchen unterscheiden sich in Größe, Form und chemischer Zusammensetzung, und an ihrer Oberfläche können sich zusätzlich Schadstoffe anlagern. Hinzu kommt, dass jeder Mensch ihnen in unterschiedlichem Ausmaß ausgesetzt ist und es keine unbelastete Vergleichsgruppe gibt, mit der man Erkrankungsraten vergleichen könnte. Auch die Messmethoden sind noch nicht einheitlich, sodass sich Studien nur schwer miteinander vergleichen lassen. Tierversuche und Zellstudien liefern zwar erste Hinweise auf Entzündungsreaktionen, lassen sich aber nicht ohne Weiteres auf den Menschen übertragen. Vor diesem Hintergrund sollte man sich vor zwei Fehlern hüten. Der eine wäre Panikmache: Nicht jeder Nachweis von Partikeln im Körper bedeutet automatisch eine Gesundheitsgefahr. Der andere wäre Verharmlosung: Dass Schäden bisher nicht belegt sind, heißt keineswegs, dass es keine gibt."
+      },
+      {
+        "b": "d",
+        "text": "Die Politik hat auf das Thema durchaus reagiert. Auf europäischer Ebene ist es inzwischen verboten, Produkten bewusst Mikroplastik zuzusetzen; betroffen sind unter anderem loser Glitzer, bestimmte Kosmetika und Granulat für Kunstrasenplätze, für die teils lange Übergangsfristen gelten. Die Maßnahme wurde von vielen Seiten als wichtiger Schritt gefeiert. Bei genauerem Hinsehen wirkt sie jedoch eher wie ein Signal als wie eine echte Lösung. Denn die großen Quellen – Reifenabrieb und Textilfasern – bleiben davon weitgehend unberührt. Ein Verbot von Glitzer lässt sich leicht durchsetzen und gut kommunizieren, ohne einer mächtigen Branche wehzutun. Strengere Vorgaben für Reifen oder Textilien wären dagegen politisch unbequem, weil sie die Automobil- und Modeindustrie unmittelbar betreffen würden. Dass manche Hersteller freiwillig an abriebärmeren Reifen forschen, ist zu begrüßen, ersetzt aber keine verbindlichen Regeln. So entsteht der Eindruck von Handlungsfähigkeit, während sich an der Gesamtmenge kaum etwas ändert."
+      },
+      {
+        "b": "e",
+        "text": "Dabei drängt die Zeit. Die weltweite Produktion von Kunststoffen wächst seit Jahrzehnten, und es spricht wenig dafür, dass sich dieser Trend in naher Zukunft umkehrt. Da Kunststoff zudem nur sehr langsam zerfällt, wird die Menge an Mikroplastik in der Umwelt selbst dann noch lange zunehmen, wenn kein neuer Abfall mehr hinzukäme. Was kann der Einzelne tun? Neben dem Verzicht auf unnötige Verpackungen lohnt sich ein Blick auf die Waschmaschine. Spezielle Filter, die man nachträglich am Abwasserschlauch anbringen kann, halten einen großen Teil der Fasern zurück, bevor sie ins Abwasser gelangen. Wer sich ein solches Gerät anschafft, leistet einen kleinen, aber messbaren Beitrag. Noch wirksamer wäre es freilich, wenn neue Waschmaschinen grundsätzlich mit solchen Filtern ausgestattet würden – doch dafür braucht es wiederum die Politik."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt korrigiert die Autorin eine weit verbreitete Vorstellung?",
+        "loesung": "b",
+        "erklaerung": "In b: Viele denken an Kosmetik, aber „es führt aber in die Irre“ – die Hauptquellen sind Reifenabrieb und Textilfasern."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt erklärt die Autorin, warum die Folgen für den Menschen schwer zu erforschen sind?",
+        "loesung": "c",
+        "erklaerung": "In c nennt die Autorin Gründe: verschiedene Teilchen, keine unbelastete Vergleichsgruppe, uneinheitliche Messmethoden."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt prognostiziert die Autorin, dass das Problem weiter wachsen wird?",
+        "loesung": "e",
+        "erklaerung": "In e: „wird die Menge an Mikroplastik … noch lange zunehmen“. Abschnitt a beschreibt nur den heutigen Zustand und den Zerfall, ohne Prognose."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt bezeichnet die Autorin eine gesetzliche Maßnahme als wenig wirkungsvoll?",
+        "loesung": "d",
+        "erklaerung": "In d: Das Verbot „wirkt … eher wie ein Signal als wie eine echte Lösung“, weil die großen Quellen unberührt bleiben."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt empfiehlt die Autorin ein Gerät für den eigenen Haushalt?",
+        "loesung": "e",
+        "erklaerung": "In e: Filter für die Waschmaschine – „Wer sich ein solches Gerät anschafft, leistet einen … Beitrag“. In b werden Waschgänge nur als Quelle genannt."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt warnt die Autorin sowohl vor Übertreibung als auch vor Verharmlosung?",
+        "loesung": "c",
+        "erklaerung": "In c: „sollte man sich vor zwei Fehlern hüten“ – Panikmache und Verharmlosung."
+      }
+    ]
+  },
+  {
+    "id": "lv2_06",
+    "teil": "lv2",
+    "titel": "Genschere auf dem Acker",
+    "thema": "biotechnologie",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1+",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "Seit Jahren wird in Europa darüber gestritten, wie mit Pflanzen umzugehen ist, deren Erbgut mithilfe sogenannter neuer genomischer Techniken verändert wurde. Die bekannteste dieser Methoden ist die Genschere CRISPR/Cas, mit der sich einzelne Abschnitte der DNA gezielt verändern lassen, ohne dass fremdes Erbgut eingebaut werden muss. Bislang fallen solche Pflanzen in der Europäischen Union unter dieselben strengen Regeln wie klassische Gentechnik: Sie müssen ein aufwendiges Zulassungsverfahren durchlaufen und gekennzeichnet werden. Neu entfacht wurde die Debatte, als Pläne bekannt wurden, einen Teil dieser Pflanzen künftig ähnlich zu behandeln wie herkömmliche Züchtungen. Seitdem melden sich Verbände, Unternehmen, Wissenschaftlerinnen und Umweltorganisationen nahezu täglich zu Wort, und die Positionen könnten kaum weiter auseinanderliegen. Für die einen geht es um die Zukunft der Ernährung, für die anderen um den Schutz der Natur vor unkalkulierbaren Eingriffen. Eine Entscheidung auf europäischer Ebene steht noch aus, doch ihr Ausgang wird die Landwirtschaft auf Jahrzehnte hinaus prägen."
+      },
+      {
+        "b": "b",
+        "text": "Die Befürworter einer Lockerung argumentieren vor allem mit dem Klimawandel. Längere Dürreperioden, neue Schädlinge und extreme Wetterereignisse setzten der Landwirtschaft schon heute stark zu. Mit herkömmlicher Züchtung dauere es oft zehn Jahre und länger, bis eine widerstandsfähigere Sorte marktreif sei – Zeit, die man angesichts der Entwicklung schlicht nicht habe. Die Genschere ermögliche es dagegen, gezielt einzelne Eigenschaften zu verbessern, etwa die Toleranz gegenüber Trockenheit oder die Resistenz gegen Pilzkrankheiten. Dadurch ließen sich auch Pflanzenschutzmittel einsparen, was letztlich der Umwelt zugutekomme. Zudem, so ein häufig vorgebrachtes Argument, seien viele der so erzeugten Veränderungen von natürlichen Mutationen gar nicht zu unterscheiden. Es sei deshalb unlogisch, sie strenger zu regulieren als Pflanzen, deren Erbgut man früher mit Strahlung oder Chemikalien zufällig verändert habe. Auch die europäische Forschung, so die Befürworter, könne im internationalen Wettbewerb nur bestehen, wenn sie ihre Ergebnisse hier in die Praxis bringen dürfe."
+      },
+      {
+        "b": "c",
+        "text": "Wer die Debatte schon länger verfolgt, dem kommen manche dieser Argumente bekannt vor. Bereits in den Neunzigerjahren versprachen Befürworter der damaligen Gentechnik, mit neuen Sorten den Hunger in der Welt zu besiegen, den Einsatz von Pestiziden drastisch zu verringern und die Landwirtschaft umweltfreundlicher zu machen. Damals wie heute wurde zudem betont, die Technik sei sicher, präzise und gut kontrollierbar. Eingelöst wurden diese Versprechen allenfalls teilweise. Auf den Feldern setzten sich vor allem Pflanzen durch, die gegen bestimmte Unkrautvernichtungsmittel resistent waren – und deren Anbau den Verbrauch dieser Mittel in manchen Regionen eher erhöhte als senkte. Pflanzen mit besonderem Nutzen für Kleinbauern in ärmeren Ländern blieben dagegen lange die Ausnahme. Daraus folgt nicht zwangsläufig, dass die neuen Techniken ebenso enttäuschen werden. Es mahnt aber zu einer gewissen Vorsicht gegenüber allzu großen Heilsversprechen."
+      },
+      {
+        "b": "d",
+        "text": "Die Gegner einer Lockerung verweisen neben möglichen ökologischen Risiken vor allem auf wirtschaftliche Fragen. Für ökologisch wirtschaftende Betriebe ist außerdem drängend, wie sie verhindern sollen, dass veränderte Pflanzen durch Pollenflug in ihre Felder gelangen. Viele der neuen Verfahren und Pflanzeneigenschaften sind durch Patente geschützt, die überwiegend bei wenigen großen Konzernen liegen. Landwirte, die solches Saatgut verwenden, müssten Lizenzgebühren zahlen und dürften einen Teil ihrer Ernte nicht einfach als Saatgut für das nächste Jahr zurückbehalten. Kleinere Züchtungsbetriebe wiederum befürchten, dass sie mit ihren eigenen Sorten nicht mehr frei arbeiten können, wenn darin patentierte Eigenschaften stecken. Diese Sorge ist keineswegs unbegründet. Wenn sich die Kontrolle über das Saatgut weiter auf wenige Unternehmen konzentriert, entstehen Abhängigkeiten, die weder im Interesse der Landwirte noch der Verbraucher liegen können. Hier besteht unabhängig von der Frage der Sicherheit dringender Regelungsbedarf, etwa durch klare Grenzen für die Patentierbarkeit von Pflanzeneigenschaften."
+      },
+      {
+        "b": "e",
+        "text": "Bemerkenswert an der Debatte ist nicht zuletzt ihre Sprache. Die einen sprechen von „Präzisionszüchtung“, als handle es sich um eine Art Feinmechanik, bei der nichts schiefgehen könne; die anderen warnen vor „Gentechnik durch die Hintertür“, als werde hier heimlich etwas eingeschmuggelt. Mit solchen Kampfbegriffen lässt sich zwar trefflich Stimmung machen, zur Klärung tragen sie allerdings wenig bei. Sinnvoller wäre es, nicht über die Technik als Ganzes zu urteilen, sondern über die einzelnen Pflanzen, die mit ihr erzeugt werden. Eine Kartoffel, die gegen eine Pilzkrankheit resistent ist, wirft andere Fragen auf als eine Pflanze, die große Mengen eines Herbizids verträgt. Jede neue Sorte sollte deshalb danach beurteilt werden, welche Eigenschaften sie hat und welche Folgen ihr Anbau voraussichtlich mit sich bringt. Eine verlässliche Kennzeichnung würde es Verbraucherinnen und Verbrauchern zudem ermöglichen, selbst zu entscheiden."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt macht sich der Autor über die Rhetorik beider Seiten lustig?",
+        "loesung": "e",
+        "erklaerung": "In e: Der Autor kommentiert ironisch die Begriffe beider Lager („als handle es sich um eine Art Feinmechanik“, „als werde hier heimlich etwas eingeschmuggelt“) und nennt sie „Kampfbegriffe“."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt erinnert der Autor an Versprechen, die sich früher nicht erfüllt haben?",
+        "loesung": "c",
+        "erklaerung": "In c: Gentechnik-Versprechen der Neunzigerjahre – „Eingelöst wurden diese Versprechen allenfalls teilweise“."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt erklärt der Autor, wodurch die gegenwärtige Diskussion ausgelöst wurde?",
+        "loesung": "a",
+        "erklaerung": "In a: „Neu entfacht wurde die Debatte, als Pläne bekannt wurden …“ – das ist der Anlass."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt gibt der Autor die Begründungen derjenigen wieder, die strengere Regeln lockern wollen?",
+        "loesung": "b",
+        "erklaerung": "In b: „Die Befürworter einer Lockerung argumentieren …“; der Konjunktiv („setzten zu“, „ermögliche“, „sei“) zeigt die fremde Meinung."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt schließt sich der Autor einer Befürchtung der Kritiker an?",
+        "loesung": "d",
+        "erklaerung": "In d gibt der Autor zuerst die Sorge wegen der Patente wieder und sagt dann selbst: „Diese Sorge ist keineswegs unbegründet.“ In c bleibt er skeptisch, übernimmt aber keine Befürchtung der Gegner."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt plädiert der Autor dafür, jede Sorte gesondert zu bewerten?",
+        "loesung": "e",
+        "erklaerung": "In e: „Jede neue Sorte sollte deshalb danach beurteilt werden, welche Eigenschaften sie hat …“."
+      }
+    ]
+  },
+  {
+    "id": "lv2_07",
+    "teil": "lv2",
+    "titel": "Warum so wenige Frauen Informatik studieren",
+    "thema": "gleichberechtigung_diversitaet",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1+",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "Seit Jahrzehnten bemühen sich Politik, Hochschulen und Unternehmen darum, mehr Frauen für Mathematik, Informatik, Naturwissenschaften und Technik zu begeistern. Die Erfolge sind bescheiden: In Fächern wie Informatik, Elektrotechnik oder Maschinenbau stellen Frauen an deutschen Hochschulen nach wie vor eine deutliche Minderheit. Ihr Anteil ist in den letzten zwanzig Jahren zwar gestiegen, aber nur sehr langsam. Für Aufsehen sorgte vor einigen Jahren eine viel zitierte internationale Studie, die eine scheinbar paradoxe Beobachtung machte. Ausgerechnet in Ländern, die bei der Gleichstellung der Geschlechter besonders weit sind, entschieden sich vergleichsweise wenige Frauen für technische Studiengänge – weniger jedenfalls als in manchen Ländern mit deutlich geringerer Gleichberechtigung. Die Autoren der Studie folgerten daraus, dass Frauen in wohlhabenden, freien Gesellschaften eher ihren tatsächlichen Interessen folgten, während in ärmeren Ländern ein gut bezahlter technischer Beruf vor allem wirtschaftliche Sicherheit verspreche. Diese These wurde seither in unzähligen Zeitungsartikeln aufgegriffen und von manchen als Beleg dafür gedeutet, dass Fördermaßnahmen überflüssig seien."
+      },
+      {
+        "b": "b",
+        "text": "So eingängig diese Deutung ist, so wenig überzeugt sie bei näherer Betrachtung. Zunächst einmal zeigt die Studie lediglich einen statistischen Zusammenhang zwischen zwei Größen; über Ursache und Wirkung sagt sie nichts aus. Dass Frauen in reichen Ländern ihren „wahren“ Interessen folgen, ist eine Interpretation, keine Messung. Schwerer wiegt, dass ein entscheidender Faktor in der Analyse kaum eine Rolle spielt: die Frage, wie technische Berufe in den jeweiligen Ländern wahrgenommen werden. Wo Informatik als männliche Domäne gilt, in der man nächtelang allein vor dem Bildschirm sitzt, werden sich auch Frauen mit großem Talent eher für etwas anderes entscheiden. Interessen entstehen nicht im luftleeren Raum, sondern werden durch Vorbilder, Erwartungen und Bilder geprägt. Spätere Nachuntersuchungen kamen zudem je nach Auswahl der Daten und Berechnungsweise zu teils deutlich abweichenden Ergebnissen. Und schließlich betrachtete die Studie nur die Wahl des Studienfachs, nicht aber, wie viele Frauen später tatsächlich in technischen Berufen arbeiten."
+      },
+      {
+        "b": "c",
+        "text": "Wie wandelbar solche Bilder sind, zeigt ein Blick in die Geschichte. In den Anfangsjahren der Computertechnik galt das Programmieren keineswegs als Männersache. Im Gegenteil: Es wurde häufig als eine Art Büroarbeit betrachtet, vergleichbar mit dem Bedienen einer Schreibmaschine, und daher bevorzugt Frauen übertragen. Erst als sich herausstellte, wie anspruchsvoll und wichtig diese Tätigkeit ist, und als mit ihr Ansehen und Gehälter stiegen, drängten zunehmend Männer in das Feld. Mit der Verbreitung von Heimcomputern, die vor allem als Spielzeug für Jungen vermarktet wurden, verfestigte sich schließlich das Bild vom männlichen Computerexperten. Dass sich Geschlechterverhältnisse auch in die andere Richtung verschieben können, zeigen wiederum Fächer wie Medizin, Biologie oder Pharmazie. Dort, wo früher Männer klar in der Überzahl waren, studieren inzwischen mehr Frauen als Männer."
+      },
+      {
+        "b": "d",
+        "text": "Wichtige Weichen werden bereits in der Schule gestellt. Untersuchungen zeigen, dass Mädchen ihre eigenen Fähigkeiten in Mathematik und Physik häufig niedriger einschätzen als Jungen, selbst wenn ihre Noten gleich gut oder sogar besser sind. Dieses geringere Selbstvertrauen wirkt sich auf die Wahl der Leistungskurse aus und damit indirekt auch auf die spätere Studienwahl. Eine Rolle spielen dabei auch die Erwartungen der Erwachsenen. Eltern trauen ihren Töchtern technische Berufe oft weniger zu als ihren Söhnen, und auch Lehrkräfte loben bei Mädchen eher Fleiß, bei Jungen dagegen eher Begabung. Solche kleinen Unterschiede in der Rückmeldung summieren sich über die Schuljahre. Hinzu kommt, dass in Schulbüchern lange Zeit fast ausschließlich männliche Forscher und Erfinder abgebildet wurden, sodass Mädchen kaum weibliche Vorbilder kennenlernten. Auch außerhalb der Schule wirken solche Muster fort: Spielzeug, Werbung und Fernsehserien zeigen technische Tätigkeiten bis heute überwiegend in Männerhänden."
+      },
+      {
+        "b": "e",
+        "text": "Was folgt daraus für die Förderung? Viele Hochschulen setzen bislang auf Aktionstage, an denen Schülerinnen einen Vormittag lang Labore besuchen, Roboter programmieren oder mit Studentinnen sprechen können. Solche Veranstaltungen sind gut gemeint und machen den Teilnehmerinnen meist Spaß. An der grundsätzlichen Entscheidung ändern sie jedoch erfahrungsgemäß wenig, denn ein einzelner Tag kann kaum aufwiegen, was über viele Jahre an Bildern und Erwartungen entstanden ist. Wirksamer wären langfristig angelegte Programme, etwa Mentoring über mehrere Jahre, ein Unterricht, der technische Themen mit gesellschaftlichen Fragen verbindet, und eine bewusst gestaltete Lernkultur, in der Fehler erlaubt sind. Erste Erfahrungen mit Studiengängen, die Informatik mit Medizin oder Umweltwissenschaften verbinden, deuten darauf hin, dass solche Angebote deutlich mehr Frauen ansprechen. Auch die Hochschulen selbst sind gefragt: Wenn Studiengänge ihre Inhalte und ihr Selbstbild nicht verändern, werden sie auch künftig vor allem diejenigen anziehen, die schon immer kamen."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt zeigt die Autorin, dass ein Tätigkeitsfeld früher ganz anders bewertet wurde?",
+        "loesung": "c",
+        "erklaerung": "In c: Programmieren galt anfangs „keineswegs als Männersache“, sondern als Büroarbeit für Frauen."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt stellt die Autorin eine aufsehenerregende These wieder?",
+        "loesung": "a",
+        "erklaerung": "In a: „Für Aufsehen sorgte … eine viel zitierte internationale Studie“; die Autorin gibt deren These wieder („Die Autoren der Studie folgerten daraus …“). In b wird diese These kritisiert, nicht vorgestellt."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt hält die Autorin kurzfristige Aktionen für wenig wirksam?",
+        "loesung": "e",
+        "erklaerung": "In e: Aktionstage „ändern … erfahrungsgemäß wenig“, denn „ein einzelner Tag kann kaum aufwiegen …“."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt bemängelt die Autorin, dass eine Untersuchung einen wichtigen Aspekt vernachlässigt?",
+        "loesung": "b",
+        "erklaerung": "In b: „Schwerer wiegt, dass ein entscheidender Faktor in der Analyse kaum eine Rolle spielt“ – das Bild technischer Berufe. Abschnitt d nennt Forschungsergebnisse, kritisiert aber keine Studie."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt erwähnt die Autorin Studienfächer, in denen sich das Verhältnis der Geschlechter umgekehrt hat?",
+        "loesung": "c",
+        "erklaerung": "In c: In Medizin, Biologie und Pharmazie „studieren inzwischen mehr Frauen als Männer“, obwohl früher Männer in der Überzahl waren."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt weist die Autorin darauf hin, dass ein statistischer Zusammenhang noch keine Ursache beweist?",
+        "loesung": "b",
+        "erklaerung": "In b: „zeigt die Studie lediglich einen statistischen Zusammenhang …; über Ursache und Wirkung sagt sie nichts aus“."
+      }
+    ]
+  },
+  {
+    "id": "lv2_08",
+    "teil": "lv2",
+    "titel": "Studieren ohne Dach über dem Kopf",
+    "thema": "wohnen_stadt",
+    "bezug": false,
+    "pruefung": 1,
+    "niveau": "C1",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "Der Semesterbeginn ist in vielen Universitätsstädten inzwischen ein Ereignis mit festem Ritual. Erstsemester reisen mit Rollkoffer und Zulassungsbescheid an, nur um festzustellen, dass ihnen zum Studium noch eine Kleinigkeit fehlt: eine Wohnung. Zu den Besichtigungen eines Zwölf-Quadratmeter-Zimmers erscheinen dreißig Bewerberinnen und Bewerber, die sich höflich im Treppenhaus anstellen wie vor einem angesagten Club. Wer Glück hat, darf anschließend ein Motivationsschreiben verfassen, in dem er seine Ordnungsliebe und seine Begeisterung für gemeinsames Kochen darlegt. Die Glücklichen, die schließlich einen Mietvertrag unterschreiben, zahlen dafür nicht selten mehr als die Hälfte ihres monatlichen Budgets. Wer kein Glück hat, beginnt die akademische Laufbahn auf dem Sofa von Bekannten, in einer Jugendherberge oder – in manchen Städten – in einer eigens eingerichteten Notunterkunft in der Turnhalle. Man könnte meinen, die Hochschulen wollten ihren Studierenden schon in der ersten Woche beibringen, was Frustrationstoleranz bedeutet. Ein Lernziel, das in keiner Studienordnung steht."
+      },
+      {
+        "b": "b",
+        "text": "Dass sich die Lage in den vergangenen Jahren so zugespitzt hat, hat mehrere Ursachen. Zum einen ist die Zahl der Studierenden über lange Zeit deutlich gestiegen, während die Zahl der Wohnheimplätze kaum gewachsen ist. Viele Wohnheime stammen zudem aus den Sechziger- und Siebzigerjahren und müssen aufwendig saniert werden; während der Bauarbeiten fallen Plätze vorübergehend weg. Zum anderen konkurrieren Studierende auf dem freien Wohnungsmarkt mit anderen Gruppen, die ebenfalls kleine und günstige Wohnungen suchen: mit Auszubildenden, Berufseinsteigern, Rentnerinnen mit kleiner Rente und Alleinstehenden. Weil in den großen Städten über viele Jahre zu wenig gebaut wurde, sind die Mieten gerade für kleine Wohnungen besonders stark gestiegen. Hinzu kommt, dass Wohnungen in beliebten Lagen zunehmend als möblierte Kurzzeitunterkünfte oder Ferienwohnungen vermietet werden, weil sich damit mehr verdienen lässt. Für Studierende, die oft nur über ein schmales Budget verfügen, ist die Suche damit zum Glücksspiel geworden. Viele Eltern, die selbst noch für wenig Geld in einer Wohngemeinschaft gelebt haben, können sich diese Lage kaum vorstellen."
+      },
+      {
+        "b": "c",
+        "text": "Die Studierendenwerke, die in Deutschland einen großen Teil der Wohnheime betreiben, schlagen seit Langem Alarm. Ihr Dachverband fordert ein gemeinsames Bund-Länder-Programm, mit dem in den kommenden Jahren Zehntausende zusätzlicher Wohnheimplätze geschaffen und bestehende Gebäude saniert werden sollen. Die Mieten in diesen Wohnheimen müssten sich, so der Verband, an der staatlichen Studienförderung orientieren, damit auch Studierende aus einkommensschwachen Familien sich ein Studium in einer teuren Stadt leisten könnten. Es dürfe nicht vom Geldbeutel der Eltern abhängen, an welcher Hochschule jemand studiere. Zudem verlangt der Verband, dass Grundstücke in öffentlicher Hand bevorzugt für studentisches Wohnen bereitgestellt werden. Ein Sprecher des Verbands verwies außerdem darauf, dass internationale Studierende besonders betroffen seien, weil sie oft aus dem Ausland suchen müssten und keine Bürgschaften vorlegen könnten. Nur so lasse sich verhindern, dass die Wohnungsnot zu einem Hindernis für Bildungsgerechtigkeit werde."
+      },
+      {
+        "b": "d",
+        "text": "Ein Teil des Problems ist jedoch hausgemacht. Viele Städte haben sich jahrelang damit gebrüstet, Wissenschaftsstandort zu sein, und neue Studiengänge und Forschungsinstitute angesiedelt – ohne gleichzeitig dafür zu sorgen, dass die zusätzlichen Menschen auch wohnen können. Freie Flächen wurden lieber an Investoren verkauft, die dort hochpreisige Eigentumswohnungen oder sogenannte Mikroapartments errichteten, deren Miete sich kaum eine Studentin leisten kann. Ehemalige Kasernen, Bahngelände oder leer stehende Bürogebäude hätten sich vielerorts für bezahlbares Wohnen geeignet, wurden aber anders genutzt oder blieben jahrelang ungenutzt. Diese Versäumnisse lassen sich nicht allein mit knappen Kassen erklären; es fehlte schlicht an politischem Willen. Wer heute die Wohnungsnot beklagt, sollte deshalb auch einen Blick in die eigenen Ratsprotokolle werfen. Manche Kommunen haben zwar inzwischen umgesteuert und eigene Programme aufgelegt, doch was über Jahre versäumt wurde, lässt sich nicht innerhalb weniger Monate nachholen."
+      },
+      {
+        "b": "e",
+        "text": "Neben dem Neubau gibt es auch kreativere Ansätze. In mehreren Städten vermitteln Initiativen sogenannte Wohnpartnerschaften: Ältere Menschen, die allein in einer zu großen Wohnung leben, stellen Studierenden ein Zimmer zur Verfügung. Statt Miete zu zahlen, helfen die jungen Leute im Haushalt, gehen einkaufen, kümmern sich um den Garten oder leisten einfach Gesellschaft. Als Faustregel gilt eine Stunde Hilfe pro Monat für jeden Quadratmeter Wohnfläche. Ähnliche Projekte gibt es auch zwischen Studierenden und Familien mit kleinen Kindern oder Menschen mit Behinderung. Beide Seiten berichten häufig von positiven Erfahrungen, und manche Wohnpartnerschaften entwickeln sich zu echten Freundschaften. Man sollte die Wirkung solcher Modelle allerdings nicht überschätzen. Sie setzen viel Vertrauen und Organisation voraus und eignen sich längst nicht für alle Studierenden. Zahlenmäßig fallen sie kaum ins Gewicht – den fehlenden Wohnraum können sie nicht ersetzen, bestenfalls ergänzen."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt wirft der Autor den Kommunen vor, Möglichkeiten nicht genutzt zu haben?",
+        "loesung": "d",
+        "erklaerung": "In d: „Ein Teil des Problems ist jedoch hausgemacht“, Flächen „hätten sich … geeignet, wurden aber anders genutzt“, „es fehlte schlicht an politischem Willen“. In c fordert ein Verband etwas, macht aber keine Vorwürfe an die Städte."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt beschreibt der Autor die Situation mit Ironie?",
+        "loesung": "a",
+        "erklaerung": "In a: „nur um festzustellen, dass ihnen … noch eine Kleinigkeit fehlt: eine Wohnung“ und „was Frustrationstoleranz bedeutet“ – das ist ironisch gemeint."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt relativiert der Autor den Nutzen eines vorgestellten Modells?",
+        "loesung": "e",
+        "erklaerung": "In e: „Man sollte die Wirkung solcher Modelle allerdings nicht überschätzen“ – sie können Wohnraum „bestenfalls ergänzen“."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt gibt der Autor die Vorschläge einer Interessenvertretung wieder?",
+        "loesung": "c",
+        "erklaerung": "In c: Der Dachverband der Studierendenwerke „fordert“ ein Bund-Länder-Programm; Konjunktiv I („müssten“, „dürfe“, „lasse“) zeigt die fremde Meinung."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt erklärt der Autor, warum es zu wenig günstigen Wohnraum für Studierende gibt?",
+        "loesung": "b",
+        "erklaerung": "In b nennt der Autor Ursachen: mehr Studierende, kaum mehr Wohnheimplätze, Konkurrenz mit anderen Gruppen, zu wenig Neubau. In d geht es um Vorwürfe an die Städte, nicht um eine allgemeine Erklärung."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt stellt der Autor eine ungewöhnliche Form des Zusammenlebens vor?",
+        "loesung": "e",
+        "erklaerung": "In e: Wohnpartnerschaften zwischen älteren Menschen und Studierenden – Hilfe statt Miete."
+      }
+    ]
+  },
+  {
+    "id": "lv2_09",
+    "teil": "lv2",
+    "titel": "Wenn Antibiotika nicht mehr wirken",
+    "thema": "gesundheit",
+    "bezug": true,
+    "pruefung": 2,
+    "niveau": "C1",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "Es gehört zu den großen Glücksfällen der Wissenschaftsgeschichte, dass in den Zwanzigerjahren des vergangenen Jahrhunderts eine Bakterienkultur in einem Labor verdarb. Ein Schimmelpilz hatte sich darauf ausgebreitet, und rund um den Pilz waren die Bakterien abgestorben. Aus dieser Zufallsbeobachtung entstand nach Jahren mühsamer Forschung das Penicillin, das erste in großem Maßstab eingesetzte Antibiotikum. Seine Wirkung war spektakulär. Für die Entdeckung und Weiterentwicklung wurden später mehrere Forscher mit dem Nobelpreis ausgezeichnet. Krankheiten wie Lungenentzündung, Wundinfektionen oder Kindbettfieber, an denen zuvor unzählige Menschen gestorben waren, ließen sich plötzlich innerhalb weniger Tage heilen. In den folgenden Jahrzehnten wurden zahlreiche weitere Wirkstoffe entdeckt, und viele Ärzte waren überzeugt, dass Infektionskrankheiten bald keine große Rolle mehr spielen würden. Ohne Antibiotika wären auch viele Errungenschaften der modernen Medizin undenkbar, von Organtransplantationen über Chemotherapien bis hin zu künstlichen Hüft- und Kniegelenken."
+      },
+      {
+        "b": "b",
+        "text": "Diese Zuversicht hat sich als trügerisch erwiesen, und der Grund dafür ist ein Grundprinzip der Biologie: die Evolution. Bakterien vermehren sich unter günstigen Bedingungen extrem schnell, und bei jeder Zellteilung können zufällige Veränderungen im Erbgut entstehen. Manche dieser Veränderungen machen ein Bakterium unempfindlich gegen ein bestimmtes Antibiotikum. Ein Bakterium, das eine solche Veränderung trägt, gibt sie bei jeder Teilung an seine Nachkommen weiter. Man kann sich den Vorgang vorstellen wie ein Unkrautvernichtungsmittel auf einem Feld: Es tötet fast alle Pflanzen, doch die wenigen, die zufällig widerstandsfähig sind, überleben, haben plötzlich viel Platz und breiten sich ungehindert aus. Genau so setzen sich bei jeder Behandlung die resistenten Bakterien durch. Hinzu kommt, dass Bakterien Erbinformationen untereinander austauschen können – sogar zwischen verschiedenen Arten. Eine Resistenz, die in einem harmlosen Darmbakterium entstanden ist, kann so auf einen gefährlichen Krankheitserreger übergehen."
+      },
+      {
+        "b": "c",
+        "text": "Je häufiger Antibiotika eingesetzt werden, desto schneller verläuft diese Entwicklung. In der Humanmedizin werden sie immer noch zu oft verschrieben, etwa bei Erkältungen, die in den allermeisten Fällen durch Viren verursacht werden und gegen die Antibiotika gar nichts ausrichten. Auch Patientinnen und Patienten tragen ihren Teil bei, wenn sie in der Praxis auf ein Rezept drängen. Noch problematischer ist allerdings der Einsatz in der Tierhaltung. In großen Mastbetrieben, in denen Tausende Tiere auf engem Raum leben, werden Medikamente oft nicht einzelnen kranken Tieren gegeben, sondern dem ganzen Bestand über Futter oder Trinkwasser. Dass dabei auch Wirkstoffe zum Einsatz kommen, die in der Humanmedizin als letzte Reserve gelten, ist schlicht unverantwortlich. Die Haltungsbedingungen selbst, die Krankheiten erst begünstigen, werden auf diese Weise nicht verbessert, sondern nur medikamentös abgesichert. In manchen Ländern werden Antibiotika sogar noch als Wachstumsförderer eingesetzt, was in der Europäischen Union seit Langem verboten ist. Hier sind strengere Regeln längst überfällig."
+      },
+      {
+        "b": "d",
+        "text": "Eigentlich müssten Pharmaunternehmen angesichts dieser Lage mit Hochdruck an neuen Antibiotika forschen. Tatsächlich ist das Gegenteil der Fall: Viele große Konzerne haben sich aus diesem Bereich weitgehend zurückgezogen. Der Grund ist wirtschaftlicher Natur. Die Entwicklung eines neuen Wirkstoffs dauert viele Jahre und kostet enorme Summen. Ein neues Antibiotikum soll aber, um Resistenzen zu vermeiden, möglichst selten eingesetzt werden – als Reserve für Notfälle. Zudem nimmt man es meist nur wenige Tage lang ein, anders als Medikamente gegen chronische Krankheiten, die über Jahre verkauft werden. Für Unternehmen lohnt sich die Investition deshalb kaum. Der Gesundheitsökonom Prof. Jens Albrecht von der Universität Lindenberg schlägt daher ein anderes Vergütungsmodell vor: Staaten sollten Herstellern einen festen jährlichen Betrag für die Bereitstellung eines Reserveantibiotikums zahlen, unabhängig davon, wie viele Packungen tatsächlich verkauft würden. Ähnlich wie bei einem Abonnement wäre die Forschung damit finanziell abgesichert."
+      },
+      {
+        "b": "e",
+        "text": "Geschieht nichts, droht eine Zukunft, in der eine einfache Blasenentzündung oder eine kleine Verletzung wieder lebensgefährlich werden kann. Schon heute sterben nach Schätzungen von Gesundheitsorganisationen weltweit jedes Jahr sehr viele Menschen an Infektionen mit resistenten Keimen, und diese Zahl dürfte weiter steigen. Routineeingriffe wie Kaiserschnitte oder Blinddarmoperationen würden zu einem erheblichen Risiko. Doch nicht nur Politik und Industrie sind gefragt. Deshalb zum Schluss eine Bitte an Sie, liebe Leserinnen und Leser: Verlangen Sie beim Arzt kein Antibiotikum, wenn er es nicht für nötig hält, und nehmen Sie ein verschriebenes Mittel genau so lange ein, wie es verordnet wurde – auch wenn Sie sich schon nach zwei Tagen besser fühlen. Übrig gebliebene Tabletten gehören nicht in die Toilette, sondern in den Hausmüll oder zurück in die Apotheke. Und auch der Biologieunterricht kann einen Beitrag leisten: Wer in der Schule verstanden hat, wie Resistenzen entstehen, geht später bewusster mit Medikamenten um."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt gibt die Autorin die Idee eines Wissenschaftlers zur Finanzierung wieder?",
+        "loesung": "d",
+        "erklaerung": "In d: „Der Gesundheitsökonom … schlägt daher ein anderes Vergütungsmodell vor“; der Konjunktiv („sollten zahlen“, „würden“) zeigt die fremde Meinung."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt macht die Autorin einen biologischen Prozess durch einen Vergleich verständlich?",
+        "loesung": "b",
+        "erklaerung": "In b: „Man kann sich den Vorgang vorstellen wie ein Unkrautvernichtungsmittel auf einem Feld“ – so wird die Auslese resistenter Bakterien erklärt."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt wendet sich die Autorin mit einer Bitte direkt an ihr Publikum?",
+        "loesung": "e",
+        "erklaerung": "In e: „eine Bitte an Sie, liebe Leserinnen und Leser“ – mit Imperativen („Verlangen Sie …“, „nehmen Sie …“)."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt verurteilt die Autorin die Verwendung von Medikamenten in der Fleischproduktion?",
+        "loesung": "c",
+        "erklaerung": "In c: Der Einsatz von Reserveantibiotika in der Tiermast sei „schlicht unverantwortlich“; „strengere Regeln längst überfällig“."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt erläutert die Autorin, warum sich die Entwicklung neuer Präparate für Firmen kaum lohnt?",
+        "loesung": "d",
+        "erklaerung": "In d: lange, teure Entwicklung, aber seltener und kurzer Einsatz – „Für Unternehmen lohnt sich die Investition deshalb kaum“."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt warnt die Autorin davor, dass harmlose Infektionen wieder tödlich werden könnten?",
+        "loesung": "e",
+        "erklaerung": "In e: „droht eine Zukunft, in der eine einfache Blasenentzündung … wieder lebensgefährlich werden kann“. Abschnitt a beschreibt nur die Vergangenheit vor den Antibiotika."
+      }
+    ]
+  },
+  {
+    "id": "lv2_10",
+    "teil": "lv2",
+    "titel": "Vier Tage arbeiten, drei Tage frei?",
+    "thema": "arbeitswelt",
+    "bezug": false,
+    "pruefung": 3,
+    "niveau": "C1",
+    "abschnitte": [
+      {
+        "b": "a",
+        "text": "„Weniger arbeiten, mehr schaffen“, „Das Ende der Fünftagewoche“, „Glückliche Mitarbeiter, zufriedene Chefs“ – so oder ähnlich lauteten in den vergangenen Monaten die Schlagzeilen, nachdem die Ergebnisse eines Pilotprojekts zur Viertagewoche veröffentlicht worden waren. Mehrere Dutzend Unternehmen hatten ein halbes Jahr lang ausprobiert, ob ihre Beschäftigten bei gleichem Lohn in vier statt fünf Tagen dieselbe Arbeit erledigen können. In vielen Kommentaren klang es so, als sei damit eine der großen Fragen der Arbeitswelt endgültig beantwortet. Auch in Talkshows und sozialen Netzwerken wurde das Thema mit großer Begeisterung aufgegriffen. Ganz so einfach ist es allerdings nicht. Wer die Berichterstattung verfolgt hat, konnte mitunter den Eindruck gewinnen, es gehe weniger um eine nüchterne Auswertung als um die Bestätigung eines Wunschbildes. Diesem Eindruck möchte ich mich nicht anschließen, so sympathisch die Idee auch sein mag. Es lohnt sich vielmehr, die Ergebnisse genauer anzusehen, bevor man daraus weitreichende Schlüsse zieht."
+      },
+      {
+        "b": "b",
+        "text": "Zunächst zu den Ergebnissen selbst. Begleitet wurde das Projekt von einem Forschungsteam, das die Beschäftigten vor, während und nach der Testphase befragt hat. Die Teilnehmenden gaben an, sich deutlich weniger gestresst und erschöpft zu fühlen; viele berichteten außerdem, dass sie besser schliefen und mehr Zeit für Familie, Sport oder ehrenamtliche Tätigkeiten hätten. Besonders positiv äußerten sich Beschäftigte mit kleinen Kindern, die den zusätzlichen freien Tag für Arztbesuche, Behördengänge oder gemeinsame Zeit nutzten. Auch die Zahl der Krankheitstage ging im Testzeitraum zurück. Die Unternehmen meldeten überwiegend, dass Umsatz und Produktivität stabil geblieben seien. Um das zu erreichen, hatten viele Betriebe ihre Abläufe umgestellt: Besprechungen wurden gekürzt oder abgeschafft, feste Zeiten für konzentriertes Arbeiten eingeführt und überflüssige Berichte gestrichen. Die große Mehrheit der beteiligten Firmen kündigte an, das Modell auch nach dem Ende des Projekts beizubehalten, einige davon sogar dauerhaft."
+      },
+      {
+        "b": "c",
+        "text": "So erfreulich diese Zahlen klingen, ihre Aussagekraft ist begrenzt. Das beginnt bei der Auswahl der Teilnehmer. Die Unternehmen wurden nicht zufällig ausgewählt, sondern haben sich freiwillig gemeldet. Es liegt nahe, dass sich vor allem Firmen beteiligten, die ohnehin von dem Modell überzeugt waren und deren Arbeitsabläufe sich gut darauf umstellen lassen – häufig kleinere Betriebe aus der Software-, Beratungs- oder Marketingbranche. Zudem beruhen viele Ergebnisse auf Selbstauskünften. Hinzu kommt, dass einige Firmen während des Projekts externe Beratung in Anspruch nahmen, die bei der Umstellung half – eine Unterstützung, die im Alltag nicht jedem Betrieb zur Verfügung steht. Wer weiß, dass von seinen Antworten abhängt, ob er auch künftig einen freien Tag pro Woche hat, wird kaum angeben, dass er sich überfordert fühlt. Schließlich war der Testzeitraum mit sechs Monaten recht kurz. Ob sich die anfängliche Begeisterung hält, wenn der zusätzliche freie Tag zur Gewohnheit geworden ist, lässt sich daraus noch nicht ablesen."
+      },
+      {
+        "b": "d",
+        "text": "Hinzu kommt eine Frage, die in der Debatte bislang erstaunlich selten gestellt wird: Für wen ist die Viertagewoche überhaupt realistisch? In vielen Berufen hängt die Arbeit nicht davon ab, wie effizient man Besprechungen organisiert, sondern davon, dass Menschen vor Ort sind. Eine Pflegekraft kann ihre Patientinnen nicht in vier Tagen versorgen, die Busfahrerin ihre Strecke nicht verdichten, der Lehrer seinen Unterricht nicht einfach kürzen. In solchen Bereichen würde eine Viertagewoche bei gleichem Lohn zusätzliches Personal erfordern, das schon heute fehlt. Es besteht daher die Gefahr, dass sich die Arbeitswelt weiter spaltet: in Beschäftigte mit Büroarbeitsplatz, die sich über mehr Freizeit freuen dürfen, und in jene, die weiterhin fünf Tage oder im Schichtdienst arbeiten und die Lücken auffangen müssen. Eine solche Entwicklung würde die ohnehin bestehenden Unterschiede zwischen Berufsgruppen noch verschärfen."
+      },
+      {
+        "b": "e",
+        "text": "Folgt daraus, dass die Viertagewoche eine Illusion ist? Keineswegs. Die Erfahrungen zeigen durchaus, dass in vielen Büros mehr Zeit mit überflüssigen Abläufen verloren geht, als man meinen würde. Sinnvoller als ein starres Einheitsmodell für alle wäre es jedoch, Arbeitszeit flexibler zu gestalten. Manche Beschäftigte wünschen sich vier lange Tage, andere lieber fünf kürzere, wieder andere möchten je nach Lebensphase mal mehr und mal weniger arbeiten – etwa wenn Kinder klein sind oder Angehörige gepflegt werden müssen. Erste Unternehmen experimentieren bereits mit Arbeitszeitkonten, auf denen Beschäftigte Stunden ansparen und später flexibel abbauen können. Unternehmen und Tarifpartner sollten Modelle entwickeln, die solche Unterschiede berücksichtigen, und dabei auch die Berufe im Blick behalten, in denen Präsenz unverzichtbar ist. Die Frage sollte also nicht lauten, ob wir künftig vier oder fünf Tage arbeiten, sondern wie viel Spielraum jede und jeder Einzelne bekommt."
+      }
+    ],
+    "aussagen": [
+      {
+        "nr": 1,
+        "text": "In welchem Abschnitt grenzt sich der Autor von einer begeisterten Darstellung in den Medien ab?",
+        "loesung": "a",
+        "erklaerung": "In a: Schlagzeilen und Kommentare wirken wie „die Bestätigung eines Wunschbildes“ – „Diesem Eindruck möchte ich mich nicht anschließen“."
+      },
+      {
+        "nr": 2,
+        "text": "In welchem Abschnitt nennt der Autor Berufe, für die das Modell kaum geeignet ist?",
+        "loesung": "d",
+        "erklaerung": "In d: Pflegekraft, Busfahrerin, Lehrer – dort hängt die Arbeit davon ab, „dass Menschen vor Ort sind“."
+      },
+      {
+        "nr": 3,
+        "text": "In welchem Abschnitt bezweifelt der Autor, dass die Ergebnisse wirklich verallgemeinert werden können?",
+        "loesung": "c",
+        "erklaerung": "In c: „ihre Aussagekraft ist begrenzt“ – freiwillige Auswahl, Selbstauskünfte, kurzer Zeitraum. Abschnitt b berichtet die Ergebnisse nur, ohne sie zu bewerten."
+      },
+      {
+        "nr": 4,
+        "text": "In welchem Abschnitt spricht sich der Autor für Arbeitszeiten aus, die sich an Lebensphasen anpassen lassen?",
+        "loesung": "e",
+        "erklaerung": "In e: „Sinnvoller als ein starres Einheitsmodell … wäre es, Arbeitszeit flexibler zu gestalten“, „je nach Lebensphase“."
+      },
+      {
+        "nr": 5,
+        "text": "In welchem Abschnitt befürchtet der Autor eine Spaltung zwischen verschiedenen Gruppen von Beschäftigten?",
+        "loesung": "d",
+        "erklaerung": "In d: „Es besteht daher die Gefahr, dass sich die Arbeitswelt weiter spaltet“ – Büroberufe gegen Berufe mit Präsenzpflicht."
+      },
+      {
+        "nr": 6,
+        "text": "In welchem Abschnitt vermutet der Autor, warum sich gerade bestimmte Firmen an dem Versuch beteiligten?",
+        "loesung": "c",
+        "erklaerung": "In c: „Es liegt nahe, dass sich vor allem Firmen beteiligten, die ohnehin von dem Modell überzeugt waren“. Abschnitt b nennt nur, was die Firmen umgestellt haben, nicht warum sie teilnahmen."
+      }
+    ]
+  }
+]
