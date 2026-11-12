@@ -432,22 +432,37 @@ async function viewMehr() {
 }
 
 // Dropbox-Anmeldung per Code (für die Home-Bildschirm-App: Redirect würde in Safari landen)
-async function dropboxCodeFlow() {
-  let url;
-  try { url = await dropbox.startAuth({ manual: true }); } catch (e) { return toast(e.message); }
+async function dropboxCodeFlow(fresh = false) {
+  // Offene Anmeldung (max. 2 Std. alt) wiederverwenden – so passt der Code auch, wenn die Zulassung
+  // auf einem anderen Gerät erfolgt und man zwischendurch die App gewechselt hat.
+  let pending = fresh ? null : await db.kvGet("dbx.pendingUrl");
+  const pkce = await db.kvGet("dbx.pkce");
+  if (!pending || !pkce || Date.now() - pending.t > 2 * 3600e3) {
+    try { pending = { url: await dropbox.startAuth({ manual: true }), t: Date.now() }; } catch (e) { return toast(e.message); }
+    await db.kvSet("dbx.pendingUrl", pending);
+  }
+  const url = pending.url;
   const inp = h("input", { type: "text", placeholder: "Code hier einfügen", autocomplete: "off", autocapitalize: "off", spellcheck: false });
+  const share = async () => {
+    try {
+      if (navigator.share) return await navigator.share({ title: "Dropbox-Freigabe für die C1-App", url });
+    } catch (e) { if (e.name === "AbortError") return; }
+    try { await navigator.clipboard.writeText(url); toast("Link kopiert"); } catch (_) { toast("Kopieren nicht möglich"); }
+  };
   const body = h("div",
-    h("ol.small",
-      h("li", "Auf „Dropbox öffnen“ tippen, anmelden und „Zulassen“ wählen."),
-      h("li", "Den angezeigten Code kopieren."),
-      h("li", "Hierher zurückkehren, den Code einfügen und „Verbinden“ tippen.")),
+    h("p.small", h("strong", "Auf diesem Gerät bei Dropbox angemeldet?")),
     h("a.btn.wide", { href: url, target: "_blank", rel: "noopener" }, "Dropbox öffnen ↗"),
-    inp);
+    h("p.small", h("strong", "Dropbox-Konto gehört jemand anderem?"), " Link teilen (z. B. per AirDrop oder Nachricht). Die andere Person öffnet ihn auf ihrem Gerät, tippt „Zulassen“ und schickt dir den Code zurück."),
+    h("button.btn.wide", { onclick: share }, "🔗 Link teilen"),
+    h("p.small.muted", "Den Code dann hier einfügen und „Verbinden“ tippen. Der Link bleibt 2 Stunden gültig, auch wenn du diesen Dialog schließt."),
+    inp,
+    h("button.btn.ghost.small", { onclick: () => { document.querySelector(".modal-wrap")?.remove(); dropboxCodeFlow(true); } }, "Neuen Link erzeugen"));
   const res = await modal("Mit Dropbox verbinden", body, [{ label: "Abbrechen", value: false }, { label: "Verbinden", value: true, primary: true }]);
   const code = inp.value.trim();
   if (!res || !code) return;
   try {
     await dropbox.finishManualCode(code);
+    await db.kvDel("dbx.pendingUrl");
     toast("✓ Mit Dropbox verbunden");
     await sync.run();
   } catch (e) { toast(e.message); }
