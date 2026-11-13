@@ -3,6 +3,13 @@
     "id": "konnektoren",
     "titel": "Konnektoren und Satzverbindungen",
     "kurz": "Konnektoren verbinden Sätze und zeigen die **logische Beziehung**: Grund, Folge, Gegensatz, Bedingung, Zeit, Mittel. Entscheidend ist die **Wortstellung danach**:\n\n- **Subjunktionen** (weil, obwohl, sofern, indem, wohingegen …) leiten einen Nebensatz ein → **Verb am Ende**.\n- **Adverbien** (deshalb, trotzdem, infolgedessen, allerdings …) stehen oft auf Position 1 → **danach sofort das Verb**.\n- **Konjunktionen** (und, aber, denn, sondern, oder) stehen auf „Position 0“ → die Wortstellung ändert sich nicht.\n- **Zweiteilige Konnektoren** gehören fest zusammen: **sowohl … als auch**, **weder … noch**, **entweder … oder**, **zwar … aber**, **je … desto**, **nicht nur … sondern auch**.\n\nPrüfen Sie bei jeder Lücke zuerst die Wortstellung (wo steht das Verb?), dann die Bedeutung (passt die Logik zum Satz davor?).",
+    "uebersicht": [
+      "Nach **weil, obwohl, dass, wenn, sofern, indem** steht das Verb **am Ende**.",
+      "Nach **deshalb, trotzdem, dennoch, folglich** auf Position 1 kommt **sofort das Verb**.",
+      "**und, aber, oder, denn, sondern** ändern die Wortstellung **nicht**.",
+      "Nach **wegen, trotz, aufgrund** folgt kein Satz, sondern ein **Nomen im Genitiv**.",
+      "Zweiteilige Konnektoren immer als Paar lernen: **sowohl … als auch, weder … noch, zwar … aber, je … desto**."
+    ],
     "tabelle": [
       [
         "Bedeutung",
@@ -54,11 +61,20 @@
       ]
     ],
     "beispiele": [
+      "Viele Studierende arbeiten neben dem Studium, **weil** die Mieten so hoch sind.",
+      "Die Mieten sind hoch. **Deshalb** arbeiten viele Studierende neben dem Studium.",
+      "Viele Laubbäume werfen im Herbst ihre Blätter ab, **denn** so verlieren sie im Winter weniger Wasser.",
+      "Der Versuch dauerte länger als geplant, **sodass** die Pause ausfallen musste.",
       "**Obwohl** die Stichprobe klein ist, liefert die Studie wichtige Hinweise.",
       "Die Stichprobe ist klein. **Trotzdem** liefert die Studie wichtige Hinweise.",
+      "Die Mieten in der Stadt steigen, **wohingegen** sie auf dem Land stabil bleiben.",
+      "**Sofern** die Unterlagen vollständig sind, wird der Antrag innerhalb von vier Wochen bearbeitet.",
+      "Melden Sie sich bis Freitag an, **andernfalls** verlieren Sie Ihren Prüfungsplatz.",
       "Sie erklärt die Fotosynthese, **indem** sie einen Versuch durchführt.",
+      "Die Lehrerin zeigt Mikroskopbilder, **damit** die Schüler den Aufbau der Zelle besser verstehen.",
       "**Je** länger man schläft, **desto** besser kann man sich konzentrieren.",
-      "Die Mieten in der Stadt steigen, **wohingegen** sie auf dem Land stabil bleiben."
+      "Für die Anerkennung braucht man **sowohl** das Abschlusszeugnis **als auch** einen Nachweis über die Studieninhalte.",
+      "Die Methode ist **zwar** aufwendig, **aber** sie liefert sehr genaue Ergebnisse."
     ],
     "falle": "Typische Falle in den Sprachbausteinen: Alle vier Optionen haben eine ähnliche Bedeutung (z. B. „obwohl / trotzdem / trotz / dennoch“), aber nur eine passt zur **Wortstellung**. Steht das Verb am Ende, brauchen Sie eine Subjunktion; folgt direkt das Verb, ein Adverb; folgt ein Nomen im Genitiv, eine Präposition. Achten Sie außerdem auf die Richtung: „deshalb“ (Folge) und „nämlich/denn“ (Grund) werden oft verwechselt."
   },
@@ -66,62 +82,96 @@
     "id": "praepositionen",
     "titel": "Präpositionen (besonders mit Genitiv)",
     "kurz": "Präpositionen bestimmen den **Kasus** des folgenden Nomens. In C1-Texten kommen viele **Genitiv-Präpositionen** aus der Schriftsprache vor: **aufgrund, angesichts, infolge, hinsichtlich, bezüglich, mithilfe, zwecks, mangels, ungeachtet, innerhalb, außerhalb, anstelle, zugunsten, während, trotz, wegen**.\n\nEinige stehen **nach** dem Nomen: **zufolge** (+ D), **gegenüber** (+ D), **entgegen** (+ D), **zuliebe** (+ D): *Studien zufolge …*\n\nWechselpräpositionen (**in, an, auf, über, unter, vor, hinter, neben, zwischen**) stehen mit **Dativ** (Wo?) oder **Akkusativ** (Wohin?).\n\nViele Präpositionen sind Teil **fester Wendungen**: *in der Regel, im Voraus, auf Kosten + G, von Anfang an, rund um, gegen Ende*. Diese lernt man am besten als Ganzes.\n\nTipp: Prüfen Sie zuerst die **Endung** des Artikels oder Adjektivs nach der Lücke – sie verrät oft schon den Kasus und schließt falsche Optionen aus.",
+    "uebersicht": [
+      "Nach **wegen, trotz, während, aufgrund, angesichts, innerhalb, mithilfe, mangels, statt** steht der **Genitiv**.",
+      "Nach **aus, bei, mit, nach, seit, von, zu, gegenüber** steht immer der **Dativ**.",
+      "Nach **durch, für, gegen, ohne, um, bis** steht immer der **Akkusativ**.",
+      "**in, an, auf, über, unter, vor, hinter, neben, zwischen**: Wo? → **Dativ**, Wohin? → **Akkusativ**.",
+      "**zufolge** (+ Dativ) steht **nach** dem Nomen: *der Studie zufolge*."
+    ],
     "tabelle": [
       [
-        "Bedeutung",
-        "Präposition",
         "Kasus",
+        "Bedeutung",
+        "Präpositionen",
         "Beispiel"
       ],
       [
+        "Genitiv",
         "Grund",
         "aufgrund, angesichts, infolge, wegen",
-        "G",
         "angesichts der Kosten"
       ],
       [
-        "fehlender Grund",
-        "mangels",
-        "G",
-        "mangels einer Einigung"
-      ],
-      [
+        "Genitiv",
         "Gegensatz",
         "trotz, ungeachtet",
-        "G",
         "trotz des Regens"
       ],
       [
+        "Genitiv",
         "Mittel",
         "mithilfe, mittels, anhand",
-        "G",
         "mithilfe einer Software"
       ],
       [
-        "Ziel",
-        "zwecks",
-        "G",
-        "zwecks besserer Betreuung"
-      ],
-      [
-        "Zeit",
-        "während, innerhalb, binnen",
-        "G (binnen auch D)",
+        "Genitiv",
+        "Zeit / Ort",
+        "während, innerhalb, außerhalb",
         "innerhalb einer Woche"
       ],
       [
+        "Genitiv",
+        "sonstige",
+        "mangels, zwecks, statt / anstelle, bezüglich, hinsichtlich",
+        "mangels einer Einigung"
+      ],
+      [
+        "Dativ",
+        "immer Dativ",
+        "aus, bei, mit, nach, seit, von, zu, gegenüber, zufolge (nachgestellt)",
+        "seit dem Umzug, der Studie zufolge"
+      ],
+      [
+        "Akkusativ",
+        "immer Akkusativ",
+        "durch, für, gegen, ohne, um, bis",
+        "für den Antrag"
+      ],
+      [
+        "Dativ",
+        "Wo? (Ort)",
+        "in, an, auf, über, unter, vor, hinter, neben, zwischen",
+        "auf dem Tisch"
+      ],
+      [
+        "Akkusativ",
+        "Wohin? (Richtung)",
+        "in, an, auf, über, unter, vor, hinter, neben, zwischen",
+        "auf den Tisch"
+      ],
+      [
+        "Genitiv / Dativ",
         "Quelle",
-        "laut (G/D), zufolge (D, nachgestellt)",
-        "G/D",
-        "der Studie zufolge"
+        "laut",
+        "laut einer Umfrage"
       ]
     ],
     "beispiele": [
-      "**Angesichts** der steigenden Mieten suchen viele Studierende ein Wohnheimzimmer.",
-      "**Mangels** einer Einigung wurde die Sitzung vertagt.",
-      "Neuen Studien **zufolge** verbessert Schlaf das Lernen.",
-      "Die Unterlagen müssen **innerhalb** einer Woche eingereicht werden.",
-      "Sie arbeitete **während** ihres Studiums als Tutorin."
+      "**Angesichts der steigenden Mieten** suchen viele Studierende ein Zimmer im Wohnheim **neben dem Campus**.",
+      "**Wegen eines Streiks** fuhr kein Bus, doch **trotz der Verspätung** durfte sie die Prüfung noch schreiben.",
+      "Sie arbeitete **während ihres Studiums** als Tutorin und leitete manchmal **statt ihrer Professorin** das Seminar.",
+      "**Aufgrund der hohen Nachfrage** muss man sich **innerhalb einer Woche** anmelden.",
+      "**Mangels eines Mikroskops** untersuchen die Schüler die Blätter **mithilfe einer Lupe**.",
+      "**Neuen Studien zufolge** verbessert ausreichender Schlaf das Lernen.",
+      "**Seit einem Jahr** wohnt sie **bei einer Gastfamilie** und fährt **mit dem Fahrrad** **zur Hochschule**.",
+      "**Nach dem Praktikum** bekam er **von einer Schule** **aus der Region** ein Stellenangebot.",
+      "Wir treffen uns **um 14 Uhr** **vor dem Raum** **gegenüber dem Sekretariat**.",
+      "**Für die Anmeldung** brauchen Sie **bis Freitag** eine Kopie Ihres Zeugnisses; **ohne diese Kopie** ist keine Teilnahme möglich.",
+      "**Durch den Klimawandel** blühen viele Pflanzen früher; Umweltverbände kämpfen **gegen den Verlust** von Lebensräumen.",
+      "Legen Sie das Präparat **auf den Objekttisch** (Wohin? → Akk.). Jetzt liegt es **auf dem Objekttisch** (Wo? → Dat.).",
+      "Wir hängen das Poster **an die Wand** (Wohin? → Akk.). Jetzt hängt es **an der Wand** (Wo? → Dat.).",
+      "**Im Biologieraum** stehen die Mikroskope **zwischen den Fenstern**, **über der Tafel** hängt eine Uhr, die Kittel hängen **hinter der Tür**, und **unter dem Waschbecken** steht ein Eimer."
     ],
     "falle": "Typische Falle in den Sprachbausteinen: Zwei Präpositionen passen inhaltlich, aber nur eine passt zum **Kasus** (z. B. „seit“ + Dativ vs. „während“ + Genitiv: *während der Bauarbeiten*). Oder alle passen grammatisch, aber nur eine ergibt **logisch** Sinn: „trotz“ (Gegensatz) vs. „wegen“ (Grund) vs. „dank“ (positiver Grund)."
   },
@@ -129,6 +179,13 @@
     "id": "rektion",
     "titel": "Rektion: Verben, Nomen und Adjektive mit fester Präposition",
     "kurz": "Viele Verben, Nomen und Adjektive verlangen eine **feste Präposition** mit festem Kasus. Diese Verbindungen muss man **als Einheit lernen** – die Logik hilft oft nicht: *sich interessieren **für***, aber *Interesse **an***.\n\n**Pronominaladverbien** ersetzen „Präposition + Sache“ oder kündigen einen Nebensatz an: **da(r) + Präposition** → *darauf, daran, davon, dafür, darüber, damit*.\n\n- *Ich warte **auf** die Antwort.* → *Ich warte **darauf**, dass …*\n- Fragewort: **wo(r) + Präposition** → *Worauf wartest du?*\n- Bei Personen: Präposition + Pronomen → *Ich warte **auf sie**.*\n\nIn Relativsätzen steht die Präposition **vor** dem Relativpronomen: *die Fähigkeiten, **auf die** der Unterricht aufbaut*.\n\nTipp: Lernen Sie immer **Verb + Präposition + Kasus** zusammen (*abhängen von + D*) und schreiben Sie einen eigenen Beispielsatz dazu.",
+    "uebersicht": [
+      "Verb + Präposition + Kasus **immer zusammen lernen**: *abhängen **von + D***.",
+      "Sachen: **da(r) + Präposition** (*darauf, davon*); Personen: **Präposition + Pronomen** (*auf sie*).",
+      "Fragen nach Sachen: **wo(r) + Präposition** (*Worauf? Wovon?*).",
+      "Das **r** kommt nur vor einem Vokal: *dar-auf, wor-an*, aber *da-mit, wo-für*.",
+      "Im Relativsatz steht die Präposition **vor** dem Relativpronomen: *das Thema, **mit dem** …*"
+    ],
     "tabelle": [
       [
         "Verb/Nomen/Adjektiv",
@@ -179,14 +236,38 @@
         "sich bewusst sein / bedürfen",
         "+ Genitiv",
         "–"
+      ],
+      [
+        "sich erinnern / denken",
+        "an + A",
+        "daran"
+      ],
+      [
+        "Angst haben / sich fürchten",
+        "vor + D",
+        "davor"
+      ],
+      [
+        "das Interesse (Nomen)",
+        "an + D",
+        "daran"
       ]
     ],
     "beispiele": [
-      "Der Erfolg hängt maßgeblich **von** der Finanzierung ab.",
-      "Viele Fischarten sind **auf** die Riffe angewiesen.",
+      "Der Erfolg hängt maßgeblich **von der Finanzierung** ab.",
+      "Im Seminar beschäftigen wir uns **mit der Evolutionstheorie**.",
+      "Sie nimmt **an einem Fortbildungskurs** für Lehrkräfte teil.",
+      "Die Schüler beschweren sich **über die vielen Hausaufgaben**.",
+      "Ich interessiere mich besonders **für Zellbiologie**.",
+      "Viele Fischarten sind **auf die Riffe** angewiesen.",
+      "Die Lehrerin ist **mit den Ergebnissen** der Klasse sehr zufrieden.",
+      "Das **Interesse an Naturwissenschaften** ist bei Mädchen in den letzten Jahren gestiegen.",
       "Studien deuten **darauf** hin, dass Vorbilder helfen.",
       "Wir setzen uns **dafür** ein, dass Alternativmethoden anerkannt werden.",
-      "Für eine Reform **bedarf** es politischer Entscheidungen."
+      "**Worauf** muss ich bei der Bewerbung achten?",
+      "Wartest du auf die Antwort? – Ja, ich warte **darauf**. Wartest du auf Frau Kim? – Ja, ich warte **auf sie**.",
+      "Das ist das Thema, **mit dem** ich mich in meiner Masterarbeit beschäftige.",
+      "Für eine Reform **bedarf es politischer Entscheidungen**."
     ],
     "falle": "Typische Falle in den Sprachbausteinen: Die Optionen sind vier Präpositionen oder vier Pronominaladverbien (*darauf / daran / dafür / worauf*). Nur eine passt zum Verb im Satz – oft steht das Verb erst **am Satzende** (*Die Ergebnisse deuten ___ hin*). Lesen Sie deshalb immer bis zum Verb, bevor Sie wählen. „wo(r)-“-Formen passen nur in Fragen oder Relativsätzen."
   },
@@ -194,6 +275,13 @@
     "id": "nomen_verb",
     "titel": "Nomen-Verb-Verbindungen",
     "kurz": "Eine **Nomen-Verb-Verbindung** besteht aus einem Nomen (oft mit Präposition) und einem Verb, das seine eigene Bedeutung fast verloren hat: *eine Entscheidung **treffen*** = entscheiden. Sie sind typisch für **formelle, schriftliche Texte** und kommen in den Sprachbausteinen sehr häufig vor.\n\nDas Verb ist **nicht austauschbar**: Man *stellt* einen Antrag, aber man *trifft* eine Entscheidung und *zieht* etwas *in Betracht*. Deshalb muss man diese Verbindungen als **feste Einheiten** lernen.\n\nHäufige Verben: **stellen, nehmen, bringen, kommen, treten, ziehen, treffen, finden, halten, tragen, leisten, stehen, setzen**.\n\nOft gibt es eine **aktive** und eine **passive** Variante:\n- *zur Diskussion **stellen*** (aktiv) – *zur Diskussion **stehen*** (passiv)\n- *in Gang **bringen*** – *in Gang **kommen***\n\nTipp: Notieren Sie Nomen-Verb-Verbindungen immer mit dem einfachen Verb daneben (*in Erwägung ziehen = erwägen*).",
+    "uebersicht": [
+      "Das **Verb** ist fest und nicht austauschbar: *eine Entscheidung **treffen*** (nicht *machen*).",
+      "Die Bedeutung steckt im **Nomen**: *in Betracht ziehen = erwägen*.",
+      "Aktiv und passiv: **stellen ↔ stehen**, **bringen ↔ kommen** (*zur Verfügung stellen – zur Verfügung stehen*).",
+      "Nomen-Verb-Verbindungen sind typisch für **formelle Texte** (Behörde, Hochschule, Wissenschaft).",
+      "Mit Präposition und Kasus lernen: *Rücksicht nehmen **auf + A***."
+    ],
     "tabelle": [
       [
         "Nomen-Verb-Verbindung",
@@ -238,14 +326,35 @@
       [
         "eine Rolle spielen",
         "wichtig sein"
+      ],
+      [
+        "in Gang bringen / kommen",
+        "starten / beginnen"
+      ],
+      [
+        "zur Sprache bringen / kommen",
+        "ansprechen / besprochen werden"
+      ],
+      [
+        "Zustimmung / Anerkennung finden",
+        "zugestimmt / anerkannt werden"
       ]
     ],
     "beispiele": [
-      "Die neue Prüfungsordnung **tritt** im Oktober **in Kraft**.",
+      "Der Prüfungsausschuss **trifft** nächste Woche **eine Entscheidung** über die Anerkennung.",
+      "Sie hat **einen Antrag auf** Anerkennung **gestellt**.",
       "Die Kommission **zieht** einen zweiten Standort **in Betracht**.",
-      "Sie hat einen **Antrag auf** Anerkennung **gestellt**.",
+      "Die neue Prüfungsordnung **tritt** im Oktober **in Kraft**.",
+      "Im Labor **stehen** 30 Mikroskope **zur Verfügung**.",
+      "Die Hochschule **stellt** den Studierenden kostenlose Software **zur Verfügung**.",
       "Die Ministerin **nahm** zu den Vorwürfen **Stellung**.",
-      "Im Labor **stehen** 30 Mikroskope **zur Verfügung**."
+      "Bei der Planung des Ausflugs **nimmt** die Lehrerin **Rücksicht auf** Kinder mit Allergien.",
+      "Die neuen Messdaten **stellen** die bisherige Theorie **in Frage**.",
+      "Das Förderprogramm soll die Digitalisierung der Schulen **in Gang bringen** – bisher **kommt** sie nur langsam **in Gang**.",
+      "Das Konzept **trägt** den unterschiedlichen Lernvoraussetzungen der Kinder **Rechnung**.",
+      "Bei der Fotosynthese **spielt** das Chlorophyll **eine zentrale Rolle**.",
+      "Die neue Unterrichtsmethode **fand** im Kollegium große **Zustimmung**.",
+      "In der Sitzung **kam** auch die Ausstattung der Labore **zur Sprache**."
     ],
     "falle": "Typische Falle in den Sprachbausteinen: Alle vier Verben sind häufige „Funktionsverben“ (*stellen, nehmen, ziehen, bringen*), aber nur eines bildet mit dem Nomen eine feste Verbindung. Ähnliche Verbindungen werden gern gemischt: *in Frage **stellen*** vs. *in Betracht **ziehen***, *zur Sprache **kommen*** vs. *zur Verfügung **stehen***."
   },
@@ -253,6 +362,14 @@
     "id": "passiv",
     "titel": "Passiv und Passiversatz",
     "kurz": "Im **Passiv** ist nicht wichtig, **wer** etwas tut, sondern **was** passiert. Es ist typisch für wissenschaftliche Texte.\n\n- **Vorgangspassiv:** *werden* + Partizip II → *Die Daten **werden** ausgewertet.*\n- **Perfekt Passiv:** *sein* + Partizip II + **worden** (nicht *geworden*!) → *Das Labor **ist** renoviert **worden**.*\n- **Mit Modalverb:** Modalverb + Partizip II + *werden* → *Der Antrag **muss** eingereicht **werden**.*\n- **Zustandspassiv:** *sein* + Partizip II → *Die Bibliothek **ist** geschlossen.* (Ergebnis)\n- **Unpersönliches Passiv** (ohne Subjekt) → Verb im Singular: *Hier **wird** nicht geraucht.*\n\n**Passiversatz** (sehr häufig in den Sprachbausteinen):\n- **sich lassen + Infinitiv** → *Das Problem **lässt sich** lösen.* (= kann gelöst werden)\n- **sein + zu + Infinitiv** → *Die Frage **ist** schwer **zu** beantworten.* (= kann/muss beantwortet werden)\n- **Adjektiv auf -bar/-lich** → *Die Ergebnisse sind **vergleichbar**.*\n\nDer Handelnde steht mit **von + Dativ**, das Mittel mit **durch + Akkusativ**.",
+    "uebersicht": [
+      "Vorgangspassiv: **werden + Partizip II** (*wird geprüft, wurde geprüft*).",
+      "Perfekt Passiv: **ist/sind + Partizip II + worden** – nie *geworden*.",
+      "Mit Modalverb: **muss/kann + Partizip II + werden**.",
+      "Ohne Subjekt (z. B. bei *helfen*) steht das Verb im **Singular**: *Ihnen **wird** geholfen.*",
+      "Passiversatz: **sich lassen + Infinitiv** (ohne *zu*), **sein + zu + Infinitiv**, Adjektiv auf **-bar**.",
+      "Person: **von + Dativ**; Mittel: **durch + Akkusativ**."
+    ],
     "tabelle": [
       [
         "Form",
@@ -273,6 +390,16 @@
         "Perfekt",
         "ist/sind + P II + worden",
         "Das Gebäude ist renoviert worden."
+      ],
+      [
+        "Plusquamperfekt",
+        "war/waren + P II + worden",
+        "Die Proben waren vorher gekühlt worden."
+      ],
+      [
+        "Zustandspassiv",
+        "ist/sind + P II",
+        "Die Mensa ist geschlossen."
       ],
       [
         "mit Modalverb",
@@ -296,11 +423,20 @@
       ]
     ],
     "beispiele": [
-      "Befragt **wurden** rund 3.000 Schülerinnen und Schüler.",
-      "Das Labor **ist** von über 15.000 Jugendlichen besucht **worden**.",
-      "Die Ergebnisse **lassen sich** nicht verallgemeinern.",
+      "Im Biologieunterricht **werden** die Blätter unter dem Mikroskop **untersucht**.",
+      "**Befragt wurden** rund 3.000 Schülerinnen und Schüler.",
+      "Das Labor **ist** von über 15.000 Jugendlichen **besucht worden**.",
+      "Der Antrag auf Anerkennung **muss** bis zum 30. Juni **eingereicht werden**.",
+      "Die Ergebnisse **konnten** in einer zweiten Studie **bestätigt werden**.",
+      "Die Mensa **ist** in den Semesterferien **geschlossen**.",
+      "Den neuen Kolleginnen **wird** bei der Einarbeitung **geholfen**.",
+      "Bei Starkregen **wird** Überschwemmungen **vorgebeugt**.",
+      "In der Bibliothek **wird** nicht **telefoniert**.",
+      "Die Klausuren werden **von der Lehrkraft** korrigiert; die Daten werden **durch eine Software** ausgewertet.",
+      "Die Ergebnisse **lassen sich** nicht **verallgemeinern**.",
       "Die Wechselwirkungen **sind** mit Organoiden nicht **zu erfassen**.",
-      "Bei Starkregen **wird** Überschwemmungen vorgebeugt."
+      "Die Unterlagen **sind** bis Freitag im Prüfungsamt **abzugeben**.",
+      "Der Effekt ist nur unter dem Mikroskop **sichtbar**."
     ],
     "falle": "Typische Falle in den Sprachbausteinen: „worden“ vs. „geworden“ (im Passiv immer *worden*), Singular vs. Plural beim Hilfsverb (Subjekt suchen!) und Verben mit Dativobjekt: *Den Studierenden **wird** geholfen* – hier gibt es kein Subjekt, deshalb Singular. Bei „sich lassen“ steht der Infinitiv **ohne** „zu“, bei „sein + zu“ **mit** „zu“."
   },
@@ -308,6 +444,13 @@
     "id": "konjunktiv",
     "titel": "Konjunktiv I und II",
     "kurz": "**Konjunktiv II** drückt **Irreales**, **Wünsche**, **Höflichkeit** und **Ratschläge** aus:\n- Gegenwart: *hätte, wäre, könnte, müsste* oder **würde + Infinitiv** → *Wenn ich Zeit **hätte**, **würde** ich kommen.*\n- Vergangenheit: **hätte/wäre + Partizip II** → *Wenn sie sich beworben **hätte**, **hätte** sie einen Platz **bekommen**.*\n- Ohne „wenn“: Verb an Position 1 → ***Hätte** sie früher angefangen, …*\n- Irrealer Vergleich: *als ob* + Verb am Ende oder **als** + Verb direkt danach → *als **wüsste** er nichts*.\n\n**Konjunktiv I** benutzt man für die **indirekte Rede** (Zeitungen, wissenschaftliche Texte):\n- Bildung: Infinitivstamm + Endung → *er habe, sie sei, es gebe, man werde*.\n- Vergangenheit: *habe/sei + Partizip II* → *Sie sagt, sie **habe** sich überfordert **gefühlt**.*\n- Wenn Konjunktiv I = Indikativ (*sie haben*), nimmt man **Konjunktiv II** (*sie **hätten***).\n\nTipp: In den Sprachbausteinen zeigt oft ein Verb des Sagens (*betont, erklärt, berichtet*) ohne „dass“ die indirekte Rede an.",
+    "uebersicht": [
+      "**Konjunktiv II** = nicht real: Wünsche, Bedingungen, Höflichkeit, Ratschläge.",
+      "Gegenwart: **hätte, wäre, könnte** oder **würde + Infinitiv**.",
+      "Vergangenheit: **hätte/wäre + Partizip II** (*hätte gemacht, wäre gefahren*).",
+      "**Konjunktiv I** = indirekte Rede: *er **sei**, sie **habe**, es **gebe***.",
+      "Ist Konjunktiv I gleich dem Indikativ (*sie haben*), nimmt man **Konjunktiv II** (*sie hätten*)."
+    ],
     "tabelle": [
       [
         "Verb",
@@ -350,14 +493,35 @@
         "wisse",
         "(wissen →) wüssten",
         "wüsste / wüssten"
+      ],
+      [
+        "müssen",
+        "müsse",
+        "(müssen →) müssten",
+        "müsste / müssten"
+      ],
+      [
+        "kommen",
+        "komme",
+        "(kommen →) kämen / würden kommen",
+        "käme / kämen"
       ]
     ],
     "beispiele": [
+      "Wenn ich mehr Zeit **hätte**, **würde** ich einen Fachsprachkurs **besuchen**.",
+      "Ohne diesen Schutz **würden** Stürme größere Schäden **anrichten**.",
+      "Wenn mein Abschluss doch schon anerkannt **wäre**!",
+      "**Könnten** Sie mir bitte sagen, wo das Prüfungsamt ist?",
+      "An Ihrer Stelle **würde** ich die Unterlagen möglichst früh **einreichen**.",
+      "Wenn sie sich früher **beworben hätte**, **hätte** sie einen Platz **bekommen**.",
+      "Wenn wir früher **losgefahren wären**, **wären** wir pünktlich **angekommen**.",
+      "**Hätten** die Städte früher gehandelt, **hätte** manches vermieden werden können.",
+      "Er tut so, **als ob** er nichts **wüsste** – oder kürzer: **als wüsste** er nichts.",
       "Die Studienleiterin betont, es **handle** sich nicht um Diskriminierung.",
       "Viele Befragte gaben an, Technik **sei** eher etwas für Jungen.",
-      "Ohne diesen Schutz **würden** Stürme größere Schäden anrichten.",
-      "Hätten die Städte früher gehandelt, **hätte** manches vermieden werden können.",
-      "**Könnten** Sie mir bitte sagen, wo das Prüfungsamt ist?"
+      "Der Minister erklärte, die Reform **werde** im nächsten Jahr **umgesetzt**.",
+      "Die Forscherin berichtet, sie **habe** die Proben zweimal **untersucht**.",
+      "Die Schüler sagen, sie **hätten** zu wenig Zeit für die Aufgaben."
     ],
     "falle": "Typische Falle in den Sprachbausteinen: Singular/Plural (*sei* vs. *seien*), das falsche Hilfsverb in der Vergangenheit (*hätte* bei „haben“-Verben, *wäre* bei „sein“-Verben) und Indikativ-Formen als Distraktor (*konnte* statt *könnte*, *hatte* statt *hätte*). Prüfen Sie: Ist die Situation irreal (→ Konjunktiv II) oder wird jemand zitiert (→ Konjunktiv I)?"
   }

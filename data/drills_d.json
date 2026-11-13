@@ -1,0 +1,1918 @@
+[
+  {
+    "id": "dr_konnektoren_d01",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Meine Anerkennung läuft noch; ___ darf ich bereits als Vertretungslehrkraft arbeiten.",
+    "optionen": [
+      "obwohl",
+      "trotzdem",
+      "trotz",
+      "deshalb"
+    ],
+    "loesung": 1,
+    "erklaerung": "Direkt nach der Lücke steht das Verb („darf“) → Adverb auf Position 1. „trotzdem“ zeigt einen Gegensatz. „obwohl“ bräuchte das Verb am Ende, „trotz“ ein Nomen im Genitiv, „deshalb“ passt inhaltlich nicht.",
+    "beispiel": "Der Kurs war schon sehr voll; **trotzdem** bekam ich noch einen Platz."
+  },
+  {
+    "id": "dr_konnektoren_d02",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Die Methode ist ___ aufwendig, liefert aber sehr genaue Ergebnisse.",
+    "optionen": [
+      "zwar",
+      "sowohl",
+      "entweder",
+      "weder"
+    ],
+    "loesung": 0,
+    "erklaerung": "Das Signal ist „aber“ im zweiten Teil → „zwar … aber“ (Einschränkung). „sowohl“ braucht „als auch“, „entweder“ braucht „oder“, „weder“ braucht „noch“.",
+    "beispiel": "Das Studium ist **zwar** anstrengend, **aber** es lohnt sich."
+  },
+  {
+    "id": "dr_konnektoren_d03",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Die Schülerinnen und Schüler verstanden weder die Fragestellung ___ die Grafik zur Fotosynthese.",
+    "optionen": [
+      "oder",
+      "noch",
+      "und",
+      "aber"
+    ],
+    "loesung": 1,
+    "erklaerung": "„weder“ verlangt immer „noch“: Beides wurde nicht verstanden. „oder“ gehört zu „entweder“; „und“ und „aber“ passen nicht zu „weder“.",
+    "beispiel": "Er hat **weder** angerufen **noch** eine E-Mail geschrieben."
+  },
+  {
+    "id": "dr_konnektoren_d04",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Je mehr Daten zur Verfügung stehen, ___ zuverlässiger wird das Modell.",
+    "optionen": [
+      "als",
+      "desto",
+      "wie",
+      "denn"
+    ],
+    "loesung": 1,
+    "erklaerung": "„je + Komparativ … desto + Komparativ“: Wenn das eine steigt, steigt auch das andere. Nach „desto + Komparativ“ folgt sofort das Verb. „als“ steht nur beim Vergleich („zuverlässiger als …“).",
+    "beispiel": "**Je** früher man mit der Vorbereitung beginnt, **desto** entspannter ist man in der Prüfung."
+  },
+  {
+    "id": "dr_konnektoren_d05",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Der Versuchsaufbau war fehlerhaft, ___ die Messung wiederholt werden musste.",
+    "optionen": [
+      "damit",
+      "sodass",
+      "deshalb",
+      "obwohl"
+    ],
+    "loesung": 1,
+    "erklaerung": "Folge + Verb am Ende → Subjunktion „sodass“ (konsekutiv). „deshalb“ ist ein Adverb, danach müsste das Verb direkt folgen („deshalb musste …“). „damit“ nennt ein Ziel, keine Folge.",
+    "beispiel": "Es regnete stark, **sodass** der Wandertag verschoben wurde."
+  },
+  {
+    "id": "dr_konnektoren_d06",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Die Dozentin erklärt die Aufgabe zweimal, ___ alle Teilnehmenden sie lösen können.",
+    "optionen": [
+      "damit",
+      "um",
+      "dafür",
+      "indem"
+    ],
+    "loesung": 0,
+    "erklaerung": "Ziel mit eigenem Subjekt („alle Teilnehmenden“) → „damit“ + Verb am Ende. „um“ geht nur mit „zu + Infinitiv“ und demselben Subjekt; „dafür“ ist ein Adverb.",
+    "beispiel": "Ich spreche langsam, **damit** mich alle verstehen."
+  },
+  {
+    "id": "dr_konnektoren_d07",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Viele Unternehmen investieren in Weiterbildung, ___ ihre Abläufe digitaler zu gestalten.",
+    "optionen": [
+      "damit",
+      "sodass",
+      "um",
+      "weil"
+    ],
+    "loesung": 2,
+    "erklaerung": "Ziel + „zu + Infinitiv“ (gleiches Subjekt: die Unternehmen) → „um … zu“. „damit“, „sodass“ und „weil“ brauchen einen Nebensatz mit konjugiertem Verb, keinen Infinitiv.",
+    "beispiel": "Sie lernt jeden Abend, **um** die Prüfung **zu** bestehen."
+  },
+  {
+    "id": "dr_konnektoren_d08",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "___ einer Erkrankung müssen Sie ein ärztliches Attest vorlegen.",
+    "optionen": [
+      "Falls",
+      "Im Falle",
+      "Sofern",
+      "Wenn"
+    ],
+    "loesung": 1,
+    "erklaerung": "Nach der Lücke steht ein Nomen im Genitiv („einer Erkrankung“), kein Verb → Präposition „im Falle + Genitiv“. „falls“, „sofern“ und „wenn“ sind Subjunktionen und brauchen einen Nebensatz.",
+    "beispiel": "**Im Falle** eines Feueralarms verlassen alle das Gebäude über die Treppe."
+  },
+  {
+    "id": "dr_konnektoren_d09",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Manche Hochschulen setzen auf Präsenzlehre, ___ andere vor allem Online-Formate anbieten.",
+    "optionen": [
+      "dagegen",
+      "jedoch",
+      "wohingegen",
+      "trotzdem"
+    ],
+    "loesung": 2,
+    "erklaerung": "Gegensatz + Verb am Ende („anbieten“) → Subjunktion „wohingegen“ (adversativ). „dagegen“, „jedoch“ und „trotzdem“ sind Adverbien; danach müsste das Verb direkt folgen („dagegen bieten andere …“).",
+    "beispiel": "Mein Bruder studiert Medizin, **wohingegen** ich mich für das Lehramt entschieden habe."
+  },
+  {
+    "id": "dr_konnektoren_d10",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "___ des Lehrkräftemangels werden Quereinsteiger dringend gesucht.",
+    "optionen": [
+      "Da",
+      "Deshalb",
+      "Weil",
+      "Aufgrund"
+    ],
+    "loesung": 3,
+    "erklaerung": "Nach der Lücke folgt ein Nomen im Genitiv („des Lehrkräftemangels“) → Präposition „aufgrund“. „da“ und „weil“ brauchen einen Nebensatz, „deshalb“ ist ein Adverb.",
+    "beispiel": "**Aufgrund** der hohen Nachfrage wurde ein zweiter Kurs eingerichtet."
+  },
+  {
+    "id": "dr_konnektoren_d11",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Die Fördermittel wurden gekürzt; ___ musste das Projekt verkleinert werden.",
+    "optionen": [
+      "folglich",
+      "sodass",
+      "weil",
+      "obwohl"
+    ],
+    "loesung": 0,
+    "erklaerung": "Nach der Lücke steht sofort das Verb („musste“) → Adverb auf Position 1. „folglich“ = als Folge davon. „sodass“ ist eine Subjunktion, dann müsste das Verb am Ende stehen.",
+    "beispiel": "Der Zug fiel aus; **folglich** kam ich zu spät zum Seminar."
+  },
+  {
+    "id": "dr_konnektoren_d12",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Das Experiment gelang, ___ die Bedingungen im Labor alles andere als ideal waren.",
+    "optionen": [
+      "trotzdem",
+      "dennoch",
+      "obgleich",
+      "zumal"
+    ],
+    "loesung": 2,
+    "erklaerung": "Gegensatz + Verb am Ende („waren“) → konzessive Subjunktion „obgleich“ (= obwohl). „trotzdem/dennoch“ sind Adverbien (Verb direkt danach). „zumal“ nennt einen zusätzlichen Grund – das passt inhaltlich nicht.",
+    "beispiel": "Er nahm an der Konferenz teil, **obgleich** er stark erkältet war."
+  },
+  {
+    "id": "dr_konnektoren_d13",
+    "kategorie": "konnektoren",
+    "niveau": "C1+",
+    "bezug": false,
+    "satz": "Die Klausur fiel vielen schwer, ___ sie kaum Zeit zur Vorbereitung gehabt hatten.",
+    "optionen": [
+      "obwohl",
+      "sodass",
+      "zumal",
+      "damit"
+    ],
+    "loesung": 2,
+    "erklaerung": "„zumal“ = besonders weil; es nennt einen zusätzlichen, verstärkenden Grund. „obwohl“ wäre ein Widerspruch: Wenig Zeit erklärt ja die Schwierigkeit.",
+    "beispiel": "Wir sollten früh losfahren, **zumal** auf der Autobahn Baustellen sind."
+  },
+  {
+    "id": "dr_konnektoren_d14",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Die Regeln wurden geändert, ___ die Studierenden informiert wurden.",
+    "optionen": [
+      "ohne dass",
+      "ohne",
+      "statt",
+      "anstatt zu"
+    ],
+    "loesung": 0,
+    "erklaerung": "Nebensatz mit eigenem Subjekt und Verb am Ende → „ohne dass“. „ohne“ allein steht mit Nomen (Akkusativ) oder mit „zu + Infinitiv“.",
+    "beispiel": "Er verließ den Raum, **ohne dass** es jemand bemerkte."
+  },
+  {
+    "id": "dr_konnektoren_d15",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Man kann Stärke nachweisen, ___ man Iodlösung auf eine Kartoffelscheibe tropft.",
+    "optionen": [
+      "indem",
+      "damit",
+      "sodass",
+      "um"
+    ],
+    "loesung": 0,
+    "erklaerung": "Frage „Wie? Auf welche Weise?“ → „indem“ (Mittel/Methode). „damit“ nennt ein Ziel, „sodass“ eine Folge; „um“ bräuchte „zu + Infinitiv“.",
+    "beispiel": "Man spart Energie, **indem** man die Heizung nachts herunterdreht."
+  },
+  {
+    "id": "dr_konnektoren_d16",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Die Kommission prüfte die Unterlagen nicht vollständig; ___ verwies sie auf eine fehlende Übersetzung.",
+    "optionen": [
+      "anstatt",
+      "statt dass",
+      "obwohl",
+      "stattdessen"
+    ],
+    "loesung": 3,
+    "erklaerung": "Nach der Lücke folgt sofort das Verb („verwies“) → Adverb „stattdessen“ (= an Stelle davon). „anstatt“ und „statt dass“ leiten einen Nebensatz ein (Verb am Ende).",
+    "beispiel": "Der Vortrag fiel aus; **stattdessen** gab es eine Diskussionsrunde."
+  },
+  {
+    "id": "dr_konnektoren_d17",
+    "kategorie": "konnektoren",
+    "niveau": "C1+",
+    "bezug": false,
+    "satz": "Viele Erstsemester können kaum eine Hausarbeit gliedern, ___ eine eigene Forschungsfrage entwickeln.",
+    "optionen": [
+      "sondern",
+      "als auch",
+      "weder",
+      "geschweige denn"
+    ],
+    "loesung": 3,
+    "erklaerung": "„geschweige denn“ = und noch viel weniger; es steht nach einer negativen oder einschränkenden Aussage („kaum“). „sondern“ braucht ein „nicht“ davor, „als auch“ braucht „sowohl“.",
+    "beispiel": "Ich kann kaum Italienisch lesen, **geschweige denn** einen Vortrag auf Italienisch halten."
+  },
+  {
+    "id": "dr_konnektoren_d18",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Nebensatz in eine Präpositionalgruppe um.",
+    "ausgang": "Obwohl die Mieten hoch sind, ziehen viele Studierende in die Großstädte.",
+    "vorgabe": "___ ziehen viele Studierende in die Großstädte.",
+    "loesung": "Trotz der hohen Mieten",
+    "akzeptiert": [
+      "Trotz hoher Mieten",
+      "Ungeachtet der hohen Mieten",
+      "Ungeachtet hoher Mieten"
+    ],
+    "erklaerung": "„obwohl“ (Konzession) → Präposition „trotz + Genitiv“. Das Adjektiv „hoch“ wird zum Attribut: „der hohen Mieten“.",
+    "beispiel": "**Trotz des schlechten Wetters** fand das Sportfest statt."
+  },
+  {
+    "id": "dr_konnektoren_d19",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Ergänzen Sie den zweiten Teil des Satzes mit derselben Bedeutung.",
+    "ausgang": "Wenn die Schülerinnen und Schüler häufiger selbst experimentieren, verstehen sie die Inhalte besser.",
+    "vorgabe": "Je häufiger die Schülerinnen und Schüler selbst experimentieren, ___.",
+    "loesung": "desto besser verstehen sie die Inhalte",
+    "akzeptiert": [
+      "umso besser verstehen sie die Inhalte"
+    ],
+    "erklaerung": "Zu „je + Komparativ“ gehört „desto“ oder „umso“ + Komparativ. Danach steht sofort das Verb, dann das Subjekt: „desto besser verstehen sie …“.",
+    "beispiel": "**Je** mehr man liest, **desto** größer wird der Wortschatz."
+  },
+  {
+    "id": "dr_konnektoren_d20",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die Sätze mit einer konzessiven Subjunktion.",
+    "ausgang": "Das Wetter war schlecht. Trotzdem fand die Exkursion ins Moor statt.",
+    "vorgabe": "Die Exkursion ins Moor fand statt, ___.",
+    "loesung": "obwohl das Wetter schlecht war",
+    "akzeptiert": [
+      "obgleich das Wetter schlecht war",
+      "wenngleich das Wetter schlecht war",
+      "obschon das Wetter schlecht war"
+    ],
+    "erklaerung": "Das Adverb „trotzdem“ wird zur Subjunktion „obwohl“ (auch: obgleich, wenngleich). Im Nebensatz steht das Verb am Ende: „… schlecht war“.",
+    "beispiel": "Sie kam zur Arbeit, **obwohl sie Fieber hatte**."
+  },
+  {
+    "id": "dr_konnektoren_d21",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie die Präpositionalgruppe in einen Nebensatz um.",
+    "ausgang": "Aufgrund der Erkrankung des Dozenten fällt die Vorlesung aus.",
+    "vorgabe": "Die Vorlesung fällt aus, ___.",
+    "loesung": "weil der Dozent erkrankt ist",
+    "akzeptiert": [
+      "da der Dozent erkrankt ist",
+      "weil der Dozent krank ist",
+      "da der Dozent krank ist"
+    ],
+    "erklaerung": "„aufgrund + Genitiv“ → „weil/da“ + Nebensatz. Das Nomen „Erkrankung“ wird zum Verb „erkrankt sein“; das Verb steht am Ende.",
+    "beispiel": "Die Bahn hat Verspätung, **weil ein Signal gestört ist**."
+  },
+  {
+    "id": "dr_konnektoren_d22",
+    "kategorie": "konnektoren",
+    "niveau": "B2+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie die Präpositionalgruppe in einen Finalsatz um.",
+    "ausgang": "Zur Förderung des wissenschaftlichen Nachwuchses vergibt die Stiftung Stipendien.",
+    "vorgabe": "___, vergibt die Stiftung Stipendien.",
+    "loesung": "Um den wissenschaftlichen Nachwuchs zu fördern",
+    "akzeptiert": [
+      "Damit der wissenschaftliche Nachwuchs gefördert wird"
+    ],
+    "erklaerung": "„zur + Nomen“ (Ziel) → „um … zu + Infinitiv“, weil das Subjekt gleich bleibt (die Stiftung). Mit „damit“ geht es auch, dann im Passiv.",
+    "beispiel": "**Um Geld zu sparen**, fährt sie mit dem Fahrrad zur Uni."
+  },
+  {
+    "id": "dr_konnektoren_d23",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die beiden Sätze zu einem Satz mit derselben Bedeutung.",
+    "ausgang": "Der Text war sehr kompliziert. Deshalb musste ich ihn dreimal lesen.",
+    "vorgabe": "Der Text war ___, dass ich ihn dreimal lesen musste.",
+    "loesung": "so kompliziert",
+    "akzeptiert": [
+      "derart kompliziert",
+      "dermaßen kompliziert"
+    ],
+    "erklaerung": "Konsekutiv mit zwei Teilen: „so + Adjektiv …, dass …“ (Folge). „so“ steht direkt vor dem Adjektiv; „sehr“ fällt weg.",
+    "beispiel": "Die Musik war **so** laut, **dass** wir uns nicht unterhalten konnten."
+  },
+  {
+    "id": "dr_konnektoren_d24",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Bedingungssatz ohne Konnektor um (Verb auf Position 1).",
+    "ausgang": "Wenn Sie Fragen haben, wenden Sie sich bitte an das Prüfungsamt.",
+    "vorgabe": "___, wenden Sie sich bitte an das Prüfungsamt.",
+    "loesung": "Haben Sie Fragen",
+    "akzeptiert": [
+      "Sollten Sie Fragen haben"
+    ],
+    "erklaerung": "Ein „wenn“-Satz kann ohne Konnektor stehen: Dann kommt das Verb auf Position 1 („Haben Sie …“). Sehr höflich und formell: „Sollten Sie Fragen haben“.",
+    "beispiel": "**Sollte** es regnen, fällt das Sportfest aus."
+  },
+  {
+    "id": "dr_konnektoren_d25",
+    "kategorie": "konnektoren",
+    "niveau": "C1",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die Sätze mit einem zweiteiligen Konnektor.",
+    "ausgang": "Die Fortbildung richtet sich an Berufseinsteiger. Sie richtet sich auch an erfahrene Lehrkräfte.",
+    "vorgabe": "Die Fortbildung richtet sich ___ an erfahrene Lehrkräfte.",
+    "loesung": "sowohl an Berufseinsteiger als auch",
+    "akzeptiert": [
+      "nicht nur an Berufseinsteiger sondern auch",
+      "nicht nur an Berufseinsteiger, sondern auch"
+    ],
+    "erklaerung": "Zwei Gruppen werden zusammen genannt → „sowohl … als auch“ oder „nicht nur …, sondern auch“. Die Präposition „an“ steht vor beiden Gruppen.",
+    "beispiel": "Das Buch ist **sowohl** für Studierende **als auch** für Lehrkräfte geeignet."
+  },
+  {
+    "id": "dr_passiv_d01",
+    "kategorie": "passiv",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Die Fragebögen ___ gerade von zwei Hilfskräften ausgewertet.",
+    "optionen": [
+      "werden",
+      "sind",
+      "haben",
+      "worden"
+    ],
+    "loesung": 0,
+    "erklaerung": "„gerade“ und „von zwei Hilfskräften“ zeigen einen Vorgang → Vorgangspassiv: „werden + Partizip II“. „sind ausgewertet“ wäre ein Zustand (fertig) und passt nicht zu „gerade“.",
+    "beispiel": "Im Labor **wird** gerade ein neues Mikroskop **installiert**."
+  },
+  {
+    "id": "dr_passiv_d02",
+    "kategorie": "passiv",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Das Labor ist seit Montag fertig ___.",
+    "optionen": [
+      "renoviert",
+      "renoviert geworden",
+      "renovierend",
+      "renovieren"
+    ],
+    "loesung": 0,
+    "erklaerung": "Zustandspassiv = „sein + Partizip II“: Das Ergebnis ist da. „geworden“ gibt es im Passiv nie – dort heißt es „worden“.",
+    "beispiel": "Die Anmeldung **ist** seit gestern **freigeschaltet**."
+  },
+  {
+    "id": "dr_passiv_d03",
+    "kategorie": "passiv",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Der Antrag auf Anerkennung muss bis zum 15. März ___.",
+    "optionen": [
+      "eingereicht worden",
+      "eingereicht wird",
+      "eingereicht werden",
+      "einreichen worden"
+    ],
+    "loesung": 2,
+    "erklaerung": "Passiv mit Modalverb: Modalverb + Partizip II + „werden“ (Infinitiv). „worden“ steht nur im Perfekt Passiv, „wird“ ist konjugiert und kann nicht am Ende neben „muss“ stehen.",
+    "beispiel": "Die Hausarbeit **muss** bis Freitag **abgegeben werden**."
+  },
+  {
+    "id": "dr_passiv_d04",
+    "kategorie": "passiv",
+    "niveau": "C1+",
+    "bezug": false,
+    "satz": "Die Daten hätten früher ___ müssen.",
+    "optionen": [
+      "veröffentlicht worden",
+      "veröffentlicht geworden",
+      "veröffentlichen werden",
+      "veröffentlicht werden"
+    ],
+    "loesung": 3,
+    "erklaerung": "Konjunktiv II Vergangenheit im Passiv mit Modalverb: „hätten + Partizip II + werden + müssen“ (doppelter Infinitiv am Ende). „worden“ ist hier falsch, weil das Modalverb den Infinitiv „werden“ verlangt.",
+    "beispiel": "Der Fehler **hätte** früher **bemerkt werden müssen**."
+  },
+  {
+    "id": "dr_passiv_d05",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Die neue Prüfungsordnung ist im letzten Semester ___.",
+    "optionen": [
+      "verabschiedet geworden",
+      "verabschiedet werden",
+      "verabschiedet worden",
+      "verabschieden worden"
+    ],
+    "loesung": 2,
+    "erklaerung": "Perfekt Passiv: „sein + Partizip II + worden“. Im Passiv heißt das Partizip von „werden“ immer „worden“, nicht „geworden“.",
+    "beispiel": "Mein Abschluss **ist** im Mai als gleichwertig **anerkannt worden**."
+  },
+  {
+    "id": "dr_passiv_d06",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Die Hypothese ___ sich mit den vorliegenden Daten nicht belegen.",
+    "optionen": [
+      "kann",
+      "wird",
+      "ist",
+      "lässt"
+    ],
+    "loesung": 3,
+    "erklaerung": "Passiversatz „sich lassen + Infinitiv“ = „kann … werden“: Die Hypothese kann nicht belegt werden. „kann sich belegen“ ist falsch, weil „belegen“ kein reflexives Verb ist.",
+    "beispiel": "Das Problem **lässt sich** mit einer einfachen Formel **lösen**."
+  },
+  {
+    "id": "dr_passiv_d07",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Die Gebühr für das Anerkennungsverfahren ___ bis spätestens 30. September zu überweisen.",
+    "optionen": [
+      "wird",
+      "ist",
+      "hat",
+      "muss"
+    ],
+    "loesung": 1,
+    "erklaerung": "Passiversatz „sein + zu + Infinitiv“ = „muss … werden“: Die Gebühr muss überwiesen werden. „hat … zu“ ist aktiv und braucht eine Person als Subjekt.",
+    "beispiel": "Der Ausweis **ist** beim Betreten des Prüfungsraums **vorzuzeigen**."
+  },
+  {
+    "id": "dr_passiv_d08",
+    "kategorie": "passiv",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Das Mikroskop ist leider nicht mehr ___; wir müssen ein neues bestellen.",
+    "optionen": [
+      "repariert",
+      "reparierbar",
+      "reparierend",
+      "reparieren"
+    ],
+    "loesung": 1,
+    "erklaerung": "„-bar“ = „kann … werden“: Es kann nicht mehr repariert werden, deshalb braucht man ein neues. „nicht mehr repariert“ ergibt hier keinen Sinn.",
+    "beispiel": "Die Ergebnisse sind für alle gut **nachvollziehbar**."
+  },
+  {
+    "id": "dr_passiv_d09",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Das neue Wörterbuch ist ab sofort im Buchhandel ___.",
+    "optionen": [
+      "erhalten",
+      "erhältlich",
+      "erhaltend",
+      "enthalten"
+    ],
+    "loesung": 1,
+    "erklaerung": "„erhältlich“ = man kann es bekommen/kaufen (Passiversatz mit „-lich“). „erhalten“ heißt hier „bewahrt“, „enthalten“ heißt „drin sein“ – beides passt nicht.",
+    "beispiel": "Die Formulare sind auch online **erhältlich**."
+  },
+  {
+    "id": "dr_passiv_d10",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "___ wird an deutschen Schulen viel über Inklusion diskutiert.",
+    "optionen": [
+      "Man",
+      "Das",
+      "Er",
+      "Es"
+    ],
+    "loesung": 3,
+    "erklaerung": "Passiv ohne Subjekt: Position 1 ist leer, deshalb steht dort das Platzhalter-„es“. „Man“ geht nur im Aktiv („Man diskutiert …“).",
+    "beispiel": "**Es wird** in der Pause viel **gelacht**."
+  },
+  {
+    "id": "dr_passiv_d11",
+    "kategorie": "passiv",
+    "niveau": "C1+",
+    "bezug": false,
+    "satz": "In der Senatssitzung ___ lange über die neue Studienordnung gestritten.",
+    "optionen": [
+      "es wurde",
+      "hatte",
+      "wurde",
+      "war"
+    ],
+    "loesung": 2,
+    "erklaerung": "Unpersönliches Passiv ohne Subjekt: Position 1 ist schon besetzt („In der Senatssitzung“), deshalb fällt das „es“ weg. „hatte gestritten“ ist aktiv und bräuchte ein Subjekt.",
+    "beispiel": "Am Wochenende **wird** im Wohnheim oft **gefeiert**."
+  },
+  {
+    "id": "dr_passiv_d12",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Ich habe erfahren, dass mein Abschluss bereits ___.",
+    "optionen": [
+      "ist anerkannt worden",
+      "worden anerkannt ist",
+      "anerkannt worden ist",
+      "anerkannt ist worden"
+    ],
+    "loesung": 2,
+    "erklaerung": "Im Nebensatz steht das konjugierte Verb ganz am Ende: Partizip II + „worden“ + „ist“. „ist anerkannt worden“ ist die Reihenfolge im Hauptsatz.",
+    "beispiel": "Sie freut sich, dass ihr Antrag endlich **bewilligt worden ist**."
+  },
+  {
+    "id": "dr_passiv_d13",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Es ist noch unklar, ob die Tagung bei so wenigen Anmeldungen ___.",
+    "optionen": [
+      "durchgeführt werden kann",
+      "kann durchgeführt werden",
+      "durchgeführt kann werden",
+      "werden durchgeführt kann"
+    ],
+    "loesung": 0,
+    "erklaerung": "Passiv mit Modalverb im Nebensatz: Partizip II + „werden“ + konjugiertes Modalverb am Ende. „kann durchgeführt werden“ ist Hauptsatz-Stellung.",
+    "beispiel": "Wir wissen noch nicht, ob das Experiment **wiederholt werden muss**."
+  },
+  {
+    "id": "dr_passiv_d14",
+    "kategorie": "passiv",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Penicillin ___ 1928 von Alexander Fleming entdeckt.",
+    "optionen": [
+      "wurde",
+      "war",
+      "ist",
+      "hatte"
+    ],
+    "loesung": 0,
+    "erklaerung": "Ein Vorgang in der Vergangenheit mit Jahreszahl und Urheber („von …“) → Vorgangspassiv Präteritum: „wurde + Partizip II“. „war entdeckt“ beschreibt nur einen Zustand.",
+    "beispiel": "Die Universität Heidelberg **wurde** 1386 **gegründet**."
+  },
+  {
+    "id": "dr_passiv_d15",
+    "kategorie": "passiv",
+    "niveau": "B2+",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Satz ins Passiv um (gleiche Zeitform).",
+    "ausgang": "Die Lehrerin korrigierte die Tests am Wochenende.",
+    "vorgabe": "Die Tests ___.",
+    "loesung": "wurden am Wochenende von der Lehrerin korrigiert",
+    "akzeptiert": [
+      "wurden von der Lehrerin am Wochenende korrigiert"
+    ],
+    "erklaerung": "Präteritum Aktiv → Präteritum Passiv: „wurden + Partizip II“. Das Akkusativobjekt wird Subjekt (Plural → „wurden“), die handelnde Person kommt mit „von + Dativ“.",
+    "beispiel": "Der Brief **wurde** vom Dekan **unterschrieben**."
+  },
+  {
+    "id": "dr_passiv_d16",
+    "kategorie": "passiv",
+    "niveau": "B2+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Satz ins Passiv um.",
+    "ausgang": "Man muss die Proben sofort kühlen.",
+    "vorgabe": "Die Proben ___.",
+    "loesung": "müssen sofort gekühlt werden",
+    "akzeptiert": [],
+    "erklaerung": "„man“ fällt im Passiv weg. Passiv mit Modalverb: „müssen + Partizip II + werden“. Plural-Subjekt „die Proben“ → „müssen“.",
+    "beispiel": "Die Fenster **müssen** täglich **geöffnet werden**."
+  },
+  {
+    "id": "dr_passiv_d17",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Ersetzen Sie das Passiv mit Modalverb durch eine Passiversatzform.",
+    "ausgang": "Das Ergebnis kann leicht erklärt werden.",
+    "vorgabe": "Das Ergebnis ___.",
+    "loesung": "lässt sich leicht erklären",
+    "akzeptiert": [
+      "ist leicht zu erklären",
+      "ist leicht erklärbar"
+    ],
+    "erklaerung": "„kann … werden“ = „lässt sich + Infinitiv“ = „ist + zu + Infinitiv“ = „ist …bar“. Alle drei Formen bedeuten dasselbe.",
+    "beispiel": "Die Aufgabe **lässt sich** in zehn Minuten **lösen**."
+  },
+  {
+    "id": "dr_passiv_d18",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Satz in ein Passiv mit Modalverb um.",
+    "ausgang": "Die Anträge sind vollständig auszufüllen.",
+    "vorgabe": "Die Anträge ___.",
+    "loesung": "müssen vollständig ausgefüllt werden",
+    "akzeptiert": [],
+    "erklaerung": "„sein + zu + Infinitiv“ bedeutet hier eine Pflicht → „müssen + Partizip II + werden“.",
+    "beispiel": "Die Bücher **müssen** bis Ende Juli **zurückgegeben werden**."
+  },
+  {
+    "id": "dr_passiv_d19",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Satz ins Passiv um (gleiche Zeitform).",
+    "ausgang": "Man hat die Ergebnisse der Studie 2023 veröffentlicht.",
+    "vorgabe": "Die Ergebnisse der Studie ___.",
+    "loesung": "sind 2023 veröffentlicht worden",
+    "akzeptiert": [],
+    "erklaerung": "Perfekt Aktiv → Perfekt Passiv: „sein + Partizip II + worden“. „man“ fällt weg; Plural-Subjekt → „sind“.",
+    "beispiel": "Die Mensa **ist** im Sommer **umgebaut worden**."
+  },
+  {
+    "id": "dr_passiv_d20",
+    "kategorie": "passiv",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie mit einem Adjektiv um.",
+    "ausgang": "Diese Hypothese kann nicht überprüft werden.",
+    "vorgabe": "Diese Hypothese ist ___.",
+    "loesung": "nicht überprüfbar",
+    "akzeptiert": [
+      "nicht zu überprüfen",
+      "unüberprüfbar"
+    ],
+    "erklaerung": "„kann … werden“ → Adjektiv mit „-bar“: „überprüfbar“ = kann überprüft werden. Auch „ist nicht zu überprüfen“ ist richtig.",
+    "beispiel": "Die Folgen sind noch nicht **absehbar**."
+  },
+  {
+    "id": "dr_relativsatz_d01",
+    "kategorie": "relativsatz",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Eine Kollegin, ___ ich beim Anerkennungsantrag geholfen habe, unterrichtet jetzt in Köln.",
+    "optionen": [
+      "die",
+      "deren",
+      "der",
+      "dem"
+    ],
+    "loesung": 2,
+    "erklaerung": "„helfen“ verlangt den Dativ; Bezugswort „Kollegin“ ist feminin → Dativ „der“. „die“ wäre Nominativ/Akkusativ.",
+    "beispiel": "Der Student, **dem** ich das Buch geliehen habe, hat es verloren."
+  },
+  {
+    "id": "dr_relativsatz_d02",
+    "kategorie": "relativsatz",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Die Forscherin, ___ Studie für Aufsehen sorgte, hält morgen einen Vortrag.",
+    "optionen": [
+      "dessen",
+      "ihre",
+      "derer",
+      "deren"
+    ],
+    "loesung": 3,
+    "erklaerung": "Besitz („ihre Studie“) → Genitiv-Relativpronomen. Bezugswort „Forscherin“ ist feminin → „deren“. „dessen“ steht nur bei maskulinen/neutralen Bezugswörtern.",
+    "beispiel": "Das ist die Autorin, **deren** Roman ich gerade lese."
+  },
+  {
+    "id": "dr_relativsatz_d03",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Ein Schüler, ___ Eltern nicht zum Elternabend kommen konnten, bekam die Informationen per E-Mail.",
+    "optionen": [
+      "dessen",
+      "deren",
+      "dem",
+      "seine"
+    ],
+    "loesung": 0,
+    "erklaerung": "Das Genitiv-Relativpronomen richtet sich nach dem Bezugswort („Schüler“, maskulin) → „dessen“, nicht nach „Eltern“. Typische Falle: „deren“ wegen des Plurals „Eltern“.",
+    "beispiel": "Mein Nachbar, **dessen** Hund immer bellt, ist sehr freundlich."
+  },
+  {
+    "id": "dr_relativsatz_d04",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Viele Studierende, ___ das Geld für die Miete fehlt, arbeiten nebenbei.",
+    "optionen": [
+      "deren",
+      "denen",
+      "die",
+      "den"
+    ],
+    "loesung": 1,
+    "erklaerung": "„jemandem fehlt etwas“ → Dativ. Dativ Plural des Relativpronomens = „denen“. „deren“ ist Genitiv (Besitz).",
+    "beispiel": "Die Kinder, **denen** wir geholfen haben, haben sich bedankt."
+  },
+  {
+    "id": "dr_relativsatz_d05",
+    "kategorie": "relativsatz",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Das Thema, mit ___ sich meine Masterarbeit beschäftigt, ist die Wohnungsnot in Großstädten.",
+    "optionen": [
+      "der",
+      "das",
+      "den",
+      "dem"
+    ],
+    "loesung": 3,
+    "erklaerung": "„sich beschäftigen mit + Dativ“; Bezugswort „Thema“ ist neutral → „mit dem“. Die Präposition steht vor dem Relativpronomen und bestimmt den Kasus.",
+    "beispiel": "Das Projekt, an **dem** wir arbeiten, endet im Mai."
+  },
+  {
+    "id": "dr_relativsatz_d06",
+    "kategorie": "relativsatz",
+    "niveau": "C1+",
+    "bezug": false,
+    "satz": "Die Stiftung, von ___ Entscheidung die Finanzierung des Projekts abhängt, tagt nur zweimal im Jahr.",
+    "optionen": [
+      "der",
+      "dessen",
+      "ihrer",
+      "deren"
+    ],
+    "loesung": 3,
+    "erklaerung": "„abhängen von“ + Besitz („ihre Entscheidung“) → Präposition + Genitiv-Relativpronomen. „Stiftung“ ist feminin → „von deren Entscheidung“. Das Genitivpronomen bleibt nach der Präposition unverändert.",
+    "beispiel": "Der Professor, in **dessen** Vorlesung ich hospitiert habe, ist sehr bekannt."
+  },
+  {
+    "id": "dr_relativsatz_d07",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Es gibt vieles, ___ ich mich in Deutschland erst gewöhnen musste.",
+    "optionen": [
+      "an das",
+      "wofür",
+      "worauf",
+      "woran"
+    ],
+    "loesung": 3,
+    "erklaerung": "Nach „vieles, etwas, alles, nichts“ steht „was“; mit Präposition wird daraus „wo(r) + Präposition“. „sich gewöhnen an“ → „woran“.",
+    "beispiel": "Das ist etwas, **worauf** ich mich sehr freue."
+  },
+  {
+    "id": "dr_relativsatz_d08",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Das ist das Interessanteste, ___ ich in diesem Seminar gelernt habe.",
+    "optionen": [
+      "was",
+      "das",
+      "welches",
+      "wo"
+    ],
+    "loesung": 0,
+    "erklaerung": "Nach einem nominalisierten Superlativ („das Interessanteste“) steht das Relativpronomen „was“, nicht „das“.",
+    "beispiel": "Das war das Beste, **was** mir passieren konnte."
+  },
+  {
+    "id": "dr_relativsatz_d09",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Die Bibliothek hat endlich längere Öffnungszeiten eingeführt, ___ uns alle sehr freut.",
+    "optionen": [
+      "das",
+      "worüber",
+      "dass",
+      "was"
+    ],
+    "loesung": 3,
+    "erklaerung": "Das Relativpronomen bezieht sich auf den ganzen Satz (dass die Bibliothek länger geöffnet ist) → „was“. „das“ würde sich nur auf ein einzelnes Nomen beziehen; „worüber“ bräuchte „wir uns freuen“.",
+    "beispiel": "Er hat die Prüfung bestanden, **was** niemand erwartet hatte."
+  },
+  {
+    "id": "dr_relativsatz_d10",
+    "kategorie": "relativsatz",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Ich ziehe nach Münster, ___ ich eine Stelle als Biologielehrerin bekommen habe.",
+    "optionen": [
+      "wo",
+      "wohin",
+      "woher",
+      "wofür"
+    ],
+    "loesung": 0,
+    "erklaerung": "Nach einem Städtenamen fragt man „Wo habe ich die Stelle?“ → Relativadverb „wo“ (Ort). „wohin“ fragt nach der Richtung, passt aber nicht zu „eine Stelle bekommen“.",
+    "beispiel": "In der Stadt, **wo** ich aufgewachsen bin, gibt es keine Universität."
+  },
+  {
+    "id": "dr_relativsatz_d11",
+    "kategorie": "relativsatz",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Der Artikel, ___ du mir empfohlen hast, war sehr hilfreich.",
+    "optionen": [
+      "den",
+      "der",
+      "dem",
+      "dessen"
+    ],
+    "loesung": 0,
+    "erklaerung": "„etwas empfehlen“ → Akkusativ; „Artikel“ ist maskulin → „den“. „der“ wäre Nominativ (Subjekt), aber das Subjekt im Relativsatz ist „du“.",
+    "beispiel": "Das Buch, **das** ich gestern gekauft habe, ist spannend."
+  },
+  {
+    "id": "dr_relativsatz_d12",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Das Einzige, ___ ich mich wirklich ärgere, ist die lange Bearbeitungszeit meines Antrags.",
+    "optionen": [
+      "über das",
+      "worüber",
+      "darüber",
+      "wofür"
+    ],
+    "loesung": 1,
+    "erklaerung": "Nach „das Einzige“ steht „was“; mit Präposition „sich ärgern über“ → „worüber“. „darüber“ ist kein Relativwort, sondern ein Pronominaladverb.",
+    "beispiel": "Es gibt nichts, **worüber** ich mich mehr freue als über Post von zu Hause."
+  },
+  {
+    "id": "dr_relativsatz_d13",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Die Länder, aus ___ die meisten internationalen Studierenden stammen, werden im Jahresbericht genannt.",
+    "optionen": [
+      "deren",
+      "den",
+      "dem",
+      "denen"
+    ],
+    "loesung": 3,
+    "erklaerung": "„aus“ verlangt den Dativ; „Länder“ ist Plural → „aus denen“. „deren“ ist Genitiv und bräuchte ein Nomen danach.",
+    "beispiel": "Die Freunde, mit **denen** ich studiert habe, wohnen jetzt überall in Deutschland."
+  },
+  {
+    "id": "dr_relativsatz_d14",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "___ die Prüfung bestehen will, muss regelmäßig üben.",
+    "optionen": [
+      "Der",
+      "Was",
+      "Welcher",
+      "Wer"
+    ],
+    "loesung": 3,
+    "erklaerung": "Relativsatz ohne Bezugswort für eine unbestimmte Person → „wer“ (= jede Person, die …). „Der“ bräuchte ein Bezugswort davor.",
+    "beispiel": "**Wer** viel liest, schreibt meistens auch besser."
+  },
+  {
+    "id": "dr_relativsatz_d15",
+    "kategorie": "relativsatz",
+    "niveau": "B2+",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+    "ausgang": "Ich habe einen Kollegen. Seine Tochter besucht meine Klasse.",
+    "vorgabe": "Ich habe einen Kollegen, ___ meine Klasse besucht.",
+    "loesung": "dessen Tochter",
+    "akzeptiert": [],
+    "erklaerung": "„seine Tochter“ zeigt Besitz → Genitiv-Relativpronomen. Bezugswort „Kollege“ ist maskulin → „dessen Tochter“.",
+    "beispiel": "Das ist die Firma, **deren** Chef ich kenne."
+  },
+  {
+    "id": "dr_relativsatz_d16",
+    "kategorie": "relativsatz",
+    "niveau": "B2+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+    "ausgang": "Das ist die Professorin. Ich habe bei ihr meine Bachelorarbeit geschrieben.",
+    "vorgabe": "Das ist die Professorin, ___ meine Bachelorarbeit geschrieben habe.",
+    "loesung": "bei der ich",
+    "akzeptiert": [
+      "bei welcher ich"
+    ],
+    "erklaerung": "Die Präposition („bei“) kommt mit in den Relativsatz und steht vorne. „bei + Dativ“, „Professorin“ ist feminin → „bei der“.",
+    "beispiel": "Das ist der Kollege, **mit dem** ich das Projekt plane."
+  },
+  {
+    "id": "dr_relativsatz_d17",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+    "ausgang": "Ich habe die Zusage für das Stipendium bekommen. Darüber freue ich mich sehr.",
+    "vorgabe": "Ich habe die Zusage für das Stipendium bekommen, ___.",
+    "loesung": "worüber ich mich sehr freue",
+    "akzeptiert": [],
+    "erklaerung": "„darüber“ bezieht sich auf den ganzen ersten Satz → Relativadverb „wo(r) + Präposition“: „worüber“. Das Verb steht am Ende.",
+    "beispiel": "Der Bus kam zu spät, **worüber** sich alle ärgerten."
+  },
+  {
+    "id": "dr_relativsatz_d18",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+    "ausgang": "Kinder lernen schneller lesen. Man liest ihnen regelmäßig vor.",
+    "vorgabe": "Kinder, ___, lernen schneller lesen.",
+    "loesung": "denen man regelmäßig vorliest",
+    "akzeptiert": [
+      "denen regelmäßig vorgelesen wird"
+    ],
+    "erklaerung": "„ihnen“ ist Dativ Plural → Relativpronomen „denen“. Im Relativsatz steht das Verb am Ende („vorliest“).",
+    "beispiel": "Menschen, **denen** man vertraut, erzählt man mehr."
+  },
+  {
+    "id": "dr_relativsatz_d19",
+    "kategorie": "relativsatz",
+    "niveau": "C1",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+    "ausgang": "Viele Schulen haben das Handyverbot aufgehoben. Das hat zu Diskussionen geführt.",
+    "vorgabe": "Viele Schulen haben das Handyverbot aufgehoben, ___.",
+    "loesung": "was zu Diskussionen geführt hat",
+    "akzeptiert": [
+      "was zu Diskussionen führte"
+    ],
+    "erklaerung": "„das“ meint den ganzen ersten Satz → Relativpronomen „was“, nicht „das“. Verb am Ende.",
+    "beispiel": "Sie hat sofort zugesagt, **was** mich sehr gefreut hat."
+  },
+  {
+    "id": "dr_relativsatz_d20",
+    "kategorie": "relativsatz",
+    "niveau": "C1+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Verbinden Sie die Sätze mit einem Relativsatz.",
+    "ausgang": "Das ist der Biologe. Über seine Forschung haben wir im Seminar gesprochen.",
+    "vorgabe": "Das ist der Biologe, ___ wir im Seminar gesprochen haben.",
+    "loesung": "über dessen Forschung",
+    "akzeptiert": [],
+    "erklaerung": "Präposition + Besitz: „über“ steht vorne, dann das Genitiv-Relativpronomen („Biologe“ maskulin → „dessen“), dann das Nomen.",
+    "beispiel": "Das ist die Stadt, **in deren Altstadt** ich wohne."
+  },
+  {
+    "id": "dr_pronomen_d01",
+    "kategorie": "pronomen",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Seit Monaten warte ich ___, dass mein Abschluss anerkannt wird.",
+    "optionen": [
+      "darüber",
+      "worauf",
+      "dafür",
+      "darauf"
+    ],
+    "loesung": 3,
+    "erklaerung": "„warten auf“ → Pronominaladverb „darauf“; es kündigt den „dass“-Satz an. „worauf“ ist ein Fragewort/Relativwort.",
+    "beispiel": "Ich verlasse mich **darauf**, dass du pünktlich bist."
+  },
+  {
+    "id": "dr_pronomen_d02",
+    "kategorie": "pronomen",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "___ beschäftigt sich Ihre Masterarbeit?",
+    "optionen": [
+      "Damit",
+      "Worüber",
+      "Womit",
+      "Wofür"
+    ],
+    "loesung": 2,
+    "erklaerung": "Frage nach einer Sache mit Präposition: „wo(r) + Präposition“. „sich beschäftigen mit“ → „Womit?“. „Damit“ ist keine Frage, sondern verweist auf etwas Bekanntes.",
+    "beispiel": "**Womit** hast du die Grafik erstellt?"
+  },
+  {
+    "id": "dr_pronomen_d03",
+    "kategorie": "pronomen",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Ich weiß nicht genau, ___ sich die Mieter beschwert haben.",
+    "optionen": [
+      "darüber",
+      "worauf",
+      "worüber",
+      "wofür"
+    ],
+    "loesung": 2,
+    "erklaerung": "Indirekte Frage nach einer Sache: „sich beschweren über“ → „worüber“. „darüber“ leitet keinen Nebensatz ein.",
+    "beispiel": "Weißt du, **worüber** der Professor morgen spricht?"
+  },
+  {
+    "id": "dr_pronomen_d04",
+    "kategorie": "pronomen",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Das neue Mikroskop ist endlich da. Die Schüler können ___ sogar Zellkerne erkennen.",
+    "optionen": [
+      "mit es",
+      "womit",
+      "damit",
+      "dafür"
+    ],
+    "loesung": 2,
+    "erklaerung": "Bei Sachen ersetzt man „Präposition + Pronomen“ durch „da(r) + Präposition“: „mit dem Mikroskop“ → „damit“. „mit es“ gibt es nicht.",
+    "beispiel": "Ich habe einen neuen Laptop. **Damit** kann ich endlich gut arbeiten."
+  },
+  {
+    "id": "dr_pronomen_d05",
+    "kategorie": "pronomen",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Mein Betreuer ist sehr erfahren; ich kann mich jederzeit ___ wenden.",
+    "optionen": [
+      "daran",
+      "woran",
+      "an ihn",
+      "an es"
+    ],
+    "loesung": 2,
+    "erklaerung": "Bei Personen benutzt man „Präposition + Personalpronomen“: „sich wenden an + Akkusativ“ → „an ihn“. „daran“ steht nur für Sachen.",
+    "beispiel": "Frau Weber ist sehr hilfsbereit; man kann sich jederzeit **an sie** wenden."
+  },
+  {
+    "id": "dr_pronomen_d06",
+    "kategorie": "pronomen",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "___ fehlen an vielen Schulen in NRW Lehrkräfte für Naturwissenschaften.",
+    "optionen": [
+      "Das",
+      "Sie",
+      "Es",
+      "Man"
+    ],
+    "loesung": 2,
+    "erklaerung": "Das echte Subjekt („Lehrkräfte“) steht hinten; Position 1 füllt das Platzhalter-„es“. Das Verb richtet sich nach dem echten Subjekt (Plural: „fehlen“).",
+    "beispiel": "**Es** kamen mehr Gäste als erwartet."
+  },
+  {
+    "id": "dr_pronomen_d07",
+    "kategorie": "pronomen",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Mir ist ___ gelungen, alle Unterlagen rechtzeitig einzureichen.",
+    "optionen": [
+      "es",
+      "sich",
+      "mich",
+      "ihn"
+    ],
+    "loesung": 0,
+    "erklaerung": "„es“ ist hier ein Korrelat: Es weist auf den folgenden Infinitivsatz hin („alle Unterlagen … einzureichen“). „gelingen“ ist nicht reflexiv, also kein „sich/mich“.",
+    "beispiel": "Uns ist **es** endlich gelungen, eine Wohnung zu finden."
+  },
+  {
+    "id": "dr_pronomen_d08",
+    "kategorie": "pronomen",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Ich habe ___ erfolgreich um eine Stelle als Biologielehrerin beworben.",
+    "optionen": [
+      "mir",
+      "mich",
+      "sich",
+      "mein"
+    ],
+    "loesung": 1,
+    "erklaerung": "„sich bewerben um“: Es gibt kein anderes Akkusativobjekt → Reflexivpronomen im Akkusativ: „ich … mich“.",
+    "beispiel": "Er hat **sich** um ein Stipendium beworben."
+  },
+  {
+    "id": "dr_pronomen_d09",
+    "kategorie": "pronomen",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Vor dem Mikroskopieren ziehe ich ___ einen Laborkittel an.",
+    "optionen": [
+      "mich",
+      "mir",
+      "sich",
+      "mein"
+    ],
+    "loesung": 1,
+    "erklaerung": "Es gibt schon ein Akkusativobjekt („einen Laborkittel“) → das Reflexivpronomen steht im Dativ: „mir“. Ohne Objekt hieße es: „Ich ziehe mich an.“",
+    "beispiel": "Ich putze **mir** jeden Abend die Zähne."
+  },
+  {
+    "id": "dr_pronomen_d10",
+    "kategorie": "pronomen",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Der Studierendenrat hat sich ___ eingesetzt, dass mehr Geld für die Bibliothek bereitgestellt wird.",
+    "optionen": [
+      "dafür",
+      "darauf",
+      "damit",
+      "wofür"
+    ],
+    "loesung": 0,
+    "erklaerung": "„sich einsetzen für“ → „dafür“; es kündigt den „dass“-Satz an. „wofür“ ist ein Fragewort/Relativwort.",
+    "beispiel": "Viele Eltern setzen sich **dafür** ein, dass die Schule saniert wird."
+  },
+  {
+    "id": "dr_pronomen_d11",
+    "kategorie": "pronomen",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Der Erfolg des Projekts hängt vor allem ___ ab, ob genug Freiwillige mitmachen.",
+    "optionen": [
+      "darauf",
+      "daran",
+      "wovon",
+      "davon"
+    ],
+    "loesung": 3,
+    "erklaerung": "„abhängen von“ → „davon“; es kündigt den „ob“-Satz an. „darauf“ passt zu „ankommen auf“, nicht zu „abhängen“.",
+    "beispiel": "Ob wir draußen essen, hängt **davon** ab, wie das Wetter wird."
+  },
+  {
+    "id": "dr_pronomen_d12",
+    "kategorie": "pronomen",
+    "niveau": "B2+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Ersetzen Sie die Präpositionalgruppe durch ein Pronominaladverb.",
+    "ausgang": "Wir sprechen morgen in der Sitzung über den Haushaltsplan.",
+    "vorgabe": "Wir sprechen morgen in der Sitzung ___.",
+    "loesung": "darüber",
+    "akzeptiert": [],
+    "erklaerung": "„über den Haushaltsplan“ ist eine Sache → „da(r) + Präposition“: „darüber“. Vor einem Vokal steht ein „r“ (dar-über).",
+    "beispiel": "Hast du die Mail gelesen? Wir müssen **darüber** reden."
+  },
+  {
+    "id": "dr_pronomen_d13",
+    "kategorie": "pronomen",
+    "niveau": "B2+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Ersetzen Sie die Präpositionalgruppe durch ein Pronomen.",
+    "ausgang": "Ich habe lange auf meine Betreuerin gewartet.",
+    "vorgabe": "Ich habe lange ___ gewartet.",
+    "loesung": "auf sie",
+    "akzeptiert": [],
+    "erklaerung": "„meine Betreuerin“ ist eine Person → „Präposition + Personalpronomen“: „auf sie“. „darauf“ benutzt man nur für Sachen.",
+    "beispiel": "Kennst du Herrn Lang? Ich habe gestern **mit ihm** telefoniert."
+  },
+  {
+    "id": "dr_pronomen_d14",
+    "kategorie": "pronomen",
+    "niveau": "B2+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Fragen Sie nach dem Satzteil „für Meeresbiologie“.",
+    "ausgang": "Sie interessiert sich für Meeresbiologie.",
+    "vorgabe": "___ interessiert sie sich?",
+    "loesung": "Wofür",
+    "akzeptiert": [],
+    "erklaerung": "Frage nach einer Sache mit Präposition → „wo(r) + Präposition“: „sich interessieren für“ → „Wofür?“. Nach einer Person fragt man „Für wen?“.",
+    "beispiel": "**Woran** denkst du gerade?"
+  },
+  {
+    "id": "dr_pronomen_d15",
+    "kategorie": "pronomen",
+    "niveau": "C1",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Stellen Sie den dass-Satz ans Satzende. Welches Wort steht dann auf Position 1?",
+    "ausgang": "Dass die Anerkennung so lange dauert, ärgert viele Lehrkräfte.",
+    "vorgabe": "___ ärgert viele Lehrkräfte, dass die Anerkennung so lange dauert.",
+    "loesung": "Es",
+    "akzeptiert": [],
+    "erklaerung": "Steht der „dass“-Satz am Ende, braucht Position 1 ein Korrelat: „es“. Steht der „dass“-Satz vorne, fällt „es“ weg.",
+    "beispiel": "**Es** freut mich, dass du die Prüfung bestanden hast."
+  },
+  {
+    "id": "dr_konjunktiv_d01",
+    "kategorie": "konjunktiv",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "Die Institutsleiterin sagte, das Team ___ mit der Entscheidung zufrieden.",
+    "optionen": [
+      "seien",
+      "sein",
+      "gewesen",
+      "sei"
+    ],
+    "loesung": 3,
+    "erklaerung": "Indirekte Rede → Konjunktiv I. „das Team“ ist Singular → „sei“. „seien“ ist Plural, „sein“ der Infinitiv.",
+    "beispiel": "Der Minister erklärte, die Reform **sei** notwendig."
+  },
+  {
+    "id": "dr_konjunktiv_d02",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Die Forschenden berichten, sie ___ neue Bakterienarten im Boden entdeckt.",
+    "optionen": [
+      "seien",
+      "hätten",
+      "würden",
+      "haben würden"
+    ],
+    "loesung": 1,
+    "erklaerung": "Konjunktiv I von „sie haben“ ist gleich wie der Indikativ → Ersatzform Konjunktiv II: „hätten“. „entdecken“ bildet das Perfekt mit „haben“, deshalb nicht „seien“; „würden“ und „haben würden“ ergeben mit „entdeckt“ keine korrekte Form.",
+    "beispiel": "Die Studierenden sagten, sie **hätten** keine Zeit **gehabt**."
+  },
+  {
+    "id": "dr_konjunktiv_d03",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Der Bewerber behauptete, er ___ die Unterlagen bereits im Mai geschickt.",
+    "optionen": [
+      "sei",
+      "werde",
+      "haben",
+      "habe"
+    ],
+    "loesung": 3,
+    "erklaerung": "Vergangenheit in der indirekten Rede: Konjunktiv I von „haben“ + Partizip II. „schicken“ bildet das Perfekt mit „haben“ → „er habe … geschickt“.",
+    "beispiel": "Sie erzählte, sie **habe** in Manila Biologie **studiert**."
+  },
+  {
+    "id": "dr_konjunktiv_d04",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Die Behörde teilte mit, die Prüfung des Antrags ___ etwa drei Monate dauern.",
+    "optionen": [
+      "würden",
+      "werde",
+      "werden",
+      "worden"
+    ],
+    "loesung": 1,
+    "erklaerung": "Zukunft in der indirekten Rede: Konjunktiv I „werde“ + Infinitiv. Subjekt „die Prüfung“ ist Singular; „würden/werden“ sind Plural.",
+    "beispiel": "Der Dozent kündigte an, er **werde** die Noten nächste Woche **veröffentlichen**."
+  },
+  {
+    "id": "dr_konjunktiv_d05",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Wenn ich früher Deutsch gelernt ___, wäre mein Antrag schneller bearbeitet worden.",
+    "optionen": [
+      "hätte",
+      "wäre",
+      "würde",
+      "habe"
+    ],
+    "loesung": 0,
+    "erklaerung": "Irreale Bedingung in der Vergangenheit: Konjunktiv II von „haben“ + Partizip II. „lernen“ bildet das Perfekt mit „haben“ → „gelernt hätte“, nicht „wäre“.",
+    "beispiel": "Wenn ich das gewusst **hätte**, **wäre** ich früher **gekommen**."
+  },
+  {
+    "id": "dr_konjunktiv_d06",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": true,
+    "satz": "Ohne die Hilfe meiner Mentorin ___ ich im Referendariat gescheitert.",
+    "optionen": [
+      "hätte",
+      "würde",
+      "wäre",
+      "sei"
+    ],
+    "loesung": 2,
+    "erklaerung": "Irreal in der Vergangenheit; „scheitern“ bildet das Perfekt mit „sein“ → „wäre … gescheitert“. „sei“ ist Konjunktiv I (indirekte Rede).",
+    "beispiel": "Ohne den Wecker **wäre** ich zu spät **gekommen**."
+  },
+  {
+    "id": "dr_konjunktiv_d07",
+    "kategorie": "konjunktiv",
+    "niveau": "C1+",
+    "bezug": false,
+    "satz": "Die Studie ___ besser vorbereitet werden müssen.",
+    "optionen": [
+      "wäre",
+      "hätte",
+      "würde",
+      "müsste"
+    ],
+    "loesung": 1,
+    "erklaerung": "Konjunktiv II Vergangenheit mit Modalverb: immer „hätte“ + … + doppelter Infinitiv („werden müssen“). Auch bei Passiv und Verben mit „sein“ steht hier „hätte“.",
+    "beispiel": "Du **hättest** mich früher anrufen **sollen**."
+  },
+  {
+    "id": "dr_konjunktiv_d08",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Er spricht so fließend Deutsch, als ___ er hier aufgewachsen.",
+    "optionen": [
+      "hätte",
+      "wäre",
+      "ob",
+      "würde"
+    ],
+    "loesung": 1,
+    "erklaerung": "Irrealer Vergleich: „als“ + Verb direkt danach (ohne „ob“). „aufwachsen“ bildet das Perfekt mit „sein“ → „als wäre er … aufgewachsen“.",
+    "beispiel": "Sie tat so, **als hätte** sie nichts gehört."
+  },
+  {
+    "id": "dr_konjunktiv_d09",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Der Praktikant tat so, als ob er den Bericht schon ___.",
+    "optionen": [
+      "hätte geschrieben",
+      "geschrieben hätte",
+      "schreiben hätte",
+      "geschrieben würde"
+    ],
+    "loesung": 1,
+    "erklaerung": "Nach „als ob“ steht das konjugierte Verb am Ende (Nebensatz): Partizip II + „hätte“. „hätte geschrieben“ ist Hauptsatz-Stellung. Ohne „ob“ hieße es: „als hätte er … geschrieben“.",
+    "beispiel": "Er sieht aus, **als ob** er die ganze Nacht nicht **geschlafen hätte**."
+  },
+  {
+    "id": "dr_konjunktiv_d10",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "In der Pressemitteilung heißt es, die Zahl der Studienanfänger ___ leicht gesunken.",
+    "optionen": [
+      "habe",
+      "sei",
+      "seien",
+      "würde"
+    ],
+    "loesung": 1,
+    "erklaerung": "Indirekte Rede („heißt es“) → Konjunktiv I. „sinken“ bildet das Perfekt mit „sein“; Subjekt „die Zahl“ ist Singular → „sei … gesunken“.",
+    "beispiel": "Laut Bericht **sei** die Nachfrage stark **gestiegen**."
+  },
+  {
+    "id": "dr_konjunktiv_d11",
+    "kategorie": "konjunktiv",
+    "niveau": "B2+",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Geben Sie die Aussage in indirekter Rede wieder (Konjunktiv I).",
+    "ausgang": "Frau Reyes sagt: „Ich unterrichte seit zehn Jahren Biologie.“",
+    "vorgabe": "Frau Reyes sagt, sie ___.",
+    "loesung": "unterrichte seit zehn Jahren Biologie",
+    "akzeptiert": [],
+    "erklaerung": "„ich“ wird zu „sie“. Konjunktiv I 3. Person Singular: Stamm + „-e“ → „sie unterrichte“ (unterscheidet sich vom Indikativ „unterrichtet“).",
+    "beispiel": "Der Schüler sagt, er **verstehe** die Aufgabe nicht."
+  },
+  {
+    "id": "dr_konjunktiv_d12",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Geben Sie die Aussage in indirekter Rede wieder.",
+    "ausgang": "Die Studierenden sagen: „Wir haben zu wenig Zeit für die Hausarbeit.“",
+    "vorgabe": "Die Studierenden sagen, sie ___.",
+    "loesung": "hätten zu wenig Zeit für die Hausarbeit",
+    "akzeptiert": [],
+    "erklaerung": "Konjunktiv I „sie haben“ = Indikativ → man nimmt die Ersatzform Konjunktiv II: „sie hätten“.",
+    "beispiel": "Die Eltern meinten, sie **hätten** keine Einladung bekommen."
+  },
+  {
+    "id": "dr_konjunktiv_d13",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Geben Sie die Aussage in indirekter Rede wieder (Konjunktiv I).",
+    "ausgang": "Der Doktorand erklärt: „Ich bin letztes Jahr nach Bonn gezogen.“",
+    "vorgabe": "Der Doktorand erklärt, er ___.",
+    "loesung": "sei letztes Jahr nach Bonn gezogen",
+    "akzeptiert": [],
+    "erklaerung": "Vergangenheit in der indirekten Rede: Konjunktiv I von „sein“ + Partizip II → „er sei … gezogen“. Aus allen Vergangenheitsformen wird diese eine Form.",
+    "beispiel": "Sie berichtete, sie **sei** gestern krank **gewesen**."
+  },
+  {
+    "id": "dr_konjunktiv_d14",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Formulieren Sie einen irrealen Bedingungssatz (Vergangenheit).",
+    "ausgang": "Ich habe die Frist nicht gekannt. Deshalb habe ich den Antrag zu spät gestellt.",
+    "vorgabe": "Wenn ich die Frist gekannt hätte, ___.",
+    "loesung": "hätte ich den Antrag nicht zu spät gestellt",
+    "akzeptiert": [
+      "hätte ich den Antrag rechtzeitig gestellt",
+      "hätte ich den Antrag pünktlich gestellt",
+      "dann hätte ich den Antrag nicht zu spät gestellt",
+      "dann hätte ich den Antrag rechtzeitig gestellt"
+    ],
+    "erklaerung": "Irreal Vergangenheit: „hätte/wäre + Partizip II“. Nach dem „wenn“-Satz steht sofort das Verb („hätte ich …“). Die Aussage wird umgekehrt: nicht zu spät = rechtzeitig.",
+    "beispiel": "Wenn ich den Bus nicht verpasst **hätte**, **hätte** ich den Anfang der Vorlesung **gehört**."
+  },
+  {
+    "id": "dr_konjunktiv_d15",
+    "kategorie": "konjunktiv",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formulieren Sie einen irrealen Vergleich.",
+    "ausgang": "Der Student hat den Text gar nicht gelesen, aber er tut so.",
+    "vorgabe": "Der Student tut so, als ___.",
+    "loesung": "hätte er den Text gelesen",
+    "akzeptiert": [
+      "ob er den Text gelesen hätte",
+      "habe er den Text gelesen",
+      "ob er den Text gelesen habe",
+      "hätte er ihn gelesen",
+      "ob er ihn gelesen hätte"
+    ],
+    "erklaerung": "Irrealer Vergleich: „als“ + Verb direkt danach („als hätte er …“) oder „als ob“ + Verb am Ende („als ob er … gelesen hätte“).",
+    "beispiel": "Sie lächelt, **als wäre** nichts passiert."
+  },
+  {
+    "id": "dr_nominalisierung_d01",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "___ Nichtbeachtung der Sicherheitsregeln wird man vom Laborpraktikum ausgeschlossen.",
+    "optionen": [
+      "Trotz",
+      "Ohne",
+      "Bei",
+      "Während"
+    ],
+    "loesung": 2,
+    "erklaerung": "Bedingung („wenn man die Regeln nicht beachtet“) → Nominalstil mit „bei + Dativ“. „Trotz“ wäre ein Gegensatz und passt inhaltlich nicht.",
+    "beispiel": "**Bei** Verlust des Studierendenausweises wenden Sie sich an das Service-Center."
+  },
+  {
+    "id": "dr_nominalisierung_d02",
+    "kategorie": "nominalisierung",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "___ Verbesserung der Unterrichtsqualität wurden neue Fortbildungen eingeführt.",
+    "optionen": [
+      "Um",
+      "Damit",
+      "Zur",
+      "Zum"
+    ],
+    "loesung": 2,
+    "erklaerung": "Ziel im Nominalstil: „zu + Dativ“; „Verbesserung“ ist feminin → „zur“ (zu der). „Um“ und „Damit“ brauchen ein Verb, „zum“ steht vor maskulinen/neutralen Nomen.",
+    "beispiel": "**Zur** Vorbereitung auf die Prüfung bietet die Uni einen Kurs an."
+  },
+  {
+    "id": "dr_nominalisierung_d03",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "___ den Einsatz von Lernvideos wird die Vorlesung anschaulicher.",
+    "optionen": [
+      "Durch",
+      "Mit",
+      "Bei",
+      "Wegen"
+    ],
+    "loesung": 0,
+    "erklaerung": "Mittel („indem man Lernvideos einsetzt“) → „durch + Akkusativ“. Nur „durch“ passt zum Akkusativ „den Einsatz“; „mit“ und „bei“ verlangen den Dativ.",
+    "beispiel": "**Durch** den Bau neuer Radwege ist der Verkehr sicherer geworden."
+  },
+  {
+    "id": "dr_nominalisierung_d04",
+    "kategorie": "nominalisierung",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Die ___ ausländischer Lehramtsabschlüsse ist in Deutschland Sache der Bundesländer.",
+    "optionen": [
+      "Anerkennung",
+      "Anerkennen",
+      "Erkennung",
+      "Kenntnis"
+    ],
+    "loesung": 0,
+    "erklaerung": "Aus dem Verb „anerkennen“ wird das Nomen „die Anerkennung“; das Objekt folgt im Genitiv. „das Anerkennen“ ist neutral und passt nicht zu „Die“.",
+    "beispiel": "Die **Bearbeitung des Antrags** dauert etwa drei Monate."
+  },
+  {
+    "id": "dr_nominalisierung_d05",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Seit dem ___ der Studierendenzahlen sind die Hörsäle überfüllt.",
+    "optionen": [
+      "Steigerung",
+      "Aufstieg",
+      "Zunahme",
+      "Anstieg"
+    ],
+    "loesung": 3,
+    "erklaerung": "„steigen“ → „der Anstieg“ (maskulin, passt zu „dem“). „Steigerung“ und „Zunahme“ sind feminin („seit der …“); „Aufstieg“ bedeutet beruflichen Erfolg oder einen Weg nach oben.",
+    "beispiel": "Nach dem **Rückgang** der Geburtenzahlen schließen einige Grundschulen."
+  },
+  {
+    "id": "dr_nominalisierung_d06",
+    "kategorie": "nominalisierung",
+    "niveau": "C1+",
+    "bezug": false,
+    "satz": "Die Bewertung der Hausarbeiten ___ die Dozentin dauert oft mehrere Wochen.",
+    "optionen": [
+      "von",
+      "mit",
+      "bei",
+      "durch"
+    ],
+    "loesung": 3,
+    "erklaerung": "Im Nominalstil wird das Subjekt (wer bewertet?) mit „durch + Akkusativ“ angeschlossen, wenn schon ein Genitiv da ist. „von“ bräuchte den Dativ („von der Dozentin“).",
+    "beispiel": "Die Prüfung der Unterlagen **durch die Behörde** dauert lange."
+  },
+  {
+    "id": "dr_nominalisierung_d07",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Nach der ___ Reinigung des Labors können die Versuche beginnen.",
+    "optionen": [
+      "gründlichen",
+      "gründlich",
+      "gründliche",
+      "gründlicher"
+    ],
+    "loesung": 0,
+    "erklaerung": "Im Nominalstil wird das Adverb („gründlich reinigen“) zum Adjektiv vor dem Nomen. „nach der“ = Dativ feminin → Endung „-en“.",
+    "beispiel": "Nach **sorgfältiger Prüfung** wurde der Antrag genehmigt."
+  },
+  {
+    "id": "dr_nominalisierung_d08",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "___ intensiver Bemühungen konnte keine Lösung gefunden werden.",
+    "optionen": [
+      "Wegen",
+      "Trotz",
+      "Bei",
+      "Durch"
+    ],
+    "loesung": 1,
+    "erklaerung": "Gegensatz („obwohl man sich intensiv bemüht hat“) → „trotz + Genitiv“. „Wegen“ passt inhaltlich nicht; „bei“ und „durch“ verlangen einen anderen Kasus.",
+    "beispiel": "**Trotz** sorgfältiger Planung kam es zu Verzögerungen."
+  },
+  {
+    "id": "dr_nominalisierung_d09",
+    "kategorie": "nominalisierung",
+    "niveau": "B2+",
+    "bezug": false,
+    "satz": "___ Beginn des Experiments müssen alle eine Schutzbrille aufsetzen.",
+    "optionen": [
+      "Bevor",
+      "Vor",
+      "Vorher",
+      "Ehe"
+    ],
+    "loesung": 1,
+    "erklaerung": "Nach der Lücke folgt ein Nomen („Beginn“) → Präposition „vor + Dativ“. „bevor“ und „ehe“ sind Subjunktionen (Nebensatz), „vorher“ ist ein Adverb.",
+    "beispiel": "**Vor** Antritt der Reise sollte man sich impfen lassen."
+  },
+  {
+    "id": "dr_nominalisierung_d10",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Nebensatz in eine Präpositionalgruppe um.",
+    "ausgang": "Nachdem die Unterlagen geprüft worden waren, wurde der Bescheid verschickt.",
+    "vorgabe": "___ wurde der Bescheid verschickt.",
+    "loesung": "Nach Prüfung der Unterlagen",
+    "akzeptiert": [
+      "Nach der Prüfung der Unterlagen"
+    ],
+    "erklaerung": "„nachdem“ → „nach + Dativ“. Das Verb „prüfen“ wird zum Nomen „die Prüfung“, das Subjekt „die Unterlagen“ zum Genitivattribut.",
+    "beispiel": "**Nach Abschluss des Studiums** zog sie nach Köln."
+  },
+  {
+    "id": "dr_nominalisierung_d11",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Nebensatz in eine Präpositionalgruppe um.",
+    "ausgang": "Während die Experimente durchgeführt werden, darf niemand das Labor betreten.",
+    "vorgabe": "___ darf niemand das Labor betreten.",
+    "loesung": "Während der Durchführung der Experimente",
+    "akzeptiert": [
+      "Bei der Durchführung der Experimente",
+      "Bei Durchführung der Experimente"
+    ],
+    "erklaerung": "„während“ (Subjunktion) → „während + Genitiv“. „durchführen“ → „die Durchführung“; „die Experimente“ wird Genitivattribut.",
+    "beispiel": "**Während der Renovierung der Bibliothek** bleibt der Lesesaal geschlossen."
+  },
+  {
+    "id": "dr_nominalisierung_d12",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie die Präpositionalgruppe in einen Nebensatz um.",
+    "ausgang": "Bei Nichtbestehen der Prüfung kann diese einmal wiederholt werden.",
+    "vorgabe": "___, kann sie einmal wiederholt werden.",
+    "loesung": "Wenn man die Prüfung nicht besteht",
+    "akzeptiert": [
+      "Falls man die Prüfung nicht besteht",
+      "Wenn die Prüfung nicht bestanden wird",
+      "Falls die Prüfung nicht bestanden wird",
+      "Sofern man die Prüfung nicht besteht",
+      "Wenn die Prüfung nicht bestanden ist"
+    ],
+    "erklaerung": "„bei“ (Bedingung) → „wenn/falls“. Das Nomen „Nichtbestehen“ wird zum Verb „nicht bestehen“; im Nebensatz steht das Verb am Ende.",
+    "beispiel": "**Wenn man die Frist versäumt**, verfällt der Anspruch."
+  },
+  {
+    "id": "dr_nominalisierung_d13",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie die Präpositionalgruppe in einen Nebensatz um.",
+    "ausgang": "Durch regelmäßiges Lüften wird die Luftqualität im Klassenzimmer verbessert.",
+    "vorgabe": "___, wird die Luftqualität im Klassenzimmer verbessert.",
+    "loesung": "Indem man regelmäßig lüftet",
+    "akzeptiert": [
+      "Dadurch dass man regelmäßig lüftet",
+      "Dadurch, dass man regelmäßig lüftet",
+      "Indem regelmäßig gelüftet wird",
+      "Dadurch, dass regelmäßig gelüftet wird"
+    ],
+    "erklaerung": "„durch“ (Mittel) → „indem“ oder „dadurch, dass“. Das Adjektiv „regelmäßig“ wird wieder zum Adverb.",
+    "beispiel": "**Indem man täglich liest**, verbessert man seinen Wortschatz."
+  },
+  {
+    "id": "dr_nominalisierung_d14",
+    "kategorie": "nominalisierung",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Infinitivsatz in eine Nominalgruppe um.",
+    "ausgang": "Die Universität hat beschlossen, die Studiengebühren abzuschaffen.",
+    "vorgabe": "Die Universität hat ___ beschlossen.",
+    "loesung": "die Abschaffung der Studiengebühren",
+    "akzeptiert": [],
+    "erklaerung": "„abschaffen“ → „die Abschaffung“; das Akkusativobjekt („die Studiengebühren“) wird zum Genitivattribut.",
+    "beispiel": "Der Senat hat **die Einführung eines neuen Studiengangs** beschlossen."
+  },
+  {
+    "id": "dr_nominalisierung_d15",
+    "kategorie": "nominalisierung",
+    "niveau": "C1+",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Nebensatz in eine Präpositionalgruppe um.",
+    "ausgang": "Obwohl der Antrag schnell bearbeitet wurde, verzögerte sich die Einstellung.",
+    "vorgabe": "___ verzögerte sich die Einstellung.",
+    "loesung": "Trotz der schnellen Bearbeitung des Antrags",
+    "akzeptiert": [
+      "Trotz schneller Bearbeitung des Antrags",
+      "Ungeachtet der schnellen Bearbeitung des Antrags"
+    ],
+    "erklaerung": "„obwohl“ → „trotz + Genitiv“. „bearbeiten“ → „die Bearbeitung“; das Adverb „schnell“ wird zum Adjektiv („der schnellen Bearbeitung“).",
+    "beispiel": "**Trotz der guten Vorbereitung der Klasse** fiel der Test schlecht aus."
+  },
+  {
+    "id": "dr_partizip_d01",
+    "kategorie": "partizip",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Die ___ Ergebnisse überraschten das Forschungsteam.",
+    "optionen": [
+      "im Labor gewinnenden",
+      "im Labor gewonnenen",
+      "gewonnenen im Labor",
+      "im Labor gewonnene"
+    ],
+    "loesung": 1,
+    "erklaerung": "Erweitertes Partizipialattribut: Erweiterung („im Labor“) + Partizip mit Endung steht zwischen Artikel und Nomen. Die Ergebnisse wurden gewonnen → Partizip II; nach „die“ (Plural) → „-en“.",
+    "beispiel": "Die **von den Schülern gesammelten** Blätter wurden bestimmt."
+  },
+  {
+    "id": "dr_partizip_d02",
+    "kategorie": "partizip",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Die Zahl der ___ Lehrkräfte steigt in vielen Bundesländern.",
+    "optionen": [
+      "gefehlten",
+      "fehlende",
+      "fehlenden",
+      "fehlten"
+    ],
+    "loesung": 2,
+    "erklaerung": "Die Lehrkräfte fehlen jetzt (aktiv, gleichzeitig) → Partizip I „fehlend“. Genitiv Plural nach „der“ → „-en“. Von „fehlen“ gibt es kein Partizip-II-Attribut.",
+    "beispiel": "Die **steigenden** Mieten belasten viele Familien."
+  },
+  {
+    "id": "dr_partizip_d03",
+    "kategorie": "partizip",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "Der ___ Antrag wurde an die Bezirksregierung weitergeleitet.",
+    "optionen": [
+      "einreichende",
+      "eingereichten",
+      "eingereichte",
+      "einreichte"
+    ],
+    "loesung": 2,
+    "erklaerung": "Der Antrag wurde eingereicht (passiv, abgeschlossen) → Partizip II. Nominativ maskulin nach „der“ → „-e“. „einreichende“ hieße, dass der Antrag selbst etwas einreicht.",
+    "beispiel": "Der **korrigierte** Test liegt auf dem Pult."
+  },
+  {
+    "id": "dr_partizip_d04",
+    "kategorie": "partizip",
+    "niveau": "C1+",
+    "bezug": false,
+    "satz": "Die noch ___ Probleme werden im nächsten Kapitel behandelt.",
+    "optionen": [
+      "zu lösende",
+      "zu gelösten",
+      "lösenden zu",
+      "zu lösenden"
+    ],
+    "loesung": 3,
+    "erklaerung": "„zu + Partizip I“ = etwas muss/kann noch gemacht werden (Probleme, die gelöst werden müssen). Nach „die“ (Plural) → „-en“. „zu“ steht direkt vor dem Partizip I, nie vor einem Partizip II.",
+    "beispiel": "Die **bis Freitag zu korrigierenden** Klausuren liegen auf meinem Schreibtisch."
+  },
+  {
+    "id": "dr_partizip_d05",
+    "kategorie": "partizip",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Wir haben ___ Studie im Seminar diskutiert.",
+    "optionen": [
+      "eine vor Kurzem veröffentlichte",
+      "eine veröffentlichte vor Kurzem",
+      "eine vor Kurzem veröffentlichten",
+      "eine vor Kurzem veröffentlichende"
+    ],
+    "loesung": 0,
+    "erklaerung": "Reihenfolge: Artikel + Erweiterung + Partizip + Nomen. Die Studie wurde veröffentlicht → Partizip II; nach „eine“ (Akkusativ feminin) → „-e“.",
+    "beispiel": "Sie arbeitet an **einem von der EU geförderten** Projekt."
+  },
+  {
+    "id": "dr_partizip_d06",
+    "kategorie": "partizip",
+    "niveau": "C1",
+    "bezug": false,
+    "satz": "Mit ___ Erfahrung fällt vielen Berufseinsteigern die Arbeit leichter.",
+    "optionen": [
+      "zugenommener",
+      "zunehmende",
+      "zunehmender",
+      "zugenommen"
+    ],
+    "loesung": 2,
+    "erklaerung": "Die Erfahrung nimmt zu (Prozess, aktiv) → Partizip I. „mit“ + Dativ feminin ohne Artikel → „-er“. „zugenommen“ (mit „haben“) kann nicht vor einem Nomen stehen.",
+    "beispiel": "Mit **steigender** Temperatur nimmt die Enzymaktivität zunächst zu."
+  },
+  {
+    "id": "dr_partizip_d07",
+    "kategorie": "partizip",
+    "niveau": "B2+",
+    "bezug": true,
+    "satz": "In der Pause sieht man überall ___ Kinder auf dem Schulhof.",
+    "optionen": [
+      "spielende",
+      "gespielte",
+      "spielenden",
+      "gespielten"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Kinder spielen (aktiv, gleichzeitig) → Partizip I. Akkusativ Plural ohne Artikel → „-e“. „gespielte Kinder“ hieße, jemand hat die Kinder gespielt – das ergibt keinen Sinn.",
+    "beispiel": "Die **wartenden** Eltern standen vor dem Lehrerzimmer."
+  },
+  {
+    "id": "dr_partizip_d08",
+    "kategorie": "partizip",
+    "niveau": "B2+",
+    "bezug": true,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Relativsatz in ein Partizipialattribut um.",
+    "ausgang": "Die Pflanzen, die im Schulgarten wachsen, werden von der Klasse 7b gepflegt.",
+    "vorgabe": "Die ___ Pflanzen werden von der Klasse 7b gepflegt.",
+    "loesung": "im Schulgarten wachsenden",
+    "akzeptiert": [],
+    "erklaerung": "Aktiver Relativsatz im Präsens → Partizip I („wachsend“). Die Erweiterung („im Schulgarten“) steht vor dem Partizip; nach „die“ (Plural) → „-en“.",
+    "beispiel": "Die **auf dem Campus lebenden** Studierenden zahlen weniger Miete."
+  },
+  {
+    "id": "dr_partizip_d09",
+    "kategorie": "partizip",
+    "niveau": "C1",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie den Relativsatz in ein Partizipialattribut um.",
+    "ausgang": "Die Studie, die im letzten Jahr durchgeführt wurde, zeigt deutliche Effekte.",
+    "vorgabe": "Die ___ Studie zeigt deutliche Effekte.",
+    "loesung": "im letzten Jahr durchgeführte",
+    "akzeptiert": [],
+    "erklaerung": "Passiver Relativsatz → Partizip II („durchgeführt“). „Die Studie“ ist Nominativ Singular feminin → Endung „-e“.",
+    "beispiel": "Der **vom Senat beschlossene** Plan tritt im Herbst in Kraft."
+  },
+  {
+    "id": "dr_partizip_d10",
+    "kategorie": "partizip",
+    "niveau": "C1+",
+    "bezug": false,
+    "typ": "umformung",
+    "aufgabe": "Formen Sie das Partizipialattribut in einen Relativsatz um.",
+    "ausgang": "Die bis Montag einzureichenden Unterlagen liegen im Sekretariat bereit.",
+    "vorgabe": "Die Unterlagen, ___, liegen im Sekretariat bereit.",
+    "loesung": "die bis Montag eingereicht werden müssen",
+    "akzeptiert": [
+      "die bis Montag einzureichen sind",
+      "die man bis Montag einreichen muss",
+      "die bis Montag eingereicht werden sollen"
+    ],
+    "erklaerung": "„zu + Partizip I“ bedeutet Notwendigkeit → Relativsatz mit „müssen + Passiv“ oder „sein + zu + Infinitiv“.",
+    "beispiel": "Die **noch zu klärenden** Fragen besprechen wir morgen."
+  }
+]
