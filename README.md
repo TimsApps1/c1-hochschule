@@ -101,3 +101,26 @@ Ohne Dropbox: **Mehr → Export (Datei)** sichert den Lernstand manuell; **Impor
 - Format: `docs/CONTENT_SPEC.md`. Nach jeder Änderung: `node scripts/validate.mjs`.
 - IDs nie umnummerieren (Lernstand hängt daran). Neue Items hinten anhängen.
 - Items mit `"pruefung": 1/2/3` sind für die Generalproben reserviert und erscheinen nicht im normalen Üben.
+
+## 7. Natürliche Stimmen für die Hörtexte (Azure, einmalig)
+
+Die App spielt für jeden Hörtext eine MP3 ab, wenn es eine gibt (`data/audio/<id>.mp3`), sonst liest die iPhone-Stimme vor.
+Die MP3s werden **einmalig** mit Azure-Neuralstimmen erzeugt (ca. 205.000 Zeichen – im kostenlosen Tarif F0 sind
+500.000 Zeichen pro Monat frei).
+
+1. Azure-Konto anlegen (https://azure.microsoft.com/de-de/free), im Portal eine Ressource **Speech-Dienste** mit Tarif
+   **Free F0** und Region z. B. **West Europe** erstellen. Unter „Schlüssel und Endpunkt“ **Schlüssel 1** und **Region** notieren.
+2. Auf dem PC die Datei `%USERPROFILE%\.c1-azure.env` anlegen (also `C:\Users\<Name>\.c1-azure.env`, **nicht** im Projektordner):
+   ```
+   KEY=dein-schluessel
+   REGION=westeurope
+   ```
+3. Testen und erzeugen:
+   ```bash
+   node scripts/tts-azure.mjs --dry-run
+   node scripts/tts-azure.mjs --test
+   node scripts/tts-azure.mjs
+   ```
+   Danach `CACHE_VERSION` in `sw.js` erhöhen, committen, pushen.
+
+Der Schlüssel landet nie im Repository. Neue Hörtexte später: einfach das Skript erneut ausführen (vorhandene MP3s werden übersprungen).

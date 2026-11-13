@@ -3,8 +3,8 @@ const FILES = {
   wortschatz: ["wortschatz_a.json", "wortschatz_b.json"],
   redewendungen: ["redewendungen.json"],
   sb: ["sb_a.json", "sb_b.json"],
-  drills: ["drills_a.json", "drills_b.json"],
-  grammatik: ["grammatik_a.json", "grammatik_b.json"],
+  drills: ["drills_a.json", "drills_b.json", "drills_c.json", "drills_d.json"],
+  grammatik: ["grammatik_a.json", "grammatik_b.json", "grammatik_c.json"],
   lesen: ["lesen_a.json", "lesen_b.json"],
   hoeren: ["hoeren_1.json", "hoeren_2.json", "hoeren_3.json"],
   schreiben: ["schreiben.json"],
@@ -13,6 +13,7 @@ const FILES = {
   links: ["links.json"],
   lernpfad: ["lernpfad.json"],
   einstufung: ["einstufung.json"],
+  audio: ["audio/index.json"],
 };
 
 const cache = new Map();

@@ -18,20 +18,23 @@ import { speakOnce } from "./tts.js";
 export function runQuiz(el, { title, items, intro, retryWrong = true, onExit }) {
   return new Promise((resolve) => {
     const started = Date.now();
-    const queue = items.map((it, i) => ({ ...it, _i: i, _first: true }));
-    const firstResult = new Array(items.length).fill(null);
+    // Intro-Karten (type "intro") werden nur gezeigt, nicht gewertet
+    let si = 0;
+    const queue = items.map((it) => ({ ...it, _i: it.type === "intro" ? -1 : si++, _first: true }));
+    const scored = si;
+    const firstResult = new Array(scored).fill(null);
     let done = 0;
 
     const finish = (aborted = false) => {
       const score = firstResult.filter((x) => x === true).length;
-      resolve({ score, max: items.length, sec: Math.round((Date.now() - started) / 1000), results: firstResult, aborted });
+      resolve({ score, max: scored, sec: Math.round((Date.now() - started) / 1000), results: firstResult, aborted });
     };
 
     const header = () =>
       h("div.quiz-head",
         h("button.icon-btn", { "aria-label": "Beenden", onclick: () => { onExit && onExit(); finish(true); } }, "✕"),
-        progressBar(done, items.length + (queue.filter((q) => !q._first).length), "grow"),
-        h("span.muted.small", `${Math.min(done + 1, items.length)}/${items.length}`));
+        progressBar(done, scored + (queue.filter((q) => !q._first).length), "grow"),
+        h("span.muted.small", `${Math.min(done + 1, scored)}/${scored}`));
 
     const next = () => {
       if (!queue.length) return finish();
@@ -61,6 +64,12 @@ export function runQuiz(el, { title, items, intro, retryWrong = true, onExit }) 
       };
 
       const type = it.type || (it.options ? "mc" : "input");
+      if (type === "intro") {
+        card.classList.add("intro-card");
+        const go = h("button.btn.primary.wide", { onclick: next }, "Verstanden – weiter");
+        foot.append(go);
+        return;
+      }
       if (type === "mc") {
         const order = it.keepOrder ? it.options.map((_, i) => i) : shuffle(it.options.map((_, i) => i));
         const opts = h("div.options");

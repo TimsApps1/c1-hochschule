@@ -71,15 +71,22 @@ for (const s of sb) {
 }
 
 // Drills / Grammatik
-const drills = [...(load("drills_a.json") || []), ...(load("drills_b.json") || [])];
+const drills = ["drills_a.json", "drills_b.json", "drills_c.json", "drills_d.json"].flatMap((f) => load(f) || []);
 for (const d of drills) {
   uniq("drills", d.id);
   if (!KAT.includes(d.kategorie)) E("drills", `${d.id} Kategorie ${d.kategorie}`);
   if (d.typ === "umformung") { if (!d.loesung || !d.ausgang) E("drills", `${d.id} Umformung unvollständig`); }
   else if (d.optionen?.length !== 4 || !(d.loesung >= 0 && d.loesung < 4) || !String(d.satz).includes("___")) E("drills", `${d.id} MC fehlerhaft`);
+  else {
+    // Lösung darf nicht außerhalb der Lücke im Satz stehen
+    const sol = String(d.optionen[d.loesung]).toLowerCase();
+    const rest = String(d.satz).toLowerCase().replace("___", " ");
+    const words = rest.split(/[^a-zäöüß]+/);
+    if (sol.length > 3 && !sol.includes(" ") && words.includes(sol)) W("drills", `${d.id}: Lösung „${sol}“ steht schon im Satz`);
+  }
   count("Drills");
 }
-const gram = [...(load("grammatik_a.json") || []), ...(load("grammatik_b.json") || [])];
+const gram = ["grammatik_a.json", "grammatik_b.json", "grammatik_c.json"].flatMap((f) => load(f) || []);
 const drillKats = new Set(drills.map((d) => d.kategorie));
 for (const k of drillKats) if (!gram.some((g) => g.id === k)) W("grammatik", `keine Erklärung für ${k}`);
 

@@ -403,3 +403,6 @@ audio { width: 100%; margin: 6px 0; }
 .week-banner { display: flex; align-items: center; gap: 10px; background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); padding: 10px 14px; margin: 22px 0 6px; }
 .week-banner h2 { margin: 0; font-size: 1.05rem; }
 .week-banner .mascot { width: 52px; height: 52px; }
+
+.btn.pulse { animation: btnpulse 1.2s ease-in-out infinite; }
+@keyframes btnpulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.06); } }

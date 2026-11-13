@@ -5,6 +5,7 @@ import { h, clear, md, Timer, fmtTime, confirmBox, toast, norm } from "./ui.js";
 import { store } from "./store.js";
 import { TEILE } from "./analytics.js";
 import { ScriptPlayer, ttsSupported, voicesReady, stopAll } from "./tts.js";
+import { FilePlayer, audioFor } from "./audio.js";
 
 const ZAHL = ["null", "eins", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun", "zehn"];
 const LESEZEIT = { hv1: 60, hv2: 180, hv3: 60 };
@@ -28,24 +29,30 @@ function segmentsFor(item) {
   return item.skript.map((s) => ({ ...s, name: names[s.sp] || s.sp }));
 }
 
-function audioBar({ segments, exam, onEnd, onSegment }) {
-  const status = h("span.small.muted", "bereit");
+function audioBar({ segments, exam, onEnd, onSegment, file }) {
+  const status = h("span.small.muted", file ? "🎙️ Sprecheraufnahme" : "bereit");
   const prog = h("div.bar.grow", h("span"));
   let plays = 0;
-  const player = new ScriptPlayer(segments, {
+  const handlers = {
     onSegment: (i) => { prog.firstChild.style.width = Math.round(player.progress * 100) + "%"; onSegment && onSegment(i); },
+    onProgress: (p) => { prog.firstChild.style.width = Math.round(p * 100) + "%"; },
     onEnd: () => { prog.firstChild.style.width = "100%"; status.textContent = "Ende"; playBtn.textContent = exam ? "✓ gehört" : "↻ Nochmal"; playBtn.disabled = !!exam; onEnd && onEnd(plays); },
-    onState: (s) => { status.textContent = { playing: "läuft …", paused: "Pause", idle: "bereit", ended: "Ende" }[s]; playBtn.textContent = s === "playing" ? (exam ? "🔊 läuft" : "⏸ Pause") : "▶︎ Abspielen"; },
-  });
+    onState: (s) => { status.textContent = { playing: "läuft …", paused: "Pause", idle: "bereit", ended: "Ende", loading: "lädt …", error: "⚠️ Audio nicht ladbar" }[s]; playBtn.textContent = s === "playing" ? (exam ? "🔊 läuft" : "⏸ Pause") : s === "loading" ? "⏳ lädt …" : "▶︎ Abspielen"; },
+  };
+  const player = file ? new FilePlayer(file, { rate: store.settings.ttsRate || 1, ...handlers }) : new ScriptPlayer(segments, handlers);
+  // erst nach dem Aufbau der Knöpfe vorladen (onState greift auf playBtn zu)
+  if (file) setTimeout(() => player.prepare().catch(() => toast("Audio konnte nicht geladen werden – bitte Internet prüfen.")), 0);
   const playBtn = h("button.btn.primary", { onclick: () => {
     if (player.state === "playing") { if (!exam) player.pause(); return; }
+    if (player.state === "loading") return;
     if (exam && plays >= 1 && player.state !== "paused") return;
-    if (player.state === "ended" || player.state === "idle") plays++;
-    player.play();
+    if (player.state === "ended" || player.state === "idle" || player.state === "error") plays++;
+    playBtn.classList.remove("pulse");
+    Promise.resolve(player.play()).catch((e) => toast("Abspielen nicht möglich: " + e.message));
   } }, "▶︎ Abspielen");
   const ctrls = [];
   if (!exam) {
-    ctrls.push(h("button.btn.small", { onclick: () => player.back(2) }, "⟲ 2 Sätze"));
+    ctrls.push(h("button.btn.small", { onclick: () => player.back(file ? 6 : 2) }, file ? "⟲ 6 Sek." : "⟲ 2 Sätze"));
     const rates = [0.8, 1.0, 1.15];
     const seg = h("div.seg.small", rates.map((r) => h("button" + (Math.abs((store.settings.ttsRate || 1) - r) < 0.01 ? ".on" : ""), { onclick: (e) => {
       player.setRate(r);
@@ -55,8 +62,8 @@ function audioBar({ segments, exam, onEnd, onSegment }) {
     ctrls.push(seg);
   }
   const el = h("div.audiobar", h("div.row", playBtn, ...ctrls), h("div.row", prog, status));
-  if (!ttsSupported()) el.append(h("p.callout", "Dieser Browser kann nicht vorlesen. Auf dem iPhone in Safari funktioniert es."));
-  return { el, player, get plays() { return plays; }, start: () => { plays++; player.play(); } };
+  if (!file && !ttsSupported()) el.append(h("p.callout", "Dieser Browser kann nicht vorlesen. Auf dem iPhone in Safari funktioniert es."));
+  return { el, player, playBtn, get plays() { return plays; } };
 }
 
 function transcript(segments) {
@@ -72,13 +79,14 @@ export function hoerenExam(el, item, opts = {}) {
     const teil = item.teil;
     clear(el);
     const segments = segmentsFor(item);
+    const file = await audioFor(item.id);
     let submitted = false;
     const timerEl = h("span.timer");
-    const close = h("button.icon-btn", { "aria-label": "Beenden", onclick: async () => { if (submitted || (await confirmBox("Abbrechen?", "Deine Antworten gehen verloren."))) { stopAll(); clockTimer?.stop(); resolve({ aborted: true }); } } }, "✕");
+    const close = h("button.icon-btn", { "aria-label": "Beenden", onclick: async () => { if (submitted || (await confirmBox("Abbrechen?", "Deine Antworten gehen verloren."))) { stopAll(); bar.player.stop(); clockTimer?.stop(); resolve({ aborted: true }); } } }, "✕");
     el.append(h("div.ex-head", close, h("div", h("strong", TEILE[teil].name), h("div.muted.small", item.titel)), timerEl));
     if (!exam && HOER_TIPPS[teil]) el.append(h("details.tips", h("summary", "💡 Strategie"), h("ul", HOER_TIPPS[teil].map((t) => h("li", { html: md(t) })))));
     el.append(h("p.situation", item.situation || ""));
-    const bar = audioBar({ segments, exam, onEnd: () => { if (exam) { toast("Hörtext beendet – jetzt Antworten prüfen und abgeben."); } } });
+    const bar = audioBar({ segments, exam, file, onEnd: () => { if (exam) { toast("Hörtext beendet – jetzt Antworten prüfen und abgeben."); } } });
     const phase = h("div.phase");
     el.append(phase, bar.el);
     const body = h("div.tasks");
@@ -95,10 +103,10 @@ export function hoerenExam(el, item, opts = {}) {
       phase.append(" ", skip);
       clockTimer = new Timer({ seconds: LESEZEIT[teil], mode: "down", onTick: (v) => (timerEl.textContent = "📖 " + fmtTime(v)), onEnd: () => {
         clockTimer.stop();
-        phase.textContent = "Hörtext läuft (nur einmal) …";
+        phase.textContent = "Lesezeit vorbei – tippe auf ▶︎. Der Hörtext läuft nur einmal.";
         bar.el.classList.remove("locked");
+        bar.playBtn.classList.add("pulse");
         timerEl.textContent = "🔊";
-        bar.start();
       } });
       clockTimer.start();
     } else {

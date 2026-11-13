@@ -46,13 +46,31 @@ function idiomCard(r) {
     r.hinweis ? h("p.small.muted", "💡 " + r.hinweis) : null);
 }
 
+/** Wortstamm eines Eintrags („die Methodik“ → „method“), um ihn in Erklärungen/Sätzen zu verdecken. */
+function stemOf(wort) {
+  const w = String(wort).replace(/^(der|die|das|sich)\s+/i, "").split(/[\s,(+]/)[0].toLowerCase();
+  if (w.length <= 4) return w;
+  return w.slice(0, Math.max(4, Math.min(w.length - 2, 7)));
+}
+/** Verdeckt Wörter, die mit dem Stamm beginnen oder ihn enthalten (z. B. „Methoden“ bei „Methodik“). */
+export function mask(text, ...stems) {
+  let t = String(text);
+  for (const s of stems.filter((x) => x && x.length >= 3)) {
+    const re = new RegExp(`[A-Za-zÄÖÜäöüß-]*${s.replace(/[.*+?^${}()|[\]\\]/g, "\\/** Erzeugt eine Übungsaufgabe für ein Wort, abhängig vom Lernstand. */")}[A-Za-zÄÖÜäöüß-]*`, "gi");
+    t = t.replace(re, "…");
+  }
+  return t;
+}
+const explOf = (w) => mask(w.erklaerung, stemOf(w.wort));
+const bedOf = (r) => mask(r.bedeutung, r.luecke?.loesung ? stemOf(r.luecke.loesung) : "");
+
 /** Erzeugt eine Übungsaufgabe für ein Wort, abhängig vom Lernstand. */
 function wordExercise(w, all, isNew) {
   const c = store.card(w.id);
   const reps = c ? c.reps : 0;
   const types = [];
-  if (isNew) types.push(w.luecke ? "luecke" : "bedeutung");
-  else if (reps === 0) types.push("bedeutung");
+  // Neue Wörter: Die Lernkarte kommt vorher auf einem eigenen Bildschirm, die Aufgabe ein paar Karten später.
+  if (isNew || reps === 0) types.push("bedeutung", w.luecke ? "luecke" : "bedeutung");
   else {
     types.push("luecke", "rueckwaerts");
     if (w.synonyme?.length) types.push("synonym");
@@ -64,14 +82,17 @@ function wordExercise(w, all, isNew) {
   const sameKind = (x) => x.wortart === w.wortart;
   let it;
   if (t === "bedeutung") {
-    const opts = [w.erklaerung, ...distractors(all, w, "erklaerung", 3, sameKind)];
+    const others = shuffle(all.filter((x) => x.id !== w.id && sameKind(x))).slice(0, 3).map(explOf);
+    const opts = [explOf(w), ...others];
     it = { label: "Bedeutung", prompt: `Was bedeutet **${w.wort}**?`, options: opts, correct: 0, speak: w.wort };
   } else if (t === "rueckwaerts") {
     const opts = [w.wort, ...distractors(all, w, "wort", 3, sameKind)];
-    it = { label: "Welches Wort?", prompt: `Welches Wort passt zu dieser Erklärung?\n\n_${w.erklaerung}_`, options: opts, correct: 0 };
+    it = { label: "Welches Wort?", prompt: `Welches Wort passt zu dieser Erklärung?\n\n_${explOf(w)}_`, options: opts, correct: 0 };
   } else if (t === "luecke" && w.luecke) {
     const o = w.luecke.optionen;
-    it = { label: "Lückentext", prompt: w.luecke.satz.replace("___", "_____"), options: o, correct: o.indexOf(w.luecke.loesung) };
+    // Andere Vorkommen des Wortes im Satz verdecken (die Lücke selbst bleibt)
+    const satz = w.luecke.satz.split("___").map((p) => mask(p, stemOf(w.luecke.loesung), stemOf(w.wort))).join("_____");
+    it = { label: "Lückentext", prompt: satz, options: o, correct: o.indexOf(w.luecke.loesung) };
   } else if (t === "synonym" || t === "antonym") {
     const field = t === "synonym" ? "synonyme" : "antonyme";
     const right = w[field][0];
@@ -85,7 +106,7 @@ function wordExercise(w, all, isNew) {
     it = { label: "Wortfamilie", prompt: `Welches Wort gehört zur selben Wortfamilie wie **${w.wort}**?`, options: opts, correct: 0 };
   }
   if (!it || it.correct < 0 || it.options.length < 2) {
-    const opts = [w.erklaerung, ...distractors(all, w, "erklaerung", 3)];
+    const opts = [explOf(w), ...shuffle(all.filter((x) => x.id !== w.id)).slice(0, 3).map(explOf)];
     it = { label: "Bedeutung", prompt: `Was bedeutet **${w.wort}**?`, options: opts, correct: 0 };
   }
   it.explain = `**${w.wort}** – ${w.erklaerung}\n„${w.beispiel}“`;
@@ -95,18 +116,19 @@ function wordExercise(w, all, isNew) {
 function idiomExercise(r, all, isNew) {
   const c = store.card(r.id);
   const reps = c ? c.reps : 0;
-  const types = isNew ? [r.luecke ? "luecke" : "situation"] : reps === 0 ? ["bedeutung"] : ["luecke", "situation", "bedeutung", "luecke"];
+  const types = isNew || reps === 0 ? ["bedeutung", "situation"] : ["luecke", "situation", "bedeutung", "luecke"];
   const t = types[Math.floor(Math.random() * types.length)];
   let it;
   if (t === "luecke" && r.luecke) {
-    it = { label: "Lückentext", prompt: r.luecke.satz.replace("___", "_____"), options: r.luecke.optionen, correct: r.luecke.optionen.indexOf(r.luecke.loesung) };
+    const satz = r.luecke.satz.split("___").map((p) => mask(p, stemOf(r.luecke.loesung))).join("_____");
+    it = { label: "Lückentext", prompt: satz, options: r.luecke.optionen, correct: r.luecke.optionen.indexOf(r.luecke.loesung) };
   } else if (t === "situation" && r.situation) {
     it = { label: "Passende Situation", prompt: `**${r.ausdruck}**\n\n${r.situation.frage}`, options: r.situation.optionen, correct: r.situation.loesung };
   } else {
-    const opts = [r.bedeutung, ...distractors(all, r, "bedeutung", 3, (x) => x.typ === r.typ)];
+    const opts = [bedOf(r), ...shuffle(all.filter((x) => x.id !== r.id && x.typ === r.typ)).slice(0, 3).map(bedOf)];
     it = { label: "Bedeutung", prompt: `Was bedeutet **${r.ausdruck}**?`, options: opts, correct: 0 };
   }
-  if (it.correct < 0) it = { label: "Bedeutung", prompt: `Was bedeutet **${r.ausdruck}**?`, options: [r.bedeutung, ...distractors(all, r, "bedeutung", 3)], correct: 0 };
+  if (it.correct < 0) it = { label: "Bedeutung", prompt: `Was bedeutet **${r.ausdruck}**?`, options: [bedOf(r), ...shuffle(all.filter((x) => x.id !== r.id)).slice(0, 3).map(bedOf)], correct: 0 };
   it.explain = `**${r.ausdruck}** – ${r.bedeutung}\n„${r.beispiel}“` + (r.pruefung ? `\n${PRUEF_LABEL[r.pruefung] || ""}` : "");
   return it;
 }
@@ -130,14 +152,16 @@ export async function srsRound(el, kind, opts = {}) {
     return { score: 0, max: 0, xp: 0, aborted: true, empty: true };
   }
   const items = [];
+  const waiting = [];
+  const release = () => {
+    for (const w of waiting) w.gap--;
+    while (waiting.length && waiting[0].gap <= 0) items.push(waiting.shift().ex);
+  };
   for (const x of picked) {
     const c = store.card(x.id);
     const isNew = !c || !c.seen;
     const ex = kind === "wort" ? wordExercise(x, all, isNew) : idiomExercise(x, all, isNew);
-    if (isNew) {
-      ex.prompt = h("div", kind === "wort" ? wordCard(x) : idiomCard(x), h("div.prompt", { html: md(typeof ex.prompt === "string" ? ex.prompt : "") }));
-      ex.label = "Neu";
-    }
+    if (isNew) ex.label = "Neues Wort – weißt du es noch?";
     ex.onResult = async (ok, given) => {
       await review(x.id, kind, ok ? (isNew ? 3 : 4) : 0);
       if (!ok) {
@@ -145,7 +169,7 @@ export async function srsRound(el, kind, opts = {}) {
           modul: kind === "wort" ? "wortschatz" : "redewendungen",
           kategorie: kind === "wort" ? "wortschatz" : "redewendung",
           itemRef: x.id,
-          frage: (kind === "wort" ? `**${x.wort}**` : `**${x.ausdruck}**`) + (typeof ex.prompt === "string" ? "\n\n" + ex.prompt : ""),
+          frage: ex.prompt,
           optionen: ex.options,
           loesung: ex.correct,
           richtig: ex.options?.[ex.correct],
@@ -154,8 +178,13 @@ export async function srsRound(el, kind, opts = {}) {
         });
       }
     };
-    items.push(ex);
+    if (isNew) {
+      items.push({ type: "intro", label: kind === "wort" ? "Neues Wort" : "Neue Redewendung", prompt: kind === "wort" ? wordCard(x) : idiomCard(x), speak: kind === "wort" ? x.wort : x.ausdruck });
+      waiting.push({ ex, gap: 2 });
+    } else items.push(ex);
+    release();
   }
+  items.push(...waiting.map((w) => w.ex));
   const res = await runQuiz(el, { title: opts.title || (kind === "wort" ? "Wortschatz" : "Redewendungen"), items });
   const xp = res.aborted ? res.score : res.score + 5;
   await store.addAttempt({ modul: kind === "wort" ? "wortschatz" : "redewendungen", score: res.score, max: res.max, sec: res.sec, xp, meta: { ohneWertung: true } });
@@ -212,7 +241,7 @@ export async function matchRound(el, kind, opts = {}) {
   const pick = sample(seen.length >= 5 ? seen : src, 5);
   const left = shuffle(pick), right = shuffle(pick);
   const label = (x) => (kind === "wort" ? x.wort : x.ausdruck);
-  const meaning = (x) => (kind === "wort" ? x.erklaerung : x.bedeutung);
+  const meaning = (x) => (kind === "wort" ? explOf(x) : bedOf(x));
   const started = Date.now();
   return new Promise((resolve) => {
     clear(el);

@@ -152,6 +152,7 @@ export async function drillRound(el, kategorie, n = 10, opts = {}) {
     const it = isInput
       ? { label: KATEGORIEN[d.kategorie], type: "input", prompt: `${d.aufgabe}\n\n_${d.ausgang}_\n\n${d.vorgabe || ""}`, solution: d.loesung, accept: d.akzeptiert || [], explain: d.erklaerung }
       : { label: KATEGORIEN[d.kategorie], prompt: d.satz.replace("___", "_____"), options: d.optionen, correct: d.loesung, explain: d.erklaerung };
+    if (d.beispiel) it.explain += "\n\n💡 Noch ein Beispiel: " + d.beispiel;
     it.onResult = async (ok, given) => {
       if (!ok) await store.addError({ modul: "drill", kategorie: d.kategorie, itemRef: d.id, frage: isInput ? `${d.aufgabe}\n\n_${d.ausgang}_\n\n${d.vorgabe || ""}` : d.satz.replace("___", "_____"), optionen: isInput ? null : d.optionen, loesung: isInput ? null : d.loesung, richtig: isInput ? d.loesung : d.optionen[d.loesung], akzeptiert: d.akzeptiert, gegeben: given, erklaerung: d.erklaerung });
     };
@@ -172,7 +173,8 @@ export async function grammarCard(id) {
     h("h3", g.titel),
     h("div", { html: md(g.kurz) }),
     g.tabelle?.length ? h("div.table-wrap", h("table", g.tabelle.map((row, i) => h("tr", row.map((c) => h(i === 0 ? "th" : "td", c)))))) : null,
-    g.beispiele?.length ? h("ul", g.beispiele.map((b) => h("li", b))) : null,
+    g.uebersicht?.length ? h("div.callout", h("strong", "Merksätze"), h("ul", g.uebersicht.map((b) => h("li", { html: md(b) })))) : null,
+    g.beispiele?.length ? h("details.beispiele", { open: true }, h("summary", `Beispiele (${g.beispiele.length})`), h("ul", g.beispiele.map((b) => h("li", { html: md(b) })))) : null,
     g.falle ? h("p.callout", "⚠️ " + g.falle) : null);
 }
 
