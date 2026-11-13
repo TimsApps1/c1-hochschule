@@ -1,0 +1,308 @@
+{
+ "hv1_01": {
+  "file": "hv1_01.mp3",
+  "bytes": 2382768,
+  "voices": {
+   "p1": "de-DE-ElkeNeural",
+   "p2": "de-DE-BerndNeural",
+   "p3": "de-DE-KlarissaNeural",
+   "p4": "de-AT-IngridNeural",
+   "p5": "de-DE-AmalaNeural",
+   "p6": "de-DE-KasperNeural",
+   "p7": "de-DE-LouisaNeural",
+   "p8": "de-AT-JonasNeural"
+  }
+ },
+ "hv1_02": {
+  "file": "hv1_02.mp3",
+  "bytes": 2387232,
+  "voices": {
+   "p1": "de-DE-KlarissaNeural",
+   "p2": "de-DE-KasperNeural",
+   "p3": "de-AT-IngridNeural",
+   "p4": "de-DE-AmalaNeural",
+   "p5": "de-AT-JonasNeural",
+   "p6": "de-DE-ConradNeural",
+   "p7": "de-DE-LouisaNeural",
+   "p8": "de-DE-KillianNeural"
+  }
+ },
+ "hv1_03": {
+  "file": "hv1_03.mp3",
+  "bytes": 2399616,
+  "voices": {
+   "p1": "de-AT-IngridNeural",
+   "p2": "de-AT-JonasNeural",
+   "p3": "de-DE-AmalaNeural",
+   "p4": "de-DE-LouisaNeural",
+   "p5": "de-DE-ConradNeural",
+   "p6": "de-DE-TanjaNeural",
+   "p7": "de-DE-MajaNeural",
+   "p8": "de-DE-KillianNeural"
+  }
+ },
+ "hv1_04": {
+  "file": "hv1_04.mp3",
+  "bytes": 2514096,
+  "voices": {
+   "p1": "de-DE-AmalaNeural",
+   "p2": "de-DE-ConradNeural",
+   "p3": "de-DE-LouisaNeural",
+   "p4": "de-DE-TanjaNeural",
+   "p5": "de-DE-KillianNeural",
+   "p6": "de-DE-RalfNeural",
+   "p7": "de-DE-MajaNeural",
+   "p8": "de-DE-KlausNeural"
+  }
+ },
+ "hv1_05": {
+  "file": "hv1_05.mp3",
+  "bytes": 2430288,
+  "voices": {
+   "p1": "de-DE-AmalaNeural",
+   "p2": "de-DE-KillianNeural",
+   "p3": "de-DE-LouisaNeural",
+   "p4": "de-DE-TanjaNeural",
+   "p5": "de-DE-RalfNeural",
+   "p6": "de-DE-KlausNeural",
+   "p7": "de-DE-MajaNeural",
+   "p8": "de-DE-ChristophNeural"
+  }
+ },
+ "hv1_06": {
+  "file": "hv1_06.mp3",
+  "bytes": 2562480,
+  "voices": {
+   "p1": "de-DE-LouisaNeural",
+   "p2": "de-DE-RalfNeural",
+   "p3": "de-DE-TanjaNeural",
+   "p4": "de-DE-MajaNeural",
+   "p5": "de-DE-ElkeNeural",
+   "p6": "de-DE-KlausNeural",
+   "p7": "de-DE-KlarissaNeural",
+   "p8": "de-DE-ChristophNeural"
+  }
+ },
+ "hv1_07": {
+  "file": "hv1_07.mp3",
+  "bytes": 2446128,
+  "voices": {
+   "p1": "de-DE-TanjaNeural",
+   "p2": "de-DE-KlausNeural",
+   "p3": "de-DE-MajaNeural",
+   "p4": "de-DE-ElkeNeural",
+   "p5": "de-DE-ChristophNeural",
+   "p6": "de-DE-BerndNeural",
+   "p7": "de-DE-KlarissaNeural",
+   "p8": "de-DE-KasperNeural"
+  }
+ },
+ "hv1_08": {
+  "file": "hv1_08.mp3",
+  "bytes": 2356560,
+  "voices": {
+   "p1": "de-DE-MajaNeural",
+   "p2": "de-DE-ChristophNeural",
+   "p3": "de-DE-ElkeNeural",
+   "p4": "de-DE-KlarissaNeural",
+   "p5": "de-DE-BerndNeural",
+   "p6": "de-DE-KasperNeural",
+   "p7": "de-AT-IngridNeural",
+   "p8": "de-AT-JonasNeural"
+  }
+ },
+ "hv1_09": {
+  "file": "hv1_09.mp3",
+  "bytes": 2414448,
+  "voices": {
+   "p1": "de-DE-ElkeNeural",
+   "p2": "de-DE-BerndNeural",
+   "p3": "de-DE-KlarissaNeural",
+   "p4": "de-AT-IngridNeural",
+   "p5": "de-DE-AmalaNeural",
+   "p6": "de-DE-KasperNeural",
+   "p7": "de-DE-LouisaNeural",
+   "p8": "de-AT-JonasNeural"
+  }
+ },
+ "hv1_10": {
+  "file": "hv1_10.mp3",
+  "bytes": 2368656,
+  "voices": {
+   "p1": "de-DE-KlarissaNeural",
+   "p2": "de-DE-KasperNeural",
+   "p3": "de-AT-IngridNeural",
+   "p4": "de-AT-JonasNeural",
+   "p5": "de-DE-ConradNeural",
+   "p6": "de-DE-KillianNeural",
+   "p7": "de-DE-AmalaNeural",
+   "p8": "de-DE-RalfNeural"
+  }
+ },
+ "hv2_01": {
+  "file": "hv2_01.mp3",
+  "bytes": 2974464,
+  "voices": {
+   "A": "de-DE-AmalaNeural",
+   "B": "de-DE-KillianNeural"
+  }
+ },
+ "hv2_02": {
+  "file": "hv2_02.mp3",
+  "bytes": 3080304,
+  "voices": {
+   "A": "de-DE-RalfNeural",
+   "B": "de-DE-LouisaNeural",
+   "C": "de-DE-TanjaNeural"
+  }
+ },
+ "hv2_03": {
+  "file": "hv2_03.mp3",
+  "bytes": 3140352,
+  "voices": {
+   "A": "de-DE-KlausNeural",
+   "B": "de-DE-TanjaNeural"
+  }
+ },
+ "hv2_04": {
+  "file": "hv2_04.mp3",
+  "bytes": 2990016,
+  "voices": {
+   "A": "de-DE-MajaNeural",
+   "B": "de-DE-ChristophNeural",
+   "C": "de-DE-ElkeNeural"
+  }
+ },
+ "hv2_05": {
+  "file": "hv2_05.mp3",
+  "bytes": 3055824,
+  "voices": {
+   "A": "de-DE-ElkeNeural",
+   "B": "de-DE-KlarissaNeural"
+  }
+ },
+ "hv2_06": {
+  "file": "hv2_06.mp3",
+  "bytes": 2912832,
+  "voices": {
+   "A": "de-DE-KasperNeural",
+   "B": "de-DE-KlarissaNeural",
+   "C": "de-AT-JonasNeural"
+  }
+ },
+ "hv2_07": {
+  "file": "hv2_07.mp3",
+  "bytes": 2918736,
+  "voices": {
+   "A": "de-AT-JonasNeural",
+   "B": "de-AT-IngridNeural"
+  }
+ },
+ "hv2_08": {
+  "file": "hv2_08.mp3",
+  "bytes": 3075120,
+  "voices": {
+   "A": "de-DE-AmalaNeural",
+   "B": "de-DE-ConradNeural",
+   "C": "de-DE-LouisaNeural"
+  }
+ },
+ "hv2_09": {
+  "file": "hv2_09.mp3",
+  "bytes": 3097440,
+  "voices": {
+   "A": "de-DE-KillianNeural",
+   "B": "de-DE-AmalaNeural",
+   "C": "de-DE-LouisaNeural"
+  }
+ },
+ "hv2_10": {
+  "file": "hv2_10.mp3",
+  "bytes": 2990016,
+  "voices": {
+   "A": "de-DE-RalfNeural",
+   "B": "de-DE-KlausNeural",
+   "C": "de-DE-LouisaNeural"
+  }
+ },
+ "hv3_01": {
+  "file": "hv3_01.mp3",
+  "bytes": 3410784,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-ElkeNeural"
+  }
+ },
+ "hv3_02": {
+  "file": "hv3_02.mp3",
+  "bytes": 2829456,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-KasperNeural"
+  }
+ },
+ "hv3_03": {
+  "file": "hv3_03.mp3",
+  "bytes": 2886624,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-AT-IngridNeural"
+  }
+ },
+ "hv3_04": {
+  "file": "hv3_04.mp3",
+  "bytes": 2911392,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-ConradNeural"
+  }
+ },
+ "hv3_05": {
+  "file": "hv3_05.mp3",
+  "bytes": 3143232,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-AmalaNeural"
+  }
+ },
+ "hv3_06": {
+  "file": "hv3_06.mp3",
+  "bytes": 2824848,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-RalfNeural"
+  }
+ },
+ "hv3_07": {
+  "file": "hv3_07.mp3",
+  "bytes": 3211488,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-TanjaNeural"
+  }
+ },
+ "hv3_08": {
+  "file": "hv3_08.mp3",
+  "bytes": 2903040,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-ChristophNeural"
+  }
+ },
+ "hv3_09": {
+  "file": "hv3_09.mp3",
+  "bytes": 3154176,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-BerndNeural"
+  }
+ },
+ "hv3_10": {
+  "file": "hv3_10.mp3",
+  "bytes": 3253680,
+  "voices": {
+   "C": "de-DE-KatjaNeural",
+   "A": "de-DE-KlarissaNeural"
+  }
+ }
+}

@@ -37,7 +37,7 @@ function audioBar({ segments, exam, onEnd, onSegment, file }) {
     onSegment: (i) => { prog.firstChild.style.width = Math.round(player.progress * 100) + "%"; onSegment && onSegment(i); },
     onProgress: (p) => { prog.firstChild.style.width = Math.round(p * 100) + "%"; },
     onEnd: () => { prog.firstChild.style.width = "100%"; status.textContent = "Ende"; playBtn.textContent = exam ? "✓ gehört" : "↻ Nochmal"; playBtn.disabled = !!exam; onEnd && onEnd(plays); },
-    onState: (s) => { status.textContent = { playing: "läuft …", paused: "Pause", idle: "bereit", ended: "Ende", loading: "lädt …", error: "⚠️ Audio nicht ladbar" }[s]; playBtn.textContent = s === "playing" ? (exam ? "🔊 läuft" : "⏸ Pause") : s === "loading" ? "⏳ lädt …" : "▶︎ Abspielen"; },
+    onState: (s) => { status.textContent = { playing: "läuft …", paused: "Pause", idle: file ? "🎙️ Sprecheraufnahme bereit" : "bereit", ended: "Ende", loading: "lädt …", error: "⚠️ Audio nicht ladbar" }[s]; playBtn.textContent = s === "playing" ? (exam ? "🔊 läuft" : "⏸ Pause") : s === "loading" ? "⏳ lädt …" : "▶︎ Abspielen"; },
   };
   const player = file ? new FilePlayer(file, { rate: store.settings.ttsRate || 1, ...handlers }) : new ScriptPlayer(segments, handlers);
   // erst nach dem Aufbau der Knöpfe vorladen (onState greift auf playBtn zu)
