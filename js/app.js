@@ -21,7 +21,7 @@ import { schreibenTask, showFeedback } from "./schreiben.js";
 import { praesentation, diskussion } from "./sprechen.js";
 import { errorReview, errorOverview } from "./fehler.js";
 import { generalprobe } from "./pruefung.js";
-import { aufgabenRound, glossarRound, eigeneWorte, glossarList, TEIL_NAMEN } from "./aufgaben.js";
+import { aufgabenRound, glossarRound, eigeneWorte, glossarList, steckbriefe, strategyCard, TEIL_NAMEN } from "./aufgaben.js";
 import { germanVoices, voicesReady, speakOnce, ttsSupported } from "./tts.js";
 
 const main = document.getElementById("main");
@@ -245,16 +245,21 @@ async function viewList(kind) {
 
 async function viewAufgaben() {
   clear(main).append(topbar(), h("h1", "Aufgaben verstehen"),
-    tarsiSays("In der Prüfung gehen oft Punkte verloren, weil die Aufgabe nicht genau gelesen wurde. Hier üben wir: Was steht da – und was musst du wirklich tun?", "think", 70),
-    h("button.btn.primary.wide", { onclick: () => exercise(() => aufgabenRound(main, { n: 5 }), "#/aufgaben") }, "▶︎ Gemischte Runde (5 Aufgabenstellungen)"),
-    h("h2", "Nach Prüfungsteil"),
-    h("div.chips", Object.entries(TEIL_NAMEN).map(([t, name]) => h("button.chip", { onclick: () => exercise(() => aufgabenRound(main, { n: 4, teil: t }), "#/aufgaben") }, name))),
-    h("h2", "Weitere Übungen"),
+    strategyCard(false),
+    h("button.btn.primary.wide", { onclick: () => exercise(() => aufgabenRound(main, { n: 3 }), "#/aufgaben") }, "▶︎ Üben: 3 Aufgabenstellungen"),
     h("div.grid2",
-      h("button.tile", { onclick: () => exercise(() => glossarRound(main, { n: 10 }), "#/aufgaben") }, h("div.tile-ico", "📖"), h("div", "Wörter in Aufgaben"), h("div.small.muted", "erörtern, Leitpunkte …")),
-      h("button.tile", { onclick: () => exercise(() => eigeneWorte(main), "#/aufgaben") }, h("div.tile-ico", "🗣️"), h("div", "Mit eigenen Worten"), h("div.small.muted", "Was muss ich tun?"))),
-    h("p.small.muted", "Tipp: In jeder Übung gibt es jetzt oben den Knopf „❓ Was muss ich tun?“ mit einer einfachen Erklärung."),
-    h("h2", "Nachschlagen: Wörter in Aufgabenstellungen"));
+      h("button.tile", { onclick: () => exercise(() => eigeneWorte(main), "#/aufgaben") }, h("div.tile-ico", "🗣️"), h("div", "Mit eigenen Worten"), h("div.small.muted", "Sag, was du tun musst")),
+      h("button.tile", { onclick: () => exercise(() => glossarRound(main, { n: 10, gruppe: "operator" }), "#/aufgaben") }, h("div.tile-ico", "🎯"), h("div", "Arbeitsaufträge"), h("div.small.muted", "erörtern ≠ erläutern …")),
+      h("button.tile", { onclick: () => exercise(() => glossarRound(main, { n: 10, gruppe: "autor" }), "#/aufgaben") }, h("div.tile-ico", "✍️"), h("div", "Was der Autor tut"), h("div.small.muted", "relativiert, räumt ein …")),
+      h("button.tile", { onclick: () => exercise(() => glossarRound(main, { n: 10 }), "#/aufgaben") }, h("div.tile-ico", "📖"), h("div", "Alle Aufgabenwörter"), h("div.small.muted", "gemischt"))),
+    h("h2", "Nach Prüfungsteil üben"),
+    h("p.small.muted", "Jede Runde beginnt mit dem Steckbrief des Teils: So sieht die Anweisung aus, darauf kommt es an."),
+    h("div.chips", Object.entries(TEIL_NAMEN).map(([t, name]) => h("button.chip", { onclick: () => exercise(() => aufgabenRound(main, { n: 3, teil: t }), "#/aufgaben") }, name))),
+    h("h2", "Steckbriefe: alle Prüfungsteile kurz erklärt"));
+  const sb = h("div");
+  main.append(sb);
+  steckbriefe(sb);
+  main.append(h("p.small.muted", "Tipp: In jeder Übung gibt es oben den Knopf „❓ Was muss ich tun?“."), h("h2", "Nachschlagen: Wörter in Aufgabenstellungen"));
   const box = h("div");
   main.append(box);
   glossarList(box);

@@ -4,7 +4,7 @@ export const CONFIG = {
   DROPBOX_APP_KEY: "hmnw6wezs7unfcb",
   // Datei im Dropbox-App-Ordner (Dropbox/Apps/<App-Name>/)
   DROPBOX_FILE: "/c1-lernstand.json",
-  APP_VERSION: "0.5.0",
+  APP_VERSION: "0.5.1",
   // Prüfungstermin
   EXAM_DATE: "2026-12-12",
   START_DATE: "2026-11-12",

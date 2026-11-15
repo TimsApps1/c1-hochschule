@@ -420,3 +420,37 @@ audio { width: 100%; margin: 6px 0; }
 .help-btn { background: #fff4dc; border-bottom-color: #e5ad16; }
 @media (prefers-color-scheme: dark) { .help-btn { background: #3a2e1a; } }
 .task-help ol { padding-left: 20px; }
+
+/* Aufgaben verstehen v2 */
+.atext { background: var(--card); border-radius: 16px; box-shadow: var(--shadow); padding: 12px 14px; margin: 10px 0; line-height: 1.9; font-size: 1.02rem; }
+.atext p { margin: 0 0 4px; }
+.atext.plain { line-height: 1.55; }
+.tw { appearance: none; border: 0; background: transparent; color: inherit; font: inherit; padding: 1px 2px; margin: 0; border-radius: 6px; cursor: pointer; border-bottom: 2px dotted transparent; }
+button.tw { border-bottom-color: var(--line); }
+button.tw:active { background: var(--bg2); }
+.tw.nope { background: var(--bad-bg); animation: shake .35s; }
+@keyframes shake { 25% { transform: translateX(-3px); } 75% { transform: translateX(3px); } }
+.mk { border-bottom-width: 3px; border-bottom-style: solid; font-weight: 700; }
+.mk.soft { font-weight: 400; opacity: .85; }
+.k-tun { --kc: #ff8566; --kb: #ffe6de; }
+.k-inhalt { --kc: #4a9ff5; --kb: #e2efff; }
+.k-menge { --kc: #e5ad16; --kb: #fff3cf; }
+.k-achtung { --kc: #f2555a; --kb: #ffe1e2; }
+.k-rahmen { --kc: #23b98f; --kb: #dcf7ec; }
+@media (prefers-color-scheme: dark) {
+  .k-tun { --kb: #4a2a20; } .k-inhalt { --kb: #1d3350; } .k-menge { --kb: #45391a; } .k-achtung { --kb: #4a2124; } .k-rahmen { --kb: #173a30; }
+}
+.mk[class*="k-"] { background: var(--kb); border-bottom-color: var(--kc); }
+.leg { display: inline-block; background: var(--kb); border-bottom: 3px solid var(--kc); border-radius: 8px; padding: 1px 8px; font-weight: 700; font-size: .9rem; margin: 2px 4px 2px 0; }
+.legend { margin: 6px 0; }
+.find-hint { min-height: 1.5em; color: var(--muted); font-size: .92rem; }
+.five { padding-left: 0; list-style: none; margin: 8px 0; display: grid; gap: 6px; }
+.five li { background: var(--kb); border-left: 5px solid var(--kc); border-radius: 10px; padding: 7px 10px; }
+.zitate { background: var(--bg2); border-radius: 12px; padding: 6px 12px; margin: 8px 0; }
+.zitate blockquote { margin: 6px 0; }
+.marks { padding-left: 0; list-style: none; }
+.marks li { margin: 6px 0; }
+
+.tw { padding: 4px 3px; min-height: 32px; }
+button.tw { line-height: 1.5; }
+.atext p.focus { background: var(--bg2); border-radius: 8px; box-shadow: 0 0 0 4px var(--bg2); }

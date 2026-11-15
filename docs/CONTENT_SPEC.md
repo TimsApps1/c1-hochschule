@@ -331,3 +331,47 @@ Input (Situation + Zitate + Anweisung) zusammen ca. 45–70 Wörter.
 { "karten": [{ "id": "st_sb", "teil": "sb", "titel": "Sprachbausteine in 25 Minuten", "punkte": ["…"], "zeit": "25 Min.", "falle": "…" }],
   "pruefungstag": [{ "gruppe": "Am Vorabend", "punkte": ["…"] }] }
 ```
+
+---
+
+## data/aufgaben.json und data/aufgaben_spezifisch.json — „Aufgaben verstehen“ (Version 2)
+
+Didaktisches Konzept (nach zwei unabhängigen Gutachten): **Strategie zuerst, dann verstehen, dann begründen.**
+Die Lernerin lernt eine feste Lesestrategie mit 5 Fragen und markiert pro Bildschirm nur EINE Kategorie.
+
+Die 5 Kategorien (`kat`):
+| kat | Frage an die Aufgabe | Beispiele |
+|---|---|---|
+| `tun` | 🎯 Was soll ich TUN? | erörtern, Stellung nehmen, zuordnen, ankreuzen, ergänzen, zusammenfassen |
+| `inhalt` | 📌 Was muss unbedingt REIN? | beide Aussagen, Leitpunkte, Beispiele, eigene Meinung |
+| `menge` | 🔢 WIE VIEL / WIE LANGE? | mindestens 350 Wörter, 3–4 Minuten, zwei Sätze bleiben übrig, 3–6 Wörter |
+| `achtung` | ⚠️ Kleine Wörter, große Wirkung | nur, jeweils, mindestens, nicht, laut Text, sinngemäß, gesamten |
+| `rahmen` | 👤 FÜR WEN / WO / IN WELCHER FORM? | Seminar, Hochschulzeitung, Antwortbogen, Stichworte, Kurzvortrag |
+
+Item:
+```json
+{ "id": "af_lv1_1", "teil": "lv1", "ref": null,
+  "anweisung": "Vollständige Aufgabenstellung als gut lesbarer Text. Leitpunkte als eigene Zeilen mit „– “ (mit \n getrennt), keine Reste wie „.;“.",
+  "zitate": [{ "text": "…", "person": "…" }],
+  "einfach": "Max. 3 Sätze, je max. 20 Wörter, B1-Wörter, Du-Form. Keine Fachwörter wie Situierung, Distraktor, Kasus.",
+  "schritte": ["3–4 kurze Schritte"],
+  "markierungen": [
+    { "text": "erörtern", "kat": "tun", "warum": "Pro und Contra abwägen und eine eigene Meinung begründen." },
+    { "text": "beide Aussagen", "kat": "inhalt", "warum": "Du musst auf BEIDE Zitate eingehen – sonst verlierst du Punkte." }
+  ],
+  "frage": { "text": "Was musst du hier tun?", "optionen": ["…", "…", "…", "…"], "loesung": 2, "erklaerung": "…" },
+  "falle": { "text": "Was kostet hier Punkte?", "optionen": ["…", "…", "…", "…"], "loesung": 0, "erklaerung": "…" } }
+```
+Regeln:
+- `markierungen`: 3–6 Einträge, mindestens einer mit `kat: "tun"`, mindestens 2 verschiedene Kategorien. `text` kommt EXAKT
+  (zeichengenau) in `anweisung` vor, ist max. 5 Wörter lang, ohne Satzzeichen am Anfang/Ende, und möglichst das KERNWORT
+  („erörtern“, nicht „Erörtern Sie, ob“). Gewertet wird das erste Vorkommen. Keine reinen Themenwörter als Markierung (außer `inhalt`,
+  wenn das Thema wirklich übersehen werden kann).
+- `zitate`: nur bei Schreibaufgaben (sa); dann gehört auch „Schreiben Sie mindestens 350 Wörter.“ ans Ende der anweisung.
+- `frage`: genau eine Option beschreibt die Aufgabe richtig und vollständig. Distraktoren = **echte, typische Missverständnisse**
+  von Lernenden (z. B. „falsch“ statt „Text sagt dazu nichts“, nur ein Zitat, Thema statt Meinung, Abschnitt nur einmal verwenden).
+  Keine absurden oder witzigen Optionen; keine verräterischen Muster („nur …“, „aber ohne …“ nur bei den falschen). Alle Optionen ähnlich
+  lang (±25 %), max. 25 Wörter.
+- `falle`: optional; nur wenn es eine echte Falle gibt. Alle 4 Optionen müssen auf den ersten Blick vernünftig klingen.
+- Glossar-Einträge: `{ id, wort, gruppe: "operator"|"anweisung"|"pruefung"|"autor", erklaerung, beispiel, nicht_verwechseln, verwechslung: ["wort", …] }`
+  – `verwechslung` = Wörter derselben Gruppe, die oft verwechselt werden (werden im Quiz als Distraktoren genutzt).

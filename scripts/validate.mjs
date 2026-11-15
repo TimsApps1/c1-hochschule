@@ -175,7 +175,17 @@ const refs = new Set([...sa.map((t) => t.id), ...(sp?.praesentation || []).flatM
 for (const it of [...(auf?.aufgaben || []), ...aufSp]) {
   uniq("aufgaben", it.id);
   if (!it.anweisung || !it.einfach) E("aufgaben", `${it.id} ohne anweisung/einfach`);
-  for (const k of it.schluesselwoerter || []) if (!it.anweisung.includes(k)) W("aufgaben", `${it.id}: Schlüsselwort „${k}“ nicht in der Anweisung`);
+  const KATS = ["tun", "inhalt", "menge", "achtung", "rahmen"];
+  const ms = it.markierungen || [];
+  if (ms.length < 3 || ms.length > 6) E("aufgaben", `${it.id}: ${ms.length} Markierungen (3–6 erwartet)`);
+  if (!ms.some((m) => m.kat === "tun")) E("aufgaben", `${it.id}: keine Markierung „tun“`);
+  for (const m of ms) {
+    if (!KATS.includes(m.kat)) E("aufgaben", `${it.id}: unbekannte Kategorie ${m.kat}`);
+    if (!it.anweisung.includes(m.text)) E("aufgaben", `${it.id}: Markierung „${m.text}“ nicht in der Anweisung`);
+    if (m.text.split(/\s+/).length > 5) W("aufgaben", `${it.id}: Markierung „${m.text}“ länger als 5 Wörter`);
+  }
+  if (/[.?!];/.test(it.anweisung)) E("aufgaben", `${it.id}: Verkettungsrest „.;“ in der Anweisung`);
+  if (it.teil === "sa" && it.ref && it.zitate?.length !== 2) E("aufgaben", `${it.id}: Schreibaufgabe ohne 2 Zitate`);
   for (const q of [it.frage, it.falle].filter(Boolean)) if (q.optionen?.length !== 4 || !(q.loesung >= 0 && q.loesung < 4)) E("aufgaben", `${it.id}: Frage fehlerhaft`);
   if (it.ref && !refs.has(it.ref)) E("aufgaben", `${it.id}: ref ${it.ref} existiert nicht`);
   count("Aufgabenstellungen");

@@ -70,6 +70,11 @@ export function runQuiz(el, { title, items, intro, retryWrong = true, onExit }) 
         foot.append(go);
         return;
       }
+      if (type === "custom") {
+        // Eigene Darstellung (z. B. „Aufgaben verstehen“): render() baut die Karte und ruft settle(ok, given) auf
+        it.render({ card, foot, settle });
+        return;
+      }
       if (type === "tap") {
         // Schlüsselwörter antippen: Text in Wortgruppen zerlegt; Ziel sind die Wörter aus it.keys
         const keys = (it.keys || []).map((k) => norm(k));
