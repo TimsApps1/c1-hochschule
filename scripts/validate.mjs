@@ -161,6 +161,26 @@ if (links) { for (const l of links) if (!/^https:\/\//.test(l.url)) E("links", `
 const lp = load("lernpfad.json");
 if (lp) count("Lernpfad-Tage", lp.length);
 
+// Aufgaben verstehen
+const auf = load("aufgaben.json");
+const aufSp = load("aufgaben_spezifisch.json") || [];
+const TEILE_AUF = ["lv1", "lv2", "lv3", "sb", "hv1", "hv2", "hv3", "sa", "mp1a", "mp1b", "mp2"];
+if (auf) {
+  for (const t of TEILE_AUF) if (!(auf.teile || []).some((x) => x.teil === t)) E("aufgaben", `Teil ${t} fehlt in "teile"`);
+  const gl = auf.glossar || [];
+  if (new Set(gl.map((g) => g.id)).size !== gl.length) E("aufgaben", "doppelte Glossar-IDs");
+  count("Glossar (Aufgabenwörter)", gl.length);
+}
+const refs = new Set([...sa.map((t) => t.id), ...(sp?.praesentation || []).flatMap((b) => b.themen.map((_, i) => `${b.id}-${i}`)), ...(sp?.diskussion || []).map((d) => d.id)]);
+for (const it of [...(auf?.aufgaben || []), ...aufSp]) {
+  uniq("aufgaben", it.id);
+  if (!it.anweisung || !it.einfach) E("aufgaben", `${it.id} ohne anweisung/einfach`);
+  for (const k of it.schluesselwoerter || []) if (!it.anweisung.includes(k)) W("aufgaben", `${it.id}: Schlüsselwort „${k}“ nicht in der Anweisung`);
+  for (const q of [it.frage, it.falle].filter(Boolean)) if (q.optionen?.length !== 4 || !(q.loesung >= 0 && q.loesung < 4)) E("aufgaben", `${it.id}: Frage fehlerhaft`);
+  if (it.ref && !refs.has(it.ref)) E("aufgaben", `${it.id}: ref ${it.ref} existiert nicht`);
+  count("Aufgabenstellungen");
+}
+
 // Probeprüfungen vollständig?
 for (const n of [1, 2, 3]) {
   const miss = [];

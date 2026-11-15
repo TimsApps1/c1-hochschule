@@ -4,6 +4,7 @@ import { emptyBox } from "./mascot.js";
 import { load, KATEGORIEN } from "./content.js";
 import { store } from "./store.js";
 import { runQuiz, resultScreen } from "./quiz.js";
+import { taskHelpButton } from "./aufgaben.js";
 
 const LETTERS = ["a", "b", "c", "d"];
 
@@ -43,7 +44,7 @@ export function sbExam(el, set, opts = {}) {
     const textBox = h("div.sb-text");
     const sheet = h("div.sheet.hidden");
     const footer = h("div.ex-foot", counter);
-    el.append(head, h("p.muted.small", mode === "pruefung" ? "Prüfungsmodus: Wähle für jede Lücke a–d. Auswertung erst am Ende." : "Übungsmodus: Du siehst sofort, ob es stimmt – mit Begründung."), textBox, footer, sheet);
+    el.append(head, h("div.help-row", taskHelpButton("sb")), h("p.muted.small", mode === "pruefung" ? "Prüfungsmodus: Wähle für jede Lücke a–d. Auswertung erst am Ende." : "Übungsmodus: Du siehst sofort, ob es stimmt – mit Begründung."), textBox, footer, sheet);
 
     // Text mit Lücken-Buttons aufbauen
     const parts = set.text.split(/(\{\d+\})/);

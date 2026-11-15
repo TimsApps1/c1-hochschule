@@ -21,6 +21,7 @@ import { schreibenTask, showFeedback } from "./schreiben.js";
 import { praesentation, diskussion } from "./sprechen.js";
 import { errorReview, errorOverview } from "./fehler.js";
 import { generalprobe } from "./pruefung.js";
+import { aufgabenRound, glossarRound, eigeneWorte, glossarList, TEIL_NAMEN } from "./aufgaben.js";
 import { germanVoices, voicesReady, speakOnce, ttsSupported } from "./tts.js";
 
 const main = document.getElementById("main");
@@ -167,6 +168,7 @@ async function viewPfad() {
 async function viewUeben() {
   clear(main).append(topbar(), h("h1", "Üben"), h("p.muted", "Alles frei wählbar – zusätzlich zum Lernpfad."));
   const sec = (title, items) => main.append(h("h2", title), h("div.grid2", items.map(([ico, name, sub, href]) => h("button.tile", { onclick: () => nav(href) }, h("div.tile-ico", ico), h("div", name), h("div.small.muted", sub)))));
+  sec("Aufgaben verstehen", [["🧐", "Aufgabenstellungen", "Was muss ich tun?", "#/aufgaben"]]);
   sec("Sprache", [["🧩", "Sprachbausteine", "22 Lücken", "#/sb"], ["📐", "Grammatik", "Drills & Erklärungen", "#/drill"], ["📚", "Wortschatz", "Spaced Repetition", "#/wortschatz"], ["💬", "Redewendungen", "Idiome & Redemittel", "#/redewendungen"]]);
   sec("Prüfungsteile", [["📖", "Lesen", "Teil 1–3", "#/lesen"], ["🎧", "Hören", "Teil 1–3", "#/hoeren"], ["✍️", "Schreiben", "Erörterung", "#/schreiben"], ["🎤", "Sprechen", "Präsentation & Diskussion", "#/sprechen"]]);
   sec("Prüfung", [["🎓", "Generalproben", "3 komplette Tests", "#/pruefung"], ["💡", "Strategie", "Karten je Teil", "#/strategie"], ["🔗", "Echte Audios", "Linkliste", "#/quellen"], ["🧭", "Einstufung", "erneut machen", "#/einstufung"]]);
@@ -239,6 +241,23 @@ async function viewList(kind) {
       h("h2", "Teil 2 – Diskussion"),
       itemList(pool(sp.diskussion), (d) => [h("strong", "„" + d.zitat.slice(0, 80) + (d.zitat.length > 80 ? "…" : "") + "“")], (d) => exercise(() => diskussion(main, d))));
   }
+}
+
+async function viewAufgaben() {
+  clear(main).append(topbar(), h("h1", "Aufgaben verstehen"),
+    tarsiSays("In der Prüfung gehen oft Punkte verloren, weil die Aufgabe nicht genau gelesen wurde. Hier üben wir: Was steht da – und was musst du wirklich tun?", "think", 70),
+    h("button.btn.primary.wide", { onclick: () => exercise(() => aufgabenRound(main, { n: 5 }), "#/aufgaben") }, "▶︎ Gemischte Runde (5 Aufgabenstellungen)"),
+    h("h2", "Nach Prüfungsteil"),
+    h("div.chips", Object.entries(TEIL_NAMEN).map(([t, name]) => h("button.chip", { onclick: () => exercise(() => aufgabenRound(main, { n: 4, teil: t }), "#/aufgaben") }, name))),
+    h("h2", "Weitere Übungen"),
+    h("div.grid2",
+      h("button.tile", { onclick: () => exercise(() => glossarRound(main, { n: 10 }), "#/aufgaben") }, h("div.tile-ico", "📖"), h("div", "Wörter in Aufgaben"), h("div.small.muted", "erörtern, Leitpunkte …")),
+      h("button.tile", { onclick: () => exercise(() => eigeneWorte(main), "#/aufgaben") }, h("div.tile-ico", "🗣️"), h("div", "Mit eigenen Worten"), h("div.small.muted", "Was muss ich tun?"))),
+    h("p.small.muted", "Tipp: In jeder Übung gibt es jetzt oben den Knopf „❓ Was muss ich tun?“ mit einer einfachen Erklärung."),
+    h("h2", "Nachschlagen: Wörter in Aufgabenstellungen"));
+  const box = h("div");
+  main.append(box);
+  glossarList(box);
 }
 
 async function viewDrills() {
@@ -524,6 +543,7 @@ async function route() {
       case "schreiben": return viewList("schreiben");
       case "sprechen": return viewList("sprechen");
       case "drill": return b ? viewDrill(b) : viewDrills();
+      case "aufgaben": return viewAufgaben();
       case "wortschatz": return b === "runde" ? exercise(() => srsRound(main, "wort", { n: 12 }), "#/wortschatz") : viewVocab("wortschatz");
       case "redewendungen": return b === "runde" ? exercise(() => srsRound(main, "rw", { n: 10 }), "#/redewendungen") : viewVocab("redewendungen");
       case "fehler": return b === "wiederholen" ? exercise(() => errorReview(main, { n: 10, kategorie: c }), "#/fehler") : errorOverview(main, nav);

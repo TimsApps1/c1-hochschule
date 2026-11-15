@@ -14,6 +14,8 @@ const FILES = {
   lernpfad: ["lernpfad.json"],
   einstufung: ["einstufung.json"],
   audio: ["audio/index.json"],
+  aufgaben: ["aufgaben.json"],
+  aufgaben_spezifisch: ["aufgaben_spezifisch.json"],
 };
 
 const cache = new Map();
@@ -99,4 +101,5 @@ export const KATEGORIEN = {
   leseverstehen: "Leseverstehen",
   redewendung: "Redewendungen",
   aussprache: "Aussprache",
+  aufgabe: "Aufgabenstellung verstehen",
 };

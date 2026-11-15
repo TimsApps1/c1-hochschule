@@ -8,6 +8,7 @@ import { ai, S, AiUnavailable, learnerContext } from "./ai.js";
 import { Recorder, recorderSupported } from "./recorder.js";
 import { speakOnce, stopAll } from "./tts.js";
 import { load } from "./content.js";
+import { taskHelpButton } from "./aufgaben.js";
 
 const SYS_BASE_TAIL = ` Sie spricht per Diktat – Satzzeichen, Groß-/Kleinschreibung und einzelne Wörter können durch die Spracherkennung verfälscht sein; bewerte solche Fehler NICHT als Grammatikfehler. Alles auf Deutsch.`;
 const sysBase = () => learnerContext() + SYS_BASE_TAIL;
@@ -51,7 +52,7 @@ export function praesentation(el, blatt, opts = {}) {
     let thema = null;
     el.append(h("div.ex-head", h("button.icon-btn", { onclick: () => { stopAll(); resolve({ aborted: true }); } }, "✕"), h("strong", "Teil 1A – Präsentation"), h("span")),
       h("p.muted", "Wie in der Prüfung: Wähle eines der beiden Themen. Dann hast du 20 Minuten Vorbereitung (Notizen erlaubt, aber nicht ablesen)."));
-    blatt.themen.forEach((t, i) => el.append(h("div.card", h("h3", t.titel), h("p", t.aufgabe), h("ul", t.leitpunkte.map((l) => h("li", l))), h("button.btn.primary.wide", { onclick: () => { thema = t; prep(); } }, `Thema ${i + 1} wählen`))));
+    blatt.themen.forEach((t, i) => el.append(h("div.card", h("h3", t.titel), h("p", t.aufgabe), h("ul", t.leitpunkte.map((l) => h("li", l))), h("div.help-row", taskHelpButton("mp1a", `${blatt.id}-${i}`)), h("button.btn.primary.wide", { onclick: () => { thema = t; prep(); } }, `Thema ${i + 1} wählen`))));
 
     function prep() {
       clear(el);
@@ -216,7 +217,7 @@ export function diskussion(el, d, opts = {}) {
     const sendBtn = h("button.btn.primary.wide", { onclick: () => send() }, "Senden");
     const endBtn = h("button.btn.wide", { onclick: () => finish() }, "Diskussion beenden & Feedback");
     el.append(h("div.ex-head", h("button.icon-btn", { onclick: async () => { if (await confirmBox("Abbrechen?", "")) { stopAll(); resolve({ aborted: true }); } } }, "✕"), h("strong", "Teil 2 – Diskussion"), h("span")),
-      h("div.task-box", h("blockquote", "„" + d.zitat + "“", h("cite", d.person)), h("ul", d.leitpunkte.map((l) => h("li", l)))),
+      h("div.task-box", h("blockquote", "„" + d.zitat + "“", h("cite", d.person)), h("ul", d.leitpunkte.map((l) => h("li", l))), h("div.help-row", taskHelpButton("mp2", d.id))),
       h("details.tips", h("summary", "💡 Redemittel"), await redemittelList(["zustimmen", "widersprechen", "kompromiss", "nachfragen", "zeit_gewinnen", "meinung"])),
       !av.ok ? h("p.callout", av.msg + " Ohne KI liest die Partnerin vorbereitete Gegenargumente vor.") : null,
       chat, inp.el, sendBtn, endBtn);

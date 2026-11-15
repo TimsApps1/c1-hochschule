@@ -66,8 +66,45 @@ export function runQuiz(el, { title, items, intro, retryWrong = true, onExit }) 
       const type = it.type || (it.options ? "mc" : "input");
       if (type === "intro") {
         card.classList.add("intro-card");
-        const go = h("button.btn.primary.wide", { onclick: next }, "Verstanden – weiter");
+        const go = h("button.btn.primary.wide", { onclick: next }, it.button || "Verstanden – weiter");
         foot.append(go);
+        return;
+      }
+      if (type === "tap") {
+        // Schlüsselwörter antippen: Text in Wortgruppen zerlegt; Ziel sind die Wörter aus it.keys
+        const keys = (it.keys || []).map((k) => norm(k));
+        const tokens = String(it.text).split(/(\s+)/).filter((t) => t.trim());
+        const keyIdx = new Set();
+        // Token-Positionen markieren, die zu einem Schlüsselbegriff gehören
+        const low = tokens.map((t) => norm(t));
+        keys.forEach((k) => {
+          const parts = k.split(" ").filter(Boolean);
+          for (let i = 0; i + parts.length <= low.length; i++) {
+            if (parts.every((p, j) => low[i + j] === p)) for (let j = 0; j < parts.length; j++) keyIdx.add(i + j);
+          }
+        });
+        const sel = new Set();
+        const box = h("div.tapwords", tokens.map((t, i) => h("button.tapword", { onclick: (e) => {
+          if (box.dataset.locked) return;
+          sel.has(i) ? sel.delete(i) : sel.add(i);
+          e.currentTarget.classList.toggle("sel");
+        } }, t)));
+        card.append(box);
+        const check = h("button.btn.primary.wide", { onclick: () => {
+          if (!sel.size) return;
+          box.dataset.locked = "1";
+          check.remove();
+          const hit = [...keyIdx].filter((i) => sel.has(i)).length;
+          const extra = [...sel].filter((i) => !keyIdx.has(i)).length;
+          const recall = keyIdx.size ? hit / keyIdx.size : 1;
+          const ok = recall >= 0.6 && extra <= Math.max(3, keyIdx.size);
+          [...box.children].forEach((b, i) => {
+            if (keyIdx.has(i)) b.classList.add(sel.has(i) ? "right" : "missed");
+            else if (sel.has(i)) b.classList.add("extra");
+          });
+          settle(ok, `${hit}/${keyIdx.size}`);
+        } }, "Prüfen");
+        foot.append(check);
         return;
       }
       if (type === "mc") {

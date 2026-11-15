@@ -1,0 +1,2389 @@
+[
+  {
+    "id": "af_sa01",
+    "ref": "sa01",
+    "teil": "sa",
+    "anweisung": "Für das Seminar „Wissenschaftliches Arbeiten“ schreiben Sie eine Erörterung: Soll es an Hochschulen eine Anwesenheitspflicht geben? Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für ein Uni-Seminar eine Erörterung zu der Frage: Sollen Studierende verpflichtet sein, zu den Lehrveranstaltungen zu kommen? Du betrachtest beide Seiten und sagst am Ende deine eigene, begründete Meinung. Du musst auf beide Zitate eingehen: die Dozentin Dr. Hahn (dafür: ohne Anwesenheit keine Diskussion) und den Studenten Malik S. (dagegen: Studierende mit Job brauchen Flexibilität). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Lies beide Zitate: Wer ist für die Anwesenheitspflicht, wer dagegen?",
+      "Sammle Argumente für beide Seiten und je ein Beispiel (z. B. Gruppenreferat, Nebenjob).",
+      "Einleitung: Thema vorstellen und die Leitfrage nennen.",
+      "Hauptteil: beide Zitate mit eigenen Worten wiedergeben und die Argumente abwägen.",
+      "Schluss: deine klare Meinung als Fazit (in der Prüfung mindestens 350 Wörter)."
+    ],
+    "schluesselwoerter": [
+      "Erörterung",
+      "Anwesenheitspflicht",
+      "Standpunkt",
+      "argumentativ dar",
+      "beide Aussagen",
+      "Beispiele",
+      "Einleitung, Hauptteil und Schluss"
+    ],
+    "woerter": [
+      {
+        "wort": "Anwesenheitspflicht",
+        "erklaerung": "Regel: Man muss bei den Kursen anwesend sein (hingehen)."
+      },
+      {
+        "wort": "Erörterung",
+        "erklaerung": "Text, in dem man Pro und Contra abwägt und dann eine eigene Meinung begründet."
+      },
+      {
+        "wort": "Standpunkt",
+        "erklaerung": "deine eigene Meinung zu der Frage"
+      },
+      {
+        "wort": "argumentativ",
+        "erklaerung": "mit Gründen (Argumenten), nicht nur mit Gefühlen"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Erörterung zur Anwesenheitspflicht schreiben: beide Zitate genau zusammenfassen, Beispiele nennen und gliedern, aber keine eigene Meinung äußern, weil der Text neutral sein soll.",
+        "Eine Erörterung zur Anwesenheitspflicht schreiben: eigene Meinung begründen, auf beide Zitate eingehen, Beispiele nennen und in Einleitung, Hauptteil und Schluss gliedern.",
+        "Eine Erörterung zur Anwesenheitspflicht schreiben: nur Argumente der Dozentin für die Pflicht sammeln, mit Beispielen begründen und den Studenten Malik S. nicht erwähnen.",
+        "Einen formellen Brief an die Dozentin schreiben: die eigene Meinung zur Anwesenheitspflicht begründen, beide Zitate nennen und um eine Befreiung von der Pflicht bitten."
+      ],
+      "loesung": 1,
+      "erklaerung": "Gefragt ist eine Erörterung mit deiner eigenen, begründeten Meinung. Beide Zitate müssen vorkommen. Nur zusammenfassen, nur eine Seite oder ein Brief erfüllen die Aufgabe nicht."
+    }
+  },
+  {
+    "id": "af_sa02",
+    "ref": "sa02",
+    "teil": "sa",
+    "anweisung": "Der Studierendenrat schlägt vor, dass die Mensa nur noch vegetarisch kocht. Für seinen Blog schreiben Sie eine Stellungnahme. Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Der Studierendenrat will, dass die Mensa nur noch vegetarisches Essen anbietet. Du schreibst für seinen Blog eine Stellungnahme: Findest du das gut oder nicht, und warum? Du musst auf beide Zitate eingehen (Jana W.: Fleisch weg, wegen Klimaschutz; Tobias K.: Die Wahl soll frei bleiben) und Beispiele nennen. Der Text hat Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Soll die Mensa nur noch vegetarisch kochen?",
+      "Notiere Argumente von Jana W. (Klima) und Tobias K. (freie Wahl) mit eigenen Worten.",
+      "Finde Beispiele (z. B. Gerichte, Preise, Klimabilanz).",
+      "Schreibe Einleitung, Hauptteil mit beiden Positionen und deine Meinung.",
+      "Schluss: klares Fazit, gern mit einem Appell an den Studierendenrat."
+    ],
+    "schluesselwoerter": [
+      "Studierendenrat",
+      "nur noch vegetarisch",
+      "Blog",
+      "Stellungnahme",
+      "Standpunkt",
+      "beide Aussagen",
+      "Beispiele"
+    ],
+    "woerter": [
+      {
+        "wort": "Studierendenrat",
+        "erklaerung": "gewählte Vertretung der Studierenden an der Hochschule"
+      },
+      {
+        "wort": "Mensa",
+        "erklaerung": "Kantine an der Hochschule"
+      },
+      {
+        "wort": "Stellungnahme",
+        "erklaerung": "Text, in dem du deine Meinung zu einer Frage sagst und begründest"
+      },
+      {
+        "wort": "Standpunkt",
+        "erklaerung": "deine eigene Meinung zu der Frage"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Einen Beitrag für den Blog schreiben: ein vegetarisches Rezept für die Mensa vorstellen und es mit den Zitaten von Jana W. und Tobias K. begründen.",
+        "Eine Stellungnahme für den Blog schreiben: erklären, warum Fleisch dem Klima schadet, Beispiele nennen und nur auf das Zitat von Jana W. eingehen.",
+        "Eine Stellungnahme für den Blog schreiben: die Aussagen von Jana W. und Tobias K. genau wiedergeben und Beispiele nennen, aber keine eigene Meinung sagen.",
+        "Eine Stellungnahme für den Blog schreiben: meine Meinung zur rein vegetarischen Mensa begründen, auf Jana W. und Tobias K. eingehen und Beispiele nennen."
+      ],
+      "loesung": 3,
+      "erklaerung": "Gefragt ist deine begründete Meinung zum Vorschlag. Beide Zitate gehören dazu, auch das, dem du nicht zustimmst. Ein Rezept wäre die falsche Textsorte."
+    }
+  },
+  {
+    "id": "af_sa03",
+    "ref": "sa03",
+    "teil": "sa",
+    "anweisung": "In einem Seminar zur Hochschuldidaktik erörtern Sie, ob KI-Textgeneratoren bei Hausarbeiten erlaubt sein sollten. Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Beziehen Sie beide Aussagen ein, führen Sie Beispiele an und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für ein Seminar eine Erörterung: Sollen Studierende KI-Programme, die Texte schreiben, bei Hausarbeiten benutzen dürfen? Du wägst Pro und Contra ab und sagst deine eigene Meinung. Du musst beide Zitate einbeziehen: Prof. Brenner (KI verbieten, sonst verlernt man das Denken) und Lea M. (KI ist ein Werkzeug, die Uni soll den Umgang lehren). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Erlauben oder verbieten – und vielleicht mit welchen Regeln?",
+      "Gib beide Zitate (Brenner und Lea M.) mit eigenen Worten wieder.",
+      "Sammle Beispiele (z. B. Ideen finden, Quellen prüfen, Text überarbeiten).",
+      "Wäge die Argumente im Hauptteil ab.",
+      "Schluss: deine klare Position als Fazit."
+    ],
+    "schluesselwoerter": [
+      "KI-Textgeneratoren",
+      "Hausarbeiten",
+      "erlaubt",
+      "Standpunkt",
+      "Beziehen Sie beide Aussagen ein",
+      "führen Sie Beispiele an"
+    ],
+    "woerter": [
+      {
+        "wort": "Hochschuldidaktik",
+        "erklaerung": "Wissenschaft davon, wie man an der Hochschule gut lehrt und lernt"
+      },
+      {
+        "wort": "KI-Textgeneratoren",
+        "erklaerung": "Programme mit künstlicher Intelligenz, die Texte schreiben (z. B. Chatbots)"
+      },
+      {
+        "wort": "Hausarbeiten",
+        "erklaerung": "längere schriftliche Arbeiten im Studium, die man selbstständig schreibt"
+      },
+      {
+        "wort": "erörtern",
+        "erklaerung": "ein Thema von beiden Seiten (Pro und Contra) betrachten und dann eine Meinung bilden"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Erörterung schreiben: abwägen, ob KI-Textprogramme bei Hausarbeiten erlaubt sein sollen, meine Meinung begründen, beide Zitate einbeziehen und Beispiele nennen.",
+        "Eine Erörterung schreiben: genau erklären, wie man KI-Textprogramme bei Hausarbeiten technisch benutzt, und dazu passende Beispiele aus dem Studium und kurz beide Zitate nennen.",
+        "Eine Erörterung schreiben: begründen, warum KI bei Hausarbeiten verboten sein soll, Prof. Brenner zustimmen und das Zitat von Lea M. weglassen.",
+        "Selbst eine Hausarbeit mit KI schreiben und danach in Einleitung, Hauptteil und Schluss beschreiben, wie gut das Programm dabei geholfen hat."
+      ],
+      "loesung": 0,
+      "erklaerung": "Es geht um die Frage „erlauben oder nicht?“. Du musst beide Zitate einbeziehen und deine eigene Meinung begründen. Eine Bedienungsanleitung verfehlt das Thema."
+    }
+  },
+  {
+    "id": "af_sa04",
+    "ref": "sa04",
+    "teil": "sa",
+    "anweisung": "Für den Senatsausschuss Lehrkräftebildung nehmen Sie Stellung: Sollen zugewanderte Lehrkräfte auch mit nur einem Unterrichtsfach anerkannt werden? Legen Sie Ihren eigenen Standpunkt argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie Ihren Text in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für einen Ausschuss der Hochschule eine Stellungnahme: Sollen Lehrkräfte aus dem Ausland in Deutschland anerkannt werden, auch wenn sie nur ein Schulfach studiert haben? Du sagst deine eigene Meinung und begründest sie. Du musst auf beide Zitate eingehen: Schulleiterin Aydın (wir brauchen diese Lehrkräfte) und Dr. Volkmann (zwei Fächer sind Standard, gleiche Regeln für alle). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Anerkennung mit nur einem Fach – ja oder nein?",
+      "Gib die Position von Frau Aydın und von Dr. Volkmann mit eigenen Worten wieder.",
+      "Finde Beispiele (z. B. eine Lehrkraft aus dem Ausland, eine kleine Schule).",
+      "Wäge ab und formuliere deine Meinung.",
+      "Schluss: eine klare Empfehlung an den Ausschuss."
+    ],
+    "schluesselwoerter": [
+      "Senatsausschuss Lehrkräftebildung",
+      "zugewanderte Lehrkräfte",
+      "nur einem Unterrichtsfach",
+      "anerkannt",
+      "eigenen Standpunkt",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "Senatsausschuss",
+        "erklaerung": "Arbeitsgruppe des Senats (Leitungsgremium der Hochschule), die über ein Thema berät"
+      },
+      {
+        "wort": "zugewanderte",
+        "erklaerung": "aus einem anderen Land nach Deutschland gekommen"
+      },
+      {
+        "wort": "anerkannt",
+        "erklaerung": "offiziell als gleichwertig akzeptiert (z. B. ein ausländischer Abschluss)"
+      },
+      {
+        "wort": "Unterrichtsfach",
+        "erklaerung": "Schulfach, z. B. Biologie oder Mathematik"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Stellungnahme für den Ausschuss schreiben: Schritt für Schritt beschreiben, wie das Anerkennungsverfahren für ausländische Lehrkräfte in Deutschland abläuft, mit konkreten Beispielen aus der Praxis.",
+        "Eine Stellungnahme für den Ausschuss schreiben: nur die eigene Anerkennungsgeschichte ausführlich erzählen und dabei die Aussagen von Aydın und Volkmann nicht erwähnen.",
+        "Eine Stellungnahme für den Ausschuss schreiben: begründen, ob zugewanderte Lehrkräfte mit nur einem Fach anerkannt werden sollen, auf Aydın und Volkmann eingehen, Beispiele nennen.",
+        "Eine Stellungnahme für den Ausschuss schreiben: begründen, warum Lehrkräfte mit einem Fach anerkannt werden sollen, Frau Aydın zustimmen und Dr. Volkmann weglassen."
+      ],
+      "loesung": 2,
+      "erklaerung": "Gefragt ist eine Stellungnahme zu einer konkreten Frage (ein Fach genügt?). Eigene Erfahrung darf ein Beispiel sein, aber beide Aussagen und deine begründete Meinung müssen vorkommen."
+    }
+  },
+  {
+    "id": "af_sa05",
+    "ref": "sa05",
+    "teil": "sa",
+    "anweisung": "Im fachdidaktischen Seminar Biologie erörtern Sie, ob im Schulunterricht weiterhin Tiere oder Tierorgane seziert werden sollten. Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für ein Seminar über Biologieunterricht eine Erörterung: Sollen Schülerinnen und Schüler im Unterricht auch in Zukunft Tiere oder Organe von Tieren aufschneiden und untersuchen? Du betrachtest beide Seiten und sagst deine Meinung. Du musst auf beide Zitate eingehen: Dr. Sommer (echte Organe lehren mehr als eine App) und Nils B. (Tiere sind kein Material, digitale Modelle reichen). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Sezieren im Schulunterricht weiter erlauben oder nicht?",
+      "Gib beide Zitate (Dr. Sommer, Nils B.) mit eigenen Worten wieder.",
+      "Finde Beispiele (z. B. Schweineherz, 3D-Modell, Schülerin, die nicht mitmachen will).",
+      "Wäge die Argumente ab, auch die ethische Seite.",
+      "Schluss: deine Meinung, eventuell mit Bedingungen."
+    ],
+    "schluesselwoerter": [
+      "fachdidaktischen Seminar Biologie",
+      "Schulunterricht",
+      "Tiere oder Tierorgane",
+      "seziert",
+      "weiterhin",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "fachdidaktischen",
+        "erklaerung": "es geht darum, wie man ein Fach (hier Biologie) gut unterrichtet"
+      },
+      {
+        "wort": "seziert",
+        "erklaerung": "aufgeschnitten, um den Körper innen zu untersuchen"
+      },
+      {
+        "wort": "Tierorgane",
+        "erklaerung": "Teile im Körper eines Tieres, z. B. Herz oder Auge"
+      },
+      {
+        "wort": "weiterhin",
+        "erklaerung": "auch in Zukunft, so wie bisher"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Erörterung schreiben: genau beschreiben, wie man ein Schweineherz im Biologieunterricht Schritt für Schritt seziert, welche Werkzeuge man braucht, und dazu Dr. Sommer und Nils B. zitieren.",
+        "Eine Erörterung schreiben: abwägen, ob im Schulunterricht weiter seziert werden soll, aber nur den Tierschutz behandeln und Dr. Sommer nicht erwähnen.",
+        "Eine Erörterung schreiben: abwägen, ob Tierversuche in der medizinischen Forschung erlaubt sein sollen, meine Meinung begründen und Beispiele aus Laboren nennen.",
+        "Eine Erörterung schreiben: abwägen, ob im Schulunterricht weiter Tiere oder Organe seziert werden sollen, meine Meinung begründen, auf Dr. Sommer und Nils B. eingehen."
+      ],
+      "loesung": 3,
+      "erklaerung": "Thema ist das Sezieren im Schulunterricht, nicht Tierversuche in der Forschung. Du brauchst beide Zitate, Beispiele und deine eigene begründete Meinung."
+    }
+  },
+  {
+    "id": "af_sa06",
+    "ref": "sa06",
+    "teil": "sa",
+    "anweisung": "Die Hochschulleitung will alle Studierendenparkplätze abschaffen. In der Campuszeitung nehmen Sie dazu Stellung. Erarbeiten Sie Ihren Standpunkt und begründen Sie ihn überzeugend. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Die Leitung der Hochschule will alle Parkplätze für Studierende abschaffen. Du schreibst dazu eine Stellungnahme für die Campuszeitung: Ist das richtig oder nicht? Du musst auf beide Zitate eingehen: Prof. Kessler (viele Autos passen nicht zu einer klimaneutralen Hochschule) und Ayşe T. (ohne Auto braucht sie vom Dorf zwei Stunden). Du begründest deine Meinung überzeugend, nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Sollen alle Studierendenparkplätze wegfallen?",
+      "Gib die Positionen von Prof. Kessler (Klima) und Ayşe T. (Pendeln) wieder.",
+      "Finde Beispiele (z. B. schlechte Busverbindung, Grünflächen statt Parkplätzen).",
+      "Wäge ab und mache eventuell einen eigenen Vorschlag.",
+      "Schluss: klares Fazit für die Leserinnen und Leser der Campuszeitung."
+    ],
+    "schluesselwoerter": [
+      "Hochschulleitung",
+      "Studierendenparkplätze abschaffen",
+      "Campuszeitung",
+      "Stellung",
+      "begründen Sie ihn überzeugend",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "Hochschulleitung",
+        "erklaerung": "die Leitung der Hochschule (z. B. Präsidentin oder Präsident)"
+      },
+      {
+        "wort": "abschaffen",
+        "erklaerung": "beenden, sodass es etwas nicht mehr gibt"
+      },
+      {
+        "wort": "Stellung",
+        "erklaerung": "Stellung nehmen = deine Meinung zu etwas sagen und begründen"
+      },
+      {
+        "wort": "überzeugend",
+        "erklaerung": "so, dass andere dir glauben und zustimmen können"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Einen Beschwerdebrief an die Hochschulleitung schreiben: deutlich gegen die Abschaffung der Parkplätze protestieren, Ayşe T. zitieren und eine schriftliche Antwort bis nächste Woche verlangen.",
+        "Eine Stellungnahme für die Campuszeitung schreiben: meine Meinung zur Abschaffung der Studierendenparkplätze begründen, auf Prof. Kessler und Ayşe T. eingehen, Beispiele nennen.",
+        "Eine Stellungnahme für die Campuszeitung schreiben: nur über Klimaschutz auf dem Campus schreiben, Prof. Kessler zitieren und die pendelnde Studentin weglassen.",
+        "Einen Artikel für die Campuszeitung schreiben: erklären, mit welchen Bussen und Bahnen man zur Hochschule kommt, und Beispiele für gute Verbindungen nennen."
+      ],
+      "loesung": 1,
+      "erklaerung": "Die Textsorte ist eine Stellungnahme in der Campuszeitung, kein Brief. Beide Zitate müssen vorkommen und du musst deine Meinung zur Abschaffung begründen."
+    }
+  },
+  {
+    "id": "af_sa07",
+    "ref": "sa07",
+    "teil": "sa",
+    "anweisung": "Die Fachschaftszeitschrift Lehramt fragt, ob Quereinsteiger ohne Lehramtsstudium dauerhaft unterrichten sollten. Verfassen Sie eine Stellungnahme. Nehmen Sie Stellung: Entwickeln Sie Ihren Standpunkt, gehen Sie auf beide Aussagen ein und belegen Sie Ihre Argumente mit Beispielen. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Eine Zeitschrift von Lehramtsstudierenden fragt: Sollen Menschen ohne Lehramtsstudium (Quereinsteiger) für immer als Lehrkräfte arbeiten dürfen? Du schreibst eine Stellungnahme mit deiner eigenen Meinung. Du musst auf beide Zitate eingehen: Herr Ollig (Leute aus der Praxis bringen viel mit) und Prof. Neumeyer (Fachwissen allein reicht nicht, Pädagogik ist ein eigener Beruf). Deine Argumente zeigst du mit Beispielen; der Text hat Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Achte auf das Wort „dauerhaft“: Es geht nicht um kurze Aushilfe, sondern um immer.",
+      "Gib beide Zitate (Ollig, Neumeyer) mit eigenen Worten wieder.",
+      "Belege jedes Argument mit einem Beispiel (z. B. Chemikerin aus der Industrie, schwierige Klasse).",
+      "Wäge ab und formuliere deine Position, eventuell mit Bedingungen.",
+      "Schluss: klares Fazit."
+    ],
+    "schluesselwoerter": [
+      "Quereinsteiger",
+      "ohne Lehramtsstudium",
+      "dauerhaft",
+      "Stellungnahme",
+      "beide Aussagen",
+      "belegen Sie Ihre Argumente mit Beispielen"
+    ],
+    "woerter": [
+      {
+        "wort": "Quereinsteiger",
+        "erklaerung": "Person, die aus einem anderen Beruf kommt (hier: Lehrkraft ohne Lehramtsstudium)"
+      },
+      {
+        "wort": "Fachschaftszeitschrift",
+        "erklaerung": "Zeitschrift der Studierendenvertretung eines Studienfachs"
+      },
+      {
+        "wort": "dauerhaft",
+        "erklaerung": "für immer, nicht nur für kurze Zeit"
+      },
+      {
+        "wort": "belegen",
+        "erklaerung": "mit Beispielen oder Fakten zeigen, dass etwas stimmt"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Stellungnahme schreiben: begründen, ob Quereinsteiger in einer akuten Notlage nur kurz aushelfen dürfen, auf Ollig und Neumeyer eingehen und Argumente mit konkreten Beispielen belegen.",
+        "Eine Stellungnahme schreiben: ausführlich erklären, wie die Ausbildung von Lehrkräften in Deutschland abläuft, und Beispiele aus Studium und Referendariat nennen.",
+        "Eine Stellungnahme schreiben: begründen, ob Quereinsteiger ohne Lehramtsstudium dauerhaft unterrichten sollen, auf Ollig und Neumeyer eingehen und Argumente mit Beispielen belegen.",
+        "Eine Stellungnahme schreiben: begründen, warum Quereinsteiger dauerhaft unterrichten sollen, Herrn Ollig zustimmen und das Zitat von Prof. Neumeyer nicht erwähnen."
+      ],
+      "loesung": 2,
+      "erklaerung": "Das Schlüsselwort ist „dauerhaft“. Es geht um die langfristige Arbeit als Lehrkraft. Beide Zitate und Beispiele für deine Argumente gehören dazu."
+    }
+  },
+  {
+    "id": "af_sa08",
+    "ref": "sa08",
+    "teil": "sa",
+    "anweisung": "Die Hochschulzeitschrift bittet um eine Erörterung: Sollten Forschende in sozialen Medien selbst gegen Falschinformationen vorgehen? Erarbeiten Sie Ihren eigenen Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie Ihren Text in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Die Zeitschrift der Hochschule möchte eine Erörterung: Sollen Wissenschaftlerinnen und Wissenschaftler selbst in sozialen Medien gegen falsche Informationen kämpfen? Du betrachtest beide Seiten und sagst deine eigene Meinung. Du musst auf beide Zitate eingehen: Dr. Reuter (wenn Forschende schweigen, gewinnen Verschwörungstheoretiker) und Prof. Brandl (Forschende sollen forschen, für Kommunikation gibt es Profis). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Sollen Forschende das selbst tun oder andere (Pressestelle, Journalisten)?",
+      "Gib die Zitate von Dr. Reuter und Prof. Brandl mit eigenen Worten wieder.",
+      "Finde Beispiele (z. B. Falschinformationen über Impfungen, Hass im Netz).",
+      "Wäge Vor- und Nachteile ab.",
+      "Schluss: deine Meinung als klares Fazit."
+    ],
+    "schluesselwoerter": [
+      "Forschende",
+      "sozialen Medien",
+      "selbst",
+      "gegen Falschinformationen vorgehen",
+      "eigenen Standpunkt",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "Forschende",
+        "erklaerung": "Wissenschaftlerinnen und Wissenschaftler"
+      },
+      {
+        "wort": "Falschinformationen",
+        "erklaerung": "Nachrichten oder Behauptungen, die nicht stimmen"
+      },
+      {
+        "wort": "vorgehen",
+        "erklaerung": "gegen etwas vorgehen = aktiv etwas dagegen tun"
+      },
+      {
+        "wort": "Standpunkt",
+        "erklaerung": "deine eigene Meinung zu der Frage"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Erörterung schreiben: abwägen, ob Forschende selbst in sozialen Medien gegen Falschinformationen vorgehen sollen, meine Meinung begründen, beide Zitate einbeziehen.",
+        "Eine Erörterung schreiben: erklären, wie Falschinformationen in sozialen Medien entstehen und sich so schnell verbreiten, mit Beispielen, aber ohne eigene Meinung zur Frage.",
+        "Eine Erörterung schreiben: begründen, warum Forschende in sozialen Medien aktiv sein sollen, und nur die Meinung des Virologen Dr. Reuter wiedergeben.",
+        "Eine Erörterung schreiben: abwägen, ob soziale Medien wegen Falschinformationen verboten werden sollen, meine Meinung begründen und Beispiele nennen."
+      ],
+      "loesung": 0,
+      "erklaerung": "Die Frage ist, ob Forschende selbst aktiv werden sollen. Du brauchst beide Zitate, Beispiele und deine eigene Meinung. Nur Erklären verfehlt die Aufgabe."
+    }
+  },
+  {
+    "id": "af_sa09",
+    "ref": "sa09",
+    "teil": "sa",
+    "anweisung": "Im Seminar „Gesundheit im Studium“ erörtern Sie, ob die Einnahme leistungssteigernder Medikamente vor Prüfungen akzeptabel ist. Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Beziehen Sie beide Aussagen ein, führen Sie Beispiele an und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für ein Seminar über Gesundheit im Studium eine Erörterung: Ist es in Ordnung, vor Prüfungen Medikamente zu nehmen, die die Leistung steigern sollen? Du betrachtest beide Seiten und sagst deine Meinung. Du musst beide Zitate einbeziehen: Felix R. (Kaffee hilft auch, jeder entscheidet selbst) und Dr. Lorenz (gefährlich für die Gesundheit und unfair). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Sind solche Medikamente vor Prüfungen akzeptabel?",
+      "Gib beide Zitate (Felix R., Dr. Lorenz) mit eigenen Worten wieder.",
+      "Finde Beispiele (z. B. Kaffee im Vergleich zu Tabletten, Prüfungsstress).",
+      "Wäge Argumente ab: Freiheit, Gesundheit, Fairness.",
+      "Schluss: deine klare Position."
+    ],
+    "schluesselwoerter": [
+      "Einnahme",
+      "leistungssteigernder Medikamente",
+      "vor Prüfungen",
+      "akzeptabel",
+      "Beziehen Sie beide Aussagen ein",
+      "führen Sie Beispiele an"
+    ],
+    "woerter": [
+      {
+        "wort": "Einnahme",
+        "erklaerung": "das Nehmen (Schlucken) von Medikamenten"
+      },
+      {
+        "wort": "leistungssteigernder",
+        "erklaerung": "sie sollen machen, dass man mehr leisten kann (z. B. wacher, konzentrierter)"
+      },
+      {
+        "wort": "akzeptabel",
+        "erklaerung": "in Ordnung, annehmbar"
+      },
+      {
+        "wort": "erörtern",
+        "erklaerung": "ein Thema von beiden Seiten (Pro und Contra) betrachten und dann eine Meinung bilden"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Erörterung schreiben: abwägen, ob leistungssteigernde Medikamente vor Prüfungen akzeptabel sind, meine Meinung begründen, beide Zitate einbeziehen und Beispiele nennen.",
+        "Eine Erörterung schreiben: Tipps geben, wie man sich ohne Stress und ohne Medikamente gut auf Prüfungen vorbereitet, mit vielen konkreten Beispielen aus dem eigenen Studienalltag.",
+        "Eine Erörterung schreiben: die gesundheitlichen Gefahren solcher Medikamente erklären, Dr. Lorenz zitieren und die Meinung von Felix R. ganz weglassen.",
+        "Eine Erörterung schreiben: die Aussagen von Felix R. und Dr. Lorenz genau zusammenfassen und Beispiele nennen, aber selbst keine Stellung nehmen."
+      ],
+      "loesung": 0,
+      "erklaerung": "Gefragt ist eine begründete Bewertung: akzeptabel oder nicht? Beide Zitate gehören dazu. Lerntipps oder eine reine Zusammenfassung erfüllen die Aufgabe nicht."
+    }
+  },
+  {
+    "id": "af_sa10",
+    "ref": "sa10",
+    "teil": "sa",
+    "anweisung": "Für eine Anhörung im Stadtrat sammelt der Studierendenrat Stellungnahmen: Sollen Ferienwohnungen in der Innenstadt verboten werden? Nehmen Sie Stellung: Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Der Stadtrat hört Meinungen zu der Frage: Sollen Ferienwohnungen im Stadtzentrum verboten werden? Du schreibst dafür eine Stellungnahme mit deiner Meinung. Du musst auf beide Zitate eingehen: Lukas H. (jede Ferienwohnung fehlt als normale Wohnung) und Dr. Engels (Ferienwohnungen bringen Touristen und Geld, ein Verbot schafft kaum Wohnraum). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Ferienwohnungen in der Innenstadt verbieten – ja oder nein?",
+      "Gib die Positionen von Lukas H. und Dr. Engels wieder.",
+      "Finde Beispiele (z. B. Studierende ohne Zimmer, Einnahmen durch Tourismus).",
+      "Wäge ab, eventuell mit einem Kompromiss.",
+      "Schluss: klare Meinung für die Anhörung im Stadtrat."
+    ],
+    "schluesselwoerter": [
+      "Anhörung im Stadtrat",
+      "Stellungnahmen",
+      "Ferienwohnungen in der Innenstadt",
+      "verboten",
+      "Standpunkt",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "Anhörung",
+        "erklaerung": "Treffen, bei dem Politikerinnen und Politiker die Meinungen von Bürgern hören"
+      },
+      {
+        "wort": "Stadtrat",
+        "erklaerung": "gewählte Politikerinnen und Politiker, die über die Stadt entscheiden"
+      },
+      {
+        "wort": "Ferienwohnungen",
+        "erklaerung": "Wohnungen, die nur kurz an Touristen vermietet werden"
+      },
+      {
+        "wort": "Innenstadt",
+        "erklaerung": "das Zentrum der Stadt"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Anzeige für eine Ferienwohnung in der Innenstadt schreiben und darin erklären, warum Touristen dort gut wohnen, wie es Dr. Engels sagt.",
+        "Eine Stellungnahme für die Anhörung schreiben: nur die Wohnungsnot von Studierenden in der Innenstadt beschreiben, Lukas H. zitieren und Dr. Engels vom Stadtmarketing ganz weglassen.",
+        "Eine Stellungnahme für die Anhörung schreiben: meine Meinung zu einem Verbot von Ferienwohnungen in der Innenstadt begründen, auf Lukas H. und Dr. Engels eingehen.",
+        "Eine Stellungnahme für die Anhörung schreiben: erklären, wie Studierende in der Innenstadt ein WG-Zimmer finden, und dazu Beispiele und Tipps nennen."
+      ],
+      "loesung": 2,
+      "erklaerung": "Gefragt ist eine Stellungnahme zum Verbot. Beide Seiten (Wohnraum und Tourismus) müssen vorkommen, dazu deine eigene Meinung mit Beispielen."
+    }
+  },
+  {
+    "id": "af_sa11",
+    "ref": "sa11",
+    "teil": "sa",
+    "anweisung": "Im Seminar Biologiedidaktik erörtern Sie, ob Schülerinnen und Schüler der Oberstufe selbst gentechnische Experimente durchführen sollten. Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für ein Seminar über Biologieunterricht eine Erörterung: Sollen Schülerinnen und Schüler in den letzten Schuljahren selbst Experimente mit Gentechnik machen? Du betrachtest beide Seiten und sagst deine Meinung. Du musst auf beide Zitate eingehen: Dr. Wolff (wer Gentechnik nur aus dem Buch kennt, kann nicht mitreden) und Herr Kaltenbach (Gentechnik gehört ins Speziallabor, das Risiko ist unnötig). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Sollen Oberstufenschüler selbst gentechnisch experimentieren?",
+      "Gib die Zitate von Dr. Wolff und Herrn Kaltenbach mit eigenen Worten wieder.",
+      "Finde Beispiele (z. B. Schülerlabor, Sicherheitsregeln, Diskussion über Gentechnik).",
+      "Wäge Lernnutzen und Risiko ab.",
+      "Schluss: deine Meinung, eventuell mit Bedingungen."
+    ],
+    "schluesselwoerter": [
+      "Oberstufe",
+      "selbst",
+      "gentechnische Experimente",
+      "durchführen",
+      "Standpunkt",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "Biologiedidaktik",
+        "erklaerung": "Lehre davon, wie man Biologie gut unterrichtet"
+      },
+      {
+        "wort": "Oberstufe",
+        "erklaerung": "die letzten Schuljahre vor dem Abitur"
+      },
+      {
+        "wort": "gentechnische",
+        "erklaerung": "mit Veränderungen an den Genen (am Erbgut) von Lebewesen"
+      },
+      {
+        "wort": "durchführen",
+        "erklaerung": "praktisch machen"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Erörterung schreiben: genau erklären, was Gentechnik ist und wie gentechnische Experimente im Labor Schritt für Schritt funktionieren, mit Beispielen aus dem Biologieunterricht.",
+        "Eine Erörterung schreiben: abwägen, ob Oberstufenschüler selbst gentechnische Experimente machen sollen, meine Meinung begründen, auf Dr. Wolff und Herrn Kaltenbach eingehen.",
+        "Eine Erörterung schreiben: abwägen, ob gentechnisch veränderte Pflanzen in der Landwirtschaft erlaubt sein sollen, meine Meinung begründen und Beispiele nennen.",
+        "Eine Erörterung schreiben: begründen, warum Schüler gentechnisch experimentieren sollen, Dr. Wolff zustimmen und den Elternvertreter Kaltenbach nicht erwähnen."
+      ],
+      "loesung": 1,
+      "erklaerung": "Thema sind Experimente von Schülern im Unterricht, nicht Gentechnik allgemein. Beide Zitate, Beispiele und deine begründete Meinung gehören dazu."
+    }
+  },
+  {
+    "id": "af_sa12",
+    "ref": "sa12",
+    "teil": "sa",
+    "anweisung": "Der Senat will ältere Gasthörer wegen überfüllter Seminare nur noch in Vorlesungen zulassen. Nehmen Sie im Hochschulblog dazu Stellung. Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Weil die Seminare zu voll sind, will der Senat ältere Gasthörer (oft Rentner) nur noch in Vorlesungen lassen, nicht mehr in Seminare. Du schreibst dazu eine Stellungnahme im Blog der Hochschule. Du musst auf beide Zitate eingehen: Gerhard P., 71 (Lernen hat keine Altersgrenze) und Mira S. (sie bekommt ihr Pflichtseminar erst ein Jahr später). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre genau den Plan: Gasthörer nicht ganz raus, sondern nur noch in Vorlesungen.",
+      "Gib die Positionen von Gerhard P. und Mira S. wieder.",
+      "Finde Beispiele (z. B. volles Pflichtseminar, Erfahrung älterer Menschen).",
+      "Wäge ab, eventuell mit einem Kompromiss (z. B. Vorrang für Pflichtseminare).",
+      "Schluss: deine klare Meinung zum Plan des Senats."
+    ],
+    "schluesselwoerter": [
+      "Senat",
+      "ältere Gasthörer",
+      "überfüllter Seminare",
+      "nur noch in Vorlesungen zulassen",
+      "Hochschulblog",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "Gasthörer",
+        "erklaerung": "Personen ohne normales Studium, die an Lehrveranstaltungen teilnehmen, oft Rentner"
+      },
+      {
+        "wort": "Senat",
+        "erklaerung": "wichtiges Gremium, das an der Hochschule entscheidet"
+      },
+      {
+        "wort": "überfüllter",
+        "erklaerung": "zu voll, mit zu vielen Menschen"
+      },
+      {
+        "wort": "zulassen",
+        "erklaerung": "erlauben, dass jemand teilnimmt"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Stellungnahme im Blog schreiben: meine Meinung dazu begründen, ob ältere Menschen überhaupt noch an der Universität studieren dürfen, mit vielen Beispielen und beiden Zitaten.",
+        "Eine Stellungnahme im Blog schreiben: den Plan des Senats kritisieren, nur Gerhard P. zustimmen und die Studentin Mira S. nicht erwähnen.",
+        "Einen Bericht im Blog schreiben: beschreiben, wie Rentnerinnen und Rentner in Deutschland ihre Freizeit verbringen, mit Beispielen wie dem Gasthörerstudium.",
+        "Eine Stellungnahme im Blog schreiben: meine Meinung zum Plan begründen, ältere Gasthörer nur noch in Vorlesungen zuzulassen, auf Gerhard P. und Mira S. eingehen."
+      ],
+      "loesung": 3,
+      "erklaerung": "Der Plan ist genauer: Gasthörer dürfen weiter in Vorlesungen, nur nicht mehr in Seminare. Beide Zitate und deine begründete Meinung müssen vorkommen."
+    }
+  },
+  {
+    "id": "af_sa13",
+    "ref": "sa13",
+    "teil": "sa",
+    "anweisung": "Im Seminar „Hochschule und Gesellschaft“ erörtern Sie, ob Hochschulen eine verbindliche Frauenquote für Professuren einführen sollten. Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für ein Seminar eine Erörterung: Sollen Hochschulen eine feste Regel einführen, dass ein bestimmter Teil der Professuren an Frauen geht? Du betrachtest beide Seiten und sagst deine Meinung. Du musst auf beide Zitate eingehen: Prof. Hartmann (ohne Quote dauert Gleichstellung noch Jahrzehnte) und Prof. Albers (nur die wissenschaftliche Leistung soll zählen). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: verbindliche Frauenquote für Professuren – ja oder nein?",
+      "Gib die Zitate von Prof. Hartmann und Prof. Albers wieder.",
+      "Finde Beispiele (z. B. wenige Professorinnen, Auswahl nach Leistung).",
+      "Wäge Gerechtigkeit und Leistung ab, eventuell andere Maßnahmen.",
+      "Schluss: deine klare Meinung."
+    ],
+    "schluesselwoerter": [
+      "verbindliche Frauenquote",
+      "Professuren",
+      "einführen",
+      "Standpunkt",
+      "beide Aussagen",
+      "Beispiele"
+    ],
+    "woerter": [
+      {
+        "wort": "verbindliche",
+        "erklaerung": "Pflicht, man muss sich daran halten"
+      },
+      {
+        "wort": "Frauenquote",
+        "erklaerung": "Regel: Ein bestimmter Anteil der Stellen muss an Frauen gehen"
+      },
+      {
+        "wort": "Professuren",
+        "erklaerung": "Stellen als Professorin oder Professor"
+      },
+      {
+        "wort": "erörtern",
+        "erklaerung": "ein Thema von beiden Seiten (Pro und Contra) betrachten und dann eine Meinung bilden"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Erörterung schreiben: abwägen, ob große Unternehmen eine verbindliche Frauenquote für ihre Chefetagen einführen sollen, meine Meinung begründen und Beispiele nennen.",
+        "Eine Erörterung schreiben: abwägen, ob Hochschulen eine verbindliche Frauenquote für Professuren einführen sollen, meine Meinung begründen, beide Zitate einbeziehen.",
+        "Eine Erörterung schreiben: begründen, warum eine Frauenquote für Professuren nötig ist, und nur die Argumente der Gleichstellungsbeauftragten wiederholen.",
+        "Eine Erörterung schreiben: mit Zahlen beschreiben, wie viele Professorinnen es an deutschen Hochschulen gibt, aber keine eigene Meinung zur Quote sagen."
+      ],
+      "loesung": 1,
+      "erklaerung": "Es geht um Professuren an Hochschulen, nicht um Firmen. Du brauchst beide Zitate, Beispiele und deine eigene begründete Position."
+    }
+  },
+  {
+    "id": "af_sa14",
+    "ref": "sa14",
+    "teil": "sa",
+    "anweisung": "Für die Zeitschrift des Zentrums für Lehrkräftebildung nehmen Sie Stellung: Sollen Kinder im Unterricht auch ihre Herkunftssprachen verwenden dürfen? Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für die Zeitschrift eines Zentrums für Lehrerausbildung eine Stellungnahme: Dürfen Kinder im Unterricht auch die Sprache ihrer Familie benutzen (z. B. Türkisch, Arabisch)? Du sagst deine Meinung und begründest sie. Du musst auf beide Zitate eingehen: Herr Kraus (in der Schule nur Deutsch, so lernen alle schneller) und Dr. Demir (mit der Erstsprache versteht man mehr und lernt besser Deutsch). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Herkunftssprachen im Unterricht erlauben oder nicht?",
+      "Gib die Positionen von Herrn Kraus und Dr. Demir wieder.",
+      "Finde Beispiele aus dem Unterricht (z. B. Fachwort in der Erstsprache erklären).",
+      "Wäge ab, eventuell mit klaren Regeln.",
+      "Schluss: deine klare Meinung."
+    ],
+    "schluesselwoerter": [
+      "Zentrums für Lehrkräftebildung",
+      "Herkunftssprachen",
+      "verwenden dürfen",
+      "im Unterricht",
+      "Standpunkt",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "Herkunftssprachen",
+        "erklaerung": "Sprachen, die Kinder aus ihrer Familie mitbringen"
+      },
+      {
+        "wort": "Lehrkräftebildung",
+        "erklaerung": "Ausbildung von Lehrerinnen und Lehrern"
+      },
+      {
+        "wort": "verwenden",
+        "erklaerung": "benutzen"
+      },
+      {
+        "wort": "Standpunkt",
+        "erklaerung": "deine eigene Meinung zu der Frage"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Stellungnahme für die Zeitschrift schreiben: begründen, ob alle Kinder in der Schule zusätzlich eine zweite Fremdsprache lernen sollen, mit Beispielen aus dem eigenen Unterricht.",
+        "Eine Stellungnahme für die Zeitschrift schreiben: begründen, warum in der Schule nur Deutsch gesprochen werden soll, und Dr. Demir nicht erwähnen.",
+        "Eine Stellungnahme für die Zeitschrift schreiben: erklären, wie Kinder am schnellsten Deutsch lernen, mit Beispielen, aber ohne Meinung zu den Herkunftssprachen.",
+        "Eine Stellungnahme für die Zeitschrift schreiben: begründen, ob Kinder im Unterricht ihre Herkunftssprachen benutzen dürfen, auf Kraus und Demir eingehen, Beispiele nennen."
+      ],
+      "loesung": 3,
+      "erklaerung": "Die Frage ist, ob Herkunftssprachen im Unterricht erlaubt sein sollen. Beide Zitate gehören dazu, dazu deine Meinung mit Beispielen."
+    }
+  },
+  {
+    "id": "af_sa15",
+    "ref": "sa15",
+    "teil": "sa",
+    "anweisung": "Ein Automobilkonzern will an Ihrer Hochschule einen Lehrstuhl finanzieren. Der Akademische Senat bittet um Stellungnahmen. Nehmen Sie Stellung: Legen Sie Ihren Standpunkt argumentativ dar, gehen Sie auf beide Aussagen ein und nennen Sie Beispiele. Gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Eine Autofirma will an deiner Hochschule eine Professur (einen Lehrstuhl) bezahlen, und der Senat der Hochschule möchte Meinungen dazu. Du schreibst eine Stellungnahme: Soll die Hochschule das Geld annehmen? Du musst auf beide Zitate eingehen: Prof. Lange (ohne Geld aus der Wirtschaft verlieren wir den Anschluss an die Spitzenforschung) und Clara F. (wer zahlt, bestimmt die Forschung, die Freiheit ist in Gefahr). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Kläre die Frage: Geld vom Automobilkonzern für einen Lehrstuhl annehmen – ja oder nein?",
+      "Gib die Positionen von Prof. Lange und Clara F. wieder.",
+      "Finde Beispiele (z. B. teure Labore, Forschung zu Elektroautos, unabhängige Ergebnisse).",
+      "Wäge ab, eventuell mit Bedingungen (z. B. Verträge offenlegen).",
+      "Schluss: deine klare Empfehlung an den Senat."
+    ],
+    "schluesselwoerter": [
+      "Automobilkonzern",
+      "Lehrstuhl finanzieren",
+      "Akademische Senat",
+      "Stellungnahmen",
+      "Standpunkt",
+      "beide Aussagen"
+    ],
+    "woerter": [
+      {
+        "wort": "Automobilkonzern",
+        "erklaerung": "großes Unternehmen, das Autos herstellt"
+      },
+      {
+        "wort": "Lehrstuhl",
+        "erklaerung": "Professur mit Mitarbeitenden für ein Fachgebiet"
+      },
+      {
+        "wort": "finanzieren",
+        "erklaerung": "bezahlen"
+      },
+      {
+        "wort": "Senat",
+        "erklaerung": "Gremium der Hochschule, das wichtige Entscheidungen trifft"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Stellungnahme für den Senat schreiben: begründen, ob ein Automobilkonzern einen Lehrstuhl finanzieren darf, auf Prof. Lange und Clara F. eingehen, Beispiele nennen.",
+        "Einen Werbetext für den Automobilkonzern schreiben: erklären, warum der neue Lehrstuhl für die Hochschule gut ist, und dazu Prof. Lange zitieren.",
+        "Eine Stellungnahme für den Senat schreiben: allgemein begründen, ob Autos wirklich gut oder schlecht für Umwelt und Klima sind, mit vielen Beispielen aus der eigenen Stadt.",
+        "Eine Stellungnahme für den Senat schreiben: begründen, warum die Hochschule das Geld annehmen soll, und die Sorge von Clara F. weglassen."
+      ],
+      "loesung": 0,
+      "erklaerung": "Es geht um Geld aus der Wirtschaft und die Freiheit der Forschung, nicht um Autos allgemein. Beide Zitate und deine begründete Meinung gehören dazu."
+    }
+  },
+  {
+    "id": "af_sa16",
+    "ref": "sa16",
+    "teil": "sa",
+    "anweisung": "Im Seminar „Wissenschaftssprachen“ erörtern Sie, ob Masterstudiengänge an deutschen Hochschulen nur noch auf Englisch angeboten werden sollten. Erarbeiten Sie Ihren Standpunkt und legen Sie ihn argumentativ dar. Beziehen Sie beide Aussagen ein, führen Sie Beispiele an und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "einfach": "Du schreibst für ein Seminar eine Erörterung: Sollen Masterstudiengänge an deutschen Hochschulen nur noch auf Englisch sein? Du betrachtest beide Seiten und sagst deine Meinung. Du musst beide Zitate einbeziehen: Prof. Wieland (Englisch ist die Sprache der Wissenschaft, wichtig für den Wettbewerb) und Dr. Martín (wer nur Englisch hört, bleibt in Deutschland fremd, die Forschung verliert ihr Publikum). Du nennst Beispiele und gliederst in Einleitung, Hauptteil und Schluss.",
+    "schritte": [
+      "Achte auf „nur noch“: Es geht um ausschließlich Englisch, nicht um etwas mehr Englisch.",
+      "Gib die Zitate von Prof. Wieland und Dr. Martín wieder.",
+      "Finde Beispiele (z. B. internationale Studierende, Jobsuche in Deutschland).",
+      "Wäge die Argumente ab, eventuell mit einem Mittelweg.",
+      "Schluss: deine klare Meinung."
+    ],
+    "schluesselwoerter": [
+      "Masterstudiengänge",
+      "deutschen Hochschulen",
+      "nur noch auf Englisch",
+      "Beziehen Sie beide Aussagen ein",
+      "führen Sie Beispiele an",
+      "Standpunkt"
+    ],
+    "woerter": [
+      {
+        "wort": "Masterstudiengänge",
+        "erklaerung": "Studienprogramme nach dem Bachelor"
+      },
+      {
+        "wort": "Wissenschaftssprachen",
+        "erklaerung": "Sprachen, in denen Forschende schreiben und sprechen"
+      },
+      {
+        "wort": "nur noch",
+        "erklaerung": "ab jetzt ausschließlich, nichts anderes mehr"
+      },
+      {
+        "wort": "erörtern",
+        "erklaerung": "ein Thema von beiden Seiten (Pro und Contra) betrachten und dann eine Meinung bilden"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Eine Erörterung schreiben: abwägen, ob Kinder an deutschen Schulen schon in der Grundschule Englisch lernen sollen, meine Meinung begründen und Beispiele aus der Schule nennen.",
+        "Eine Erörterung schreiben: begründen, warum Englisch für die Wissenschaft wichtig ist, Prof. Wieland zitieren und Dr. Martín ganz weglassen.",
+        "Eine Erörterung schreiben: abwägen, ob Masterstudiengänge an deutschen Hochschulen nur noch auf Englisch sein sollen, meine Meinung begründen, beide Zitate einbeziehen.",
+        "Eine Erörterung schreiben: von eigenen Erfahrungen mit Englischkursen erzählen und beide Zitate nennen, aber die eigentliche Frage nicht beantworten."
+      ],
+      "loesung": 2,
+      "erklaerung": "Die Frage betrifft nur Masterstudiengänge und das Wort „nur noch“. Beide Zitate, Beispiele und deine eigene Position sind Pflicht."
+    }
+  },
+  {
+    "id": "af_mp01_0",
+    "ref": "mp01-0",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Digitale Medien im Schulunterricht“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wie digitale Medien in Schulen Ihres Heimatlandes und in Deutschland eingesetzt werden.; Erläutern Sie Vor- und Nachteile digitaler Medien für das Lernen.; Nehmen Sie Stellung: Sollten Tablets und Laptops Bücher und Hefte ersetzen?; Geben Sie einen Ausblick: Wie könnte Unterricht in zehn Jahren aussehen?",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über digitale Medien im Unterricht. Du beschreibst, wie Schulen in deinem Heimatland und in Deutschland sie nutzen, und erklärst Vor- und Nachteile für das Lernen. Dann sagst du deine Meinung: Sollen Tablets und Laptops Bücher und Hefte ersetzen? Am Ende sagst du, wie Unterricht in zehn Jahren aussehen könnte.",
+    "schritte": [
+      "Einstieg: kurzes Beispiel oder eigene Erfahrung mit digitalen Medien im Unterricht.",
+      "Vergleich: Nutzung im Heimatland und in Deutschland.",
+      "Je zwei Vor- und Nachteile für das Lernen nennen.",
+      "Meinung: Tablets statt Bücher und Hefte? Mit Begründung.",
+      "Ausblick auf den Unterricht in zehn Jahren und kurzes Fazit."
+    ],
+    "schluesselwoerter": [
+      "Kurzvortrag",
+      "Digitale Medien im Schulunterricht",
+      "Ihres Heimatlandes und in Deutschland",
+      "Vor- und Nachteile",
+      "Nehmen Sie Stellung",
+      "Ausblick"
+    ],
+    "woerter": [
+      {
+        "wort": "Kurzvortrag",
+        "erklaerung": "kurze Präsentation, bei der du allein sprichst"
+      },
+      {
+        "wort": "eingesetzt",
+        "erklaerung": "benutzt, verwendet"
+      },
+      {
+        "wort": "Erläutern",
+        "erklaerung": "genauer erklären"
+      },
+      {
+        "wort": "Ausblick",
+        "erklaerung": "Blick in die Zukunft: Was wird sich wahrscheinlich ändern?"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: Einsatz im Heimatland und in Deutschland beschreiben, Vor- und Nachteile erklären, Meinung zu Tablets statt Büchern sagen, aber keinen Ausblick auf die Zukunft geben.",
+        "In 3–4 Minuten: nur ausführlich begründen, ob Tablets und Laptops Bücher und Hefte ersetzen sollen, mit vielen Beispielen aus der eigenen Schule.",
+        "In 3–4 Minuten: erklären, wie man Tablets im Unterricht technisch einrichtet, welche Apps gut sind und wie Lehrkräfte sie richtig bedienen.",
+        "In 3–4 Minuten: Einsatz im Heimatland und in Deutschland beschreiben, Vor- und Nachteile erklären, Meinung zu Tablets statt Büchern sagen, Ausblick auf zehn Jahre geben."
+      ],
+      "loesung": 3,
+      "erklaerung": "Alle vier Leitpunkte gehören in den Vortrag: Vergleich, Vor- und Nachteile, Meinung und Ausblick. Wer einen Punkt weglässt, erfüllt die Aufgabe nur teilweise."
+    }
+  },
+  {
+    "id": "af_mp01_1",
+    "ref": "mp01-1",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Weniger Fleisch essen – ein Beitrag zum Klimaschutz?“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, welche Rolle Fleisch in der Ernährung in Deutschland und in einem anderen Land spielt, das Sie kennen.; Erläutern Sie die Folgen des Fleischkonsums für Umwelt und Gesundheit.; Diskutieren Sie, ob der Staat den Fleischkonsum steuern sollte, z. B. durch Steuern oder das Angebot in Kantinen.; Sagen Sie Ihre eigene Meinung und begründen Sie sie.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) zu der Frage, ob weniger Fleisch essen dem Klima hilft. Du beschreibst, wie wichtig Fleisch beim Essen in Deutschland und in einem anderen Land ist, und erklärst die Folgen für Umwelt und Gesundheit. Dann diskutierst du, ob der Staat beeinflussen soll, wie viel Fleisch man isst (z. B. mit Steuern oder dem Essen in Kantinen). Zum Schluss sagst du deine Meinung mit Begründung.",
+    "schritte": [
+      "Einstieg mit einem Beispiel (z. B. typisches Essen in deinem Land).",
+      "Vergleich: Rolle von Fleisch in Deutschland und in einem anderen Land.",
+      "Folgen für die Umwelt und für die Gesundheit erklären.",
+      "Staatliche Maßnahmen (Steuern, Kantinen) mit Pro und Contra diskutieren.",
+      "Eigene Meinung begründen und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Weniger Fleisch essen",
+      "Klimaschutz",
+      "in einem anderen Land",
+      "Umwelt und Gesundheit",
+      "den Fleischkonsum steuern",
+      "eigene Meinung"
+    ],
+    "woerter": [
+      {
+        "wort": "Beitrag",
+        "erklaerung": "ein Teil, mit dem man bei einem Ziel hilft"
+      },
+      {
+        "wort": "Fleischkonsum",
+        "erklaerung": "wie viel Fleisch Menschen essen"
+      },
+      {
+        "wort": "steuern",
+        "erklaerung": "Verb „steuern“ = lenken, beeinflussen; Nomen „Steuern“ = Geld, das man an den Staat zahlt"
+      },
+      {
+        "wort": "Kantinen",
+        "erklaerung": "Restaurants in einer Firma oder Behörde, wo die Mitarbeitenden essen"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: ein vegetarisches Rezept aus dem eigenen Heimatland vorstellen, erklären, warum es gesund und klimafreundlich ist, und sagen, warum man es in Kantinen anbieten sollte.",
+        "In 3–4 Minuten: Rolle von Fleisch in Deutschland und einem anderen Land beschreiben, Folgen für Umwelt und Gesundheit erklären, staatliche Steuerung diskutieren, Meinung begründen.",
+        "In 3–4 Minuten: Rolle von Fleisch in Deutschland und einem anderen Land beschreiben, nur die Folgen für die Gesundheit erklären, Meinung begründen.",
+        "In 3–4 Minuten: die eigene Meinung zum Fleischessen ausführlich begründen, aber ohne Ländervergleich und ohne die Frage, ob der Staat eingreifen soll."
+      ],
+      "loesung": 1,
+      "erklaerung": "Der Vortrag braucht alle vier Punkte: Ländervergleich, Folgen für Umwelt und Gesundheit, Rolle des Staates und deine begründete Meinung."
+    }
+  },
+  {
+    "id": "af_mp02_0",
+    "ref": "mp02-0",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Studiengebühren – gerecht oder unsozial?“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wie das Studium in Deutschland und in einem anderen Land, das Sie kennen, finanziert wird.; Nennen Sie Argumente für und gegen allgemeine Studiengebühren.; Gehen Sie auf die Frage ein, ob internationale Studierende Gebühren zahlen sollten.; Nehmen Sie persönlich Stellung.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über Studiengebühren. Du beschreibst, wie man das Studium in Deutschland und in einem anderen Land bezahlt, und nennst Argumente für und gegen Gebühren für alle Studierenden. Du sprichst auch über die Frage, ob internationale Studierende zahlen sollen. Am Ende sagst du deine persönliche Meinung.",
+    "schritte": [
+      "Einstieg: kurzes Beispiel (z. B. Kosten eines Studiums in deinem Land).",
+      "Finanzierung des Studiums in Deutschland und einem anderen Land vergleichen.",
+      "Argumente für und gegen allgemeine Studiengebühren nennen.",
+      "Extra-Punkt: Sollen internationale Studierende Gebühren zahlen?",
+      "Persönliche Stellungnahme und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Studiengebühren",
+      "gerecht oder unsozial",
+      "finanziert",
+      "für und gegen",
+      "internationale Studierende",
+      "persönlich Stellung"
+    ],
+    "woerter": [
+      {
+        "wort": "Studiengebühren",
+        "erklaerung": "Geld, das man für das Studium an die Hochschule zahlt"
+      },
+      {
+        "wort": "unsozial",
+        "erklaerung": "ungerecht für Menschen mit wenig Geld"
+      },
+      {
+        "wort": "finanziert",
+        "erklaerung": "bezahlt"
+      },
+      {
+        "wort": "allgemeine",
+        "erklaerung": "für alle, nicht nur für bestimmte Gruppen"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: genau erklären, wie man in Deutschland BAföG beantragt, welche Unterlagen man braucht und wie lange die Bearbeitung dauert.",
+        "In 3–4 Minuten: Studienfinanzierung in Deutschland und einem anderen Land beschreiben, Argumente für und gegen Gebühren nennen, persönlich Stellung nehmen, internationale Studierende ganz weglassen.",
+        "In 3–4 Minuten: Studienfinanzierung in Deutschland und einem anderen Land beschreiben, Argumente für und gegen Gebühren nennen, internationale Studierende besprechen, persönlich Stellung nehmen.",
+        "In 3–4 Minuten: ausführlich erzählen, wie das Studium im eigenen Heimatland finanziert wird und was ein Studienjahr dort ungefähr kostet."
+      ],
+      "loesung": 2,
+      "erklaerung": "Alle vier Leitpunkte müssen vorkommen. Besonders leicht vergisst man den Punkt zu internationalen Studierenden und die persönliche Meinung."
+    }
+  },
+  {
+    "id": "af_mp02_1",
+    "ref": "mp02-1",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Die Anerkennung ausländischer Berufsabschlüsse“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wie ein Anerkennungsverfahren in Deutschland abläuft, und vergleichen Sie mit Ihrem Heimatland.; Erläutern Sie, welche Schwierigkeiten dabei für Zugewanderte entstehen.; Nennen Sie Vor- und Nachteile strenger Anerkennungsregeln.; Machen Sie Vorschläge, wie man das Verfahren verbessern könnte.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) darüber, wie Abschlüsse aus dem Ausland in Deutschland anerkannt werden. Du beschreibst den Ablauf in Deutschland und vergleichst ihn mit deinem Heimatland. Du erklärst, welche Probleme Zugewanderte dabei haben, und nennst Vor- und Nachteile strenger Regeln. Am Ende machst du Vorschläge, wie man das Verfahren besser machen kann.",
+    "schritte": [
+      "Einstieg: kurzes Beispiel (gern deine eigene Erfahrung, aber nur als Einstieg).",
+      "Ablauf in Deutschland beschreiben und mit dem Heimatland vergleichen.",
+      "Schwierigkeiten für Zugewanderte erklären (z. B. Kosten, Dauer, Dokumente).",
+      "Vor- und Nachteile strenger Regeln nennen – beide Seiten!",
+      "Konkrete Verbesserungsvorschläge und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Anerkennung ausländischer Berufsabschlüsse",
+      "Anerkennungsverfahren",
+      "vergleichen Sie mit Ihrem Heimatland",
+      "Schwierigkeiten",
+      "strenger Anerkennungsregeln",
+      "Vorschläge"
+    ],
+    "woerter": [
+      {
+        "wort": "Anerkennungsverfahren",
+        "erklaerung": "offizieller Prozess, bei dem geprüft wird, ob ein ausländischer Abschluss gleichwertig ist"
+      },
+      {
+        "wort": "Berufsabschlüsse",
+        "erklaerung": "Abschlüsse einer Ausbildung oder eines Studiums für einen Beruf"
+      },
+      {
+        "wort": "Zugewanderte",
+        "erklaerung": "Menschen, die aus einem anderen Land gekommen sind"
+      },
+      {
+        "wort": "strenger",
+        "erklaerung": "mit hohen Anforderungen und wenigen Ausnahmen"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: Anerkennung in Deutschland beschreiben und mit dem Heimatland vergleichen, Schwierigkeiten erklären, Vor- und Nachteile strenger Regeln nennen, Verbesserungen vorschlagen.",
+        "In 3–4 Minuten: nur die eigene Geschichte der Anerkennung erzählen, von den Problemen mit den Behörden berichten und sagen, wie man sich gefühlt hat.",
+        "In 3–4 Minuten: Anerkennung in Deutschland beschreiben und mit dem Heimatland vergleichen, Schwierigkeiten erklären, Vor- und Nachteile strenger Regeln nennen, aber keine Verbesserungen vorschlagen.",
+        "In 3–4 Minuten: Anerkennung beschreiben, Schwierigkeiten erklären und nur sagen, dass die Regeln zu streng sind, ohne Vorteile strenger Regeln zu nennen."
+      ],
+      "loesung": 0,
+      "erklaerung": "Eine persönliche Geschichte ist ein guter Einstieg, ersetzt aber nicht die vier Leitpunkte. Bei den strengen Regeln brauchst du Vor- und Nachteile."
+    }
+  },
+  {
+    "id": "af_mp03_0",
+    "ref": "mp03-0",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Homeoffice – die Zukunft der Arbeit?“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wie verbreitet das Arbeiten von zu Hause in Deutschland oder in einem anderen Land ist.; Erläutern Sie Vor- und Nachteile für Beschäftigte und Unternehmen.; Gehen Sie darauf ein, ob es ein Recht auf Homeoffice geben sollte.; Geben Sie einen Ausblick, wie sich die Arbeitswelt entwickeln wird.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über das Arbeiten von zu Hause. Du beschreibst, wie häufig es in Deutschland oder einem anderen Land ist, und erklärst Vor- und Nachteile für Arbeitnehmer und für Firmen. Du sprichst darüber, ob es ein Recht auf Homeoffice geben soll. Am Ende sagst du, wie sich die Arbeitswelt entwickeln wird.",
+    "schritte": [
+      "Einstieg: kurzes Beispiel aus dem Alltag.",
+      "Verbreitung von Homeoffice in Deutschland oder einem anderen Land beschreiben.",
+      "Vor- und Nachteile für Beschäftigte UND für Unternehmen nennen.",
+      "Recht auf Homeoffice: ja oder nein? Mit Begründung.",
+      "Ausblick auf die Arbeitswelt und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Homeoffice",
+      "wie verbreitet",
+      "Beschäftigte und Unternehmen",
+      "Recht auf Homeoffice",
+      "Ausblick"
+    ],
+    "woerter": [
+      {
+        "wort": "verbreitet",
+        "erklaerung": "wie oft es vorkommt, wie viele Menschen es machen"
+      },
+      {
+        "wort": "Beschäftigte",
+        "erklaerung": "Menschen, die bei einer Firma angestellt sind"
+      },
+      {
+        "wort": "Recht auf",
+        "erklaerung": "ein Recht auf etwas haben = es verlangen dürfen"
+      },
+      {
+        "wort": "Arbeitswelt",
+        "erklaerung": "alles rund um Arbeit und Berufe"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: Verbreitung von Homeoffice beschreiben, Vor- und Nachteile für Beschäftigte und Unternehmen erklären, ein Recht auf Homeoffice diskutieren, Ausblick geben.",
+        "In 3–4 Minuten: Verbreitung beschreiben, nur Vorteile für Beschäftigte nennen, ein Recht auf Homeoffice diskutieren und einen Ausblick geben, Unternehmen weglassen.",
+        "In 3–4 Minuten: erklären, wie man ein Arbeitszimmer zu Hause gut einrichtet, welche Möbel und Technik man braucht und wie man Pausen macht.",
+        "In 3–4 Minuten: Verbreitung beschreiben, Vor- und Nachteile für Beschäftigte und Unternehmen erklären, aber nichts zum Recht auf Homeoffice und zur Zukunft der Arbeit sagen."
+      ],
+      "loesung": 0,
+      "erklaerung": "Die Aufgabe hat vier Teile. Wichtig: Vor- und Nachteile für zwei Gruppen, das Recht auf Homeoffice und der Ausblick."
+    }
+  },
+  {
+    "id": "af_mp03_1",
+    "ref": "mp03-1",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Gentechnisch veränderte Pflanzen in der Landwirtschaft“. Gehen Sie dabei auf folgende Punkte ein: Erklären Sie kurz, was gentechnisch veränderte Pflanzen sind und wofür sie eingesetzt werden.; Beschreiben Sie, wie man in Ihrem Heimatland und in Deutschland damit umgeht.; Nennen Sie Chancen und Risiken.; Nehmen Sie Stellung und begründen Sie Ihre Meinung.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über Pflanzen, deren Gene im Labor verändert wurden. Du erklärst kurz, was das ist und wofür man sie nutzt. Du beschreibst, wie dein Heimatland und Deutschland damit umgehen, nennst Chancen und Risiken und sagst am Ende deine begründete Meinung.",
+    "schritte": [
+      "Einstieg mit einem bekannten Beispiel (z. B. Mais, Reis, Soja).",
+      "Kurz erklären: Was sind gentechnisch veränderte Pflanzen und wofür nutzt man sie?",
+      "Umgang im Heimatland und in Deutschland beschreiben (Regeln, Meinung der Menschen).",
+      "Chancen und Risiken nennen.",
+      "Eigene Meinung begründen und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Gentechnisch veränderte Pflanzen",
+      "Landwirtschaft",
+      "wofür sie eingesetzt werden",
+      "Ihrem Heimatland und in Deutschland",
+      "Chancen und Risiken",
+      "Nehmen Sie Stellung"
+    ],
+    "woerter": [
+      {
+        "wort": "gentechnisch",
+        "erklaerung": "das Erbgut (die Gene) wurde im Labor verändert"
+      },
+      {
+        "wort": "Landwirtschaft",
+        "erklaerung": "Arbeit auf Bauernhöfen und Feldern"
+      },
+      {
+        "wort": "umgeht",
+        "erklaerung": "mit etwas umgehen = wie man mit etwas handelt, welche Regeln es gibt"
+      },
+      {
+        "wort": "Risiken",
+        "erklaerung": "mögliche Gefahren"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: ausführlich erklären, wie Gene im Labor verändert werden und welche Geräte man dafür braucht, ohne eine eigene Meinung zu sagen.",
+        "In 3–4 Minuten: über Gentechnik bei Menschen sprechen, Chancen und Risiken von Eingriffen bei Embryonen nennen und dazu klar Stellung nehmen.",
+        "In 3–4 Minuten: kurz erklären, was gentechnisch veränderte Pflanzen sind, Umgang im Heimatland und in Deutschland beschreiben, Chancen und Risiken nennen, Stellung nehmen.",
+        "In 3–4 Minuten: kurz erklären, was gentechnisch veränderte Pflanzen sind, Chancen und Risiken nennen, Stellung nehmen, aber den Vergleich zwischen Heimatland und Deutschland weglassen."
+      ],
+      "loesung": 2,
+      "erklaerung": "Die Erklärung soll nur „kurz“ sein. Danach kommen Vergleich, Chancen und Risiken und deine Meinung. Thema sind Pflanzen in der Landwirtschaft."
+    }
+  },
+  {
+    "id": "af_mp04_0",
+    "ref": "mp04-0",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Kostenloser öffentlicher Nahverkehr – eine gute Idee?“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie die Situation des öffentlichen Nahverkehrs in Deutschland oder in einem anderen Land, das Sie kennen.; Nennen Sie Argumente für und gegen einen kostenlosen Nahverkehr.; Gehen Sie auf mögliche Alternativen ein.; Sagen Sie Ihre Meinung und geben Sie einen Ausblick.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) zu der Frage, ob Busse und Bahnen kostenlos sein sollten. Du beschreibst die Situation in Deutschland oder in einem anderen Land und nennst Argumente für und gegen kostenlosen Nahverkehr. Du sprichst über andere Lösungen und sagst am Ende deine Meinung und wie es in Zukunft weitergehen könnte.",
+    "schritte": [
+      "Einstieg: kurzes Beispiel (z. B. Ticketpreis in deiner Stadt).",
+      "Situation des Nahverkehrs in Deutschland oder einem anderen Land beschreiben.",
+      "Argumente für und gegen kostenlosen Nahverkehr nennen.",
+      "Alternativen vorstellen (z. B. günstige Monatstickets, bessere Verbindungen).",
+      "Meinung sagen und Ausblick geben."
+    ],
+    "schluesselwoerter": [
+      "Kostenloser öffentlicher Nahverkehr",
+      "Situation",
+      "für und gegen",
+      "Alternativen",
+      "Ausblick"
+    ],
+    "woerter": [
+      {
+        "wort": "Nahverkehr",
+        "erklaerung": "Busse, Straßenbahnen, U-Bahnen und Regionalzüge in Stadt und Region"
+      },
+      {
+        "wort": "Kostenloser",
+        "erklaerung": "ohne dass man Geld bezahlen muss"
+      },
+      {
+        "wort": "Alternativen",
+        "erklaerung": "andere Möglichkeiten, andere Lösungen"
+      },
+      {
+        "wort": "Ausblick",
+        "erklaerung": "Blick in die Zukunft"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: nur genau beschreiben, wie Busse und Bahnen in der eigenen Stadt fahren, was Tickets kosten und wo es Probleme gibt.",
+        "In 3–4 Minuten: Situation des Nahverkehrs beschreiben, Argumente für und gegen kostenlosen Nahverkehr nennen, Alternativen besprechen, Meinung sagen und Ausblick geben.",
+        "In 3–4 Minuten: die Situation beschreiben, Argumente für und gegen kostenlosen Nahverkehr nennen, eigene Meinung sagen, aber mögliche Alternativen und den Ausblick weglassen.",
+        "In 3–4 Minuten: über Autos und Fahrräder in der Stadt sprechen, Vor- und Nachteile nennen, Meinung sagen und einen Ausblick geben."
+      ],
+      "loesung": 1,
+      "erklaerung": "Alle Leitpunkte gehören dazu: Situation, Pro und Contra, Alternativen, Meinung und Ausblick. Nur Beschreiben reicht nicht."
+    }
+  },
+  {
+    "id": "af_mp04_1",
+    "ref": "mp04-1",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Frauen in MINT-Berufen“ (Mathematik, Informatik, Naturwissenschaften, Technik). Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wie hoch der Anteil von Frauen in MINT-Fächern in Deutschland oder in einem anderen Land ist.; Erläutern Sie mögliche Ursachen für die Unterschiede.; Stellen Sie Maßnahmen vor, mit denen man mehr Frauen für MINT gewinnen kann, und bewerten Sie diese.; Sagen Sie, welche Maßnahme Sie für am wirksamsten halten.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über Frauen in Mathematik, Informatik, Naturwissenschaften und Technik (MINT). Du beschreibst, wie viele Frauen in Deutschland oder einem anderen Land diese Fächer wählen, und erklärst mögliche Gründe für die Unterschiede. Dann stellst du Maßnahmen vor, die mehr Frauen dafür gewinnen sollen, und bewertest sie. Am Ende sagst du, welche Maßnahme du am besten findest.",
+    "schritte": [
+      "Einstieg mit einem Beispiel oder einer Zahl.",
+      "Anteil von Frauen in MINT in Deutschland oder einem anderen Land beschreiben.",
+      "Mögliche Ursachen erklären (z. B. Rollenbilder, Vorbilder).",
+      "Zwei bis drei Maßnahmen vorstellen und jeweils bewerten.",
+      "Die wirksamste Maßnahme nennen und begründen."
+    ],
+    "schluesselwoerter": [
+      "Frauen in MINT-Berufen",
+      "Anteil von Frauen",
+      "Ursachen",
+      "Maßnahmen",
+      "bewerten Sie diese",
+      "am wirksamsten"
+    ],
+    "woerter": [
+      {
+        "wort": "Anteil",
+        "erklaerung": "Teil von der Gesamtzahl, z. B. in Prozent"
+      },
+      {
+        "wort": "Ursachen",
+        "erklaerung": "Gründe"
+      },
+      {
+        "wort": "Maßnahmen",
+        "erklaerung": "konkrete Schritte, um etwas zu ändern"
+      },
+      {
+        "wort": "wirksamsten",
+        "erklaerung": "die das beste Ergebnis bringt"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: viele Zahlen zum Frauenanteil in MINT-Fächern in Deutschland und anderen Ländern nennen und sie in einer Tabelle vergleichen.",
+        "In 3–4 Minuten: Frauenanteil beschreiben, mögliche Ursachen erklären, Maßnahmen nur aufzählen, aber nicht bewerten und am Ende keine wirksamste Maßnahme auswählen.",
+        "In 3–4 Minuten: über Frauen in Führungspositionen allgemein sprechen, Ursachen erklären und Maßnahmen wie eine Frauenquote bewerten.",
+        "In 3–4 Minuten: Frauenanteil in MINT beschreiben, Ursachen erklären, Maßnahmen vorstellen und bewerten und sagen, welche Maßnahme am wirksamsten ist."
+      ],
+      "loesung": 3,
+      "erklaerung": "Bewerten heißt: sagen, was gut und was schwierig an einer Maßnahme ist. Zum Schluss musst du eine Maßnahme als die wirksamste auswählen."
+    }
+  },
+  {
+    "id": "af_mp05_0",
+    "ref": "mp05-0",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Pflegenotstand und Pflegekräfte aus dem Ausland“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, warum in Deutschland Pflegekräfte fehlen.; Erläutern Sie, welche Rolle Pflegekräfte aus dem Ausland spielen, z. B. aus Ihrem Heimatland.; Nennen Sie Vor- und Nachteile der Anwerbung für Deutschland und für die Herkunftsländer.; Machen Sie Vorschläge für eine faire Lösung.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über den großen Mangel an Pflegekräften und über Pflegekräfte aus dem Ausland. Du erklärst, warum in Deutschland Pflegekräfte fehlen und welche Rolle Pflegekräfte aus dem Ausland spielen, z. B. aus deinem Heimatland. Du nennst Vor- und Nachteile der Anwerbung für Deutschland und für die Herkunftsländer. Am Ende machst du Vorschläge für eine faire Lösung.",
+    "schritte": [
+      "Einstieg mit einem Beispiel (z. B. Krankenhaus, Altenheim).",
+      "Gründe für den Mangel in Deutschland erklären.",
+      "Rolle ausländischer Pflegekräfte beschreiben, gern mit Beispiel aus deinem Heimatland.",
+      "Vor- und Nachteile für Deutschland UND für die Herkunftsländer nennen.",
+      "Vorschläge für eine faire Lösung und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Pflegenotstand",
+      "Pflegekräfte aus dem Ausland",
+      "warum in Deutschland Pflegekräfte fehlen",
+      "Anwerbung",
+      "Herkunftsländer",
+      "faire Lösung"
+    ],
+    "woerter": [
+      {
+        "wort": "Pflegenotstand",
+        "erklaerung": "Krise: Es gibt viel zu wenig Pflegepersonal"
+      },
+      {
+        "wort": "Anwerbung",
+        "erklaerung": "aktive Suche nach Arbeitskräften, hier im Ausland"
+      },
+      {
+        "wort": "Herkunftsländer",
+        "erklaerung": "Länder, aus denen die Menschen kommen"
+      },
+      {
+        "wort": "fair",
+        "erklaerung": "gerecht für alle Seiten"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: Gründe für den Pflegemangel erklären, Rolle ausländischer Pflegekräfte beschreiben, nur Vorteile für Deutschland nennen, eine faire Lösung vorschlagen, Herkunftsländer weglassen.",
+        "In 3–4 Minuten: Gründe für den Pflegemangel erklären, Rolle ausländischer Pflegekräfte beschreiben, Vor- und Nachteile für Deutschland und Herkunftsländer nennen, faire Lösung vorschlagen.",
+        "In 3–4 Minuten: erklären, wie man in Deutschland eine Pflegeausbildung macht, wie lange sie dauert und wie viel man dabei verdient.",
+        "In 3–4 Minuten: Gründe für den Pflegemangel erklären, Rolle ausländischer Pflegekräfte beschreiben, Vor- und Nachteile nennen, aber keine Lösung vorschlagen."
+      ],
+      "loesung": 1,
+      "erklaerung": "Die Anwerbung hat zwei Seiten: Deutschland und die Herkunftsländer. Außerdem musst du Vorschläge für eine faire Lösung machen."
+    }
+  },
+  {
+    "id": "af_mp05_1",
+    "ref": "mp05-1",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Wohnungsnot in Großstädten“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie die Situation auf dem Wohnungsmarkt in deutschen Großstädten oder in einer Stadt, die Sie kennen.; Erläutern Sie die Ursachen für steigende Mieten.; Stellen Sie politische Maßnahmen vor und bewerten Sie sie.; Geben Sie einen Ausblick.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über den Mangel an Wohnungen in großen Städten. Du beschreibst die Situation in deutschen Großstädten oder in einer Stadt, die du kennst, und erklärst, warum die Mieten steigen. Dann stellst du Maßnahmen der Politik vor und bewertest sie. Am Ende gibst du einen Ausblick in die Zukunft.",
+    "schritte": [
+      "Einstieg mit einem Beispiel (z. B. Wohnungssuche, Miete pro Quadratmeter).",
+      "Situation auf dem Wohnungsmarkt beschreiben.",
+      "Ursachen für steigende Mieten erklären.",
+      "Politische Maßnahmen vorstellen und bewerten (z. B. Mietpreisbremse, Neubau).",
+      "Ausblick und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Wohnungsnot in Großstädten",
+      "Wohnungsmarkt",
+      "Ursachen für steigende Mieten",
+      "politische Maßnahmen",
+      "bewerten Sie sie",
+      "Ausblick"
+    ],
+    "woerter": [
+      {
+        "wort": "Wohnungsnot",
+        "erklaerung": "es gibt zu wenige Wohnungen, die man bezahlen kann"
+      },
+      {
+        "wort": "Wohnungsmarkt",
+        "erklaerung": "Angebot und Nachfrage von Wohnungen"
+      },
+      {
+        "wort": "Mieten",
+        "erklaerung": "Geld, das man jeden Monat für eine Wohnung zahlt"
+      },
+      {
+        "wort": "Maßnahmen",
+        "erklaerung": "konkrete Schritte, um etwas zu ändern"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: Tipps geben, wie man in einer Großstadt schnell eine Wohnung findet, welche Webseiten helfen und was man mitbringen muss.",
+        "In 3–4 Minuten: Situation auf dem Wohnungsmarkt beschreiben, Ursachen für steigende Mieten erklären, politische Maßnahmen nur aufzählen, ohne sie zu bewerten, Ausblick geben.",
+        "In 3–4 Minuten: die eigene Wohnsituation genau beschreiben, sagen, was die Wohnung kostet, und erklären, warum man umziehen möchte.",
+        "In 3–4 Minuten: Situation auf dem Wohnungsmarkt beschreiben, Ursachen für steigende Mieten erklären, politische Maßnahmen vorstellen und bewerten, einen Ausblick geben."
+      ],
+      "loesung": 3,
+      "erklaerung": "Bei den Maßnahmen reicht Aufzählen nicht: Du musst sie bewerten. Dazu kommen Situation, Ursachen und Ausblick."
+    }
+  },
+  {
+    "id": "af_mp06_0",
+    "ref": "mp06-0",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Falschinformationen in sozialen Medien“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wie sich Falschinformationen im Internet verbreiten.; Erläutern Sie, welche Folgen das für die Gesellschaft haben kann, und nennen Sie Beispiele.; Stellen Sie Möglichkeiten vor, Desinformation zu bekämpfen, und bewerten Sie sie.; Sagen Sie, was jeder Einzelne tun kann.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über falsche Informationen in sozialen Medien. Du beschreibst, wie sie sich im Internet verbreiten, und erklärst mit Beispielen, welche Folgen das für die Gesellschaft haben kann. Dann stellst du Möglichkeiten vor, dagegen zu kämpfen, und bewertest sie. Am Ende sagst du, was jeder einzelne Mensch tun kann.",
+    "schritte": [
+      "Einstieg mit einem Beispiel für eine Falschmeldung.",
+      "Erklären, wie sich Falschinformationen verbreiten (teilen, Algorithmen).",
+      "Folgen für die Gesellschaft mit Beispielen nennen.",
+      "Möglichkeiten gegen Desinformation vorstellen und bewerten.",
+      "Sagen, was jeder Einzelne tun kann, und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Falschinformationen in sozialen Medien",
+      "verbreiten",
+      "Folgen",
+      "Desinformation zu bekämpfen",
+      "jeder Einzelne"
+    ],
+    "woerter": [
+      {
+        "wort": "Desinformation",
+        "erklaerung": "absichtlich falsche Informationen"
+      },
+      {
+        "wort": "bekämpfen",
+        "erklaerung": "aktiv gegen etwas vorgehen"
+      },
+      {
+        "wort": "verbreiten",
+        "erklaerung": "an viele Menschen weitergeben"
+      },
+      {
+        "wort": "Gesellschaft",
+        "erklaerung": "alle Menschen, die zusammen in einem Land leben"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: Verbreitung von Falschinformationen erklären, Folgen mit Beispielen nennen, Möglichkeiten dagegen vorstellen und bewerten, sagen, was jeder Einzelne tun kann.",
+        "In 3–4 Minuten: genau erklären, wie soziale Medien technisch funktionieren, wie Algorithmen arbeiten und warum Menschen sie so gern benutzen.",
+        "In 3–4 Minuten: viele Beispiele für bekannte Falschmeldungen erzählen und beschreiben, wie Menschen darauf reagiert haben, ohne Lösungen zu nennen.",
+        "In 3–4 Minuten: Verbreitung von Falschinformationen erklären, Folgen mit Beispielen nennen, Möglichkeiten dagegen vorstellen und bewerten, aber nicht sagen, was jeder Einzelne tun kann."
+      ],
+      "loesung": 0,
+      "erklaerung": "Der Vortrag hat vier Teile. Am Ende fehlt oft der Punkt „was jeder Einzelne tun kann“ – er gehört aber dazu."
+    }
+  },
+  {
+    "id": "af_mp06_1",
+    "ref": "mp06-1",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Tierversuche in der Forschung“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wofür Tierversuche heute eingesetzt werden.; Nennen Sie Argumente, die für und gegen Tierversuche sprechen.; Gehen Sie auf Alternativmethoden ein.; Nehmen Sie Stellung und begründen Sie Ihre Meinung.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über Versuche mit Tieren in der Wissenschaft. Du beschreibst, wofür man Tierversuche heute macht, und nennst Argumente dafür und dagegen. Du sprichst über andere Methoden ohne Tiere und sagst am Ende deine begründete Meinung.",
+    "schritte": [
+      "Einstieg mit einem Beispiel (z. B. Test neuer Medikamente).",
+      "Beschreiben, wofür Tierversuche eingesetzt werden.",
+      "Argumente für und gegen Tierversuche nennen.",
+      "Alternativmethoden vorstellen (z. B. Zellkulturen, Computermodelle).",
+      "Eigene Meinung begründen und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Tierversuche in der Forschung",
+      "wofür",
+      "für und gegen",
+      "Alternativmethoden",
+      "Nehmen Sie Stellung"
+    ],
+    "woerter": [
+      {
+        "wort": "Tierversuche",
+        "erklaerung": "wissenschaftliche Tests an lebenden Tieren"
+      },
+      {
+        "wort": "Alternativmethoden",
+        "erklaerung": "andere Methoden, bei denen man keine Tiere braucht"
+      },
+      {
+        "wort": "Forschung",
+        "erklaerung": "wissenschaftliche Arbeit, um Neues herauszufinden"
+      },
+      {
+        "wort": "eingesetzt",
+        "erklaerung": "benutzt, verwendet"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: über das Sezieren von Tierorganen im Biologieunterricht sprechen, Vor- und Nachteile nennen und die eigene Meinung begründen.",
+        "In 3–4 Minuten: beschreiben, wofür Tierversuche heute gemacht werden, nur Argumente gegen sie nennen, Alternativmethoden besprechen und die eigene Meinung begründen.",
+        "In 3–4 Minuten: beschreiben, wofür Tierversuche gemacht werden, Argumente für und gegen sie nennen, Alternativmethoden besprechen und die eigene Meinung begründen.",
+        "In 3–4 Minuten: beschreiben, wofür Tierversuche gemacht werden, Argumente für und gegen sie nennen, Meinung begründen, aber Alternativmethoden weglassen."
+      ],
+      "loesung": 2,
+      "erklaerung": "Gefragt sind beide Seiten (für und gegen), die Alternativen und deine Meinung. Thema ist die Forschung, nicht der Schulunterricht."
+    }
+  },
+  {
+    "id": "af_mp07_0",
+    "ref": "mp07-0",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Bewegungsmangel bei Kindern und Jugendlichen“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wie viel sich Kinder und Jugendliche heute bewegen – in Deutschland und in Ihrem Heimatland.; Erläutern Sie Ursachen und gesundheitliche Folgen von Bewegungsmangel.; Stellen Sie dar, welche Rolle die Schule spielen kann.; Machen Sie Vorschläge und sagen Sie Ihre Meinung.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) darüber, dass Kinder und Jugendliche sich zu wenig bewegen. Du beschreibst, wie viel sie sich heute in Deutschland und in deinem Heimatland bewegen, und erklärst Gründe und Folgen für die Gesundheit. Du zeigst, was die Schule tun kann. Am Ende machst du Vorschläge und sagst deine Meinung.",
+    "schritte": [
+      "Einstieg mit einem Beispiel aus dem Alltag (z. B. Handy statt Spielplatz).",
+      "Bewegung bei Kindern in Deutschland und im Heimatland vergleichen.",
+      "Ursachen und gesundheitliche Folgen erklären.",
+      "Rolle der Schule darstellen (z. B. Sportunterricht, bewegte Pausen).",
+      "Vorschläge machen, Meinung sagen, Fazit."
+    ],
+    "schluesselwoerter": [
+      "Bewegungsmangel",
+      "Kindern und Jugendlichen",
+      "in Deutschland und in Ihrem Heimatland",
+      "Ursachen und gesundheitliche Folgen",
+      "Rolle die Schule",
+      "Vorschläge"
+    ],
+    "woerter": [
+      {
+        "wort": "Bewegungsmangel",
+        "erklaerung": "man bewegt sich zu wenig (Sport, Laufen, Spielen)"
+      },
+      {
+        "wort": "gesundheitliche",
+        "erklaerung": "für die Gesundheit"
+      },
+      {
+        "wort": "Stellen Sie dar",
+        "erklaerung": "beschreiben und erklären"
+      },
+      {
+        "wort": "Ursachen",
+        "erklaerung": "Gründe"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: ein Trainingsprogramm für Jugendliche vorstellen, erklären, welche Übungen gesund sind und wie oft man pro Woche trainieren sollte.",
+        "In 3–4 Minuten: Bewegung nur in Deutschland beschreiben, Ursachen und gesundheitliche Folgen erklären, Rolle der Schule darstellen, Vorschläge machen, aber das Heimatland ganz weglassen.",
+        "In 3–4 Minuten: Bewegung in beiden Ländern beschreiben, Ursachen und Folgen erklären, Vorschläge machen, aber nichts über die Rolle der Schule sagen.",
+        "In 3–4 Minuten: Bewegung in Deutschland und im Heimatland beschreiben, Ursachen und Folgen erklären, Rolle der Schule darstellen, Vorschläge machen und Meinung sagen."
+      ],
+      "loesung": 3,
+      "erklaerung": "Alle Leitpunkte gehören dazu: Vergleich der beiden Länder, Ursachen und Folgen, Rolle der Schule, Vorschläge und Meinung."
+    }
+  },
+  {
+    "id": "af_mp07_1",
+    "ref": "mp07-1",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Billige Mode – der wahre Preis der Fast Fashion“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, wie sich das Kaufverhalten bei Kleidung in den letzten Jahren verändert hat.; Erläutern Sie die sozialen, ökologischen und wirtschaftlichen Folgen.; Nennen Sie mögliche Lösungen auf der Ebene der Politik, der Unternehmen und der Verbraucher.; Sagen Sie Ihre eigene Meinung.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über sehr billige Mode (Fast Fashion). Du beschreibst, wie sich das Kaufen von Kleidung in den letzten Jahren verändert hat, und erklärst die Folgen für Menschen, Umwelt und Wirtschaft. Dann nennst du Lösungen für Politik, Firmen und Käufer. Am Ende sagst du deine eigene Meinung.",
+    "schritte": [
+      "Einstieg mit einem Beispiel (z. B. T-Shirt für 5 Euro).",
+      "Veränderung des Kaufverhaltens beschreiben.",
+      "Soziale, ökologische und wirtschaftliche Folgen erklären – alle drei.",
+      "Lösungen für Politik, Unternehmen und Verbraucher nennen – alle drei.",
+      "Eigene Meinung und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Fast Fashion",
+      "Kaufverhalten",
+      "sozialen, ökologischen und wirtschaftlichen Folgen",
+      "Politik, der Unternehmen und der Verbraucher",
+      "eigene Meinung"
+    ],
+    "woerter": [
+      {
+        "wort": "Fast Fashion",
+        "erklaerung": "sehr billige Mode, die schnell produziert und schnell weggeworfen wird"
+      },
+      {
+        "wort": "Kaufverhalten",
+        "erklaerung": "wie oft und wie viel Menschen kaufen"
+      },
+      {
+        "wort": "ökologischen",
+        "erklaerung": "für die Umwelt"
+      },
+      {
+        "wort": "Verbraucher",
+        "erklaerung": "Menschen, die Produkte kaufen (Kundinnen und Kunden)"
+      },
+      {
+        "wort": "Ebene",
+        "erklaerung": "Bereich: wer etwas tun soll (Politik, Firmen oder Käufer)"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: verändertes Kaufverhalten beschreiben, nur ökologische Folgen erklären, Lösungen für Politik, Unternehmen und Verbraucher nennen, Meinung sagen.",
+        "In 3–4 Minuten: verändertes Kaufverhalten beschreiben, soziale, ökologische und wirtschaftliche Folgen erklären, Lösungen für Politik, Unternehmen und Verbraucher nennen, Meinung sagen.",
+        "In 3–4 Minuten: Tipps geben, wo man günstig und modisch Kleidung kaufen kann, und erklären, wie man im Internet gute Angebote findet.",
+        "In 3–4 Minuten: verändertes Kaufverhalten beschreiben, soziale, ökologische und wirtschaftliche Folgen erklären, Lösungen nur für die Verbraucherinnen und Verbraucher nennen, eigene Meinung sagen."
+      ],
+      "loesung": 1,
+      "erklaerung": "Die Leitpunkte enthalten Listen mit je drei Teilen: drei Arten von Folgen und drei Ebenen für Lösungen. Alle sollten vorkommen."
+    }
+  },
+  {
+    "id": "af_mp08_0",
+    "ref": "mp08-0",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Mehrsprachigkeit im Klassenzimmer“. Gehen Sie dabei auf folgende Punkte ein: Beschreiben Sie, welche Rolle Sprachen in Schulen Ihres Heimatlandes und in Deutschland spielen.; Erläutern Sie Chancen und Herausforderungen mehrsprachiger Klassen.; Diskutieren Sie, ob Herkunftssprachen im Unterricht gefördert werden sollten.; Geben Sie einen Ausblick.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über Klassen, in denen Kinder viele verschiedene Sprachen sprechen. Du beschreibst, welche Rolle Sprachen in Schulen in deinem Heimatland und in Deutschland spielen, und erklärst Chancen und Schwierigkeiten mehrsprachiger Klassen. Du diskutierst, ob die Familiensprachen der Kinder im Unterricht unterstützt werden sollen. Am Ende gibst du einen Ausblick.",
+    "schritte": [
+      "Einstieg mit einem Beispiel aus einer Klasse.",
+      "Rolle von Sprachen in Schulen im Heimatland und in Deutschland beschreiben.",
+      "Chancen und Herausforderungen mehrsprachiger Klassen erklären.",
+      "Diskutieren: Herkunftssprachen fördern – ja oder nein? Mit Argumenten.",
+      "Ausblick und Fazit."
+    ],
+    "schluesselwoerter": [
+      "Mehrsprachigkeit im Klassenzimmer",
+      "Ihres Heimatlandes und in Deutschland",
+      "Chancen und Herausforderungen",
+      "Herkunftssprachen",
+      "gefördert",
+      "Ausblick"
+    ],
+    "woerter": [
+      {
+        "wort": "Mehrsprachigkeit",
+        "erklaerung": "mehrere Sprachen sprechen oder benutzen"
+      },
+      {
+        "wort": "Herausforderungen",
+        "erklaerung": "schwierige Aufgaben, Probleme, die man lösen muss"
+      },
+      {
+        "wort": "Herkunftssprachen",
+        "erklaerung": "Sprachen, die Kinder aus ihrer Familie mitbringen"
+      },
+      {
+        "wort": "gefördert",
+        "erklaerung": "unterstützt"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: ausführlich erzählen, wie man selbst Deutsch gelernt hat, welche Kurse man besucht hat und was dabei besonders schwierig war.",
+        "In 3–4 Minuten: Rolle der Sprachen in Schulen im Heimatland und in Deutschland beschreiben, Chancen und Herausforderungen erklären, Ausblick geben, aber Förderung der Herkunftssprachen weglassen.",
+        "In 3–4 Minuten: Rolle der Sprachen in Schulen im Heimatland und in Deutschland beschreiben, Chancen und Herausforderungen erklären, Förderung der Herkunftssprachen diskutieren, Ausblick geben.",
+        "In 3–4 Minuten: über Englischunterricht in Schulen sprechen, Chancen und Herausforderungen erklären, die Förderung von Englisch diskutieren und Ausblick geben."
+      ],
+      "loesung": 2,
+      "erklaerung": "Es geht um Klassen mit vielen Familiensprachen, nicht um Englischunterricht. Alle vier Leitpunkte, auch die Diskussion über Förderung und der Ausblick, gehören dazu."
+    }
+  },
+  {
+    "id": "af_mp08_1",
+    "ref": "mp08-1",
+    "teil": "mp1a",
+    "anweisung": "Halten Sie einen Kurzvortrag (ca. 3–4 Minuten) zum Thema „Plagiate und künstliche Intelligenz im Studium“. Gehen Sie dabei auf folgende Punkte ein: Erklären Sie, was man unter einem Plagiat versteht und warum es an Hochschulen als schwerer Verstoß gilt.; Beschreiben Sie, wie KI-Schreibprogramme die Situation verändern.; Nennen Sie Vor- und Nachteile verschiedener Regeln, mit denen Hochschulen reagieren.; Sagen Sie, welche Regelung Sie für sinnvoll halten.",
+    "einfach": "Du hältst einen kurzen Vortrag (3–4 Minuten) über Plagiate und KI im Studium. Du erklärst, was ein Plagiat ist und warum es an Hochschulen als schwerer Regelverstoß gilt. Du beschreibst, wie KI-Programme, die Texte schreiben, die Situation verändern, und nennst Vor- und Nachteile verschiedener Regeln der Hochschulen. Am Ende sagst du, welche Regel du sinnvoll findest.",
+    "schritte": [
+      "Einstieg mit einem Beispiel (z. B. bekannter Plagiatsfall oder Chatbot).",
+      "Plagiat erklären und sagen, warum es ein schwerer Verstoß ist.",
+      "Beschreiben, wie KI-Schreibprogramme die Situation verändern.",
+      "Verschiedene Regeln (z. B. Verbot, Kennzeichnungspflicht) mit Vor- und Nachteilen vergleichen.",
+      "Deine bevorzugte Regelung nennen und begründen."
+    ],
+    "schluesselwoerter": [
+      "Plagiat",
+      "schwerer Verstoß",
+      "KI-Schreibprogramme",
+      "verschiedener Regeln",
+      "Regelung Sie für sinnvoll halten"
+    ],
+    "woerter": [
+      {
+        "wort": "Plagiat",
+        "erklaerung": "fremde Texte oder Ideen als eigene ausgeben, ohne die Quelle zu nennen"
+      },
+      {
+        "wort": "Verstoß",
+        "erklaerung": "eine Handlung gegen eine Regel"
+      },
+      {
+        "wort": "KI-Schreibprogramme",
+        "erklaerung": "Programme mit künstlicher Intelligenz, die Texte schreiben"
+      },
+      {
+        "wort": "Regelung",
+        "erklaerung": "feste Regel, wie etwas gemacht werden soll"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "In 3–4 Minuten: Plagiat erklären und warum es schwer wiegt, Veränderung durch KI-Schreibprogramme beschreiben, Vor- und Nachteile verschiedener Regeln nennen, eigene Regelung begründen.",
+        "In 3–4 Minuten: genau erklären, wie man in einer Hausarbeit richtig zitiert, welche Regeln es gibt und wie ein Literaturverzeichnis aussieht.",
+        "In 3–4 Minuten: Plagiat erklären und warum es schwer wiegt, Vor- und Nachteile verschiedener Regeln an Hochschulen nennen, eigene Regelung begründen, aber KI-Schreibprogramme ganz weglassen.",
+        "In 3–4 Minuten: Plagiat erklären, Veränderung durch KI beschreiben und nur sagen, dass KI verboten werden soll, ohne verschiedene Regeln zu vergleichen."
+      ],
+      "loesung": 0,
+      "erklaerung": "Der Vortrag verbindet beide Themen: Plagiat und KI. Du musst mehrere Regeln vergleichen und dann eine als sinnvoll auswählen."
+    }
+  },
+  {
+    "id": "af_md01",
+    "ref": "md01",
+    "teil": "mp2",
+    "anweisung": "„In zwanzig Jahren wird künstliche Intelligenz den Großteil dessen übernehmen, was Lehrerinnen und Lehrer heute tun. Wer jetzt Lehramt studiert, bereitet sich auf einen Beruf vor, den es so bald nicht mehr geben wird.“ (Dr. Jonas Weidinger, Bildungstechnologe) Wie verstehen Sie die Aussage?; Inwieweit stimmen Sie ihr zu? Begründen Sie Ihre Meinung mit Beispielen.; Welche Aufgaben von Lehrkräften kann eine Maschine übernehmen, welche nicht?; Gehen Sie auf die Argumente Ihrer Gesprächspartnerin bzw. Ihres Gesprächspartners ein.",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Ein Experte sagt, dass KI in 20 Jahren den größten Teil der Arbeit von Lehrkräften macht und der Lehrerberuf bald verschwindet. Ihr erklärt zuerst, wie ihr die Aussage versteht. Dann sagst du, wie weit du zustimmst (mit Beispielen), und überlegst, welche Aufgaben eine Maschine übernehmen kann und welche nicht. Du reagierst auf die Argumente deines Gegenübers.",
+    "schritte": [
+      "Sag mit eigenen Worten, was Dr. Weidinger meint.",
+      "Sag, wie weit du zustimmst – ganz, teilweise oder gar nicht – und warum.",
+      "Nenne Lehreraufgaben, die KI übernehmen kann (z. B. Korrekturen), und solche, die sie nicht kann (z. B. Beziehung, Erziehung).",
+      "Hör zu und reagiere: „Da stimme ich zu, aber …“, „Was meinst du mit …?“"
+    ],
+    "schluesselwoerter": [
+      "künstliche Intelligenz",
+      "den Großteil",
+      "Wie verstehen Sie die Aussage?",
+      "Inwieweit stimmen Sie ihr zu?",
+      "Welche Aufgaben von Lehrkräften",
+      "Gehen Sie auf die Argumente"
+    ],
+    "woerter": [
+      {
+        "wort": "Großteil",
+        "erklaerung": "der größte Teil, fast alles"
+      },
+      {
+        "wort": "Inwieweit",
+        "erklaerung": "wie stark, bis zu welchem Grad"
+      },
+      {
+        "wort": "Lehramt",
+        "erklaerung": "Studium, um Lehrerin oder Lehrer zu werden"
+      },
+      {
+        "wort": "Bildungstechnologe",
+        "erklaerung": "Experte für Technik beim Lernen und Unterrichten"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: erklären, was der Experte meint, sagen, wie weit ich zustimme, Aufgaben nennen, die KI übernehmen kann und nicht kann, auf Partner reagieren.",
+        "Einen langen Vortrag über künstliche Intelligenz in der Schule halten, viele Beispiele für Lernprogramme nennen und erst am Ende kurz sagen, was der Partner dazu denkt.",
+        "Im Gespräch: genau erklären, wie Chatbots technisch funktionieren, wie sie trainiert werden und warum sie manchmal falsche Antworten geben.",
+        "Im Gespräch: erklären, was der Experte meint, und nur sagen „Ich stimme nicht zu“, ohne Gründe und ohne Beispiele für Lehreraufgaben."
+      ],
+      "loesung": 0,
+      "erklaerung": "Teil 2 ist ein Gespräch: Du sprichst über die Aussage, begründest deine Meinung mit Beispielen und reagierst auf dein Gegenüber."
+    }
+  },
+  {
+    "id": "af_md02",
+    "ref": "md02",
+    "teil": "mp2",
+    "anweisung": "„Solange Konzerne und Regierungen nicht handeln, ist es völlig egal, ob ich mit dem Fahrrad fahre oder auf Plastiktüten verzichte. Klimaschutz ist keine Privatsache.“ (Miriam Hollweg, Umweltaktivistin und Autorin) Was meint die Autorin mit dieser Aussage?; Welche Bedeutung hat das Verhalten Einzelner Ihrer Meinung nach für den Klimaschutz?; Begründen Sie Ihre Position mit Beispielen und reagieren Sie auf die Argumente Ihres Gegenübers.",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Eine Umweltaktivistin sagt, es ist egal, ob einzelne Menschen Fahrrad fahren oder keine Plastiktüten nehmen, solange große Firmen und Regierungen nichts tun. Klimaschutz ist für sie keine private Sache. Ihr erklärt, was sie meint, und du sagst, wie wichtig das Verhalten einzelner Menschen für das Klima ist. Du begründest deine Position mit Beispielen und reagierst auf die Argumente deines Gegenübers.",
+    "schritte": [
+      "Erkläre mit eigenen Worten, was die Autorin meint.",
+      "Sag deine Meinung: Wie wichtig ist das, was einzelne Menschen tun?",
+      "Nenne Beispiele (z. B. Fahrrad, Ernährung, Wahlen, Druck auf Firmen).",
+      "Reagiere auf dein Gegenüber: zustimmen, widersprechen, nachfragen."
+    ],
+    "schluesselwoerter": [
+      "Konzerne und Regierungen",
+      "keine Privatsache",
+      "das Verhalten Einzelner",
+      "Begründen Sie Ihre Position mit Beispielen",
+      "reagieren Sie auf die Argumente"
+    ],
+    "woerter": [
+      {
+        "wort": "Konzerne",
+        "erklaerung": "sehr große Firmen"
+      },
+      {
+        "wort": "Privatsache",
+        "erklaerung": "etwas, das jeder Mensch nur für sich selbst entscheidet"
+      },
+      {
+        "wort": "verzichte",
+        "erklaerung": "auf etwas verzichten = etwas bewusst nicht nehmen oder nicht benutzen"
+      },
+      {
+        "wort": "Gegenübers",
+        "erklaerung": "das Gegenüber = die Person, mit der du sprichst"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: viele Tipps geben, wie man im Alltag Plastik spart und Fahrrad statt Auto fährt, ohne über die Aussage zu sprechen.",
+        "Im Gespräch: erklären, was die Autorin meint, und nur über die Verantwortung von Regierungen und großen Konzernen sprechen und dabei die einzelnen Menschen ganz weglassen.",
+        "Im Gespräch: erklären, was die Autorin meint, mit Beispielen begründen, wie wichtig das Verhalten Einzelner für den Klimaschutz ist, und auf das Gegenüber reagieren.",
+        "Allein lange über Klimaschutz sprechen, die Aussage erklären und Beispiele nennen, aber nicht auf die Argumente des Gegenübers reagieren."
+      ],
+      "loesung": 2,
+      "erklaerung": "Die Kernfrage ist: Wie viel bringt das Verhalten einzelner Menschen? Dazu deine begründete Meinung mit Beispielen und echte Reaktionen auf dein Gegenüber."
+    }
+  },
+  {
+    "id": "af_md03",
+    "ref": "md03",
+    "teil": "mp2",
+    "anweisung": "„Ohne verbindliche Frauenquote wird sich in den Chefetagen auch in den nächsten fünfzig Jahren nichts ändern. Freiwillige Selbstverpflichtungen sind reine Kosmetik.“ (Prof. Dr. Ulrike Tessendorf, Arbeitssoziologin) Wie verstehen Sie die Aussage der Soziologin?; Stimmen Sie zu, dass eine gesetzliche Quote notwendig ist? Nennen Sie Gründe.; Welche anderen Maßnahmen könnten zu mehr Gleichberechtigung in Führungspositionen beitragen?",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Eine Soziologin sagt, ohne gesetzliche Frauenquote ändert sich in den Chefetagen in den nächsten 50 Jahren nichts; freiwillige Versprechen der Firmen sind nur Schein. Ihr erklärt, wie ihr das versteht. Du sagst, ob eine gesetzliche Quote nötig ist, und nennst Gründe. Dann sprecht ihr über andere Maßnahmen für mehr Gleichberechtigung.",
+    "schritte": [
+      "Erkläre die Aussage – auch das Bild „Kosmetik“ (= nur äußerlich).",
+      "Sag, ob du eine gesetzliche Quote für nötig hältst, mit Gründen.",
+      "Nenne andere Maßnahmen (z. B. Kinderbetreuung, Teilzeit für Führungskräfte, Mentoring).",
+      "Reagiere auf die Argumente deines Gegenübers."
+    ],
+    "schluesselwoerter": [
+      "verbindliche Frauenquote",
+      "Chefetagen",
+      "Freiwillige Selbstverpflichtungen",
+      "reine Kosmetik",
+      "gesetzliche Quote",
+      "anderen Maßnahmen"
+    ],
+    "woerter": [
+      {
+        "wort": "Chefetagen",
+        "erklaerung": "die obersten Führungspositionen in Firmen"
+      },
+      {
+        "wort": "Selbstverpflichtungen",
+        "erklaerung": "Versprechen, die Firmen sich selbst geben, ohne Gesetz"
+      },
+      {
+        "wort": "Kosmetik",
+        "erklaerung": "hier: sieht gut aus, ändert aber nichts Wichtiges"
+      },
+      {
+        "wort": "Gleichberechtigung",
+        "erklaerung": "gleiche Rechte und Chancen für Frauen und Männer"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: die Aussage erklären und begründen, ob eine gesetzliche Quote nötig ist, aber keine anderen Maßnahmen für mehr Gleichberechtigung in Firmen besprechen.",
+        "Im Gespräch: erklären, wie ich die Aussage verstehe, begründen, ob eine gesetzliche Quote nötig ist, und andere Maßnahmen für Gleichberechtigung besprechen.",
+        "Im Gespräch: das Wort „Kosmetik“ wörtlich nehmen und darüber sprechen, ob Frauen in Führungspositionen viel Geld für Schönheitsprodukte ausgeben.",
+        "Im Gespräch: nur genau wiederholen, was die Soziologin über Quote und Selbstverpflichtungen sagt, ohne eigene Meinung und ohne Gründe."
+      ],
+      "loesung": 1,
+      "erklaerung": "„Kosmetik“ ist hier ein Bild für „nur Schein“. Gefragt sind dein Verständnis, deine Meinung zur Quote mit Gründen und weitere Maßnahmen."
+    }
+  },
+  {
+    "id": "af_md04",
+    "ref": "md04",
+    "teil": "mp2",
+    "anweisung": "„Schulnoten messen vor allem, wie gut sich Kinder an das System anpassen. Wer echtes Lernen will, muss die Noten abschaffen.“ (Katharina Reuter, Grundschulpädagogin und Buchautorin) Was ist mit der Aussage gemeint?; Welche Funktionen haben Noten in der Schule und an der Hochschule?; Sollte man Noten abschaffen? Begründen Sie Ihre Meinung, auch mit eigenen Erfahrungen.; Welche Alternativen gibt es?",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Eine Pädagogin sagt, Noten zeigen vor allem, wie gut Kinder sich an die Schule anpassen, und für echtes Lernen muss man Noten abschaffen. Ihr erklärt, was gemeint ist, und sprecht darüber, wofür Noten in Schule und Hochschule da sind. Du sagst, ob man Noten abschaffen soll, auch mit eigenen Erfahrungen, und ihr sprecht über Alternativen.",
+    "schritte": [
+      "Erkläre mit eigenen Worten, was Katharina Reuter meint.",
+      "Nenne Funktionen von Noten in Schule UND Hochschule (z. B. Rückmeldung, Auswahl).",
+      "Sag deine Meinung zum Abschaffen, mit eigenen Erfahrungen als Schülerin oder Lehrerin.",
+      "Nenne Alternativen (z. B. schriftliches Feedback, Portfolio).",
+      "Reagiere auf dein Gegenüber."
+    ],
+    "schluesselwoerter": [
+      "Schulnoten",
+      "an das System anpassen",
+      "Noten abschaffen",
+      "Funktionen",
+      "eigenen Erfahrungen",
+      "Alternativen"
+    ],
+    "woerter": [
+      {
+        "wort": "anpassen",
+        "erklaerung": "sich so verhalten, wie die Regeln es erwarten"
+      },
+      {
+        "wort": "abschaffen",
+        "erklaerung": "beenden, sodass es etwas nicht mehr gibt"
+      },
+      {
+        "wort": "Funktionen",
+        "erklaerung": "Aufgaben, Zwecke: wofür etwas da ist"
+      },
+      {
+        "wort": "Alternativen",
+        "erklaerung": "andere Möglichkeiten"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: genau erklären, wie das deutsche Notensystem von 1 bis 6 funktioniert und wie Zeugnisnoten am Ende des Schuljahres berechnet werden.",
+        "Im Gespräch: erklären, was gemeint ist, nur über Noten in der Grundschule sprechen, die eigene Meinung mit eigenen Erfahrungen begründen, Hochschule und Alternativen ganz weglassen.",
+        "Im Gespräch: erklären, was gemeint ist, Funktionen von Noten besprechen und nur sagen, dass Noten ungerecht sind, ohne Alternativen zu nennen.",
+        "Im Gespräch: erklären, was gemeint ist, Funktionen von Noten in Schule und Hochschule besprechen, Meinung zum Abschaffen mit eigenen Erfahrungen begründen, Alternativen nennen."
+      ],
+      "loesung": 3,
+      "erklaerung": "Die Leitpunkte fragen nach Bedeutung, Funktionen, Meinung mit Erfahrungen und Alternativen. Ein Gespräch mit Begründungen ist gefragt, keine Erklärung des Notensystems."
+    }
+  },
+  {
+    "id": "af_md05",
+    "ref": "md05",
+    "teil": "mp2",
+    "anweisung": "„Wer dauerhaft in Deutschland leben möchte, muss perfekt Deutsch sprechen. Ohne die Sprache gibt es keine Integration.“ (Dr. Bernd Achterberg, Kommunalpolitiker) Wie verstehen Sie die Aussage des Politikers?; Welche Rolle spielt die Sprache für die Integration? Berücksichtigen Sie auch andere Faktoren.; Was halten Sie von der Forderung nach „perfektem“ Deutsch? Begründen Sie Ihre Meinung mit Beispielen.",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Ein Politiker sagt, wer für immer in Deutschland leben will, muss perfekt Deutsch sprechen, sonst gibt es keine Integration. Ihr erklärt, wie ihr das versteht. Du sprichst darüber, welche Rolle die Sprache für die Integration spielt und welche anderen Dinge wichtig sind. Du sagst, was du von der Forderung nach „perfektem“ Deutsch hältst, mit Beispielen.",
+    "schritte": [
+      "Erkläre die Aussage mit eigenen Worten.",
+      "Sag, wie wichtig Sprache für Integration ist.",
+      "Nenne andere Faktoren (z. B. Arbeit, Kontakte, Anerkennung, Offenheit der Gesellschaft).",
+      "Diskutiere das Wort „perfekt“: Ist das realistisch und nötig? Mit Beispielen.",
+      "Reagiere auf die Argumente deines Gegenübers."
+    ],
+    "schluesselwoerter": [
+      "dauerhaft",
+      "perfekt Deutsch",
+      "Integration",
+      "andere Faktoren",
+      "Forderung"
+    ],
+    "woerter": [
+      {
+        "wort": "Integration",
+        "erklaerung": "Teil der Gesellschaft werden (Arbeit, Kontakte, Mitmachen)"
+      },
+      {
+        "wort": "dauerhaft",
+        "erklaerung": "für immer, für lange Zeit"
+      },
+      {
+        "wort": "Faktoren",
+        "erklaerung": "Dinge, die eine Rolle spielen und Einfluss haben"
+      },
+      {
+        "wort": "Forderung",
+        "erklaerung": "etwas, das jemand verlangt"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: Tipps geben, wie man am besten und schnellsten Deutsch lernt, welche Kurse gut sind und welche Apps beim Lernen helfen.",
+        "Im Gespräch: die Aussage erklären, die Rolle der Sprache und anderer Faktoren für Integration besprechen, meine Meinung zu „perfektem“ Deutsch mit Beispielen begründen.",
+        "Im Gespräch: die Aussage erklären, nur über die Sprache sprechen und andere Faktoren wie Arbeit, Kontakte oder Anerkennung ganz weglassen.",
+        "Im Gespräch: die Aussage erklären, ihr einfach zustimmen und Beispiele aus dem Alltag nennen, aber das Wort „perfekt“ nicht diskutieren und keine anderen Faktoren nennen."
+      ],
+      "loesung": 1,
+      "erklaerung": "Wichtig sind das Wort „perfekt“ und die „anderen Faktoren“. Sprache ist ein Teil der Integration, aber nicht der einzige."
+    }
+  },
+  {
+    "id": "af_md06",
+    "ref": "md06",
+    "teil": "mp2",
+    "anweisung": "„Zucker ist der Tabak des 21. Jahrhunderts. Eine hohe Steuer auf ungesunde Lebensmittel wäre die wirksamste Gesundheitspolitik, die wir haben.“ (Prof. Dr. Henrik Stalmann, Ernährungsmediziner) Was meint der Ernährungsmediziner mit dem Vergleich zwischen Zucker und Tabak?; Halten Sie eine Steuer auf ungesunde Lebensmittel für sinnvoll? Nennen Sie Gründe.; Welche anderen Maßnahmen könnten eine gesündere Ernährung fördern?",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Ein Ernährungsarzt vergleicht Zucker mit Tabak und sagt, eine hohe Steuer auf ungesunde Lebensmittel wäre die beste Gesundheitspolitik. Ihr erklärt zuerst den Vergleich zwischen Zucker und Tabak. Dann sagst du, ob du so eine Steuer sinnvoll findest, mit Gründen, und ihr sprecht über andere Maßnahmen für gesünderes Essen.",
+    "schritte": [
+      "Erkläre den Vergleich: Was haben Zucker und Tabak gemeinsam (z. B. macht abhängig, schadet der Gesundheit)?",
+      "Sag, ob du eine Steuer sinnvoll findest, mit Gründen.",
+      "Nenne andere Maßnahmen (z. B. Schulessen, Kennzeichnung, Werbeverbote).",
+      "Reagiere auf die Argumente deines Gegenübers."
+    ],
+    "schluesselwoerter": [
+      "Zucker ist der Tabak des 21. Jahrhunderts",
+      "hohe Steuer",
+      "ungesunde Lebensmittel",
+      "Vergleich",
+      "anderen Maßnahmen"
+    ],
+    "woerter": [
+      {
+        "wort": "Steuer",
+        "erklaerung": "Geld, das man an den Staat zahlt (hier: ein Teil des Preises)"
+      },
+      {
+        "wort": "wirksamste",
+        "erklaerung": "die am besten funktioniert"
+      },
+      {
+        "wort": "Ernährungsmediziner",
+        "erklaerung": "Arzt, der sich mit Essen und Gesundheit beschäftigt"
+      },
+      {
+        "wort": "Vergleich",
+        "erklaerung": "zwei Dinge nebeneinanderstellen und Gemeinsamkeiten zeigen"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: über die Gefahren des Rauchens sprechen und begründen, ob Zigaretten noch teurer werden sollen, mit Beispielen aus dem Alltag.",
+        "Im Gespräch: genau erklären, welche Lebensmittel viel Zucker enthalten und wie viel Zucker ein Mensch pro Tag essen darf.",
+        "Im Gespräch: begründen, ob eine hohe Steuer auf ungesunde Lebensmittel sinnvoll ist, aber den Vergleich mit Tabak nicht erklären und keine anderen Maßnahmen nennen.",
+        "Im Gespräch: den Vergleich zwischen Zucker und Tabak erklären, begründen, ob eine Steuer auf ungesunde Lebensmittel sinnvoll ist, andere Maßnahmen besprechen."
+      ],
+      "loesung": 3,
+      "erklaerung": "Tabak ist hier nur ein Vergleich. Thema sind ungesunde Lebensmittel und die Steuer. Dazu gehören dein Verständnis des Vergleichs, deine Meinung und andere Maßnahmen."
+    }
+  },
+  {
+    "id": "af_md07",
+    "ref": "md07",
+    "teil": "mp2",
+    "anweisung": "„Wer seinen Beruf wirklich liebt, braucht keine Work-Life-Balance. Die Trennung von Arbeit und Leben ist eine Erfindung von Menschen, die ihre Arbeit nicht mögen.“ (Clemens Varnhorst, Unternehmer und Firmengründer) Wie verstehen Sie die Aussage?; Ist eine klare Trennung von Arbeit und Freizeit Ihrer Meinung nach notwendig? Begründen Sie Ihre Meinung.; Berücksichtigen Sie dabei unterschiedliche Berufe und Lebenssituationen.",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Ein Unternehmer sagt, wer seinen Beruf wirklich liebt, braucht keine Balance zwischen Arbeit und Privatleben; diese Trennung haben nur Menschen erfunden, die ihre Arbeit nicht mögen. Ihr erklärt, wie ihr das versteht. Du sagst, ob eine klare Trennung von Arbeit und Freizeit nötig ist, und begründest das. Dabei denkst du an verschiedene Berufe und Lebenssituationen.",
+    "schritte": [
+      "Erkläre die Aussage mit eigenen Worten.",
+      "Sag, ob du eine klare Trennung von Arbeit und Freizeit für nötig hältst, mit Gründen.",
+      "Denk an verschiedene Berufe (z. B. Lehrerin, Pflegekraft, Unternehmer).",
+      "Denk an verschiedene Lebenssituationen (z. B. Eltern, Pflege von Angehörigen).",
+      "Reagiere auf dein Gegenüber."
+    ],
+    "schluesselwoerter": [
+      "Work-Life-Balance",
+      "Trennung von Arbeit und Leben",
+      "Erfindung",
+      "klare Trennung von Arbeit und Freizeit",
+      "unterschiedliche Berufe und Lebenssituationen"
+    ],
+    "woerter": [
+      {
+        "wort": "Work-Life-Balance",
+        "erklaerung": "gutes Gleichgewicht zwischen Arbeit und Privatleben"
+      },
+      {
+        "wort": "Trennung",
+        "erklaerung": "klare Grenze zwischen zwei Dingen"
+      },
+      {
+        "wort": "Erfindung",
+        "erklaerung": "hier: etwas Ausgedachtes, das man eigentlich nicht braucht"
+      },
+      {
+        "wort": "Lebenssituationen",
+        "erklaerung": "wie jemand gerade lebt, z. B. mit Kindern oder mit kranken Eltern"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: die Aussage erklären, begründen, ob eine klare Trennung von Arbeit und Freizeit nötig ist, verschiedene Berufe und Lebenssituationen berücksichtigen.",
+        "Im Gespräch: ausführlich vom eigenen Traumberuf erzählen, warum man ihn liebt und wie viele Stunden man pro Woche dafür arbeiten möchte.",
+        "Im Gespräch: die Aussage erklären und begründen, ob eine klare zeitliche Trennung nötig ist, aber nur an den eigenen Beruf und die eigene Lebenssituation denken.",
+        "Im Gespräch: erklären, wie man eine eigene Firma gründet und warum Unternehmer oft viel mehr arbeiten als Angestellte."
+      ],
+      "loesung": 0,
+      "erklaerung": "Der dritte Leitpunkt ist wichtig: Du sollst nicht nur an dich denken, sondern an verschiedene Berufe und Lebenssituationen."
+    }
+  },
+  {
+    "id": "af_md08",
+    "ref": "md08",
+    "teil": "mp2",
+    "anweisung": "„Die Wissenschaft darf sich keine Grenzen setzen lassen. Für den Missbrauch ihrer Erkenntnisse sind andere verantwortlich, nicht die Forschenden.“ (Prof. Dr. Albrecht Seiferth, Physiker) Was bedeutet diese Aussage?; Tragen Forschende Verantwortung für die Folgen ihrer Arbeit? Nennen Sie Beispiele.; Wo sollten der Forschung Ihrer Meinung nach Grenzen gesetzt werden – und von wem?",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Ein Physiker sagt, die Wissenschaft darf keine Grenzen haben; wenn jemand die Ergebnisse missbraucht, sind andere schuld, nicht die Forschenden. Ihr erklärt, was das bedeutet. Du sagst, ob Forschende für die Folgen ihrer Arbeit verantwortlich sind, mit Beispielen. Dann besprecht ihr, wo die Forschung Grenzen braucht und wer sie festlegen soll.",
+    "schritte": [
+      "Erkläre die Aussage mit eigenen Worten.",
+      "Sag, ob Forschende Verantwortung tragen, mit Beispielen (z. B. Atombombe, Gentechnik, KI).",
+      "Sag, wo du Grenzen ziehen würdest.",
+      "Sag, wer die Grenzen festlegen soll (Staat, Ethikkommission, Forschende selbst?).",
+      "Reagiere auf die Argumente deines Gegenübers."
+    ],
+    "schluesselwoerter": [
+      "keine Grenzen",
+      "Missbrauch",
+      "Verantwortung für die Folgen",
+      "Nennen Sie Beispiele",
+      "von wem"
+    ],
+    "woerter": [
+      {
+        "wort": "Missbrauch",
+        "erklaerung": "falsche, schädliche Nutzung"
+      },
+      {
+        "wort": "Erkenntnisse",
+        "erklaerung": "neues Wissen, Ergebnisse der Forschung"
+      },
+      {
+        "wort": "Verantwortung",
+        "erklaerung": "man muss für etwas einstehen, wenn es Folgen hat"
+      },
+      {
+        "wort": "Forschenden",
+        "erklaerung": "Wissenschaftlerinnen und Wissenschaftler"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: viele Beispiele für große Erfindungen aufzählen und erklären, wie sie das Leben der Menschen in den letzten Jahren verbessert haben.",
+        "Im Gespräch: die Aussage erklären, die Verantwortung der Forschenden mit Beispielen besprechen und sagen, dass Forschung Grenzen braucht, aber nicht, wo genau und von wem.",
+        "Im Gespräch: die Aussage erklären, mit Beispielen begründen, ob Forschende Verantwortung tragen, und sagen, wo und von wem Grenzen gesetzt werden sollen.",
+        "Im Gespräch: darüber sprechen, ob Studierende ihr Thema für die Abschlussarbeit frei wählen dürfen, mit Beispielen aus dem eigenen Studium."
+      ],
+      "loesung": 2,
+      "erklaerung": "Der letzte Leitpunkt hat zwei Fragen: wo die Grenzen liegen und wer sie setzt. Dazu kommen dein Verständnis und Beispiele zur Verantwortung."
+    }
+  },
+  {
+    "id": "af_md09",
+    "ref": "md09",
+    "teil": "mp2",
+    "anweisung": "„Autos haben in unseren Innenstädten nichts mehr verloren. Städte gehören den Menschen, nicht den Fahrzeugen.“ (Dr. Lena Brückner, Stadtplanerin) Wie verstehen Sie die Aussage der Stadtplanerin?; Welche Vor- und Nachteile hätten autofreie Innenstädte?; Berücksichtigen Sie verschiedene Gruppen, z. B. Anwohner, Handel und ältere Menschen.",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Eine Stadtplanerin sagt, Autos gehören nicht mehr in die Innenstädte; Städte sind für Menschen da, nicht für Fahrzeuge. Ihr erklärt, wie ihr das versteht. Dann sprecht ihr über Vor- und Nachteile von Innenstädten ohne Autos und denkt dabei an verschiedene Gruppen, z. B. Menschen, die dort wohnen, Geschäfte und ältere Menschen.",
+    "schritte": [
+      "Erkläre die Aussage – „nichts verloren haben“ heißt „nicht dorthin gehören“.",
+      "Nenne Vorteile autofreier Innenstädte (z. B. Luft, Platz, Sicherheit).",
+      "Nenne Nachteile (z. B. Lieferverkehr, weite Wege).",
+      "Denk an die Gruppen: Anwohner, Handel, ältere Menschen.",
+      "Reagiere auf dein Gegenüber."
+    ],
+    "schluesselwoerter": [
+      "nichts mehr verloren",
+      "Innenstädten",
+      "Vor- und Nachteile",
+      "autofreie Innenstädte",
+      "Anwohner, Handel und ältere Menschen"
+    ],
+    "woerter": [
+      {
+        "wort": "verloren",
+        "erklaerung": "„hier nichts verloren haben“ = hier nicht hingehören (Redewendung)"
+      },
+      {
+        "wort": "Anwohner",
+        "erklaerung": "Menschen, die dort wohnen"
+      },
+      {
+        "wort": "Handel",
+        "erklaerung": "Geschäfte und Läden"
+      },
+      {
+        "wort": "Stadtplanerin",
+        "erklaerung": "Expertin, die plant, wie eine Stadt gestaltet wird"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: die Aussage erklären, nur Vorteile für Umwelt und Gesundheit nennen und Gruppen wie Anwohner, Handel und ältere Menschen überhaupt nicht beachten.",
+        "Im Gespräch: genau erklären, wie Busse und Bahnen in der eigenen Stadt funktionieren und wie man dort ein Ticket kauft.",
+        "Im Gespräch: der Stadtplanerin zustimmen, viele Vorteile autofreier Innenstädte nennen und keine Nachteile für bestimmte Gruppen besprechen.",
+        "Im Gespräch: die Aussage erklären, Vor- und Nachteile autofreier Innenstädte besprechen und dabei Anwohner, Handel und ältere Menschen berücksichtigen."
+      ],
+      "loesung": 3,
+      "erklaerung": "Gefragt sind Vor- UND Nachteile, und zwar aus der Sicht verschiedener Gruppen. Die Redewendung „nichts verloren haben“ bedeutet „nicht dorthin gehören“."
+    }
+  },
+  {
+    "id": "af_md10",
+    "ref": "md10",
+    "teil": "mp2",
+    "anweisung": "„Ein bedingungsloses Grundeinkommen würde die Menschen nicht faul machen, sondern frei. Erst wenn die Existenz gesichert ist, können wir tun, was wirklich sinnvoll ist.“ (Dr. Friederike Ostermann, Wirtschaftsphilosophin) Was meint die Wirtschaftsphilosophin mit „nicht faul, sondern frei“?; Was spricht für, was gegen ein bedingungsloses Grundeinkommen?; Halten Sie ein solches Modell für finanzierbar und gerecht? Begründen Sie Ihre Meinung.",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Eine Philosophin sagt, ein Grundeinkommen ohne Bedingungen macht Menschen nicht faul, sondern frei; erst wenn das Leben finanziell sicher ist, können wir tun, was wirklich sinnvoll ist. Ihr erklärt, was sie mit „nicht faul, sondern frei“ meint. Dann sprecht ihr über Argumente für und gegen ein bedingungsloses Grundeinkommen. Du sagst, ob du es für bezahlbar und gerecht hältst, und begründest das.",
+    "schritte": [
+      "Erkläre „nicht faul, sondern frei“ mit eigenen Worten.",
+      "Nenne Argumente für ein Grundeinkommen (z. B. Sicherheit, Zeit für Ehrenamt).",
+      "Nenne Argumente dagegen (z. B. Kosten, weniger Lust zu arbeiten).",
+      "Sag, ob es finanzierbar und gerecht ist, mit Begründung.",
+      "Reagiere auf dein Gegenüber."
+    ],
+    "schluesselwoerter": [
+      "bedingungsloses Grundeinkommen",
+      "nicht faul, sondern frei",
+      "Existenz gesichert",
+      "Was spricht für, was gegen",
+      "finanzierbar und gerecht"
+    ],
+    "woerter": [
+      {
+        "wort": "bedingungsloses",
+        "erklaerung": "ohne Bedingungen: jeder bekommt es, auch ohne Arbeit"
+      },
+      {
+        "wort": "Grundeinkommen",
+        "erklaerung": "Geld vom Staat jeden Monat, genug für das Nötigste"
+      },
+      {
+        "wort": "Existenz",
+        "erklaerung": "das Leben mit allem Nötigen (Wohnung, Essen); gesichert = sicher bezahlt"
+      },
+      {
+        "wort": "finanzierbar",
+        "erklaerung": "man kann es bezahlen"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: nur erklären, was die Wörter „faul“ und „frei“ bedeuten, mit Beispielen aus dem Alltag, aber ohne Pro und Contra.",
+        "Im Gespräch: „nicht faul, sondern frei“ erklären, Argumente für und gegen das Grundeinkommen besprechen und begründen, ob es finanzierbar und gerecht ist.",
+        "Im Gespräch: genau über die Regeln des Arbeitslosengeldes in Deutschland berichten und erklären, wer es bekommt und wie viel.",
+        "Im Gespräch: „nicht faul, sondern frei“ erklären und nur sagen, dass das bedingungslose Grundeinkommen für den Staat viel zu teuer ist, ohne Argumente dafür zu nennen."
+      ],
+      "loesung": 1,
+      "erklaerung": "Alle drei Leitpunkte gehören dazu: das Verständnis der Aussage, Pro und Contra und deine Meinung zu Kosten und Gerechtigkeit."
+    }
+  },
+  {
+    "id": "af_md11",
+    "ref": "md11",
+    "teil": "mp2",
+    "anweisung": "„Soziale Netzwerke schaden Kindern mehr, als sie nützen. Sie sollten erst ab sechzehn Jahren erlaubt sein – so wie Alkohol.“ (Dr. Sabine Merkenich, Kinder- und Jugendpsychiaterin) Wie verstehen Sie den Vergleich mit Alkohol?; Welche Chancen und Risiken haben soziale Netzwerke für Kinder und Jugendliche?; Halten Sie eine gesetzliche Altersgrenze für sinnvoll und durchsetzbar?",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Eine Kinderpsychiaterin sagt, soziale Netzwerke schaden Kindern mehr, als sie helfen, und sollten erst ab 16 erlaubt sein, wie Alkohol. Ihr erklärt, wie ihr den Vergleich mit Alkohol versteht. Dann sprecht ihr über Chancen und Risiken sozialer Netzwerke für Kinder und Jugendliche. Du sagst, ob ein Mindestalter per Gesetz sinnvoll ist und ob man es kontrollieren kann.",
+    "schritte": [
+      "Erkläre den Vergleich mit Alkohol (z. B. macht abhängig, schadet jungen Menschen).",
+      "Nenne Chancen (z. B. Kontakte, Lernen) und Risiken (z. B. Mobbing, Sucht).",
+      "Sag, ob eine gesetzliche Altersgrenze sinnvoll ist.",
+      "Sag, ob man sie in der Praxis durchsetzen kann.",
+      "Reagiere auf dein Gegenüber."
+    ],
+    "schluesselwoerter": [
+      "Soziale Netzwerke",
+      "erst ab sechzehn Jahren",
+      "Vergleich mit Alkohol",
+      "Chancen und Risiken",
+      "gesetzliche Altersgrenze",
+      "durchsetzbar"
+    ],
+    "woerter": [
+      {
+        "wort": "Netzwerke",
+        "erklaerung": "soziale Netzwerke = Apps wie Instagram oder TikTok"
+      },
+      {
+        "wort": "Altersgrenze",
+        "erklaerung": "Mindestalter: erst ab diesem Alter erlaubt"
+      },
+      {
+        "wort": "durchsetzbar",
+        "erklaerung": "man kann kontrollieren, dass sich alle daran halten"
+      },
+      {
+        "wort": "schaden",
+        "erklaerung": "negativ wirken, krank machen"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: über die Gefahren von Alkohol für Jugendliche sprechen und begründen, ob das Mindestalter für Alkohol höher sein sollte.",
+        "Im Gespräch: den Vergleich mit Alkohol erklären, nur Risiken sozialer Netzwerke nennen und begründen, ob eine Altersgrenze sinnvoll ist.",
+        "Im Gespräch: den Vergleich mit Alkohol erklären, Chancen und Risiken sozialer Netzwerke für Kinder besprechen, begründen, ob eine Altersgrenze sinnvoll und durchsetzbar ist.",
+        "Im Gespräch: den Vergleich mit Alkohol erklären, Chancen und Risiken sozialer Netzwerke besprechen, sagen, ob eine Altersgrenze sinnvoll ist, aber nicht, ob man sie kontrollieren kann."
+      ],
+      "loesung": 2,
+      "erklaerung": "Alkohol ist nur ein Vergleich. Thema sind soziale Netzwerke. Der letzte Leitpunkt hat zwei Teile: sinnvoll UND durchsetzbar."
+    }
+  },
+  {
+    "id": "af_md12",
+    "ref": "md12",
+    "teil": "mp2",
+    "anweisung": "„Reiche Länder lösen ihren Fachkräftemangel auf Kosten der armen. Wer Ärztinnen und Pflegekräfte aus dem Ausland anwirbt, betreibt eine moderne Form der Ausbeutung.“ (Dr. Tobias Wendling, Entwicklungsökonom) Wie verstehen Sie den Vorwurf der „Ausbeutung“?; Welche Folgen hat die Abwanderung von Fachkräften für die Herkunftsländer und für die Migrantinnen und Migranten selbst?; Wie könnte eine faire Anwerbung aussehen? Beziehen Sie Beispiele aus Ihrem Heimatland ein.",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Ein Ökonom sagt, reiche Länder lösen ihren Mangel an Fachkräften auf Kosten armer Länder; wer Ärztinnen und Pflegekräfte im Ausland anwirbt, nutzt diese Länder aus. Ihr erklärt den Vorwurf der „Ausbeutung“. Ihr sprecht über die Folgen für die Herkunftsländer und für die Migrantinnen und Migranten selbst. Dann überlegt ihr, wie eine faire Anwerbung aussehen kann, mit Beispielen aus deinem Heimatland.",
+    "schritte": [
+      "Erkläre den Vorwurf „Ausbeutung“ mit eigenen Worten.",
+      "Nenne Folgen für die Herkunftsländer (z. B. fehlende Ärzte, Geld, das nach Hause geschickt wird).",
+      "Nenne Folgen für die Migrantinnen und Migranten selbst (z. B. Chancen, Anerkennung, Familie).",
+      "Mach Vorschläge für eine faire Anwerbung, mit Beispielen aus deinem Heimatland.",
+      "Reagiere auf dein Gegenüber."
+    ],
+    "schluesselwoerter": [
+      "Fachkräftemangel",
+      "auf Kosten der armen",
+      "Ausbeutung",
+      "Abwanderung",
+      "Herkunftsländer",
+      "faire Anwerbung"
+    ],
+    "woerter": [
+      {
+        "wort": "Ausbeutung",
+        "erklaerung": "jemanden ausnutzen, um selbst einen Vorteil zu haben"
+      },
+      {
+        "wort": "auf Kosten",
+        "erklaerung": "zum Nachteil von jemand anderem"
+      },
+      {
+        "wort": "Abwanderung",
+        "erklaerung": "viele Menschen verlassen ihr Land"
+      },
+      {
+        "wort": "Anwerbung",
+        "erklaerung": "aktive Suche nach Arbeitskräften im Ausland"
+      },
+      {
+        "wort": "Vorwurf",
+        "erklaerung": "Kritik: man sagt, jemand macht etwas Falsches"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: den Vorwurf der Ausbeutung erklären, Folgen für Herkunftsländer und Migranten besprechen und eine faire Anwerbung mit Beispielen aus dem Heimatland beschreiben.",
+        "Im Gespräch: genau erklären, wie man als Pflegekraft ein Visum für Deutschland bekommt und welche Dokumente man dafür braucht.",
+        "Im Gespräch: den Vorwurf der Ausbeutung erklären und nur über die Folgen für Deutschland sprechen, zum Beispiel über weniger Fachkräftemangel in Krankenhäusern und Altenheimen.",
+        "Im Gespräch: den Vorwurf erklären, Folgen für die Herkunftsländer nennen, aber die Migranten selbst und eine faire Anwerbung weglassen."
+      ],
+      "loesung": 0,
+      "erklaerung": "Die Folgen sollen für zwei Gruppen besprochen werden: Herkunftsländer und die Menschen selbst. Dazu Vorschläge für eine faire Anwerbung."
+    }
+  },
+  {
+    "id": "af_md13",
+    "ref": "md13",
+    "teil": "mp2",
+    "anweisung": "„Wenn wir mit der Genschere schwere Erbkrankheiten schon im Embryo verhindern können, dann wäre es unethisch, es nicht zu tun.“ (Prof. Dr. Marion Kesselring, Humangenetikerin) Was meint die Humangenetikerin mit ihrer Aussage?; Welche Chancen und Gefahren sehen Sie in Eingriffen in das Erbgut von Embryonen?; Wo würden Sie die Grenze ziehen? Begründen Sie Ihre Haltung.",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Eine Genetikerin sagt, wenn man mit der Genschere schwere Erbkrankheiten schon beim Embryo verhindern kann, wäre es moralisch falsch, das nicht zu tun. Ihr erklärt, was sie meint. Dann sprecht ihr über Chancen und Gefahren, wenn man das Erbgut von Embryonen verändert. Du sagst, wo du die Grenze ziehen würdest, und begründest deine Haltung.",
+    "schritte": [
+      "Erkläre die Aussage – besonders das Wort „unethisch“.",
+      "Nenne Chancen (z. B. keine schwere Krankheit für das Kind).",
+      "Nenne Gefahren (z. B. Fehler, „Designerbabys“, Ungleichheit).",
+      "Sag, wo deine Grenze liegt (z. B. nur schwere Krankheiten), mit Begründung.",
+      "Reagiere auf dein Gegenüber."
+    ],
+    "schluesselwoerter": [
+      "Genschere",
+      "schwere Erbkrankheiten",
+      "unethisch",
+      "Chancen und Gefahren",
+      "Grenze ziehen"
+    ],
+    "woerter": [
+      {
+        "wort": "Genschere",
+        "erklaerung": "Methode, mit der man Gene (Erbgut) gezielt verändern kann"
+      },
+      {
+        "wort": "Erbkrankheiten",
+        "erklaerung": "Krankheiten, die Eltern an ihre Kinder weitergeben"
+      },
+      {
+        "wort": "Embryo",
+        "erklaerung": "das ungeborene Kind in den ersten Wochen"
+      },
+      {
+        "wort": "unethisch",
+        "erklaerung": "moralisch falsch"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: erklären, was die Genetikerin meint, Chancen und Gefahren von Eingriffen ins Erbgut von Embryonen besprechen, eigene Grenze begründen.",
+        "Im Gespräch: über gentechnisch veränderte Pflanzen in der Landwirtschaft sprechen, ihre Chancen und Gefahren besprechen und begründen, wo die Grenze liegen soll.",
+        "Im Gespräch: erklären, was die Genetikerin meint, nur die Chancen für gesunde Kinder nennen und die Gefahren ganz weglassen.",
+        "Im Gespräch: genau erklären, wie die Genschere im Labor technisch funktioniert, ohne eigene Meinung und ohne eine Grenze zu nennen."
+      ],
+      "loesung": 0,
+      "erklaerung": "Gefragt sind dein Verständnis, Chancen UND Gefahren und eine klare, begründete Grenze. Thema sind Embryonen, nicht Pflanzen."
+    }
+  },
+  {
+    "id": "af_md14",
+    "ref": "md14",
+    "teil": "mp2",
+    "anweisung": "„Die Zukunft liegt auf dem Land. Wer heute noch in eine überteuerte Großstadt zieht, hat die Chancen der Digitalisierung nicht verstanden.“ (Jan-Philipp Ebeling, Zukunftsforscher) Wie verstehen Sie die Aussage des Zukunftsforschers?; Wo würden Sie lieber leben – in der Stadt oder auf dem Land? Begründen Sie Ihre Meinung.; Welche Voraussetzungen müssten erfüllt sein, damit das Leben auf dem Land attraktiver wird?",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Ein Zukunftsforscher sagt, die Zukunft liegt auf dem Land; wer heute in eine viel zu teure Großstadt zieht, hat nicht verstanden, was durch Internet und digitale Arbeit möglich ist. Ihr erklärt, wie ihr das versteht. Du sagst, wo du lieber leben möchtest – Stadt oder Land – und warum. Dann sprecht ihr darüber, was sich ändern muss, damit das Leben auf dem Land attraktiver wird.",
+    "schritte": [
+      "Erkläre die Aussage mit eigenen Worten (Digitalisierung = z. B. Homeoffice).",
+      "Sag, wo du lieber lebst – Stadt oder Land – mit Gründen.",
+      "Nenne Voraussetzungen für ein attraktives Landleben (z. B. Internet, Ärzte, Busse, Schulen).",
+      "Reagiere auf die Argumente deines Gegenübers."
+    ],
+    "schluesselwoerter": [
+      "Die Zukunft liegt auf dem Land",
+      "überteuerte Großstadt",
+      "Chancen der Digitalisierung",
+      "Stadt oder auf dem Land",
+      "Voraussetzungen"
+    ],
+    "woerter": [
+      {
+        "wort": "überteuerte",
+        "erklaerung": "viel zu teuer"
+      },
+      {
+        "wort": "Digitalisierung",
+        "erklaerung": "mehr Arbeit und Leben mit Internet und Computern, z. B. Homeoffice"
+      },
+      {
+        "wort": "Voraussetzungen",
+        "erklaerung": "Bedingungen, die zuerst erfüllt sein müssen"
+      },
+      {
+        "wort": "attraktiver",
+        "erklaerung": "interessanter, angenehmer"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: nur erzählen, wo man jetzt wohnt, wie die Wohnung aussieht und was einem an der Nachbarschaft besonders gefällt.",
+        "Im Gespräch: die Aussage erklären und begründen, wo ich lieber lebe, aber nicht sagen, was auf dem Land besser werden muss.",
+        "Im Gespräch: die Aussage erklären, begründen, ob ich lieber in Stadt oder Land lebe, und Voraussetzungen für ein attraktiveres Landleben nennen.",
+        "Im Gespräch: über Digitalisierung in der Schule sprechen und begründen, ob Kinder auf dem Land mehr Tablets und schnelles Internet im Unterricht brauchen."
+      ],
+      "loesung": 2,
+      "erklaerung": "Neben deiner persönlichen Wahl musst du begründen und über Voraussetzungen für das Landleben sprechen. Thema ist Stadt oder Land, nicht Schule."
+    }
+  },
+  {
+    "id": "af_md15",
+    "ref": "md15",
+    "teil": "mp2",
+    "anweisung": "„Im Zeitalter von Suchmaschinen und künstlicher Intelligenz ist Auswendiglernen reine Zeitverschwendung. Schulen sollten Kindern beibringen, wie man Wissen findet – nicht, wie man es speichert.“ (Dr. Moritz Hagedorn, Lernforscher) Was ist mit der Aussage gemeint?; Welche Rolle spielt Faktenwissen beim Lernen und Verstehen? Nennen Sie Beispiele aus Ihrem Fach oder Studium.; Wie sollte Ihrer Meinung nach in Zukunft gelernt werden?",
+    "einfach": "Du diskutierst mit deiner Partnerin oder deinem Partner über ein Zitat: Ein Lernforscher sagt, in Zeiten von Suchmaschinen und KI ist Auswendiglernen nur Zeitverschwendung; die Schule soll lehren, wie man Wissen findet, nicht wie man es im Kopf behält. Ihr erklärt, was gemeint ist. Du sprichst darüber, wie wichtig Faktenwissen für Lernen und Verstehen ist, mit Beispielen aus deinem Fach oder Studium. Am Ende sagst du, wie man in Zukunft lernen sollte.",
+    "schritte": [
+      "Erkläre die Aussage mit eigenen Worten.",
+      "Sag, welche Rolle Faktenwissen beim Verstehen spielt.",
+      "Nenne Beispiele aus deinem Fach oder Studium (z. B. Fachbegriffe in Biologie, Einmaleins).",
+      "Sag, wie man in Zukunft lernen sollte (z. B. Mischung aus Wissen und Recherche).",
+      "Reagiere auf dein Gegenüber."
+    ],
+    "schluesselwoerter": [
+      "Auswendiglernen",
+      "reine Zeitverschwendung",
+      "Wissen findet",
+      "Faktenwissen",
+      "Beispiele aus Ihrem Fach oder Studium",
+      "in Zukunft gelernt"
+    ],
+    "woerter": [
+      {
+        "wort": "Auswendiglernen",
+        "erklaerung": "etwas so lernen, dass man es ohne Hilfe genau wiederholen kann"
+      },
+      {
+        "wort": "Zeitalter",
+        "erklaerung": "Zeit, Epoche"
+      },
+      {
+        "wort": "Faktenwissen",
+        "erklaerung": "Wissen über konkrete Fakten (Daten, Namen, Regeln)"
+      },
+      {
+        "wort": "speichert",
+        "erklaerung": "hier: im Gedächtnis behalten"
+      }
+    ],
+    "frage": {
+      "text": "Was musst du hier tun?",
+      "optionen": [
+        "Im Gespräch: viele Tipps geben, wie man Vokabeln und Fachbegriffe am besten auswendig lernt, zum Beispiel mit Karteikarten, Apps oder kleinen Lerngruppen.",
+        "Im Gespräch: die Aussage erklären, die Rolle von Faktenwissen mit Beispielen aus meinem Fach besprechen und sagen, wie man künftig lernen sollte.",
+        "Im Gespräch: die Aussage erklären und nur über KI und Suchmaschinen sprechen, ohne Beispiele aus dem eigenen Fach oder Studium.",
+        "Im Gespräch: der Aussage zustimmen und sagen, wie man künftig lernen sollte, ohne über die Rolle von Faktenwissen nachzudenken."
+      ],
+      "loesung": 1,
+      "erklaerung": "Gefragt sind dein Verständnis, die Rolle von Faktenwissen mit Beispielen aus deinem Fach und deine Idee für das Lernen der Zukunft."
+    }
+  }
+]

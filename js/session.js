@@ -13,6 +13,7 @@ import { hoerenExam } from "./hoeren.js";
 import { schreibenTask } from "./schreiben.js";
 import { praesentation, diskussion } from "./sprechen.js";
 import { errorReview } from "./fehler.js";
+import { aufgabenRound } from "./aufgaben.js";
 import { weaknessWeights, GROUPS, groupAccuracy, PASS } from "./analytics.js";
 import { resultScreen, runQuiz } from "./quiz.js";
 import { ai, S } from "./ai.js";
@@ -82,6 +83,7 @@ export function stepLabel(s) {
     case "wortschatz": return "📚 Wortschatz";
     case "redewendungen": return "💬 Redewendungen";
     case "checkliste": return "✅ Checkliste Prüfungstag";
+    case "aufgaben": return "🧐 Aufgaben verstehen";
     case "warmup": return "🔥 Aufwärmen: Wortschatz";
     case "warmup_rw": return "🔥 Aufwärmen: Redewendungen";
     default: return s.typ;
@@ -171,6 +173,7 @@ export async function runStep(el, step, ctx = {}) {
     case "wortschatz": case "warmup": return srsRound(el, "wort", { n: step.typ === "warmup" ? 8 : 12, title: "Aufwärmen" });
     case "redewendungen": case "warmup_rw": return srsRound(el, "rw", { n: step.typ === "warmup_rw" ? 5 : 10 });
     case "checkliste": return checkliste(el);
+    case "aufgaben": { const r = await aufgabenRound(el, { n: step.n || 3 }); return r.empty ? { xp: 0, skipped: true } : r; }
   }
   return { xp: 0 };
 }
@@ -186,7 +189,9 @@ export function sessionSteps(day) {
   const big = day.schritte.some((s) => s.typ === "einstufung" || s.typ === "generalprobe");
   const warm = big ? [] : [{ typ: "warmup" }, { typ: "warmup_rw" }];
   const tail = big || day.schritte.some((s) => s.typ === "fehler") ? [] : [{ typ: "fehler" }];
-  return [...warm, ...day.schritte, ...tail];
+  // Neu: „Aufgaben verstehen“ am Ende (Woche 1–3) – hinten angehängt, damit begonnene Tage ihren Stand behalten
+  const verstehen = !big && day.woche <= 3 ? [{ typ: "aufgaben", n: 3 }] : [];
+  return [...warm, ...day.schritte, ...tail, ...verstehen];
 }
 
 export async function runDay(el, day, nav) {

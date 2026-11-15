@@ -2,6 +2,7 @@
 import { h, clear, md, Timer, fmtTime, confirmBox, toast } from "./ui.js";
 import { store } from "./store.js";
 import { TEILE } from "./analytics.js";
+import { taskHelpButton } from "./aufgaben.js";
 
 const RFN = { richtig: "richtig", falsch: "falsch", nicht_im_text: "nicht im Text" };
 
@@ -38,7 +39,7 @@ function shell(el, { title, sub, minutes, mode, teil }) {
   }
   panes.dataset.show = "text";
   const tips = LESE_TIPPS[teil];
-  el.append(head, mode !== "pruefung" && tips ? h("details.tips", h("summary", "💡 Strategie"), h("ul", tips.map((t) => h("li", { html: md(t) })))) : null, tabs, panes, foot);
+  el.append(head, h("div.help-row", taskHelpButton(teil)), mode !== "pruefung" && tips ? h("details.tips", h("summary", "💡 Strategie"), h("ul", tips.map((t) => h("li", { html: md(t) })))) : null, tabs, panes, foot);
   return Object.assign(api, { close, textPane, taskPane, foot, show });
 }
 

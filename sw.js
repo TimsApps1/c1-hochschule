@@ -1,6 +1,6 @@
 // Service Worker: cacht beim ersten Öffnen alle App-Dateien und Inhalte → offline nutzbar.
 // Bei jedem Deploy CACHE_VERSION erhöhen (scripts/validate.mjs erinnert daran nicht – bitte selbst!).
-const CACHE_VERSION = "v7";
+const CACHE_VERSION = "v8";
 const CACHE = "c1hs-" + CACHE_VERSION;
 
 const CORE = [
@@ -8,13 +8,13 @@ const CORE = [
   "./js/app.js", "./js/ai.js", "./js/analytics.js", "./js/config.js", "./js/content.js", "./js/db.js", "./js/dropbox.js",
   "./js/fehler.js", "./js/gamify.js", "./js/hoeren.js", "./js/lesen.js", "./js/pruefung.js", "./js/quiz.js", "./js/recorder.js",
   "./js/sb.js", "./js/schreiben.js", "./js/session.js", "./js/sprechen.js", "./js/srs.js", "./js/store.js", "./js/sync.js",
-  "./js/tts.js", "./js/ui.js", "./js/vocab.js", "./js/mascot.js", "./js/audio.js",
+  "./js/tts.js", "./js/ui.js", "./js/vocab.js", "./js/mascot.js", "./js/audio.js", "./js/aufgaben.js",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png", "./icons/icon.svg",
 ];
 const DATA = [
   "wortschatz_a.json", "wortschatz_b.json", "redewendungen.json", "sb_a.json", "sb_b.json", "drills_a.json", "drills_b.json", "drills_c.json", "drills_d.json",
   "grammatik_a.json", "grammatik_b.json", "grammatik_c.json", "lesen_a.json", "lesen_b.json", "hoeren_1.json", "hoeren_2.json", "hoeren_3.json",
-  "schreiben.json", "sprechen.json", "strategie.json", "links.json", "lernpfad.json", "audio/index.json",
+  "schreiben.json", "sprechen.json", "strategie.json", "links.json", "lernpfad.json", "audio/index.json", "aufgaben.json", "aufgaben_spezifisch.json",
 ].map((f) => "./data/" + f);
 
 self.addEventListener("install", (event) => {

@@ -8,6 +8,7 @@ import { store } from "./store.js";
 import { db } from "./db.js";
 import { ai, S, AiUnavailable, learnerContext } from "./ai.js";
 import { KATEGORIEN } from "./content.js";
+import { taskHelpButton } from "./aufgaben.js";
 
 const STUFE_PKT = { A: 12, B: 8, C: 4, D: 0 };
 const KRIT = [
@@ -34,7 +35,8 @@ function taskBox(t) {
     h("p", t.situation),
     t.zitate.map((z) => h("blockquote", "„" + z.text + "“", h("cite", z.person))),
     h("p", h("strong", t.anweisung)),
-    h("p.muted.small", "Mindestens 350 Wörter · Einleitung – Hauptteil – Schluss"));
+    h("p.muted.small", "Mindestens 350 Wörter · Einleitung – Hauptteil – Schluss"),
+    h("div.help-row", taskHelpButton("sa", t.id)));
 }
 
 async function baukasten(onInsert) {

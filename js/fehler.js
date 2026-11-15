@@ -22,7 +22,7 @@ export function errorToItem(e) {
 }
 
 function modulName(m) {
-  return { sb: "Sprachbausteine", drill: "Grammatik", wortschatz: "Wortschatz", redewendungen: "Redewendungen", lesen: "Lesen", hoeren: "Hören", schreiben: "Schreiben", sprechen: "Sprechen" }[m] || m;
+  return { sb: "Sprachbausteine", drill: "Grammatik", wortschatz: "Wortschatz", redewendungen: "Redewendungen", lesen: "Lesen", hoeren: "Hören", schreiben: "Schreiben", sprechen: "Sprechen", aufgaben: "Aufgaben verstehen" }[m] || m;
 }
 
 async function applyResult(e, ok) {

@@ -6,6 +6,7 @@ import { store } from "./store.js";
 import { TEILE } from "./analytics.js";
 import { ScriptPlayer, ttsSupported, voicesReady, stopAll } from "./tts.js";
 import { FilePlayer, audioFor } from "./audio.js";
+import { taskHelpButton } from "./aufgaben.js";
 
 const ZAHL = ["null", "eins", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun", "zehn"];
 const LESEZEIT = { hv1: 60, hv2: 180, hv3: 60 };
@@ -85,7 +86,7 @@ export function hoerenExam(el, item, opts = {}) {
     const close = h("button.icon-btn", { "aria-label": "Beenden", onclick: async () => { if (submitted || (await confirmBox("Abbrechen?", "Deine Antworten gehen verloren."))) { stopAll(); bar.player.stop(); clockTimer?.stop(); resolve({ aborted: true }); } } }, "✕");
     el.append(h("div.ex-head", close, h("div", h("strong", TEILE[teil].name), h("div.muted.small", item.titel)), timerEl));
     if (!exam && HOER_TIPPS[teil]) el.append(h("details.tips", h("summary", "💡 Strategie"), h("ul", HOER_TIPPS[teil].map((t) => h("li", { html: md(t) })))));
-    el.append(h("p.situation", item.situation || ""));
+    el.append(h("div.help-row", taskHelpButton(teil)), h("p.situation", item.situation || ""));
     const bar = audioBar({ segments, exam, file, onEnd: () => { if (exam) { toast("Hörtext beendet – jetzt Antworten prüfen und abgeben."); } } });
     const phase = h("div.phase");
     el.append(phase, bar.el);
