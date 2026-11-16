@@ -14,6 +14,7 @@ import { schreibenTask, miniSchreiben, pickMini, MINI_TYPEN } from "./schreiben.
 import { praesentation, diskussion } from "./sprechen.js";
 import { errorReview } from "./fehler.js";
 import { aufgabenRound } from "./aufgaben.js";
+import { setExamMode } from "./ask.js";
 import { weaknessWeights, GROUPS, groupAccuracy, PASS } from "./analytics.js";
 import { resultScreen, runQuiz } from "./quiz.js";
 import { ai, S } from "./ai.js";
@@ -137,6 +138,7 @@ function weakestGrammar() {
 
 /** Führt einen Schritt aus. Gibt {xp, score?, max?, aborted?} zurück. */
 export async function runStep(el, step, ctx = {}) {
+  setExamMode(false);
   const woche = ctx.woche || 2;
   if (step.typ === "auto") step = autoStep();
   switch (step.typ) {

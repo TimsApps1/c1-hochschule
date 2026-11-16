@@ -7,6 +7,7 @@ import { TEILE } from "./analytics.js";
 import { ScriptPlayer, ttsSupported, voicesReady, stopAll } from "./tts.js";
 import { FilePlayer, audioFor } from "./audio.js";
 import { taskHelpButton } from "./aufgaben.js";
+import { setExamMode } from "./ask.js";
 
 const ZAHL = ["null", "eins", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun", "zehn"];
 const LESEZEIT = { hv1: 60, hv2: 180, hv3: 60 };
@@ -77,6 +78,7 @@ export function hoerenExam(el, item, opts = {}) {
     await voicesReady();
     const mode = opts.mode || "uebung";
     const exam = mode === "pruefung";
+    setExamMode(exam);
     const teil = item.teil;
     clear(el);
     const segments = segmentsFor(item);

@@ -1,6 +1,6 @@
 // Service Worker: cacht beim ersten Öffnen alle App-Dateien und Inhalte → offline nutzbar.
 // Bei jedem Deploy CACHE_VERSION erhöhen (scripts/validate.mjs erinnert daran nicht – bitte selbst!).
-const CACHE_VERSION = "v11";
+const CACHE_VERSION = "v12";
 const CACHE = "c1hs-" + CACHE_VERSION;
 
 const CORE = [
@@ -8,7 +8,7 @@ const CORE = [
   "./js/app.js", "./js/ai.js", "./js/analytics.js", "./js/config.js", "./js/content.js", "./js/db.js", "./js/dropbox.js",
   "./js/fehler.js", "./js/gamify.js", "./js/hoeren.js", "./js/lesen.js", "./js/pruefung.js", "./js/quiz.js", "./js/recorder.js",
   "./js/sb.js", "./js/schreiben.js", "./js/session.js", "./js/sprechen.js", "./js/srs.js", "./js/store.js", "./js/sync.js",
-  "./js/tts.js", "./js/ui.js", "./js/vocab.js", "./js/mascot.js", "./js/audio.js", "./js/aufgaben.js",
+  "./js/tts.js", "./js/ui.js", "./js/vocab.js", "./js/mascot.js", "./js/audio.js", "./js/aufgaben.js", "./js/ask.js",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png", "./icons/icon.svg",
 ];
 const DATA = [

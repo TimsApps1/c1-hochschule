@@ -3,6 +3,7 @@ import { h, clear, md, Timer, fmtTime, confirmBox, toast } from "./ui.js";
 import { store } from "./store.js";
 import { TEILE } from "./analytics.js";
 import { taskHelpButton } from "./aufgaben.js";
+import { setExamMode } from "./ask.js";
 
 const RFN = { richtig: "richtig", falsch: "falsch", nicht_im_text: "nicht im Text" };
 
@@ -14,6 +15,7 @@ export const LESE_TIPPS = {
 
 function shell(el, { title, sub, minutes, mode, teil }) {
   clear(el);
+  setExamMode(mode === "pruefung");
   const timerEl = h("span.timer");
   let timer = null;
   const api = { timer: null, onTimeUp: null };

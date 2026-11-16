@@ -9,6 +9,7 @@ import { db } from "./db.js";
 import { ai, S, AiUnavailable, learnerContext } from "./ai.js";
 import { KATEGORIEN } from "./content.js";
 import { taskHelpButton } from "./aufgaben.js";
+import { setExamMode } from "./ask.js";
 
 const STUFE_PKT = { A: 12, B: 8, C: 4, D: 0 };
 const KRIT = [
@@ -75,6 +76,7 @@ export function schreibenTask(el, tasks, opts = {}) {
 
     async function start() {
       clear(el);
+      setExamMode(mode === "pruefung");
       const draftKey = "draft." + task.id;
       const ta = h("textarea.writing", { placeholder: "Schreibe hier deinen Text … (Absätze mit Leerzeile)", spellcheck: false, autocorrect: "off", autocapitalize: "sentences" });
       ta.value = (await db.kvGet(draftKey, "")) || "";

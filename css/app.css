@@ -456,3 +456,25 @@ button.tw { line-height: 1.5; }
 .atext p.focus { background: var(--bg2); border-radius: 8px; box-shadow: 0 0 0 4px var(--bg2); }
 
 a.pill { color: inherit; text-decoration: none; }
+
+/* Frag Tarsi */
+.ask-fab { position: fixed; right: 14px; bottom: calc(var(--tab-h) + 14px + env(safe-area-inset-bottom)); z-index: 30; display: flex; align-items: center; gap: 6px;
+  border: 0; border-radius: 999px; padding: 10px 14px; background: var(--coral); color: #fff; font: inherit; font-weight: 800; box-shadow: 0 4px 0 var(--coral-d), 0 8px 20px rgba(0,0,0,.18); cursor: pointer; }
+.ask-fab:active { transform: translateY(2px); box-shadow: 0 2px 0 var(--coral-d); }
+.tabbar.hidden ~ .ask-fab { bottom: calc(88px + env(safe-area-inset-bottom)); }
+.ask-fab-lbl { font-size: .9rem; }
+.ask-wrap { position: fixed; inset: 0; background: rgba(0,0,0,.35); z-index: 55; display: flex; align-items: flex-end; justify-content: center; }
+.ask-sheet { background: var(--bg); width: min(760px, 100%); height: min(82vh, 760px); border-radius: 22px 22px 0 0; display: flex; flex-direction: column; padding: 10px 14px calc(12px + env(safe-area-inset-bottom)); box-shadow: 0 -10px 30px rgba(0,0,0,.25); }
+.ask-head { display: flex; align-items: center; gap: 10px; padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+.ask-head > div { flex: 1; min-width: 0; }
+.ask-head .muted { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.ask-log { flex: 1; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; padding: 10px 0; }
+.ask-log .bubble { max-width: 92%; }
+.ask-log .bubble.partner { background: var(--card); box-shadow: var(--shadow); }
+.ask-log .bubble ul { padding-left: 18px; margin: 4px 0; }
+.bubble.typing { opacity: .7; font-style: italic; }
+.ask-input { display: flex; gap: 8px; align-items: flex-end; }
+.ask-input textarea { flex: 1; margin: 0; }
+.ask-sheet .chips { margin: 4px 0 8px; }
+.tabbar.hidden ~ .ask-fab .ask-fab-lbl { display: none; }
+.tabbar.hidden ~ .ask-fab { width: 52px; height: 52px; padding: 0; justify-content: center; font-size: 1.4rem; opacity: .92; }

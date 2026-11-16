@@ -5,6 +5,7 @@ import { load, KATEGORIEN } from "./content.js";
 import { store } from "./store.js";
 import { runQuiz, resultScreen } from "./quiz.js";
 import { taskHelpButton } from "./aufgaben.js";
+import { setExamMode } from "./ask.js";
 
 const LETTERS = ["a", "b", "c", "d"];
 
@@ -24,6 +25,7 @@ export function gapSentence(set, n) {
 export function sbExam(el, set, opts = {}) {
   return new Promise((resolve) => {
     const mode = opts.mode || "uebung";
+    setExamMode(mode === "pruefung");
     const gaps = opts.onlyFirst ? set.luecken.slice(0, opts.onlyFirst) : set.luecken;
     const answers = new Map();
     let submitted = false;

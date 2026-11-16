@@ -23,6 +23,7 @@ import { errorReview, errorOverview } from "./fehler.js";
 import { generalprobe } from "./pruefung.js";
 import { aufgabenRound, glossarRound, eigeneWorte, glossarList, steckbriefe, strategyCard, TEIL_NAMEN } from "./aufgaben.js";
 import { germanVoices, voicesReady, speakOnce, ttsSupported } from "./tts.js";
+import { askFab, setExamMode, questionsList } from "./ask.js";
 
 const main = document.getElementById("main");
 const tabbar = document.getElementById("tabbar");
@@ -429,6 +430,9 @@ async function viewMehr() {
       h("label.field", h("span", "Dein Vorname (für die Begrüßung)"), h("input", { type: "text", value: s.name, placeholder: "z. B. Anna", onchange: (e) => store.saveSettings({ name: e.target.value.trim() }) })),
       h("label.field", h("span", "Über mich (hilft der KI beim Feedback)"), h("textarea.answer", { rows: 3, placeholder: "z. B. Biologielehrerin aus …, möchte meinen Abschluss in NRW anerkennen lassen", onchange: (e) => store.saveSettings({ profil: e.target.value.trim() }) }, s.profil || ""))),
 
+    h("h2", "💬 Meine Fragen an Tarsi"),
+    h("div.card", questionsList()),
+
     h("h2", "Ziele"),
     h("div.card", num("dailyGoalXp", "Tagesziel (XP)", 10, 10), num("weeklyGoalXp", "Wochenziel (XP)", 50, 50), num("newWordsPerDay", "Neue Wörter pro Tag", 1, 0), num("newIdiomsPerDay", "Neue Redewendungen pro Tag", 1, 0)),
 
@@ -522,6 +526,7 @@ async function exercise(fn, back) {
     toast("Fehler: " + e.message);
   } finally {
     busy = false;
+    setExamMode(false);
     tabbar.classList.remove("hidden");
     window.scrollTo(0, 0);
     checkMilestone();
@@ -584,6 +589,7 @@ async function start() {
   try {
     if (await dropbox.handleRedirect()) toast("✓ Mit Dropbox verbunden");
   } catch (e) { toast(e.message); }
+  document.body.append(askFab());
   window.addEventListener("hashchange", route);
   store.onChange((what) => { if (!busy && what === "merge") route(); });
   route();
