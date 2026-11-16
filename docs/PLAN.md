@@ -51,18 +51,16 @@ Siehe `docs/PRUEFUNGSFORMAT.md` (mit Quellen, Unsicheres mit ⚠ markiert). Abwe
 Etwa ein Drittel der Inhalte hat Bezug zur Lernerin (Lehramt, Biologie, Anerkennung, Leben in Deutschland).
 Alle Texte und Aufgaben sind selbst geschrieben; telc-Materialien dienten nur der Formatanalyse.
 
-## Lernpfad (30 Tage, `scripts/build-lernpfad.mjs`)
+## Lernpfad (20 Tage, `scripts/build-lernpfad.mjs`) – geändert am 16.11. auf Wunsch der Lernerin
 
-- **Woche 1 (12.–18.11.):** Einstufungstest, Strategien je Teil, Grammatik-Grundpfeiler (Konnektoren, Präpositionen,
-  Rektion, Passiv, NVV, Relativsätze), erster Text, erste Präsentation.
-- **Woche 2 (19.–25.11.):** Konjunktiv, Nominalisierung, Partizipien …; Teilprüfungen unter Zeitdruck, Schreiben in 70 Min.,
-  Teiltest Lesen+SB.
-- **Woche 3 (26.11.–2.12.):** volle Teiltests, Diskussion mit KI-Partnerin, Schwachstellen („auto“-Schritte), Fehler-Marathon.
-- **Woche 4 (3.–11.12.):** Generalprobe 1 (Sa 5.12.), Auswertung, Generalprobe 2 (Di 8.12. schriftlich / Mi 9.12. mündlich),
-  zwei leichte Tage. Generalprobe 3 als Reserve.
-- Jede Tagessession: Aufwärmen (8 Wörter + 5 Redewendungen) → Hauptblock → Fehlerwiederholung. Adaptiv: „auto“-Schritte und
-  die Fehlerwiederholung gewichten die schwächsten Bereiche (Basisgewicht SB 1,45, Hören/Schreiben 1,35, Lesen/Sprechen 1,0;
-  verstärkt, je weiter die Genauigkeit unter 80 % liegt).
+Verdichtet von 30 auf 20 Tage: gleicher Inhalt, mehr pro Tag, deutlich mehr Schreiben (21 Schreibschritte: 9 ganze Texte,
+davon 4 im 70-Minuten-Modus, und 12 Kurz-Schreibübungen zu Einleitung, Zitaten, Argument, Gegenargument, Schluss, Umformen).
+Tag 1–4 unverändert (bereits erledigt), Tag 5 beginnt mit denselben Schritten (Fortschritt bleibt erhalten).
+- **Phase 1 (Tag 1–7, bis 18.11.):** Einstufung, Strategien, Grammatik-Grundpfeiler, erste Texte und Kurz-Schreibübungen.
+- **Phase 2 (Tag 8–14, bis 25.11.):** restliche Grammatik, Prüfungstempo, Teiltests, 2× Schreiben in 70 Min.
+- **Phase 3 (Tag 15–20, bis 1.12.):** Schwachstellen, Generalprobe 1 (Sa 28.11.), Generalprobe 2 (30.11./1.12.).
+- **Endspurt (2.–11.12.):** adaptive Tagessession (Schwachstellen + Kurz-Schreiben + ganzer Text + Fehler), Samstag Generalprobe 3,
+  die letzten 2 Tage leicht mit Checkliste.
 
 ## Ehrliche Grenzen
 

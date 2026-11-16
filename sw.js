@@ -1,6 +1,6 @@
 // Service Worker: cacht beim ersten Öffnen alle App-Dateien und Inhalte → offline nutzbar.
 // Bei jedem Deploy CACHE_VERSION erhöhen (scripts/validate.mjs erinnert daran nicht – bitte selbst!).
-const CACHE_VERSION = "v9";
+const CACHE_VERSION = "v10";
 const CACHE = "c1hs-" + CACHE_VERSION;
 
 const CORE = [
@@ -14,7 +14,7 @@ const CORE = [
 const DATA = [
   "wortschatz_a.json", "wortschatz_b.json", "redewendungen.json", "sb_a.json", "sb_b.json", "drills_a.json", "drills_b.json", "drills_c.json", "drills_d.json",
   "grammatik_a.json", "grammatik_b.json", "grammatik_c.json", "lesen_a.json", "lesen_b.json", "hoeren_1.json", "hoeren_2.json", "hoeren_3.json",
-  "schreiben.json", "sprechen.json", "strategie.json", "links.json", "lernpfad.json", "audio/index.json", "aufgaben.json", "aufgaben_spezifisch.json",
+  "schreiben.json", "schreiben_b.json", "schreiben_mini.json", "sprechen.json", "strategie.json", "links.json", "lernpfad.json", "audio/index.json", "aufgaben.json", "aufgaben_spezifisch.json",
 ].map((f) => "./data/" + f);
 
 self.addEventListener("install", (event) => {

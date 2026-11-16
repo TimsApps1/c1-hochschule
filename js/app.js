@@ -12,12 +12,12 @@ import { totalXp, levelInfo, streakInfo, todayXp, weekXp, daysUntilExam, studyMi
 import { confetti, modal } from "./ui.js";
 import { srsStats } from "./srs.js";
 import { forecast, GROUPS, groupAccuracy, errorCategories, dueErrors, PASS, TEILE } from "./analytics.js";
-import { lernpfad, currentDay, dayDone, unlockedUpTo, runDay, runStep, stepLabel, bonusRound, strategieKarte, einstufung } from "./session.js";
+import { lernpfad, currentDay, dayDone, unlockedUpTo, runDay, runStep, stepLabel, bonusRound, strategieKarte, einstufung, endspurtDay } from "./session.js";
 import { srsRound, browseList, satzWerkstatt, matchRound } from "./vocab.js";
 import { sbExam, drillRound, grammarCard } from "./sb.js";
 import { lesenExam } from "./lesen.js";
 import { hoerenExam } from "./hoeren.js";
-import { schreibenTask, showFeedback } from "./schreiben.js";
+import { schreibenTask, showFeedback, miniSchreiben, pickMini, MINI_TYPEN } from "./schreiben.js";
 import { praesentation, diskussion } from "./sprechen.js";
 import { errorReview, errorOverview } from "./fehler.js";
 import { generalprobe } from "./pruefung.js";
@@ -82,7 +82,8 @@ async function checkMilestone() {
 // ---------- Startseite ----------
 async function viewHome() {
   const days = await lernpfad();
-  const day = currentDay(days);
+  const allDone = days.every((d) => dayDone(d.tag));
+  const day = allDone && daysUntilExam() > 0 ? endspurtDay(daysUntilExam()) : currentDay(days);
   const goal = store.settings.dailyGoalXp;
   const xpT = todayXp();
   const s = streakInfo();
@@ -102,10 +103,10 @@ async function viewHome() {
     done
       ? h("div.card.hero", h("h2", "🧭 Starte mit dem Einstufungstest"), h("p", "Ca. 25 Minuten. Danach weiß die App, worauf es bei dir ankommt."), h("button.btn.primary.wide", { onclick: () => nav("#/tag/1") }, "Tag 1 starten"))
       : h("div.card.hero",
-          h("div.small.muted", `Lernpfad · Woche ${day.woche} · Tag ${day.tag} von ${days.length}`),
+          h("div.small.muted", day.endspurt ? `Endspurt · noch ${daysUntilExam()} Tage bis zur Prüfung` : `Lernpfad · Phase ${day.woche} · Tag ${day.tag} von ${days.length}`),
           h("h2", day.titel),
           h("ul.mini-steps", day.schritte.map((st) => h("li", stepLabel(st)))),
-          h("button.btn.primary.wide", { onclick: () => nav("#/tag/" + day.tag) }, dayDone(day.tag) ? "Wiederholen" : "▶︎ Tagessession starten"),
+          h("button.btn.primary.wide", { onclick: () => nav(day.endspurt ? "#/endspurt" : "#/tag/" + day.tag) }, dayDone(day.tag) ? (day.endspurt ? "Noch eine Runde" : "Wiederholen") : "▶︎ Tagessession starten"),
           h("p.small.muted.center", "Aufwärmen → Hauptteil → Fehlerwiederholung · ca. 60–90 Min.")),
     h("div.grid2",
       h("button.tile", { onclick: () => nav("#/fehler/wiederholen") }, h("div.tile-ico", "🛠️"), h("div", "Fehler"), h("div.small.muted", `${due} fällig`)),
@@ -141,7 +142,7 @@ async function viewPfad() {
   const upTo = unlockedUpTo(days);
   const nextTag = days.find((d) => !dayDone(d.tag))?.tag;
   clear(main).append(topbar(), h("h1", "Lernpfad"), tarsiSays("Ein Tag nach dem anderen – ich laufe den Weg mit dir! Erledigte Tage kannst du jederzeit wiederholen.", "happy", 70));
-  const WOCHEN = ["", ["Woche 1", "Format & Grundlagen", "wave"], ["Woche 2", "Vertiefung & Zeitdruck", "think"], ["Woche 3", "Teiltests & Fehlerarbeit", "proud"], ["Woche 4", "Generalproben & Wiederholung", "cheer"]];
+  const WOCHEN = ["", ["Phase 1 · Tag 1–7", "Format, Strategien & erste Texte", "wave"], ["Phase 2 · Tag 8–14", "Vertiefung, Prüfungstempo & viel Schreiben", "think"], ["Phase 3 · Tag 15–20", "Schwachstellen & Generalproben", "proud"], ["Endspurt", "bis zur Prüfung", "cheer"]];
   const X = [0, 46, 70, 46, 0, -46, -70, -46];
   let w = 0, path = null, i = 0;
   for (const d of days) {
@@ -161,6 +162,7 @@ async function viewPfad() {
       h("span.day-num", done ? "✓" : locked ? "🔒" : d.tag === nextTag ? "★" : d.tag),
       h("span.day-txt", h("strong", d.titel), h("span.small.muted", "Tag " + d.tag + " · " + dt.toLocaleDateString("de-DE", { weekday: "short", day: "numeric", month: "numeric" })))));
   }
+  main.append(h("div.week-banner", mascot("cheer", 52), h("div", h("h2", "Endspurt"), h("div.small.muted", "Nach Tag 20 bis zur Prüfung: jeden Tag eine Session mit deinen Schwachstellen und Schreiben; Samstag Generalprobe 3; die letzten 2 Tage leicht."))));
   main.append(h("div.card.center", mascot("proud", 90), h("p", h("strong", "🎓 Samstag, 12.12.2026 – Prüfungstag")), h("button.btn.small", { onclick: () => nav("#/strategie/checkliste") }, "Checkliste")));
 }
 
@@ -217,7 +219,10 @@ async function viewList(kind) {
     const texts = [...store.texts.values()].filter((t) => t.typ === "schreiben").sort((a, b) => b.t - a.t);
     main.append(h("h1", "Schriftlicher Ausdruck"), h("p.muted", "Erörterung oder Stellungnahme zu zwei gegensätzlichen Zitaten, mind. 350 Wörter, 70 Minuten. (Eine Grafikbeschreibung gibt es in dieser Prüfung nicht.)"),
       h("button.btn.wide", { onclick: () => nav("#/strategie/schreiben") }, "💡 Strategie"),
-      h("h2", "Aufgaben"),
+      h("h2", "✏️ Kurz-Schreiben (10–15 Min.)"),
+      h("p.small.muted", "Trainiere einzelne Bausteine – mit KI-Feedback und verbesserter Version."),
+      h("div.chips", Object.entries(MINI_TYPEN).map(([k, v]) => h("button.chip", { onclick: async () => { const it = await pickMini(k); if (it) exercise(() => miniSchreiben(main, it)); else toast("Kurz-Übungen werden noch erstellt."); } }, v))),
+      h("h2", "Ganze Aufgaben (70 Min.)"),
       itemList(all, (t) => [h("strong", t.zitate?.[0]?.text?.slice(0, 70) + "…"), h("div.small.muted", (THEMEN[t.thema] || "") + " · " + t.textsorte)], async (t) => {
         const m = await chooseMode();
         if (!m) return;
@@ -541,6 +546,7 @@ async function route() {
       case "": return viewHome();
       case "pfad": return viewPfad();
       case "tag": { const days = await lernpfad(); const d = days.find((x) => x.tag === +b); if (!d || d.tag > unlockedUpTo(days)) return nav("#/pfad"); return exercise(() => runDay(main, d, nav), "#/"); }
+      case "endspurt": return exercise(() => runDay(main, endspurtDay(Math.max(1, daysUntilExam())), nav), "#/");
       case "ueben": return viewUeben();
       case "sb": return viewList("sb");
       case "lesen": return viewList("lesen");

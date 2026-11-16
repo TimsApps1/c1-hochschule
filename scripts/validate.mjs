@@ -141,7 +141,14 @@ for (const x of hoeren) {
 }
 
 // Schreiben / Sprechen / Strategie / Links / Lernpfad
-const sa = load("schreiben.json") || [];
+const sa = [...(load("schreiben.json") || []), ...(load("schreiben_b.json") || [])];
+const mini = load("schreiben_mini.json") || [];
+for (const m of mini) {
+  uniq("schreiben_mini", m.id);
+  if (!["einleitung", "zitate", "argument", "gegenargument", "schluss", "umformen"].includes(m.typ)) E("schreiben_mini", `${m.id}: Typ ${m.typ}`);
+  if (!m.aufgabe || !m.muster) E("schreiben_mini", `${m.id}: aufgabe/muster fehlt`);
+  count("Kurz-Schreibübungen");
+}
 for (const t of sa) {
   uniq("schreiben", t.id);
   if (t.zitate?.length !== 2) E("schreiben", `${t.id} braucht 2 Zitate`);

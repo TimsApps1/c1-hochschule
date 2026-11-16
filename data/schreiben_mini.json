@@ -1,0 +1,1656 @@
+[
+  {
+    "id": "mini_einleitung_01",
+    "typ": "einleitung",
+    "ref": "sa01",
+    "titel": "Einleitung: Anwesenheitspflicht",
+    "aufgabe": "Schreibe die Einleitung zur Prüfungsaufgabe (Erörterung). Führe zum Thema hin, zeige, warum es wichtig ist, nenne die Leitfrage und sage kurz, wie dein Text aufgebaut ist. Schreibe noch keine Argumente aus.",
+    "material": "Prüfungsaufgabe: Für das Seminar „Wissenschaftliches Arbeiten“ schreiben Sie eine Erörterung: Soll es an Hochschulen eine Anwesenheitspflicht geben?\nLeitfrage: Soll es an Hochschulen eine Anwesenheitspflicht geben?",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Beginne mit einem Bild oder einer Beobachtung, nicht mit „Heutzutage …“.",
+      "Formuliere die Leitfrage als indirekte Frage: „…, ob …“.",
+      "Der Ausblick sagt nur, WAS kommt – noch keine Argumente."
+    ],
+    "redemittel": [
+      "In letzter Zeit wird immer häufiger darüber diskutiert, ob …",
+      "Vor diesem Hintergrund …",
+      "Die Frage berührt sowohl … als auch …",
+      "Im Folgenden möchte ich erörtern, ob …",
+      "Dazu wäge ich zunächst … und anschließend … ab."
+    ],
+    "muster": "Leere Hörsäle in der Mitte des Semesters sind an vielen Hochschulen ein vertrautes Bild. Vor diesem Hintergrund wird seit Jahren kontrovers diskutiert, ob Studierende selbst entscheiden dürfen, wann sie an Lehrveranstaltungen teilnehmen. Die Frage berührt sowohl die Qualität der Lehre als auch die Lebensrealität vieler Studierender. Im Folgenden möchte ich daher erörtern, ob eine Anwesenheitspflicht sinnvoll ist. Dazu wäge ich zunächst die Argumente dafür und anschließend die Gegenargumente ab, bevor ich zu einer eigenen Einschätzung gelange.",
+    "checkliste": [
+      "Führst du zum Thema hin (Beobachtung, Entwicklung, Beispiel)?",
+      "Sagst du, warum das Thema wichtig ist?",
+      "Ist die Leitfrage klar (mit „ob …“)?",
+      "Gibt es einen kurzen Ausblick auf den Aufbau?",
+      "Keine ausführlichen Argumente – die kommen erst im Hauptteil?",
+      "50–80 Wörter, 3–5 Sätze?"
+    ]
+  },
+  {
+    "id": "mini_einleitung_02",
+    "typ": "einleitung",
+    "ref": "sa02",
+    "titel": "Einleitung: Vegetarische Mensa",
+    "aufgabe": "Schreibe die Einleitung zur Prüfungsaufgabe (Stellungnahme). Führe zum Thema hin, zeige, warum es wichtig ist, nenne die Leitfrage und sage kurz, wie dein Text aufgebaut ist. Schreibe noch keine Argumente aus.",
+    "material": "Prüfungsaufgabe: Der Studierendenrat schlägt vor, dass die Mensa nur noch vegetarisch kocht. Für seinen Blog schreiben Sie eine Stellungnahme.\nLeitfrage: Soll die Mensa nur noch vegetarisch kochen?",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Es ist eine Stellungnahme für einen Blog: Ein lebendiger Einstieg ist erlaubt.",
+      "Nenne den Anlass: den Vorschlag des Studierendenrats.",
+      "Zeige, dass es um mehrere Werte geht (Klima, Freiheit, Preis)."
+    ],
+    "redemittel": [
+      "Der Vorschlag, … , hat eine lebhafte Debatte ausgelöst.",
+      "Dabei geht es nicht nur um …, sondern auch um …",
+      "In dieser Stellungnahme gehe ich der Frage nach, ob …",
+      "Nach einem Blick auf beide Positionen lege ich … dar."
+    ],
+    "muster": "Ob Currywurst oder Linsencurry – was in der Mensa auf den Tisch kommt, ist längst nicht mehr nur eine Frage des Geschmacks. Der Vorschlag des Studierendenrats, künftig ausschließlich vegetarisch zu kochen, hat eine lebhafte Debatte ausgelöst. Schließlich geht es dabei um Klimaschutz, aber auch um Wahlfreiheit und bezahlbare Ernährung. In dieser Stellungnahme gehe ich der Frage nach, ob eine rein vegetarische Mensa der richtige Weg ist. Nach einem Blick auf beide Positionen lege ich meinen eigenen Standpunkt dar.",
+    "checkliste": [
+      "Führst du zum Thema hin (Beobachtung, Entwicklung, Beispiel)?",
+      "Sagst du, warum das Thema wichtig ist?",
+      "Ist die Leitfrage klar (mit „ob …“)?",
+      "Gibt es einen kurzen Ausblick auf den Aufbau?",
+      "Keine ausführlichen Argumente – die kommen erst im Hauptteil?",
+      "50–80 Wörter, 3–5 Sätze?"
+    ]
+  },
+  {
+    "id": "mini_einleitung_03",
+    "typ": "einleitung",
+    "ref": "sa03",
+    "titel": "Einleitung: KI bei Hausarbeiten",
+    "aufgabe": "Schreibe die Einleitung zur Prüfungsaufgabe (Erörterung). Führe zum Thema hin, zeige, warum es wichtig ist, nenne die Leitfrage und sage kurz, wie dein Text aufgebaut ist. Schreibe noch keine Argumente aus.",
+    "material": "Prüfungsaufgabe: In einem Seminar zur Hochschuldidaktik erörtern Sie, ob KI-Textgeneratoren bei Hausarbeiten erlaubt sein sollten.\nLeitfrage: Sollen KI-Textgeneratoren bei Hausarbeiten erlaubt sein?",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Starte mit der neuen Entwicklung: Was kann KI heute?",
+      "Erkläre kurz, warum das für Hausarbeiten ein Problem ist.",
+      "Ein sachlicher Ton passt, denn es ist eine Erörterung für ein Seminar."
+    ],
+    "redemittel": [
+      "Seit …, stehen Hochschulen vor einer grundlegenden Herausforderung.",
+      "… gilt traditionell als …",
+      "Daher stellt sich die Frage, ob …",
+      "Im Folgenden werden zunächst … und anschließend … erörtert.",
+      "Abschließend nehme ich … Stellung."
+    ],
+    "muster": "Seit KI-Textgeneratoren innerhalb von Sekunden ganze Seminararbeiten verfassen können, stehen Hochschulen vor einer grundlegenden Herausforderung. Denn die Hausarbeit gilt traditionell als Nachweis dafür, dass Studierende selbstständig denken und wissenschaftlich argumentieren können. Daher stellt sich die Frage, ob der Einsatz solcher Programme bei Hausarbeiten erlaubt sein sollte. Im Folgenden werden zunächst die Risiken und anschließend die Chancen der neuen Technik erörtert. Abschließend nehme ich auf dieser Grundlage selbst Stellung.",
+    "checkliste": [
+      "Führst du zum Thema hin (Beobachtung, Entwicklung, Beispiel)?",
+      "Sagst du, warum das Thema wichtig ist?",
+      "Ist die Leitfrage klar (mit „ob …“)?",
+      "Gibt es einen kurzen Ausblick auf den Aufbau?",
+      "Keine ausführlichen Argumente – die kommen erst im Hauptteil?",
+      "50–80 Wörter, 3–5 Sätze?"
+    ]
+  },
+  {
+    "id": "mini_einleitung_04",
+    "typ": "einleitung",
+    "ref": "sa04",
+    "titel": "Einleitung: Lehrkräfte mit einem Fach",
+    "aufgabe": "Schreibe die Einleitung zur Prüfungsaufgabe (Stellungnahme). Führe zum Thema hin, zeige, warum es wichtig ist, nenne die Leitfrage und sage kurz, wie dein Text aufgebaut ist. Schreibe noch keine Argumente aus.",
+    "material": "Prüfungsaufgabe: Für den Senatsausschuss Lehrkräftebildung nehmen Sie Stellung: Sollen zugewanderte Lehrkräfte auch mit nur einem Unterrichtsfach anerkannt werden?\nLeitfrage: Sollen zugewanderte Lehrkräfte auch mit nur einem Unterrichtsfach anerkannt werden?",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Zeige den Widerspruch: Lehrkräfte fehlen, aber Abschlüsse werden nicht anerkannt.",
+      "Erkläre in einem Satz das Problem mit dem „zweiten Fach“.",
+      "Der Adressat ist ein Ausschuss: höflich und sachlich bleiben."
+    ],
+    "redemittel": [
+      "… , während …",
+      "Ein häufiger Grund dafür ist, dass …",
+      "Die Frage, ob …, betrifft daher sowohl … als auch …",
+      "In meiner Stellungnahme wäge ich … ab und begründe anschließend …"
+    ],
+    "muster": "An deutschen Schulen fehlen derzeit Tausende Lehrkräfte, während zugewanderte Pädagoginnen und Pädagogen oft lange auf die Anerkennung ihres Abschlusses warten. Ein häufiger Grund dafür ist, dass sie nur ein Unterrichtsfach studiert haben, in Deutschland aber zwei Fächer üblich sind. Die Frage, ob diese Regel gelockert werden sollte, betrifft daher sowohl die Unterrichtsversorgung als auch die Fairness des Anerkennungsverfahrens. In meiner Stellungnahme wäge ich beide Seiten ab und begründe anschließend meine Position.",
+    "checkliste": [
+      "Führst du zum Thema hin (Beobachtung, Entwicklung, Beispiel)?",
+      "Sagst du, warum das Thema wichtig ist?",
+      "Ist die Leitfrage klar (mit „ob …“)?",
+      "Gibt es einen kurzen Ausblick auf den Aufbau?",
+      "Keine ausführlichen Argumente – die kommen erst im Hauptteil?",
+      "50–80 Wörter, 3–5 Sätze?"
+    ]
+  },
+  {
+    "id": "mini_einleitung_05",
+    "typ": "einleitung",
+    "ref": "sa05",
+    "titel": "Einleitung: Sezieren im Biologieunterricht",
+    "aufgabe": "Schreibe die Einleitung zur Prüfungsaufgabe (Erörterung). Führe zum Thema hin, zeige, warum es wichtig ist, nenne die Leitfrage und sage kurz, wie dein Text aufgebaut ist. Schreibe noch keine Argumente aus.",
+    "material": "Prüfungsaufgabe: Im fachdidaktischen Seminar Biologie erörtern Sie, ob im Schulunterricht weiterhin Tiere oder Tierorgane seziert werden sollten.\nLeitfrage: Sollen im Schulunterricht weiterhin Tiere oder Tierorgane seziert werden?",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Du kannst mit einer Erinnerung an die eigene Schulzeit beginnen.",
+      "Nenne die neue Alternative (digitale Modelle) – so wird die Frage aktuell.",
+      "Gliederung kurz andeuten: Vorteile – Einwände – Fazit."
+    ],
+    "redemittel": [
+      "Wer an … zurückdenkt, erinnert sich …",
+      "Heute ist … jedoch umstritten, denn …",
+      "Damit stellt sich die Frage, ob …",
+      "Im Folgenden erörtere ich zunächst …, anschließend … und ziehe schließlich ein Fazit."
+    ],
+    "muster": "Wer an den eigenen Biologieunterricht zurückdenkt, erinnert sich oft an eine besondere Stunde: das Sezieren eines Schweineherzens oder eines Fisches. Heute ist diese Unterrichtsmethode jedoch umstritten, denn digitale 3D-Modelle versprechen ähnliche Einblicke, ohne dass Tiere dafür verwendet werden. Damit stellt sich die Frage, ob im Schulunterricht weiterhin Tierorgane seziert werden sollten. Im Folgenden erörtere ich zunächst die didaktischen Vorteile, anschließend die ethischen Einwände und ziehe schließlich ein Fazit.",
+    "checkliste": [
+      "Führst du zum Thema hin (Beobachtung, Entwicklung, Beispiel)?",
+      "Sagst du, warum das Thema wichtig ist?",
+      "Ist die Leitfrage klar (mit „ob …“)?",
+      "Gibt es einen kurzen Ausblick auf den Aufbau?",
+      "Keine ausführlichen Argumente – die kommen erst im Hauptteil?",
+      "50–80 Wörter, 3–5 Sätze?"
+    ]
+  },
+  {
+    "id": "mini_einleitung_06",
+    "typ": "einleitung",
+    "ref": "sa06",
+    "titel": "Einleitung: Keine Parkplätze mehr?",
+    "aufgabe": "Schreibe die Einleitung zur Prüfungsaufgabe (Stellungnahme). Führe zum Thema hin, zeige, warum es wichtig ist, nenne die Leitfrage und sage kurz, wie dein Text aufgebaut ist. Schreibe noch keine Argumente aus.",
+    "material": "Prüfungsaufgabe: Die Hochschulleitung will alle Studierendenparkplätze abschaffen. In der Campuszeitung nehmen Sie dazu Stellung.\nLeitfrage: Sollen alle Studierendenparkplätze abgeschafft werden?",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Ein konkretes Bild vom Campus macht den Einstieg lebendig.",
+      "Nenne den Plan der Hochschulleitung neutral – noch ohne Bewertung.",
+      "Zeige zwei Seiten: Klima und Erreichbarkeit."
+    ],
+    "redemittel": [
+      "… – ein Anblick, der nicht zu … passt.",
+      "Dieser Plan betrifft nicht nur …, sondern auch …",
+      "In meiner Stellungnahme beleuchte ich …",
+      "…, bevor ich darlege, welche Lösung mir am sinnvollsten erscheint."
+    ],
+    "muster": "Morgens um acht ist der Parkplatz vor der Hochschule meist schon voll – ein Anblick, der kaum zum Ziel der Klimaneutralität passt. Die Hochschulleitung möchte deshalb sämtliche Parkplätze für Studierende abschaffen. Dieser Plan betrifft nicht nur die Klimabilanz des Campus, sondern auch die Frage, wer überhaupt noch ohne Weiteres zur Hochschule gelangt. In meiner Stellungnahme beleuchte ich daher beide Seiten des Vorhabens, bevor ich darlege, welche Lösung mir am sinnvollsten erscheint.",
+    "checkliste": [
+      "Führst du zum Thema hin (Beobachtung, Entwicklung, Beispiel)?",
+      "Sagst du, warum das Thema wichtig ist?",
+      "Ist die Leitfrage klar (mit „ob …“)?",
+      "Gibt es einen kurzen Ausblick auf den Aufbau?",
+      "Keine ausführlichen Argumente – die kommen erst im Hauptteil?",
+      "50–80 Wörter, 3–5 Sätze?"
+    ]
+  },
+  {
+    "id": "mini_einleitung_07",
+    "typ": "einleitung",
+    "ref": "sa09",
+    "titel": "Einleitung: Hirndoping vor Prüfungen",
+    "aufgabe": "Schreibe die Einleitung zur Prüfungsaufgabe (Erörterung). Führe zum Thema hin, zeige, warum es wichtig ist, nenne die Leitfrage und sage kurz, wie dein Text aufgebaut ist. Schreibe noch keine Argumente aus.",
+    "material": "Prüfungsaufgabe: Im Seminar „Gesundheit im Studium“ erörtern Sie, ob die Einnahme leistungssteigernder Medikamente vor Prüfungen akzeptabel ist.\nLeitfrage: Ist die Einnahme leistungssteigernder Medikamente vor Prüfungen akzeptabel?",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Beginne beim Problem: Prüfungsdruck.",
+      "Eine Frage mit Doppelpunkt kann die Relevanz zeigen.",
+      "Achtung: Erst die Leitfrage, dann der Ausblick – nicht umgekehrt."
+    ],
+    "redemittel": [
+      "… ist für viele mit erheblichem Druck verbunden.",
+      "Diese Praxis wirft nicht nur …, sondern auch … Fragen auf.",
+      "Wie weit reicht …, und wo beginnt …?",
+      "Im Folgenden erörtere ich, ob …"
+    ],
+    "muster": "Prüfungsphasen sind für viele Studierende mit erheblichem Druck verbunden. Einige greifen deshalb zu Medikamenten, die eigentlich für Erkrankte bestimmt sind, um sich länger konzentrieren zu können. Diese Praxis wirft nicht nur medizinische, sondern auch ethische Fragen auf: Wie weit reicht die Freiheit, über den eigenen Körper zu entscheiden, und wo beginnt die Unfairness gegenüber anderen? Im Folgenden erörtere ich, ob die Einnahme solcher Mittel vor Prüfungen akzeptabel ist, und wäge dazu die Argumente beider Seiten ab.",
+    "checkliste": [
+      "Führst du zum Thema hin (Beobachtung, Entwicklung, Beispiel)?",
+      "Sagst du, warum das Thema wichtig ist?",
+      "Ist die Leitfrage klar (mit „ob …“)?",
+      "Gibt es einen kurzen Ausblick auf den Aufbau?",
+      "Keine ausführlichen Argumente – die kommen erst im Hauptteil?",
+      "50–80 Wörter, 3–5 Sätze?"
+    ]
+  },
+  {
+    "id": "mini_einleitung_08",
+    "typ": "einleitung",
+    "ref": "sa10",
+    "titel": "Einleitung: Ferienwohnungen verbieten?",
+    "aufgabe": "Schreibe die Einleitung zur Prüfungsaufgabe (Stellungnahme). Führe zum Thema hin, zeige, warum es wichtig ist, nenne die Leitfrage und sage kurz, wie dein Text aufgebaut ist. Schreibe noch keine Argumente aus.",
+    "material": "Prüfungsaufgabe: Für eine Anhörung im Stadtrat sammelt der Studierendenrat Stellungnahmen: Sollen Ferienwohnungen in der Innenstadt verboten werden?\nLeitfrage: Sollen Ferienwohnungen in der Innenstadt verboten werden?",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Starte mit der Erfahrung der Wohnungssuche.",
+      "Zeige mit „Gleichzeitig …“ den Gegensatz.",
+      "Nenne die Situation (Anhörung im Stadtrat) – das zeigt Aufgabengerechtheit."
+    ],
+    "redemittel": [
+      "Wer …, braucht oft …",
+      "Gleichzeitig …",
+      "… ist deshalb eine Frage, die … unmittelbar betrifft.",
+      "In dieser Stellungnahme stelle ich zunächst … dar und begründe anschließend …"
+    ],
+    "muster": "Wer in einer Hochschulstadt ein bezahlbares Zimmer sucht, braucht oft monatelang Geduld. Gleichzeitig werden in vielen Innenstädten Wohnungen dauerhaft an Touristinnen und Touristen vermietet. Ob diese Ferienwohnungen verboten werden sollten, ist deshalb eine Frage, die Studierende unmittelbar betrifft, aber auch für Handel und Gastronomie von Bedeutung ist. In dieser Stellungnahme für die Anhörung im Stadtrat stelle ich zunächst die wichtigsten Argumente beider Seiten dar und begründe anschließend meine Position.",
+    "checkliste": [
+      "Führst du zum Thema hin (Beobachtung, Entwicklung, Beispiel)?",
+      "Sagst du, warum das Thema wichtig ist?",
+      "Ist die Leitfrage klar (mit „ob …“)?",
+      "Gibt es einen kurzen Ausblick auf den Aufbau?",
+      "Keine ausführlichen Argumente – die kommen erst im Hauptteil?",
+      "50–80 Wörter, 3–5 Sätze?"
+    ]
+  },
+  {
+    "id": "mini_zitate_01",
+    "typ": "zitate",
+    "ref": "sa01",
+    "titel": "Zitate: Anwesenheit oder Flexibilität",
+    "aufgabe": "Gib die beiden Aussagen aus der Prüfungsaufgabe mit eigenen Worten wieder. Nutze die indirekte Rede (Konjunktiv I) und zeige den Gegensatz zwischen den Positionen. Deine eigene Meinung gehört noch nicht hinein.",
+    "material": "Prüfungsaufgabe: Für das Seminar „Wissenschaftliches Arbeiten“ schreiben Sie eine Erörterung: Soll es an Hochschulen eine Anwesenheitspflicht geben?\nAussage 1 (Dr. Petra Hahn, Dozentin für Soziologie): „Ohne Anwesenheit keine Diskussion – und die Diskussion ist das Herz jedes Seminars.“\nAussage 2 (Malik S., Student der Betriebswirtschaft): „Wir sind erwachsen. Wer nebenher jobben muss, braucht flexible Lernwege.“",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Nenne Person und Funktion, z. B. „die Soziologin Dr. Hahn“.",
+      "Konjunktiv I: er sei, sie habe, es müsse. Wenn Konjunktiv I wie der Indikativ aussieht (sie haben), nimm Konjunktiv II (sie hätten).",
+      "Zeige am Ende in einem Satz, worin der Gegensatz liegt."
+    ],
+    "redemittel": [
+      "X vertritt die Auffassung, dass …",
+      "Demgegenüber betont Y, …",
+      "Ihrer/Seiner Ansicht nach sei …",
+      "Y gibt hingegen zu bedenken, dass …",
+      "Während X …, stellt Y … in den Mittelpunkt."
+    ],
+    "muster": "Die Soziologin Dr. Petra Hahn vertritt die Auffassung, dass Seminare ohne Anwesenheit ihren Kern verlören, denn erst der gemeinsame Austausch mache sie wertvoll. Demgegenüber betont der BWL-Student Malik S., Studierende seien erwachsen und könnten selbst über ihr Lernen entscheiden. Wer neben dem Studium arbeiten müsse, sei zudem auf flexible Lernformen angewiesen. Während Hahn also die Qualität der Lehre in den Mittelpunkt stellt, argumentiert Malik S. vor allem mit der Lebenssituation der Studierenden.",
+    "checkliste": [
+      "Beide Personen mit Namen oder Funktion genannt?",
+      "Mit eigenen Worten – nicht wörtlich abgeschrieben?",
+      "Indirekte Rede im Konjunktiv (sei, habe, müsse, könnten …)?",
+      "Ein Wort für den Gegensatz (demgegenüber, hingegen, während …)?",
+      "Noch keine eigene Meinung?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_zitate_02",
+    "typ": "zitate",
+    "ref": "sa03",
+    "titel": "Zitate: Verbot oder Werkzeug?",
+    "aufgabe": "Gib die beiden Aussagen aus der Prüfungsaufgabe mit eigenen Worten wieder. Nutze die indirekte Rede (Konjunktiv I) und zeige den Gegensatz zwischen den Positionen. Deine eigene Meinung gehört noch nicht hinein.",
+    "material": "Prüfungsaufgabe: In einem Seminar zur Hochschuldidaktik erörtern Sie, ob KI-Textgeneratoren bei Hausarbeiten erlaubt sein sollten.\nAussage 1 (Prof. Dr. Ulrich Brenner, Germanist): „Wer die KI schreiben lässt, verlernt das eigene Denken. Sie gehört verboten.“\nAussage 2 (Lea M., Studentin der Informatik): „KI ist ein Werkzeug wie der Taschenrechner. Hochschulen müssen ihren Gebrauch lehren.“",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Gib auch die Folgerung wieder: Brenner fordert ein Verbot.",
+      "Ersetze „Werkzeug“ durch ein Synonym (Hilfsmittel, Instrument).",
+      "Konjunktiv I: er sei, sie habe, es müsse. Wenn Konjunktiv I wie der Indikativ aussieht (sie haben), nimm Konjunktiv II (sie hätten)."
+    ],
+    "redemittel": [
+      "X warnt davor, dass …",
+      "Aus diesem Grund fordert er/sie …",
+      "Y sieht das grundlegend anders: …",
+      "Ihrer Ansicht nach sei …",
+      "Die Hochschulen hätten daher die Aufgabe, …"
+    ],
+    "muster": "Der Germanist Prof. Dr. Ulrich Brenner warnt davor, dass Studierende, die ihre Texte von einer KI schreiben lassen, die Fähigkeit zum eigenständigen Denken verlören. Aus diesem Grund fordert er ein Verbot solcher Programme. Die Informatikstudentin Lea M. sieht das grundlegend anders: Ihrer Ansicht nach sei KI lediglich ein Hilfsmittel, vergleichbar mit dem Taschenrechner. Die Hochschulen hätten daher die Aufgabe, einen sinnvollen Umgang damit zu vermitteln.",
+    "checkliste": [
+      "Beide Personen mit Namen oder Funktion genannt?",
+      "Mit eigenen Worten – nicht wörtlich abgeschrieben?",
+      "Indirekte Rede im Konjunktiv (sei, habe, müsse, könnten …)?",
+      "Ein Wort für den Gegensatz (demgegenüber, hingegen, während …)?",
+      "Noch keine eigene Meinung?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_zitate_03",
+    "typ": "zitate",
+    "ref": "sa04",
+    "titel": "Zitate: Lehrkräftemangel und Standards",
+    "aufgabe": "Gib die beiden Aussagen aus der Prüfungsaufgabe mit eigenen Worten wieder. Nutze die indirekte Rede (Konjunktiv I) und zeige den Gegensatz zwischen den Positionen. Deine eigene Meinung gehört noch nicht hinein.",
+    "material": "Prüfungsaufgabe: Für den Senatsausschuss Lehrkräftebildung nehmen Sie Stellung: Sollen zugewanderte Lehrkräfte auch mit nur einem Unterrichtsfach anerkannt werden?\nAussage 1 (Sevgi Aydın, Schulleiterin eines Gymnasiums): „Bei diesem Lehrkräftemangel können wir es uns nicht leisten, ausgebildete Fachleute wegzuschicken.“\nAussage 2 (Dr. Rainer Volkmann, Referent im Schulministerium): „Zwei Fächer sind deutscher Standard. Wer hier unterrichtet, muss dieselben Anforderungen erfüllen.“",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Schreibe „Lehrkräftemangel“ nicht nur ab – erweitere: „angesichts des akuten …“.",
+      "Konjunktiv I: er sei, sie habe, es müsse. Wenn Konjunktiv I wie der Indikativ aussieht (sie haben), nimm Konjunktiv II (sie hätten).",
+      "Ein Schlusssatz mit „Somit steht … gegenüber“ zeigt den Konflikt."
+    ],
+    "redemittel": [
+      "X vertritt die Auffassung, dass …",
+      "angesichts des/der …",
+      "Demgegenüber hält Y an … fest, da …",
+      "Wer …, müsse …",
+      "Somit steht … dem Prinzip … gegenüber."
+    ],
+    "muster": "Die Schulleiterin Sevgi Aydın vertritt die Auffassung, dass man angesichts des akuten Lehrkräftemangels auf qualifizierte Fachleute aus dem Ausland nicht verzichten könne. Demgegenüber hält Dr. Rainer Volkmann vom Schulministerium an der Ausbildung in zwei Fächern fest, da diese in Deutschland der Standard sei. Wer hier unterrichte, müsse dieselben Voraussetzungen erfüllen wie alle anderen. Somit steht der Bedarf der Schulen dem Prinzip gleicher Anforderungen gegenüber.",
+    "checkliste": [
+      "Beide Personen mit Namen oder Funktion genannt?",
+      "Mit eigenen Worten – nicht wörtlich abgeschrieben?",
+      "Indirekte Rede im Konjunktiv (sei, habe, müsse, könnten …)?",
+      "Ein Wort für den Gegensatz (demgegenüber, hingegen, während …)?",
+      "Noch keine eigene Meinung?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_zitate_04",
+    "typ": "zitate",
+    "ref": "sa05",
+    "titel": "Zitate: Echtes Herz oder App?",
+    "aufgabe": "Gib die beiden Aussagen aus der Prüfungsaufgabe mit eigenen Worten wieder. Nutze die indirekte Rede (Konjunktiv I) und zeige den Gegensatz zwischen den Positionen. Deine eigene Meinung gehört noch nicht hinein.",
+    "material": "Prüfungsaufgabe: Im fachdidaktischen Seminar Biologie erörtern Sie, ob im Schulunterricht weiterhin Tiere oder Tierorgane seziert werden sollten.\nAussage 1 (Dr. Heike Sommer, Biologielehrerin an einem Gymnasium): „Ein echtes Schweineherz lehrt mehr als jede App. Biologie muss man anfassen können.“\nAussage 2 (Nils B., Lehramtsstudent und Tierschutzaktivist): „Tiere sind kein Unterrichtsmaterial. Digitale Modelle zeigen alles, ohne dass ein Tier stirbt.“",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "„anfassen können“ umschreiben: „mit allen Sinnen erfahrbar“.",
+      "Konjunktiv I: er sei, sie habe, es müsse. Wenn Konjunktiv I wie der Indikativ aussieht (sie haben), nimm Konjunktiv II (sie hätten).",
+      "„Ihrer Meinung nach“ / „seiner Ansicht nach“ wechseln – keine Wiederholung."
+    ],
+    "redemittel": [
+      "X ist davon überzeugt, dass …",
+      "… müsse ihrer Meinung nach …",
+      "Y hält dagegen, …",
+      "… könnten seiner Ansicht nach …",
+      "…, ohne dass …"
+    ],
+    "muster": "Die Biologielehrerin Dr. Heike Sommer ist davon überzeugt, dass ein echtes Organ, etwa ein Schweineherz, mehr Wissen vermittle als jede digitale Anwendung. Biologie müsse ihrer Meinung nach mit allen Sinnen erfahrbar sein. Der Lehramtsstudent Nils B. hält dagegen, Tiere dürften nicht als Unterrichtsmaterial betrachtet werden. Digitale Modelle könnten seiner Ansicht nach sämtliche Strukturen zeigen, ohne dass dafür ein Tier sterben müsse.",
+    "checkliste": [
+      "Beide Personen mit Namen oder Funktion genannt?",
+      "Mit eigenen Worten – nicht wörtlich abgeschrieben?",
+      "Indirekte Rede im Konjunktiv (sei, habe, müsse, könnten …)?",
+      "Ein Wort für den Gegensatz (demgegenüber, hingegen, während …)?",
+      "Noch keine eigene Meinung?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_zitate_05",
+    "typ": "zitate",
+    "ref": "sa07",
+    "titel": "Zitate: Praxis oder Pädagogik?",
+    "aufgabe": "Gib die beiden Aussagen aus der Prüfungsaufgabe mit eigenen Worten wieder. Nutze die indirekte Rede (Konjunktiv I) und zeige den Gegensatz zwischen den Positionen. Deine eigene Meinung gehört noch nicht hinein.",
+    "material": "Prüfungsaufgabe: Die Fachschaftszeitschrift Lehramt fragt, ob Quereinsteiger ohne Lehramtsstudium dauerhaft unterrichten sollten. Verfassen Sie eine Stellungnahme.\nAussage 1 (Frank Ollig, Personalreferent einer Bezirksregierung): „Eine Chemikerin aus der Industrie bringt Praxis mit, die kein Studienseminar vermitteln kann.“\nAussage 2 (Prof. Dr. Sabine Neumeyer, Schulpädagogin): „Fachwissen allein macht noch keinen guten Unterricht. Pädagogik ist ein eigener Beruf.“",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Verwende ein anderes Verb als „sagen“: hervorheben, zu bedenken geben.",
+      "Konjunktiv I: er sei, sie habe, es müsse. Wenn Konjunktiv I wie der Indikativ aussieht (sie haben), nimm Konjunktiv II (sie hätten).",
+      "Fasse den Gegensatz in zwei Nomen zusammen (Praxisnähe – Professionalität)."
+    ],
+    "redemittel": [
+      "X hebt hervor, dass …",
+      "Y gibt hingegen zu bedenken, dass …",
+      "… sei vielmehr …",
+      "Damit stehen sich … und … gegenüber."
+    ],
+    "muster": "Frank Ollig, Personalreferent einer Bezirksregierung, hebt hervor, dass Quereinsteigerinnen und Quereinsteiger aus der Wirtschaft wertvolle Praxiserfahrung in die Schule einbrächten, die kein Studienseminar vermitteln könne. Die Schulpädagogin Prof. Dr. Sabine Neumeyer gibt hingegen zu bedenken, dass Fachwissen allein noch keinen guten Unterricht garantiere. Pädagogik sei vielmehr ein eigenständiger Beruf mit eigenen Kompetenzen. Damit stehen sich Praxisnähe und pädagogische Professionalität gegenüber.",
+    "checkliste": [
+      "Beide Personen mit Namen oder Funktion genannt?",
+      "Mit eigenen Worten – nicht wörtlich abgeschrieben?",
+      "Indirekte Rede im Konjunktiv (sei, habe, müsse, könnten …)?",
+      "Ein Wort für den Gegensatz (demgegenüber, hingegen, während …)?",
+      "Noch keine eigene Meinung?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_zitate_06",
+    "typ": "zitate",
+    "ref": "sa08",
+    "titel": "Zitate: Sich einmischen oder forschen?",
+    "aufgabe": "Gib die beiden Aussagen aus der Prüfungsaufgabe mit eigenen Worten wieder. Nutze die indirekte Rede (Konjunktiv I) und zeige den Gegensatz zwischen den Positionen. Deine eigene Meinung gehört noch nicht hinein.",
+    "material": "Prüfungsaufgabe: Die Hochschulzeitschrift bittet um eine Erörterung: Sollten Forschende in sozialen Medien selbst gegen Falschinformationen vorgehen?\nAussage 1 (Dr. Jonas Reuter, Virologe): „Wenn wir schweigen, überlassen wir das Feld den Verschwörungstheoretikern.“\nAussage 2 (Prof. Dr. Claudia Brandl, Physikerin): „Forschende sollen forschen. Für Kommunikation gibt es Pressestellen und Fachjournalisten.“",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Bilder wie „das Feld überlassen“ darfst du übernehmen, aber in indirekter Rede.",
+      "Konjunktiv I: er sei, sie habe, es müsse. Wenn Konjunktiv I wie der Indikativ aussieht (sie haben), nimm Konjunktiv II (sie hätten).",
+      "„Während X …, plädiert Y für …“ ist ein guter Abschluss."
+    ],
+    "redemittel": [
+      "X warnt, dass …, wenn …",
+      "Y ist hingegen der Ansicht, …",
+      "Für … seien … zuständig.",
+      "Während X …, plädiert Y für …"
+    ],
+    "muster": "Der Virologe Dr. Jonas Reuter warnt, dass die Wissenschaft Verschwörungserzählungen das Feld überlasse, wenn Forschende in sozialen Medien schwiegen. Die Physikerin Prof. Dr. Claudia Brandl ist hingegen der Ansicht, die Aufgabe von Forschenden bestehe in der Forschung selbst. Für die Kommunikation mit der Öffentlichkeit seien Pressestellen und der Wissenschaftsjournalismus zuständig. Während Reuter also eine Verantwortung der Forschenden sieht, plädiert Brandl für eine klare Arbeitsteilung.",
+    "checkliste": [
+      "Beide Personen mit Namen oder Funktion genannt?",
+      "Mit eigenen Worten – nicht wörtlich abgeschrieben?",
+      "Indirekte Rede im Konjunktiv (sei, habe, müsse, könnten …)?",
+      "Ein Wort für den Gegensatz (demgegenüber, hingegen, während …)?",
+      "Noch keine eigene Meinung?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_zitate_07",
+    "typ": "zitate",
+    "ref": "sa09",
+    "titel": "Zitate: Freiheit oder Fairness?",
+    "aufgabe": "Gib die beiden Aussagen aus der Prüfungsaufgabe mit eigenen Worten wieder. Nutze die indirekte Rede (Konjunktiv I) und zeige den Gegensatz zwischen den Positionen. Deine eigene Meinung gehört noch nicht hinein.",
+    "material": "Prüfungsaufgabe: Im Seminar „Gesundheit im Studium“ erörtern Sie, ob die Einnahme leistungssteigernder Medikamente vor Prüfungen akzeptabel ist.\nAussage 1 (Felix R., Student der Medizin): „Kaffee steigert auch die Leistung. Jeder sollte selbst über seinen Körper entscheiden.“\nAussage 2 (Dr. Anne Lorenz, Leiterin der Psychologischen Beratungsstelle): „Hirndoping ist gesundheitlich riskant und unfair gegenüber allen, die ohne Tabletten lernen.“",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Gib den Vergleich mit Kaffee wieder – er ist Teil des Arguments.",
+      "Konjunktiv I: er sei, sie habe, es müsse. Wenn Konjunktiv I wie der Indikativ aussieht (sie haben), nimm Konjunktiv II (sie hätten).",
+      "Nimm ein starkes Verb für den Widerspruch: „Dem widerspricht … entschieden“."
+    ],
+    "redemittel": [
+      "X vergleicht … mit …",
+      "Seiner Meinung nach solle …",
+      "Dem widerspricht Y entschieden: …",
+      "Außerdem sei es unfair gegenüber …"
+    ],
+    "muster": "Der Medizinstudent Felix R. vergleicht leistungssteigernde Medikamente mit Kaffee, der ebenfalls die Konzentration fördere. Seiner Meinung nach solle jeder Mensch selbst über seinen Körper bestimmen dürfen. Dem widerspricht Dr. Anne Lorenz von der Psychologischen Beratungsstelle entschieden: Hirndoping sei gesundheitlich riskant. Außerdem sei es unfair gegenüber all jenen, die ohne Tabletten für ihre Prüfungen lernen.",
+    "checkliste": [
+      "Beide Personen mit Namen oder Funktion genannt?",
+      "Mit eigenen Worten – nicht wörtlich abgeschrieben?",
+      "Indirekte Rede im Konjunktiv (sei, habe, müsse, könnten …)?",
+      "Ein Wort für den Gegensatz (demgegenüber, hingegen, während …)?",
+      "Noch keine eigene Meinung?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_zitate_08",
+    "typ": "zitate",
+    "ref": "sa10",
+    "titel": "Zitate: Wohnraum oder Tourismus?",
+    "aufgabe": "Gib die beiden Aussagen aus der Prüfungsaufgabe mit eigenen Worten wieder. Nutze die indirekte Rede (Konjunktiv I) und zeige den Gegensatz zwischen den Positionen. Deine eigene Meinung gehört noch nicht hinein.",
+    "material": "Prüfungsaufgabe: Für eine Anhörung im Stadtrat sammelt der Studierendenrat Stellungnahmen: Sollen Ferienwohnungen in der Innenstadt verboten werden?\nAussage 1 (Lukas H., Sprecher der Initiative „Wohnraum für alle“): „Jede Ferienwohnung ist eine Wohnung, die einer Studentin oder einer Pflegekraft fehlt.“\nAussage 2 (Dr. Petra Engels, Leiterin des Stadtmarketings): „Ferienwohnungen bringen Touristen und Geld in die Stadt. Ein Verbot schafft kaum neuen Wohnraum.“",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Nenne die Organisation von Lukas H. – sie zeigt seine Perspektive.",
+      "Konjunktiv I: er sei, sie habe, es müsse. Wenn Konjunktiv I wie der Indikativ aussieht (sie haben), nimm Konjunktiv II (sie hätten).",
+      "„verweist auf den wirtschaftlichen Nutzen“ fasst Aussage 2 elegant zusammen."
+    ],
+    "redemittel": [
+      "X argumentiert, …",
+      "Demgegenüber verweist Y auf …",
+      "… schaffe ihrer Einschätzung nach …",
+      "etwa …"
+    ],
+    "muster": "Lukas H. von der Initiative „Wohnraum für alle“ argumentiert, jede Ferienwohnung fehle Menschen, die dringend eine Wohnung benötigten, etwa Studierenden oder Pflegekräften. Demgegenüber verweist Dr. Petra Engels, die Leiterin des Stadtmarketings, auf den wirtschaftlichen Nutzen: Ferienwohnungen lockten Touristen an und brächten Geld in die Stadt. Ein Verbot schaffe ihrer Einschätzung nach zudem kaum zusätzlichen Wohnraum.",
+    "checkliste": [
+      "Beide Personen mit Namen oder Funktion genannt?",
+      "Mit eigenen Worten – nicht wörtlich abgeschrieben?",
+      "Indirekte Rede im Konjunktiv (sei, habe, müsse, könnten …)?",
+      "Ein Wort für den Gegensatz (demgegenüber, hingegen, während …)?",
+      "Noch keine eigene Meinung?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_argument_01",
+    "typ": "argument",
+    "ref": "sa01",
+    "titel": "Argument: Präsenz in interaktiven Veranstaltungen",
+    "aufgabe": "Schreibe einen Argument-Absatz zur vorgegebenen These. Aufbau: These – Begründung – Beispiel – Rückbezug auf die These. Schreibe einen zusammenhängenden Absatz, keine Liste.",
+    "material": "Prüfungsaufgabe: Soll es an Hochschulen eine Anwesenheitspflicht geben?\nThese: Für interaktive Lehrformen (Seminare, Praktika) ist eine Anwesenheitspflicht sinnvoll.",
+    "woerter": [
+      70,
+      110
+    ],
+    "minuten": 15,
+    "tipps": [
+      "Nimm ein Beispiel, das du kennst – etwa ein Laborpraktikum.",
+      "Zeige die Folgen für die anderen in der Gruppe.",
+      "Der Rückbezug darf die These leicht einschränken („zumindest für …“)."
+    ],
+    "redemittel": [
+      "Ein gewichtiges Argument für … ist, dass …",
+      "Dies lässt sich damit begründen, dass …",
+      "Dies zeigt sich besonders deutlich am Beispiel …",
+      "Man denke etwa an …",
+      "Daraus folgt, dass …",
+      "Insofern / Folglich …"
+    ],
+    "muster": "Ein gewichtiges Argument für eine Anwesenheitspflicht ist, dass bestimmte Lehrformen ohne regelmäßige Präsenz schlicht nicht funktionieren. Seminare und Praktika leben vom gemeinsamen Arbeiten: Wer fehlt, kann weder mitdiskutieren noch seinen Beitrag zu einer Gruppenaufgabe leisten. Dies zeigt sich besonders deutlich in naturwissenschaftlichen Laborpraktika, in denen Versuche nur im Team durchgeführt werden können. Fällt dort ein Mitglied häufig aus, müssen die anderen dessen Aufgaben übernehmen, was nicht nur die Arbeitsbelastung erhöht, sondern auch den Lernerfolg der gesamten Gruppe gefährdet. Daher ist eine Anwesenheitspflicht zumindest für interaktive Veranstaltungen gerechtfertigt.",
+    "checkliste": [
+      "Steht die These im ersten Satz?",
+      "Gibt es eine klare Begründung (weil, da, denn …)?",
+      "Gibt es ein konkretes Beispiel?",
+      "Bezieht sich der letzte Satz auf die These zurück?",
+      "Verbinden Konnektoren die Sätze (dies, dadurch, folglich …)?",
+      "70–110 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_argument_02",
+    "typ": "argument",
+    "ref": "sa02",
+    "titel": "Argument: Mensa und Klimaschutz",
+    "aufgabe": "Schreibe einen Argument-Absatz zur vorgegebenen These. Aufbau: These – Begründung – Beispiel – Rückbezug auf die These. Schreibe einen zusammenhängenden Absatz, keine Liste.",
+    "material": "Prüfungsaufgabe: Soll die Mensa nur noch vegetarisch kochen?\nThese: Die Mensa kann mit ihrem Speiseplan einen spürbaren Beitrag zum Klimaschutz leisten.",
+    "woerter": [
+      70,
+      110
+    ],
+    "minuten": 15,
+    "tipps": [
+      "Verbinde die allgemeine Tatsache (Fleisch und CO₂) mit der Größe der Mensa.",
+      "Ein Rechenbeispiel ohne genaue Zahlen reicht („an zwei Tagen pro Woche …“).",
+      "Keine erfundenen Statistiken – lieber vorsichtig formulieren."
+    ],
+    "redemittel": [
+      "Ein gewichtiges Argument für … ist, dass …",
+      "Dies lässt sich damit begründen, dass …",
+      "Dies zeigt sich besonders deutlich am Beispiel …",
+      "Man denke etwa an …",
+      "Daraus folgt, dass …",
+      "Insofern / Folglich …"
+    ],
+    "muster": "Für ein überwiegend pflanzliches Angebot spricht vor allem der Klimaschutz. Die Herstellung von Fleisch, insbesondere von Rindfleisch, verursacht ein Vielfaches an Treibhausgasen im Vergleich zu pflanzlichen Lebensmitteln. Da eine große Mensa täglich mehrere Tausend Essen ausgibt, wirkt sich jede Veränderung des Speiseplans deutlich auf die Klimabilanz der Hochschule aus. Ersetzt man beispielsweise an nur zwei Tagen pro Woche das Fleischgericht durch ein schmackhaftes Linsen- oder Bohnengericht, summieren sich die Einsparungen über ein Semester zu einer beträchtlichen Menge. Insofern kann die Mensa einen spürbaren Beitrag zum Klimaschutz leisten, ohne dass dafür große Investitionen nötig wären.",
+    "checkliste": [
+      "Steht die These im ersten Satz?",
+      "Gibt es eine klare Begründung (weil, da, denn …)?",
+      "Gibt es ein konkretes Beispiel?",
+      "Bezieht sich der letzte Satz auf die These zurück?",
+      "Verbinden Konnektoren die Sätze (dies, dadurch, folglich …)?",
+      "70–110 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_argument_03",
+    "typ": "argument",
+    "ref": "sa06",
+    "titel": "Argument: Platz statt Parkplätze",
+    "aufgabe": "Schreibe einen Argument-Absatz zur vorgegebenen These. Aufbau: These – Begründung – Beispiel – Rückbezug auf die These. Schreibe einen zusammenhängenden Absatz, keine Liste.",
+    "material": "Prüfungsaufgabe: Sollen alle Studierendenparkplätze abgeschafft werden?\nThese: Ohne Studierendenparkplätze könnte der Campus lebenswerter werden.",
+    "woerter": [
+      70,
+      110
+    ],
+    "minuten": 15,
+    "tipps": [
+      "Denke an konkrete Alternativen: Grünflächen, Fahrradstellplätze, Wohnheime.",
+      "Der Konjunktiv II (könnten, würde, wäre) passt für Möglichkeiten.",
+      "Mit „nicht nur …, sondern auch …“ verbindest du zwei Vorteile."
+    ],
+    "redemittel": [
+      "Ein gewichtiges Argument für … ist, dass …",
+      "Dies lässt sich damit begründen, dass …",
+      "Dies zeigt sich besonders deutlich am Beispiel …",
+      "Man denke etwa an …",
+      "Daraus folgt, dass …",
+      "Insofern / Folglich …"
+    ],
+    "muster": "Ein wichtiger Grund, die Zahl der Parkplätze zu verringern, liegt in der Frage, wie der knappe Raum auf dem Campus genutzt wird. Parkflächen nehmen große Teile des Geländes ein, werden aber nur von einem Teil der Studierenden und auch nur stundenweise genutzt. Würde man diese Flächen umgestalten, könnten dort beispielsweise Grünanlagen, überdachte Fahrradstellplätze oder Lernorte im Freien entstehen. Denkbar wäre sogar, dort Wohnheime zu errichten, was zugleich den angespannten Wohnungsmarkt entlasten würde. Ein Campus mit weniger Autos wäre somit nicht nur klimafreundlicher, sondern auch lebenswerter.",
+    "checkliste": [
+      "Steht die These im ersten Satz?",
+      "Gibt es eine klare Begründung (weil, da, denn …)?",
+      "Gibt es ein konkretes Beispiel?",
+      "Bezieht sich der letzte Satz auf die These zurück?",
+      "Verbinden Konnektoren die Sätze (dies, dadurch, folglich …)?",
+      "70–110 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_argument_04",
+    "typ": "argument",
+    "ref": "sa07",
+    "titel": "Argument: Praxiserfahrung von Quereinsteigern",
+    "aufgabe": "Schreibe einen Argument-Absatz zur vorgegebenen These. Aufbau: These – Begründung – Beispiel – Rückbezug auf die These. Schreibe einen zusammenhängenden Absatz, keine Liste.",
+    "material": "Prüfungsaufgabe: Sollen Quereinsteiger ohne Lehramtsstudium dauerhaft unterrichten?\nThese: Quereinsteigerinnen und Quereinsteiger machen den Unterricht praxisnäher.",
+    "woerter": [
+      70,
+      110
+    ],
+    "minuten": 15,
+    "tipps": [
+      "Nenne einen konkreten Beruf und ein konkretes Unterrichtsthema.",
+      "Zeige, wer profitiert: die Schülerinnen und Schüler.",
+      "Der Rückbezug kann das Argument auf MINT-Fächer zuspitzen."
+    ],
+    "redemittel": [
+      "Ein gewichtiges Argument für … ist, dass …",
+      "Dies lässt sich damit begründen, dass …",
+      "Dies zeigt sich besonders deutlich am Beispiel …",
+      "Man denke etwa an …",
+      "Daraus folgt, dass …",
+      "Insofern / Folglich …"
+    ],
+    "muster": "Für den Einsatz von Quereinsteigerinnen und Quereinsteigern spricht insbesondere ihre Berufserfahrung außerhalb der Schule. Wer jahrelang in einem Labor, einem Ingenieurbüro oder einem Unternehmen gearbeitet hat, kann Fachinhalte unmittelbar mit der Praxis verknüpfen. So kann eine ehemalige Chemikerin aus der Pharmaindustrie im Unterricht anschaulich erklären, wie ein Medikament entwickelt und getestet wird. Davon profitieren Schülerinnen und Schüler doppelt: Der Stoff wird greifbarer, und sie erhalten zugleich realistische Einblicke in mögliche Berufe. Gerade in den MINT-Fächern, in denen häufig nach dem Sinn des Gelernten gefragt wird, ist diese Praxisnähe ein erheblicher Gewinn.",
+    "checkliste": [
+      "Steht die These im ersten Satz?",
+      "Gibt es eine klare Begründung (weil, da, denn …)?",
+      "Gibt es ein konkretes Beispiel?",
+      "Bezieht sich der letzte Satz auf die These zurück?",
+      "Verbinden Konnektoren die Sätze (dies, dadurch, folglich …)?",
+      "70–110 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_argument_05",
+    "typ": "argument",
+    "ref": "sa08",
+    "titel": "Argument: Reichweite in sozialen Medien",
+    "aufgabe": "Schreibe einen Argument-Absatz zur vorgegebenen These. Aufbau: These – Begründung – Beispiel – Rückbezug auf die These. Schreibe einen zusammenhängenden Absatz, keine Liste.",
+    "material": "Prüfungsaufgabe: Sollen Forschende in sozialen Medien selbst gegen Falschinformationen vorgehen?\nThese: Forschende erreichen über soziale Medien Menschen, die klassische Medien kaum noch nutzen.",
+    "woerter": [
+      70,
+      110
+    ],
+    "minuten": 15,
+    "tipps": [
+      "Erkläre zuerst, wo sich viele Menschen heute informieren.",
+      "Ein Beispiel aus der Corona-Zeit ist bekannt und passend.",
+      "Schließe mit einer Folgerung: „Wer …, kann daher …“."
+    ],
+    "redemittel": [
+      "Ein gewichtiges Argument für … ist, dass …",
+      "Dies lässt sich damit begründen, dass …",
+      "Dies zeigt sich besonders deutlich am Beispiel …",
+      "Man denke etwa an …",
+      "Daraus folgt, dass …",
+      "Insofern / Folglich …"
+    ],
+    "muster": "Ein zentrales Argument dafür, dass Forschende selbst in sozialen Medien aktiv werden sollten, ist ihre Reichweite. Viele Menschen, vor allem jüngere, informieren sich kaum noch über Zeitungen oder Nachrichtensendungen, sondern überwiegend über Plattformen wie Instagram oder TikTok. Genau dort verbreiten sich Falschinformationen besonders schnell. Während der Corona-Pandemie zeigte sich beispielsweise, dass kurze, verständliche Erklärvideos von Fachleuten ein sehr großes Publikum erreichen konnten. Wer als Wissenschaftlerin oder Wissenschaftler auf diesen Kanälen präsent ist, kann daher Menschen ansprechen, die von Pressestellen und Fachjournalismus kaum noch erreicht werden.",
+    "checkliste": [
+      "Steht die These im ersten Satz?",
+      "Gibt es eine klare Begründung (weil, da, denn …)?",
+      "Gibt es ein konkretes Beispiel?",
+      "Bezieht sich der letzte Satz auf die These zurück?",
+      "Verbinden Konnektoren die Sätze (dies, dadurch, folglich …)?",
+      "70–110 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_argument_06",
+    "typ": "argument",
+    "ref": "sa09",
+    "titel": "Argument: Indirekter Druck durch Hirndoping",
+    "aufgabe": "Schreibe einen Argument-Absatz zur vorgegebenen These. Aufbau: These – Begründung – Beispiel – Rückbezug auf die These. Schreibe einen zusammenhängenden Absatz, keine Liste.",
+    "material": "Prüfungsaufgabe: Ist die Einnahme leistungssteigernder Medikamente vor Prüfungen akzeptabel?\nThese: Hirndoping setzt auch Studierende unter Druck, die keine Medikamente nehmen wollen.",
+    "woerter": [
+      70,
+      110
+    ],
+    "minuten": 15,
+    "tipps": [
+      "Dieses Argument richtet sich gegen „Das ist meine Privatsache“.",
+      "Ein kleines Szenario (Lerngruppe) wirkt wie ein Beispiel.",
+      "„keineswegs so …, wie …“ ist ein starker Rückbezug."
+    ],
+    "redemittel": [
+      "Ein gewichtiges Argument für … ist, dass …",
+      "Dies lässt sich damit begründen, dass …",
+      "Dies zeigt sich besonders deutlich am Beispiel …",
+      "Man denke etwa an …",
+      "Daraus folgt, dass …",
+      "Insofern / Folglich …"
+    ],
+    "muster": "Gegen die Einnahme leistungssteigernder Medikamente spricht nicht zuletzt der indirekte Druck, den sie auf andere ausübt. Wenn ein Teil der Studierenden vor Prüfungen Tabletten nimmt, entsteht schnell der Eindruck, ohne solche Mittel nicht mehr mithalten zu können. Man denke etwa an eine Lerngruppe, in der zwei Mitglieder offen über ihre Erfahrungen mit Konzentrationsmitteln berichten: Die übrigen fragen sich unweigerlich, ob sie im Nachteil sind, wenn sie verzichten. Folglich ist die Entscheidung für Hirndoping keineswegs so privat, wie ihre Befürworter behaupten, sondern berührt die Freiheit aller.",
+    "checkliste": [
+      "Steht die These im ersten Satz?",
+      "Gibt es eine klare Begründung (weil, da, denn …)?",
+      "Gibt es ein konkretes Beispiel?",
+      "Bezieht sich der letzte Satz auf die These zurück?",
+      "Verbinden Konnektoren die Sätze (dies, dadurch, folglich …)?",
+      "70–110 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_argument_07",
+    "typ": "argument",
+    "ref": null,
+    "titel": "Argument: Biologieunterricht im Freien",
+    "aufgabe": "Schreibe einen Argument-Absatz zur vorgegebenen These. Aufbau: These – Begründung – Beispiel – Rückbezug auf die These. Schreibe einen zusammenhängenden Absatz, keine Liste.",
+    "material": "Thema: Wie kann Biologieunterricht anschaulicher werden?\nThese: Biologieunterricht sollte häufiger im Freien stattfinden.",
+    "woerter": [
+      70,
+      110
+    ],
+    "minuten": 15,
+    "tipps": [
+      "Nutze dein Fachwissen als Biologielehrerin für das Beispiel.",
+      "Fachbegriffe in Anführungszeichen zeigen, was abstrakt bleibt.",
+      "„nicht nur …, sondern auch …“ im letzten Satz verbindet zwei Vorteile."
+    ],
+    "redemittel": [
+      "Ein gewichtiges Argument für … ist, dass …",
+      "Dies lässt sich damit begründen, dass …",
+      "Dies zeigt sich besonders deutlich am Beispiel …",
+      "Man denke etwa an …",
+      "Daraus folgt, dass …",
+      "Insofern / Folglich …"
+    ],
+    "muster": "Ein überzeugendes Argument für mehr Unterricht im Freien ist, dass Schülerinnen und Schüler Lebewesen dort in ihrer natürlichen Umgebung erleben. Im Klassenraum bleiben Begriffe wie „Nahrungsnetz“ oder „Artenvielfalt“ oft abstrakt, weil sie nur an Abbildungen erklärt werden. Untersucht eine Klasse hingegen selbst einen Bach oder eine Wiese und bestimmt dabei Pflanzen und Insekten, wird der Zusammenhang zwischen den Arten unmittelbar sichtbar. Zudem prägen sich eigene Beobachtungen erfahrungsgemäß deutlich besser ein als Lehrbuchwissen. Folglich trägt Unterricht im Freien nicht nur zu einem tieferen Verständnis bei, sondern weckt auch das Interesse an der Natur.",
+    "checkliste": [
+      "Steht die These im ersten Satz?",
+      "Gibt es eine klare Begründung (weil, da, denn …)?",
+      "Gibt es ein konkretes Beispiel?",
+      "Bezieht sich der letzte Satz auf die These zurück?",
+      "Verbinden Konnektoren die Sätze (dies, dadurch, folglich …)?",
+      "70–110 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_argument_08",
+    "typ": "argument",
+    "ref": null,
+    "titel": "Argument: Schnellere Anerkennung",
+    "aufgabe": "Schreibe einen Argument-Absatz zur vorgegebenen These. Aufbau: These – Begründung – Beispiel – Rückbezug auf die These. Schreibe einen zusammenhängenden Absatz, keine Liste.",
+    "material": "Thema: Wie sollte Deutschland mit ausländischen Berufsabschlüssen umgehen?\nThese: Ausländische Berufsabschlüsse sollten schneller anerkannt werden.",
+    "woerter": [
+      70,
+      110
+    ],
+    "minuten": 15,
+    "tipps": [
+      "Beginne mit dem allgemeinen Grund (Fachkräftemangel).",
+      "Das Beispiel darf aus deinem eigenen Umfeld kommen.",
+      "Achte auf die Wortstellung nach „sondern“: „sondern es sinkt auch …“."
+    ],
+    "redemittel": [
+      "Ein gewichtiges Argument für … ist, dass …",
+      "Dies lässt sich damit begründen, dass …",
+      "Dies zeigt sich besonders deutlich am Beispiel …",
+      "Man denke etwa an …",
+      "Daraus folgt, dass …",
+      "Insofern / Folglich …"
+    ],
+    "muster": "Für ein schnelleres Anerkennungsverfahren spricht vor allem, dass Deutschland in vielen Branchen dringend Fachkräfte benötigt. Gegenwärtig vergehen jedoch häufig viele Monate, bis über einen ausländischen Abschluss entschieden ist. In dieser Zeit arbeiten zahlreiche Menschen unterhalb ihrer Qualifikation, etwa eine ausgebildete Biologielehrerin als Aushilfe im Einzelhandel, obwohl an Schulen gleichzeitig Lehrkräfte fehlen. Dadurch gehen nicht nur wertvolle Kompetenzen verloren, sondern es sinkt auch die Motivation der Betroffenen. Ein zügigeres Verfahren läge somit im Interesse aller Beteiligten: der Zugewanderten ebenso wie der Gesellschaft.",
+    "checkliste": [
+      "Steht die These im ersten Satz?",
+      "Gibt es eine klare Begründung (weil, da, denn …)?",
+      "Gibt es ein konkretes Beispiel?",
+      "Bezieht sich der letzte Satz auf die These zurück?",
+      "Verbinden Konnektoren die Sätze (dies, dadurch, folglich …)?",
+      "70–110 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_gegenargument_01",
+    "typ": "gegenargument",
+    "ref": "sa01",
+    "titel": "Gegenargument: „Wir sind erwachsen“",
+    "aufgabe": "Deine Position: eher für eine Anwesenheitspflicht. Greife das Gegenargument auf: Gib es fair wieder, sage, was daran richtig ist, und entkräfte es dann oder wäge es ab. Schließe mit einem kurzen Fazit.",
+    "material": "Prüfungsaufgabe: Soll es an Hochschulen eine Anwesenheitspflicht geben?\nGegenargument: „Studierende sind erwachsen und sollen selbst entscheiden, ob sie zu Veranstaltungen kommen.“",
+    "woerter": [
+      60,
+      100
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Gib dem Gegenargument zuerst recht – das wirkt fair und überzeugend.",
+      "Bei „Zwar …, doch …“ steht das Verb direkt nach „doch“ oder am Ende: „doch bedeutet …“.",
+      "Zeige die Grenze der Freiheit: Sie betrifft auch andere."
+    ],
+    "redemittel": [
+      "Kritiker wenden ein, dass …",
+      "Zwar …, doch …",
+      "Dieser Einwand ist insofern berechtigt, als …",
+      "Dem lässt sich entgegenhalten, dass …",
+      "Allerdings darf man nicht übersehen, dass …",
+      "Daher überzeugt das Argument nur bedingt."
+    ],
+    "muster": "Gegner einer Anwesenheitspflicht wenden ein, Studierende seien erwachsen und müssten selbst über ihr Lernen entscheiden dürfen. Zwar ist es richtig, dass ein Studium Eigenverantwortung erfordert, doch bedeutet Eigenverantwortung nicht, dass jede Lehrform beliebig ersetzbar ist. In Seminaren profitieren alle davon, dass Argumente gemeinsam geprüft werden; wer regelmäßig fehlt, schwächt somit auch das Lernen der anderen. Dem Einwand lässt sich daher entgegenhalten, dass Freiheit dort ihre Grenze findet, wo sie die Lernbedingungen der Gruppe beeinträchtigt.",
+    "checkliste": [
+      "Gibst du das Gegenargument fair und genau wieder?",
+      "Erkennst du an, was daran richtig ist (zwar, insofern …)?",
+      "Folgt eine klare Entkräftung oder Abwägung (doch, allerdings, jedoch …)?",
+      "Begründest du die Entkräftung mit einem Beispiel oder Fakt?",
+      "Steht am Ende ein Fazit, das zu deiner Position passt?",
+      "60–100 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_gegenargument_02",
+    "typ": "gegenargument",
+    "ref": "sa03",
+    "titel": "Gegenargument: KI wie der Taschenrechner",
+    "aufgabe": "Deine Position: für KI nur mit klaren Regeln. Greife das Gegenargument auf: Gib es fair wieder, sage, was daran richtig ist, und entkräfte es dann oder wäge es ab. Schließe mit einem kurzen Fazit.",
+    "material": "Prüfungsaufgabe: Sollen KI-Textgeneratoren bei Hausarbeiten erlaubt sein?\nGegenargument: „KI ist nur ein Werkzeug wie der Taschenrechner.“",
+    "woerter": [
+      60,
+      100
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Prüfe den Vergleich: Wo stimmt er, wo nicht?",
+      "Zwei Unterschiede reichen (Fehler, Umfang der Hilfe).",
+      "„hält einer genaueren Prüfung nur bedingt stand“ ist ein gutes C1-Redemittel."
+    ],
+    "redemittel": [
+      "Kritiker wenden ein, dass …",
+      "Zwar …, doch …",
+      "Dieser Einwand ist insofern berechtigt, als …",
+      "Dem lässt sich entgegenhalten, dass …",
+      "Allerdings darf man nicht übersehen, dass …",
+      "Daher überzeugt das Argument nur bedingt."
+    ],
+    "muster": "Befürworter der KI-Nutzung argumentieren häufig, Textgeneratoren seien lediglich Werkzeuge, ähnlich wie der Taschenrechner. Dieser Vergleich ist auf den ersten Blick einleuchtend, hält einer genaueren Prüfung jedoch nur bedingt stand. Ein Taschenrechner liefert nachprüfbar richtige Ergebnisse, während Sprachmodelle mitunter Fakten oder sogar Quellen erfinden. Außerdem übernimmt der Rechner nur einzelne Rechenschritte, die KI dagegen unter Umständen den gesamten Denkprozess. Dem lässt sich also entgegenhalten, dass KI nur dann ein sinnvolles Werkzeug ist, wenn Studierende ihre Ergebnisse kritisch überprüfen.",
+    "checkliste": [
+      "Gibst du das Gegenargument fair und genau wieder?",
+      "Erkennst du an, was daran richtig ist (zwar, insofern …)?",
+      "Folgt eine klare Entkräftung oder Abwägung (doch, allerdings, jedoch …)?",
+      "Begründest du die Entkräftung mit einem Beispiel oder Fakt?",
+      "Steht am Ende ein Fazit, das zu deiner Position passt?",
+      "60–100 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_gegenargument_03",
+    "typ": "gegenargument",
+    "ref": "sa04",
+    "titel": "Gegenargument: Gleiche Standards für alle",
+    "aufgabe": "Deine Position: für die Anerkennung auch mit einem Fach. Greife das Gegenargument auf: Gib es fair wieder, sage, was daran richtig ist, und entkräfte es dann oder wäge es ab. Schließe mit einem kurzen Fazit.",
+    "material": "Prüfungsaufgabe: Sollen zugewanderte Lehrkräfte auch mit nur einem Unterrichtsfach anerkannt werden?\nGegenargument: „Zwei Fächer sind deutscher Standard. Ausnahmen wären ungerecht gegenüber Lehrkräften, die hier ausgebildet wurden.“",
+    "woerter": [
+      60,
+      100
+    ],
+    "minuten": 12,
+    "tipps": [
+      "„insofern …, als …“ zeigt genau, in welchem Punkt der Einwand stimmt.",
+      "Dein Beispiel kann aus deiner eigenen Berufserfahrung kommen.",
+      "Definiere am Ende neu, was „gerecht“ bedeutet."
+    ],
+    "redemittel": [
+      "Kritiker wenden ein, dass …",
+      "Zwar …, doch …",
+      "Dieser Einwand ist insofern berechtigt, als …",
+      "Dem lässt sich entgegenhalten, dass …",
+      "Allerdings darf man nicht übersehen, dass …",
+      "Daher überzeugt das Argument nur bedingt."
+    ],
+    "muster": "Kritiker wenden ein, eine Anerkennung mit nur einem Fach sei ungerecht gegenüber Lehrkräften, die in Deutschland zwei Fächer studiert haben. Dieser Einwand ist insofern berechtigt, als gleiche Standards ein wichtiges Prinzip darstellen. Allerdings sagt die Zahl der Fächer wenig über die Qualität einer Lehrkraft aus: Eine Biologielehrerin mit langjähriger Unterrichtserfahrung kann ihr Fach durchaus besser unterrichten als eine Berufsanfängerin mit zwei Fächern. Gerechtigkeit bedeutet daher nicht, alle Abschlüsse formal gleich zu behandeln, sondern die tatsächliche Qualifikation sorgfältig zu prüfen.",
+    "checkliste": [
+      "Gibst du das Gegenargument fair und genau wieder?",
+      "Erkennst du an, was daran richtig ist (zwar, insofern …)?",
+      "Folgt eine klare Entkräftung oder Abwägung (doch, allerdings, jedoch …)?",
+      "Begründest du die Entkräftung mit einem Beispiel oder Fakt?",
+      "Steht am Ende ein Fazit, das zu deiner Position passt?",
+      "60–100 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_gegenargument_04",
+    "typ": "gegenargument",
+    "ref": "sa05",
+    "titel": "Gegenargument: Digitale Modelle reichen",
+    "aufgabe": "Deine Position: für das Sezieren im Unterricht. Greife das Gegenargument auf: Gib es fair wieder, sage, was daran richtig ist, und entkräfte es dann oder wäge es ab. Schließe mit einem kurzen Fazit.",
+    "material": "Prüfungsaufgabe: Sollen im Schulunterricht weiterhin Tiere oder Tierorgane seziert werden?\nGegenargument: „Digitale 3D-Modelle zeigen alle Strukturen, ohne dass ein Tier sterben muss.“",
+    "woerter": [
+      60,
+      100
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Erkenne die Stärken der digitalen Modelle konkret an.",
+      "Ein Sinneseindruck (fest, zart, schwer) macht dein Beispiel stark.",
+      "Ein zweiter Punkt mit „Hinzu kommt, dass …“ entkräftet das ethische Argument."
+    ],
+    "redemittel": [
+      "Kritiker wenden ein, dass …",
+      "Zwar …, doch …",
+      "Dieser Einwand ist insofern berechtigt, als …",
+      "Dem lässt sich entgegenhalten, dass …",
+      "Allerdings darf man nicht übersehen, dass …",
+      "Daher überzeugt das Argument nur bedingt."
+    ],
+    "muster": "Dagegen ließe sich einwenden, dass digitale 3D-Modelle alle Strukturen zeigen, ohne dass dafür ein Tier sterben muss. Zwar können solche Programme Organe vergrößern, Schichten ausblenden und Abläufe animieren, doch ersetzen sie die sinnliche Erfahrung nicht. Wie fest ein Herzmuskel ist oder wie zart die Herzklappen sind, lässt sich nur am echten Präparat begreifen. Hinzu kommt, dass in der Schule meist Schlachtabfälle verwendet werden, für den Unterricht also kein zusätzliches Tier getötet wird. Digitale Modelle sind daher eine sinnvolle Ergänzung, aber kein vollwertiger Ersatz.",
+    "checkliste": [
+      "Gibst du das Gegenargument fair und genau wieder?",
+      "Erkennst du an, was daran richtig ist (zwar, insofern …)?",
+      "Folgt eine klare Entkräftung oder Abwägung (doch, allerdings, jedoch …)?",
+      "Begründest du die Entkräftung mit einem Beispiel oder Fakt?",
+      "Steht am Ende ein Fazit, das zu deiner Position passt?",
+      "60–100 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_gegenargument_05",
+    "typ": "gegenargument",
+    "ref": "sa06",
+    "titel": "Gegenargument: Pendler brauchen das Auto",
+    "aufgabe": "Deine Position: eher für weniger Parkplätze. Greife das Gegenargument auf: Gib es fair wieder, sage, was daran richtig ist, und entkräfte es dann oder wäge es ab. Schließe mit einem kurzen Fazit.",
+    "material": "Prüfungsaufgabe: Sollen alle Studierendenparkplätze abgeschafft werden?\nGegenargument: „Viele Studierende pendeln vom Land und sind auf das Auto angewiesen.“",
+    "woerter": [
+      60,
+      100
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Hier ist das Gegenargument stark: Wäge ab, statt es ganz abzulehnen.",
+      "„Dieses Argument wiegt schwer, denn …“ zeigt Respekt.",
+      "Schlage einen Mittelweg vor (Kompromiss)."
+    ],
+    "redemittel": [
+      "Kritiker wenden ein, dass …",
+      "Zwar …, doch …",
+      "Dieser Einwand ist insofern berechtigt, als …",
+      "Dem lässt sich entgegenhalten, dass …",
+      "Allerdings darf man nicht übersehen, dass …",
+      "Daher überzeugt das Argument nur bedingt."
+    ],
+    "muster": "Gegen die Abschaffung der Parkplätze spricht zweifellos, dass viele Studierende vom Land pendeln und dort nur selten ein Bus fährt. Dieses Argument wiegt schwer, denn Klimaschutz darf nicht vor allem diejenigen belasten, die ohnehin wenige Alternativen haben. Dennoch folgt daraus nicht, dass alles beim Alten bleiben muss. Vielmehr könnte die Hochschule eine begrenzte Zahl von Stellplätzen für Pendelnde ohne Busanbindung, für Eltern und für Menschen mit Behinderung reservieren. So ließe sich das Klimaziel verfolgen, ohne Benachteiligte auszuschließen.",
+    "checkliste": [
+      "Gibst du das Gegenargument fair und genau wieder?",
+      "Erkennst du an, was daran richtig ist (zwar, insofern …)?",
+      "Folgt eine klare Entkräftung oder Abwägung (doch, allerdings, jedoch …)?",
+      "Begründest du die Entkräftung mit einem Beispiel oder Fakt?",
+      "Steht am Ende ein Fazit, das zu deiner Position passt?",
+      "60–100 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_gegenargument_06",
+    "typ": "gegenargument",
+    "ref": "sa10",
+    "titel": "Gegenargument: Kein neuer Wohnraum",
+    "aufgabe": "Deine Position: für ein Verbot von Ferienwohnungen. Greife das Gegenargument auf: Gib es fair wieder, sage, was daran richtig ist, und entkräfte es dann oder wäge es ab. Schließe mit einem kurzen Fazit.",
+    "material": "Prüfungsaufgabe: Sollen Ferienwohnungen in der Innenstadt verboten werden?\nGegenargument: „Ein Verbot von Ferienwohnungen schafft kaum neuen Wohnraum.“",
+    "woerter": [
+      60,
+      100
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Nenne, wer das Argument vertritt (Stadtmarketing).",
+      "Unterscheide genau: neue Wohnungen bauen vs. vorhandene Wohnungen zurückgewinnen.",
+      "Schließe mit einer klaren Bewertung („überzeugt nur bedingt“)."
+    ],
+    "redemittel": [
+      "Kritiker wenden ein, dass …",
+      "Zwar …, doch …",
+      "Dieser Einwand ist insofern berechtigt, als …",
+      "Dem lässt sich entgegenhalten, dass …",
+      "Allerdings darf man nicht übersehen, dass …",
+      "Daher überzeugt das Argument nur bedingt."
+    ],
+    "muster": "Die Leiterin des Stadtmarketings gibt zu bedenken, ein Verbot von Ferienwohnungen schaffe kaum neuen Wohnraum. Diesem Einwand ist insofern zuzustimmen, als dadurch kein einziges neues Gebäude entsteht. Allerdings geht es auch nicht um Neubau, sondern darum, bestehende Wohnungen ihrem eigentlichen Zweck zurückzugeben. Bereits einige Hundert zurückgewonnene Wohnungen können in einer mittelgroßen Hochschulstadt für Studierende und Pflegekräfte einen spürbaren Unterschied bedeuten. Daher überzeugt das Argument nur bedingt.",
+    "checkliste": [
+      "Gibst du das Gegenargument fair und genau wieder?",
+      "Erkennst du an, was daran richtig ist (zwar, insofern …)?",
+      "Folgt eine klare Entkräftung oder Abwägung (doch, allerdings, jedoch …)?",
+      "Begründest du die Entkräftung mit einem Beispiel oder Fakt?",
+      "Steht am Ende ein Fazit, das zu deiner Position passt?",
+      "60–100 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_gegenargument_07",
+    "typ": "gegenargument",
+    "ref": null,
+    "titel": "Gegenargument: Handyverbot und Medienkompetenz",
+    "aufgabe": "Deine Position: eher für ein Verbot. Greife das Gegenargument auf: Gib es fair wieder, sage, was daran richtig ist, und entkräfte es dann oder wäge es ab. Schließe mit einem kurzen Fazit.",
+    "material": "Thema: Sollen Smartphones an Schulen während des ganzen Schultags verboten werden?\nGegenargument: „Ein Verbot bereitet Jugendliche nicht auf einen verantwortungsvollen Umgang mit digitalen Medien vor.“",
+    "woerter": [
+      60,
+      100
+    ],
+    "minuten": 12,
+    "tipps": [
+      "„nicht von der Hand zu weisen“ = Das Argument ist teilweise richtig.",
+      "Zeige, dass beide Ziele zusammenpassen: Verbot im Alltag, gezielter Einsatz im Unterricht.",
+      "Ein Beispiel aus dem Unterricht (Recherche, Falschmeldungen) macht es konkret."
+    ],
+    "redemittel": [
+      "Kritiker wenden ein, dass …",
+      "Zwar …, doch …",
+      "Dieser Einwand ist insofern berechtigt, als …",
+      "Dem lässt sich entgegenhalten, dass …",
+      "Allerdings darf man nicht übersehen, dass …",
+      "Daher überzeugt das Argument nur bedingt."
+    ],
+    "muster": "Gegner eines Handyverbots halten es für wenig sinnvoll, Smartphones aus der Schule zu verbannen, da Jugendliche gerade dort den verantwortungsvollen Umgang mit digitalen Medien lernen sollten. Dieser Einwand ist nicht von der Hand zu weisen. Medienkompetenz entsteht jedoch nicht dadurch, dass Schülerinnen und Schüler in jeder Pause auf ihr Display schauen, sondern durch gezielte Anleitung. Ein Verbot im Schulalltag schließt keineswegs aus, Smartphones in bestimmten Unterrichtsstunden bewusst einzusetzen, etwa für Recherchen oder zur Analyse von Falschmeldungen. Insofern lassen sich beide Ziele durchaus miteinander verbinden.",
+    "checkliste": [
+      "Gibst du das Gegenargument fair und genau wieder?",
+      "Erkennst du an, was daran richtig ist (zwar, insofern …)?",
+      "Folgt eine klare Entkräftung oder Abwägung (doch, allerdings, jedoch …)?",
+      "Begründest du die Entkräftung mit einem Beispiel oder Fakt?",
+      "Steht am Ende ein Fazit, das zu deiner Position passt?",
+      "60–100 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_gegenargument_08",
+    "typ": "gegenargument",
+    "ref": null,
+    "titel": "Gegenargument: Bessere Lehre durch Gebühren",
+    "aufgabe": "Deine Position: gegen Studiengebühren. Greife das Gegenargument auf: Gib es fair wieder, sage, was daran richtig ist, und entkräfte es dann oder wäge es ab. Schließe mit einem kurzen Fazit.",
+    "material": "Thema: Sollten Hochschulen Studiengebühren erheben?\nGegenargument: „Mit Studiengebühren könnten Hochschulen mehr Personal einstellen und die Lehre verbessern.“",
+    "woerter": [
+      60,
+      100
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Erkenne das Problem an: Viele Hochschulen haben zu wenig Geld.",
+      "Zeige eine Folge, die schwerer wiegt (Chancengleichheit).",
+      "Ende mit einer Alternative: Wer soll stattdessen zahlen?"
+    ],
+    "redemittel": [
+      "Kritiker wenden ein, dass …",
+      "Zwar …, doch …",
+      "Dieser Einwand ist insofern berechtigt, als …",
+      "Dem lässt sich entgegenhalten, dass …",
+      "Allerdings darf man nicht übersehen, dass …",
+      "Daher überzeugt das Argument nur bedingt."
+    ],
+    "muster": "Befürworter von Studiengebühren führen an, dass Hochschulen mit den zusätzlichen Einnahmen mehr Personal einstellen und ihre Lehre verbessern könnten. Zwar ist unbestreitbar, dass viele Hochschulen unterfinanziert sind, doch wäre es der falsche Weg, diese Lücke auf Kosten der Studierenden zu schließen. Gebühren schrecken gerade junge Menschen aus Familien mit geringem Einkommen davon ab, ein Studium aufzunehmen. Damit würde ein Ziel verfehlt, das mindestens ebenso wichtig ist wie gute Lehre: gleiche Bildungschancen für alle. Die Finanzierung der Hochschulen bleibt daher eine Aufgabe des Staates.",
+    "checkliste": [
+      "Gibst du das Gegenargument fair und genau wieder?",
+      "Erkennst du an, was daran richtig ist (zwar, insofern …)?",
+      "Folgt eine klare Entkräftung oder Abwägung (doch, allerdings, jedoch …)?",
+      "Begründest du die Entkräftung mit einem Beispiel oder Fakt?",
+      "Steht am Ende ein Fazit, das zu deiner Position passt?",
+      "60–100 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_schluss_01",
+    "typ": "schluss",
+    "ref": "sa02",
+    "titel": "Schluss: Mensa ohne Verbot",
+    "aufgabe": "Schreibe den Schluss zur Prüfungsaufgabe. Fasse kurz zusammen, nenne deinen Standpunkt mit Begründung und gib einen Ausblick. Du kannst den vorgegebenen Standpunkt nehmen oder deinen eigenen.",
+    "material": "Prüfungsaufgabe: Der Studierendenrat schlägt vor, dass die Mensa nur noch vegetarisch kocht. Für seinen Blog schreiben Sie eine Stellungnahme.\nStandpunkt (Vorschlag): Mehr gute vegetarische Gerichte ja – ein Fleischverbot nein.",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Nenne beide Werte (Klima, Freiheit) in einem Satz.",
+      "Begründe, warum du kein Verbot willst.",
+      "Ausblick: ein konkreter nächster Schritt (z. B. Testphase)."
+    ],
+    "redemittel": [
+      "Zusammenfassend lässt sich festhalten, dass …",
+      "Alles in allem …",
+      "Aus den genannten Gründen bin ich der Meinung, dass …",
+      "Ich plädiere daher für …",
+      "Langfristig wird … nicht umhinkommen, …",
+      "Nur so kann …"
+    ],
+    "muster": "Zusammenfassend lässt sich festhalten, dass beide Positionen berechtigte Anliegen vertreten: den Klimaschutz auf der einen und die Wahlfreiheit auf der anderen Seite. Ein vollständiger Verzicht auf Fleisch erscheint mir dennoch nicht als der richtige Weg, da Verbote eher Widerstand als Einsicht erzeugen. Überzeugender wäre es, das vegetarische Angebot so attraktiv und günstig zu gestalten, dass es freiwillig gewählt wird. Ob dies gelingt, könnte die Mensa bereits im kommenden Semester erproben.",
+    "checkliste": [
+      "Fasst du die wichtigsten Punkte kurz zusammen (ohne neue Argumente)?",
+      "Ist dein Standpunkt eindeutig?",
+      "Ist dein Standpunkt begründet (da, weil, angesichts …)?",
+      "Gibt es einen Ausblick oder Vorschlag für die Zukunft?",
+      "Wiederholst du keine Sätze wörtlich aus Einleitung oder Hauptteil?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_schluss_02",
+    "typ": "schluss",
+    "ref": "sa03",
+    "titel": "Schluss: KI mit Regeln",
+    "aufgabe": "Schreibe den Schluss zur Prüfungsaufgabe. Fasse kurz zusammen, nenne deinen Standpunkt mit Begründung und gib einen Ausblick. Du kannst den vorgegebenen Standpunkt nehmen oder deinen eigenen.",
+    "material": "Prüfungsaufgabe: In einem Seminar zur Hochschuldidaktik erörtern Sie, ob KI-Textgeneratoren bei Hausarbeiten erlaubt sein sollten.\nStandpunkt (Vorschlag): KI erlauben, aber mit klaren Regeln (Offenlegung, kritische Prüfung).",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "„Insgesamt hat sich gezeigt, dass …“ fasst den Hauptteil zusammen.",
+      "Nimm die Gegenseite kurz ernst („Gleichzeitig …“).",
+      "Ausblick: Was müssen Hochschulen in Zukunft ändern?"
+    ],
+    "redemittel": [
+      "Zusammenfassend lässt sich festhalten, dass …",
+      "Alles in allem …",
+      "Aus den genannten Gründen bin ich der Meinung, dass …",
+      "Ich plädiere daher für …",
+      "Langfristig wird … nicht umhinkommen, …",
+      "Nur so kann …"
+    ],
+    "muster": "Insgesamt hat sich gezeigt, dass ein generelles Verbot von KI-Textgeneratoren weder durchsetzbar noch zeitgemäß wäre. Gleichzeitig sind die Bedenken, eigenständiges Denken könne verloren gehen, durchaus ernst zu nehmen. Aus diesem Grund plädiere ich für einen geregelten Einsatz: Studierende sollten offenlegen, wofür sie KI genutzt haben, und ihre Ergebnisse kritisch reflektieren. Langfristig werden Hochschulen zudem neue Prüfungsformen entwickeln müssen, etwa mündliche Verteidigungen von Hausarbeiten.",
+    "checkliste": [
+      "Fasst du die wichtigsten Punkte kurz zusammen (ohne neue Argumente)?",
+      "Ist dein Standpunkt eindeutig?",
+      "Ist dein Standpunkt begründet (da, weil, angesichts …)?",
+      "Gibt es einen Ausblick oder Vorschlag für die Zukunft?",
+      "Wiederholst du keine Sätze wörtlich aus Einleitung oder Hauptteil?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_schluss_03",
+    "typ": "schluss",
+    "ref": "sa04",
+    "titel": "Schluss: Anerkennung mit einem Fach",
+    "aufgabe": "Schreibe den Schluss zur Prüfungsaufgabe. Fasse kurz zusammen, nenne deinen Standpunkt mit Begründung und gib einen Ausblick. Du kannst den vorgegebenen Standpunkt nehmen oder deinen eigenen.",
+    "material": "Prüfungsaufgabe: Für den Senatsausschuss Lehrkräftebildung nehmen Sie Stellung: Sollen zugewanderte Lehrkräfte auch mit nur einem Unterrichtsfach anerkannt werden?\nStandpunkt (Vorschlag): Anerkennung mit einem Fach ja, wenn fachliche und sprachliche Qualifikation gesichert sind.",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Beginne mit einem Kerngedanken statt mit einer Liste.",
+      "Eine Bedingung mit „sofern …“ macht den Standpunkt präzise.",
+      "Ausblick: ein realistischer Weg für das zweite Fach."
+    ],
+    "redemittel": [
+      "Zusammenfassend lässt sich festhalten, dass …",
+      "Alles in allem …",
+      "Aus den genannten Gründen bin ich der Meinung, dass …",
+      "Ich plädiere daher für …",
+      "Langfristig wird … nicht umhinkommen, …",
+      "Nur so kann …"
+    ],
+    "muster": "Abschließend möchte ich betonen, dass gleiche Standards wichtig sind, aber nicht mit gleichen Formalitäten verwechselt werden dürfen. Angesichts des gravierenden Lehrkräftemangels halte ich es für richtig, zugewanderte Lehrkräfte auch mit nur einem Fach anzuerkennen, sofern ihre fachliche und sprachliche Qualifikation gesichert ist. Ein zweites Fach könnte berufsbegleitend erworben werden. Auf diese Weise würden Schulen schnell entlastet, und zugleich bliebe die Qualität des Unterrichts gewahrt.",
+    "checkliste": [
+      "Fasst du die wichtigsten Punkte kurz zusammen (ohne neue Argumente)?",
+      "Ist dein Standpunkt eindeutig?",
+      "Ist dein Standpunkt begründet (da, weil, angesichts …)?",
+      "Gibt es einen Ausblick oder Vorschlag für die Zukunft?",
+      "Wiederholst du keine Sätze wörtlich aus Einleitung oder Hauptteil?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_schluss_04",
+    "typ": "schluss",
+    "ref": "sa05",
+    "titel": "Schluss: Sezieren mit Alternative",
+    "aufgabe": "Schreibe den Schluss zur Prüfungsaufgabe. Fasse kurz zusammen, nenne deinen Standpunkt mit Begründung und gib einen Ausblick. Du kannst den vorgegebenen Standpunkt nehmen oder deinen eigenen.",
+    "material": "Prüfungsaufgabe: Im fachdidaktischen Seminar Biologie erörtern Sie, ob im Schulunterricht weiterhin Tiere oder Tierorgane seziert werden sollten.\nStandpunkt (Vorschlag): Sezieren beibehalten, aber eine digitale Alternative anbieten.",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Erkenne die ethischen Bedenken im Schluss noch einmal an.",
+      "„Ich spreche mich dafür aus, …“ macht deine Position klar.",
+      "Ausblick mit „künftig“ oder „langfristig“."
+    ],
+    "redemittel": [
+      "Zusammenfassend lässt sich festhalten, dass …",
+      "Alles in allem …",
+      "Aus den genannten Gründen bin ich der Meinung, dass …",
+      "Ich plädiere daher für …",
+      "Langfristig wird … nicht umhinkommen, …",
+      "Nur so kann …"
+    ],
+    "muster": "Zusammenfassend lässt sich sagen, dass das Sezieren von Organen Erfahrungen ermöglicht, die kein digitales Modell vollständig ersetzen kann. Die ethischen Bedenken sind jedoch berechtigt und sollten im Unterricht offen thematisiert werden. Ich spreche mich daher dafür aus, Sektionen mit Schlachtabfällen beizubehalten, Schülerinnen und Schülern aber eine digitale Alternative anzubieten, wenn sie nicht teilnehmen möchten. So könnte der Biologieunterricht künftig sowohl anschaulich als auch respektvoll gestaltet werden.",
+    "checkliste": [
+      "Fasst du die wichtigsten Punkte kurz zusammen (ohne neue Argumente)?",
+      "Ist dein Standpunkt eindeutig?",
+      "Ist dein Standpunkt begründet (da, weil, angesichts …)?",
+      "Gibt es einen Ausblick oder Vorschlag für die Zukunft?",
+      "Wiederholst du keine Sätze wörtlich aus Einleitung oder Hauptteil?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_schluss_05",
+    "typ": "schluss",
+    "ref": "sa06",
+    "titel": "Schluss: Parkplätze schrittweise abbauen",
+    "aufgabe": "Schreibe den Schluss zur Prüfungsaufgabe. Fasse kurz zusammen, nenne deinen Standpunkt mit Begründung und gib einen Ausblick. Du kannst den vorgegebenen Standpunkt nehmen oder deinen eigenen.",
+    "material": "Prüfungsaufgabe: Die Hochschulleitung will alle Studierendenparkplätze abschaffen. In der Campuszeitung nehmen Sie dazu Stellung.\nStandpunkt (Vorschlag): Ziel richtig, Weg zu radikal: Parkplätze schrittweise reduzieren.",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "„Ein richtiges Ziel, aber ein zu radikaler Weg“ ist ein klarer Standpunkt.",
+      "Nenne kurz, wen das Verbot besonders trifft.",
+      "Ausblick: Was muss gleichzeitig passieren?"
+    ],
+    "redemittel": [
+      "Zusammenfassend lässt sich festhalten, dass …",
+      "Alles in allem …",
+      "Aus den genannten Gründen bin ich der Meinung, dass …",
+      "Ich plädiere daher für …",
+      "Langfristig wird … nicht umhinkommen, …",
+      "Nur so kann …"
+    ],
+    "muster": "Alles in allem verfolgt die Hochschulleitung ein richtiges Ziel, wählt jedoch einen zu radikalen Weg. Eine sofortige Abschaffung aller Parkplätze würde vor allem Pendelnde vom Land und Studierende mit Kindern treffen. Meiner Ansicht nach sollte die Zahl der Stellplätze deshalb schrittweise verringert werden, während die Hochschule gleichzeitig mit der Stadt über bessere Busverbindungen und sichere Radwege verhandelt. Nur so kann Klimaschutz auf dem Campus breite Akzeptanz finden.",
+    "checkliste": [
+      "Fasst du die wichtigsten Punkte kurz zusammen (ohne neue Argumente)?",
+      "Ist dein Standpunkt eindeutig?",
+      "Ist dein Standpunkt begründet (da, weil, angesichts …)?",
+      "Gibt es einen Ausblick oder Vorschlag für die Zukunft?",
+      "Wiederholst du keine Sätze wörtlich aus Einleitung oder Hauptteil?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_schluss_06",
+    "typ": "schluss",
+    "ref": "sa07",
+    "titel": "Schluss: Quereinstieg mit Qualifizierung",
+    "aufgabe": "Schreibe den Schluss zur Prüfungsaufgabe. Fasse kurz zusammen, nenne deinen Standpunkt mit Begründung und gib einen Ausblick. Du kannst den vorgegebenen Standpunkt nehmen oder deinen eigenen.",
+    "material": "Prüfungsaufgabe: Die Fachschaftszeitschrift Lehramt fragt, ob Quereinsteiger ohne Lehramtsstudium dauerhaft unterrichten sollten. Verfassen Sie eine Stellungnahme.\nStandpunkt (Vorschlag): Dauerhafter Einsatz von Quereinsteigern nur mit verpflichtender pädagogischer Qualifizierung.",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Greife beide Zitate im ersten Satz kurz auf.",
+      "Formuliere eine klare Bedingung („nur unter einer Bedingung: …“).",
+      "Ausblick mit „Wenn …, kann …“."
+    ],
+    "redemittel": [
+      "Zusammenfassend lässt sich festhalten, dass …",
+      "Alles in allem …",
+      "Aus den genannten Gründen bin ich der Meinung, dass …",
+      "Ich plädiere daher für …",
+      "Langfristig wird … nicht umhinkommen, …",
+      "Nur so kann …"
+    ],
+    "muster": "Zusammenfassend ist festzuhalten, dass Quereinsteigerinnen und Quereinsteiger den Schulen wertvolle Praxiserfahrung bringen, Fachwissen allein jedoch keinen guten Unterricht garantiert. Ich befürworte daher einen dauerhaften Einsatz nur unter einer Bedingung: Wer ohne Lehramtsstudium unterrichtet, muss eine verbindliche pädagogische Qualifizierung durchlaufen. Wenn die Länder hierfür ausreichend Zeit und Personal bereitstellen, kann der Quereinstieg von einer Notlösung zu einer echten Bereicherung werden.",
+    "checkliste": [
+      "Fasst du die wichtigsten Punkte kurz zusammen (ohne neue Argumente)?",
+      "Ist dein Standpunkt eindeutig?",
+      "Ist dein Standpunkt begründet (da, weil, angesichts …)?",
+      "Gibt es einen Ausblick oder Vorschlag für die Zukunft?",
+      "Wiederholst du keine Sätze wörtlich aus Einleitung oder Hauptteil?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_schluss_07",
+    "typ": "schluss",
+    "ref": "sa08",
+    "titel": "Schluss: Forschende in sozialen Medien",
+    "aufgabe": "Schreibe den Schluss zur Prüfungsaufgabe. Fasse kurz zusammen, nenne deinen Standpunkt mit Begründung und gib einen Ausblick. Du kannst den vorgegebenen Standpunkt nehmen oder deinen eigenen.",
+    "material": "Prüfungsaufgabe: Die Hochschulzeitschrift bittet um eine Erörterung: Sollten Forschende in sozialen Medien selbst gegen Falschinformationen vorgehen?\nStandpunkt (Vorschlag): Ja, Forschende sollen sich engagieren – aber mit Unterstützung der Hochschulen.",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "„Insgesamt überwiegen meines Erachtens …“ zeigt eine Abwägung.",
+      "Nimm die Risiken (Zeit, Anfeindungen) kurz auf.",
+      "Ausblick: Was sollen die Hochschulen tun?"
+    ],
+    "redemittel": [
+      "Zusammenfassend lässt sich festhalten, dass …",
+      "Alles in allem …",
+      "Aus den genannten Gründen bin ich der Meinung, dass …",
+      "Ich plädiere daher für …",
+      "Langfristig wird … nicht umhinkommen, …",
+      "Nur so kann …"
+    ],
+    "muster": "Insgesamt überwiegen meines Erachtens die Gründe dafür, dass sich Forschende selbst gegen Falschinformationen engagieren. Sie verfügen über die nötige Expertise und erreichen Zielgruppen, die klassische Medien kaum noch nutzen. Allerdings darf dieses Engagement nicht allein auf ihren Schultern lasten. Hochschulen sollten deshalb Schulungen in Wissenschaftskommunikation anbieten und Betroffene bei Anfeindungen konsequent unterstützen. Nur unter diesen Bedingungen wird es gelingen, mehr Forschende für diese wichtige Aufgabe zu gewinnen.",
+    "checkliste": [
+      "Fasst du die wichtigsten Punkte kurz zusammen (ohne neue Argumente)?",
+      "Ist dein Standpunkt eindeutig?",
+      "Ist dein Standpunkt begründet (da, weil, angesichts …)?",
+      "Gibt es einen Ausblick oder Vorschlag für die Zukunft?",
+      "Wiederholst du keine Sätze wörtlich aus Einleitung oder Hauptteil?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_schluss_08",
+    "typ": "schluss",
+    "ref": "sa10",
+    "titel": "Schluss: Ferienwohnungen und Wohnraum",
+    "aufgabe": "Schreibe den Schluss zur Prüfungsaufgabe. Fasse kurz zusammen, nenne deinen Standpunkt mit Begründung und gib einen Ausblick. Du kannst den vorgegebenen Standpunkt nehmen oder deinen eigenen.",
+    "material": "Prüfungsaufgabe: Für eine Anhörung im Stadtrat sammelt der Studierendenrat Stellungnahmen: Sollen Ferienwohnungen in der Innenstadt verboten werden?\nStandpunkt (Vorschlag): Verbot ja, mit Ausnahme für gelegentlich vermietete Einliegerwohnungen.",
+    "woerter": [
+      50,
+      80
+    ],
+    "minuten": 10,
+    "tipps": [
+      "Gewichte die beiden Seiten mit „zwar …, jedoch …“.",
+      "Eine Ausnahme zeigt, dass du differenziert denkst.",
+      "Ausblick: Das Verbot allein reicht nicht – was noch?"
+    ],
+    "redemittel": [
+      "Zusammenfassend lässt sich festhalten, dass …",
+      "Alles in allem …",
+      "Aus den genannten Gründen bin ich der Meinung, dass …",
+      "Ich plädiere daher für …",
+      "Langfristig wird … nicht umhinkommen, …",
+      "Nur so kann …"
+    ],
+    "muster": "Zusammenfassend lässt sich festhalten, dass der Tourismus für die Stadt zwar wirtschaftlich bedeutsam ist, bezahlbarer Wohnraum jedoch ein Grundbedürfnis darstellt. Aus diesem Grund unterstütze ich ein Verbot von Ferienwohnungen in der Innenstadt. Ausnahmen sollten allerdings für Eigentümerinnen und Eigentümer gelten, die gelegentlich eine Einliegerwohnung im eigenen Haus vermieten. Darüber hinaus wird die Stadt langfristig nicht umhinkommen, in den sozialen Wohnungsbau zu investieren.",
+    "checkliste": [
+      "Fasst du die wichtigsten Punkte kurz zusammen (ohne neue Argumente)?",
+      "Ist dein Standpunkt eindeutig?",
+      "Ist dein Standpunkt begründet (da, weil, angesichts …)?",
+      "Gibt es einen Ausblick oder Vorschlag für die Zukunft?",
+      "Wiederholst du keine Sätze wörtlich aus Einleitung oder Hauptteil?",
+      "50–80 Wörter?"
+    ]
+  },
+  {
+    "id": "mini_umformen_01",
+    "typ": "umformen",
+    "ref": null,
+    "titel": "Umformen: Motivation im Biologieunterricht",
+    "aufgabe": "Schreibe die einfachen Sätze zu einem zusammenhängenden Absatz auf C1-Niveau um. Verbinde die Gedanken mit Konnektoren, nutze Nebensätze und Nominalstil und ersetze einfache oder umgangssprachliche Wörter durch präzise Ausdrücke. Der Inhalt bleibt gleich.",
+    "material": "Viele Schüler haben keine Lust auf Biologie.\nDas liegt oft am Unterricht.\nDer Lehrer redet die ganze Zeit.\nDie Schüler machen selbst nichts.\nExperimente würden helfen.",
+    "woerter": [
+      50,
+      90
+    ],
+    "minuten": 12,
+    "tipps": [
+      "„keine Lust haben“ → „mangelndes Interesse“.",
+      "„Das liegt an …“ → „… ist auf … zurückzuführen“.",
+      "Gendergerecht: „Schülerinnen und Schüler“, „Lehrkraft“."
+    ],
+    "redemittel": [
+      "… ist auf … zurückzuführen",
+      "insbesondere",
+      "lehrerzentrierter Unterricht",
+      "Abhilfe könnten … schaffen",
+      "…, da …",
+      "zum … anregen"
+    ],
+    "muster": "Das mangelnde Interesse vieler Schülerinnen und Schüler am Biologieunterricht ist häufig auf die Art des Unterrichts zurückzuführen. Insbesondere ein stark lehrerzentrierter Unterricht, in dem die Lehrkraft den Großteil der Stunde spricht, lässt den Lernenden kaum Raum für eigene Aktivität. Abhilfe könnten hier Experimente schaffen, da sie die Jugendlichen zum selbstständigen Beobachten, Vermuten und Überprüfen anregen und dadurch ihre Motivation nachhaltig steigern.",
+    "checkliste": [
+      "Sind alle Informationen aus den einfachen Sätzen enthalten?",
+      "Verbinden Konnektoren die Gedanken (da, obwohl, infolgedessen, zumal …)?",
+      "Mindestens ein Nebensatz und eine Nominalisierung?",
+      "Umgangssprache ersetzt (Leute, Uni, Lust haben, machen …)?",
+      "Keine Wortwiederholungen am Satzanfang?",
+      "50–90 Wörter, ein zusammenhängender Absatz?"
+    ]
+  },
+  {
+    "id": "mini_umformen_02",
+    "typ": "umformen",
+    "ref": null,
+    "titel": "Umformen: Wohnungsnot und Pendeln",
+    "aufgabe": "Schreibe die einfachen Sätze zu einem zusammenhängenden Absatz auf C1-Niveau um. Verbinde die Gedanken mit Konnektoren, nutze Nebensätze und Nominalstil und ersetze einfache oder umgangssprachliche Wörter durch präzise Ausdrücke. Der Inhalt bleibt gleich.",
+    "material": "Die Mieten in Unistädten sind sehr hoch.\nViele Studenten finden keine Wohnung.\nManche wohnen weit weg.\nSie fahren jeden Tag lange zur Uni.\nDas kostet Zeit und Kraft.",
+    "woerter": [
+      50,
+      90
+    ],
+    "minuten": 12,
+    "tipps": [
+      "„Uni“ → „Hochschule“, „Studenten“ → „Studierende“.",
+      "Ursache mit „aufgrund + Genitiv“ ausdrücken.",
+      "Folge mit „infolgedessen“ oder „sodass“."
+    ],
+    "redemittel": [
+      "aufgrund + Genitiv",
+      "infolgedessen",
+      "gezwungen sein, … zu …",
+      "… in Kauf nehmen",
+      "zulasten + Genitiv",
+      "eine erhebliche Belastung darstellen"
+    ],
+    "muster": "Aufgrund der stark gestiegenen Mieten in Hochschulstädten finden zahlreiche Studierende keine bezahlbare Unterkunft. Infolgedessen sind viele gezwungen, in weiter entfernte Orte auszuweichen und täglich lange Fahrtzeiten zur Hochschule in Kauf zu nehmen. Diese Pendelstrecken gehen nicht nur zulasten der Zeit, die eigentlich für das Studium zur Verfügung stünde, sondern stellen auf Dauer auch eine erhebliche körperliche und psychische Belastung dar.",
+    "checkliste": [
+      "Sind alle Informationen aus den einfachen Sätzen enthalten?",
+      "Verbinden Konnektoren die Gedanken (da, obwohl, infolgedessen, zumal …)?",
+      "Mindestens ein Nebensatz und eine Nominalisierung?",
+      "Umgangssprache ersetzt (Leute, Uni, Lust haben, machen …)?",
+      "Keine Wortwiederholungen am Satzanfang?",
+      "50–90 Wörter, ein zusammenhängender Absatz?"
+    ]
+  },
+  {
+    "id": "mini_umformen_03",
+    "typ": "umformen",
+    "ref": null,
+    "titel": "Umformen: Falschmeldungen im Netz",
+    "aufgabe": "Schreibe die einfachen Sätze zu einem zusammenhängenden Absatz auf C1-Niveau um. Verbinde die Gedanken mit Konnektoren, nutze Nebensätze und Nominalstil und ersetze einfache oder umgangssprachliche Wörter durch präzise Ausdrücke. Der Inhalt bleibt gleich.",
+    "material": "Viele Leute glauben alles, was im Internet steht.\nAber vieles ist falsch.\nFake News verbreiten sich sehr schnell.\nDie Schulen müssen etwas dagegen tun.\nDie Schüler sollen lernen, Quellen zu prüfen.",
+    "woerter": [
+      50,
+      90
+    ],
+    "minuten": 12,
+    "tipps": [
+      "„Leute“ → „Menschen“, „Fake News“ → „Falschmeldungen“.",
+      "„Aber“ am Satzanfang → „obwohl“ oder „jedoch“.",
+      "„etwas dagegen tun“ ist unpräzise – nenne die Aufgabe genau."
+    ],
+    "redemittel": [
+      "… unkritisch für wahr halten",
+      "obwohl …",
+      "da … zudem …",
+      "jemandem kommt eine besondere Verantwortung zu",
+      "gezielt vermitteln",
+      "um … zu …"
+    ],
+    "muster": "Zahlreiche Menschen halten Informationen aus dem Internet unkritisch für wahr, obwohl ein beträchtlicher Teil davon nachweislich falsch ist. Da sich Falschmeldungen in sozialen Netzwerken zudem rasant verbreiten, kommt den Schulen eine besondere Verantwortung zu. Sie sollten Schülerinnen und Schülern gezielt vermitteln, wie man die Glaubwürdigkeit von Quellen überprüft, um ihre Medienkompetenz zu stärken.",
+    "checkliste": [
+      "Sind alle Informationen aus den einfachen Sätzen enthalten?",
+      "Verbinden Konnektoren die Gedanken (da, obwohl, infolgedessen, zumal …)?",
+      "Mindestens ein Nebensatz und eine Nominalisierung?",
+      "Umgangssprache ersetzt (Leute, Uni, Lust haben, machen …)?",
+      "Keine Wortwiederholungen am Satzanfang?",
+      "50–90 Wörter, ein zusammenhängender Absatz?"
+    ]
+  },
+  {
+    "id": "mini_umformen_04",
+    "typ": "umformen",
+    "ref": null,
+    "titel": "Umformen: Warten auf die Anerkennung",
+    "aufgabe": "Schreibe die einfachen Sätze zu einem zusammenhängenden Absatz auf C1-Niveau um. Verbinde die Gedanken mit Konnektoren, nutze Nebensätze und Nominalstil und ersetze einfache oder umgangssprachliche Wörter durch präzise Ausdrücke. Der Inhalt bleibt gleich.",
+    "material": "Ich habe in meinem Land Biologie studiert.\nIch war acht Jahre Lehrerin.\nIn Deutschland muss mein Abschluss anerkannt werden.\nDas dauert sehr lange.\nIch finde das frustrierend.",
+    "woerter": [
+      50,
+      90
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Hier darfst du „ich“ verwenden – es ist ein persönlicher Absatz, z. B. für eine Stellungnahme.",
+      "Vermeide fünf Satzanfänge mit „Ich“.",
+      "„Das dauert lange“ → „… zieht sich in die Länge“."
+    ],
+    "redemittel": [
+      "Nach meinem Studium …",
+      "Um … zu dürfen, benötige ich …",
+      "sich erheblich in die Länge ziehen",
+      "… als frustrierend empfinden",
+      "zumal …",
+      "sich in … einbringen"
+    ],
+    "muster": "Nach meinem Biologiestudium im Herkunftsland habe ich acht Jahre lang als Lehrerin gearbeitet. Um in Deutschland unterrichten zu dürfen, benötige ich jedoch die Anerkennung meines Abschlusses. Da sich dieses Verfahren erheblich in die Länge zieht, empfinde ich die Situation als äußerst frustrierend, zumal ich über langjährige Berufserfahrung verfüge und mich gern möglichst bald in den Schuldienst einbringen würde.",
+    "checkliste": [
+      "Sind alle Informationen aus den einfachen Sätzen enthalten?",
+      "Verbinden Konnektoren die Gedanken (da, obwohl, infolgedessen, zumal …)?",
+      "Mindestens ein Nebensatz und eine Nominalisierung?",
+      "Umgangssprache ersetzt (Leute, Uni, Lust haben, machen …)?",
+      "Keine Wortwiederholungen am Satzanfang?",
+      "50–90 Wörter, ein zusammenhängender Absatz?"
+    ]
+  },
+  {
+    "id": "mini_umformen_05",
+    "typ": "umformen",
+    "ref": null,
+    "titel": "Umformen: Fliegen oder Bahnfahren",
+    "aufgabe": "Schreibe die einfachen Sätze zu einem zusammenhängenden Absatz auf C1-Niveau um. Verbinde die Gedanken mit Konnektoren, nutze Nebensätze und Nominalstil und ersetze einfache oder umgangssprachliche Wörter durch präzise Ausdrücke. Der Inhalt bleibt gleich.",
+    "material": "Viele Leute fliegen in den Urlaub.\nFliegen ist sehr schlecht fürs Klima.\nZugfahren ist besser.\nAber Zugtickets sind oft teurer.\nDer Staat sollte die Bahn billiger machen.",
+    "woerter": [
+      50,
+      90
+    ],
+    "minuten": 12,
+    "tipps": [
+      "„schlecht fürs Klima“ → „tragen zum Klimawandel bei“.",
+      "„Zwar …, doch …“ verbindet Vorteil und Nachteil der Bahn.",
+      "„billiger machen“ → „fördern“, „Anreize schaffen“."
+    ],
+    "redemittel": [
+      "obwohl …",
+      "in erheblichem Maße",
+      "zwar …, doch …",
+      "die klimafreundlichere Alternative",
+      "einen Anreiz schaffen",
+      "etwa durch …"
+    ],
+    "muster": "Obwohl Flugreisen in erheblichem Maße zum Klimawandel beitragen, wählen viele Menschen für ihre Urlaubsreisen das Flugzeug. Die Bahn wäre zwar die klimafreundlichere Alternative, doch sind Zugtickets häufig deutlich teurer als vergleichbare Flüge. Um einen Anreiz zum Umstieg zu schaffen, sollte der Staat daher Bahnreisen gezielt fördern, etwa durch Steuererleichterungen oder günstigere Tarife.",
+    "checkliste": [
+      "Sind alle Informationen aus den einfachen Sätzen enthalten?",
+      "Verbinden Konnektoren die Gedanken (da, obwohl, infolgedessen, zumal …)?",
+      "Mindestens ein Nebensatz und eine Nominalisierung?",
+      "Umgangssprache ersetzt (Leute, Uni, Lust haben, machen …)?",
+      "Keine Wortwiederholungen am Satzanfang?",
+      "50–90 Wörter, ein zusammenhängender Absatz?"
+    ]
+  },
+  {
+    "id": "mini_umformen_06",
+    "typ": "umformen",
+    "ref": null,
+    "titel": "Umformen: Prüfungsstress",
+    "aufgabe": "Schreibe die einfachen Sätze zu einem zusammenhängenden Absatz auf C1-Niveau um. Verbinde die Gedanken mit Konnektoren, nutze Nebensätze und Nominalstil und ersetze einfache oder umgangssprachliche Wörter durch präzise Ausdrücke. Der Inhalt bleibt gleich.",
+    "material": "Viele Studenten haben vor Prüfungen viel Stress.\nSie schlafen schlecht.\nManche werden krank.\nDie Unis machen zu wenig.\nEs sollte mehr Beratung geben.",
+    "woerter": [
+      50,
+      90
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Verbinde Satz 1–3 zu einem Satz mit Relativsatz („…, der sich …“).",
+      "„machen zu wenig“ → „unternehmen zu wenig, um …“.",
+      "„Es sollte … geben“ → Nominalstil: „Ein Ausbau … wäre geboten“."
+    ],
+    "redemittel": [
+      "unter … leiden",
+      "…, der sich in … äußert",
+      "zu … führen",
+      "dennoch",
+      "einer Entwicklung entgegenwirken",
+      "… wäre dringend geboten"
+    ],
+    "muster": "Vor Prüfungen leiden zahlreiche Studierende unter erheblichem Stress, der sich häufig in Schlafstörungen äußert und in manchen Fällen sogar zu ernsthaften Erkrankungen führt. Dennoch unternehmen die Hochschulen bislang zu wenig, um dieser besorgniserregenden Entwicklung wirksam entgegenzuwirken. Ein Ausbau der psychologischen Beratungsangebote wäre daher dringend geboten, damit Betroffene frühzeitig und unkompliziert Unterstützung erhalten.",
+    "checkliste": [
+      "Sind alle Informationen aus den einfachen Sätzen enthalten?",
+      "Verbinden Konnektoren die Gedanken (da, obwohl, infolgedessen, zumal …)?",
+      "Mindestens ein Nebensatz und eine Nominalisierung?",
+      "Umgangssprache ersetzt (Leute, Uni, Lust haben, machen …)?",
+      "Keine Wortwiederholungen am Satzanfang?",
+      "50–90 Wörter, ein zusammenhängender Absatz?"
+    ]
+  },
+  {
+    "id": "mini_umformen_07",
+    "typ": "umformen",
+    "ref": null,
+    "titel": "Umformen: Arbeiten im Homeoffice",
+    "aufgabe": "Schreibe die einfachen Sätze zu einem zusammenhängenden Absatz auf C1-Niveau um. Verbinde die Gedanken mit Konnektoren, nutze Nebensätze und Nominalstil und ersetze einfache oder umgangssprachliche Wörter durch präzise Ausdrücke. Der Inhalt bleibt gleich.",
+    "material": "Viele Leute arbeiten jetzt von zu Hause.\nDas ist praktisch.\nMan spart den Weg zur Arbeit.\nAber man sieht die Kollegen nicht mehr.\nManche fühlen sich allein.",
+    "woerter": [
+      50,
+      90
+    ],
+    "minuten": 12,
+    "tipps": [
+      "„praktisch“ ist zu ungenau → „bietet Vorteile“.",
+      "Zeige den Gegensatz mit „andererseits“ oder „allerdings“.",
+      "„sich allein fühlen“ → „sich isoliert fühlen“."
+    ],
+    "redemittel": [
+      "immer mehr Beschäftigte",
+      "unbestreitbare Vorteile bieten",
+      "…, da … entfällt",
+      "andererseits",
+      "weitgehend verloren gehen",
+      "weshalb …"
+    ],
+    "muster": "Seit einigen Jahren erledigen immer mehr Beschäftigte ihre Arbeit von zu Hause aus. Diese Arbeitsform bietet unbestreitbare Vorteile, da beispielsweise der tägliche Arbeitsweg entfällt und somit wertvolle Zeit gewonnen wird. Andererseits geht dabei der persönliche Kontakt zu Kolleginnen und Kollegen im Arbeitsalltag weitgehend verloren, weshalb sich manche Beschäftigte zunehmend isoliert fühlen.",
+    "checkliste": [
+      "Sind alle Informationen aus den einfachen Sätzen enthalten?",
+      "Verbinden Konnektoren die Gedanken (da, obwohl, infolgedessen, zumal …)?",
+      "Mindestens ein Nebensatz und eine Nominalisierung?",
+      "Umgangssprache ersetzt (Leute, Uni, Lust haben, machen …)?",
+      "Keine Wortwiederholungen am Satzanfang?",
+      "50–90 Wörter, ein zusammenhängender Absatz?"
+    ]
+  },
+  {
+    "id": "mini_umformen_08",
+    "typ": "umformen",
+    "ref": null,
+    "titel": "Umformen: Ernährung und Schule",
+    "aufgabe": "Schreibe die einfachen Sätze zu einem zusammenhängenden Absatz auf C1-Niveau um. Verbinde die Gedanken mit Konnektoren, nutze Nebensätze und Nominalstil und ersetze einfache oder umgangssprachliche Wörter durch präzise Ausdrücke. Der Inhalt bleibt gleich.",
+    "material": "Kinder essen oft ungesund.\nSie trinken viel Cola.\nSie essen wenig Obst und Gemüse.\nDie Schule kann helfen.\nMan kann im Biounterricht über Ernährung sprechen.",
+    "woerter": [
+      50,
+      90
+    ],
+    "minuten": 12,
+    "tipps": [
+      "Satz 2 und 3 passen in einen „Während …, …“-Satz.",
+      "„Cola“ → allgemeiner: „zuckerhaltige Getränke“.",
+      "„Bio“ → „Biologieunterricht“; „sprechen über“ → „vermitteln“."
+    ],
+    "redemittel": [
+      "alles andere als ausgewogen",
+      "während …",
+      "zu kurz kommen",
+      "in diesem Zusammenhang",
+      "jemandem kommt eine wichtige Rolle zu",
+      "die Gelegenheit bieten, … zu …"
+    ],
+    "muster": "Die Ernährung vieler Kinder ist alles andere als ausgewogen: Während sie große Mengen zuckerhaltiger Getränke zu sich nehmen, kommen Obst und Gemüse oft zu kurz. Der Schule kommt in diesem Zusammenhang eine wichtige Rolle zu. So bietet insbesondere der Biologieunterricht die Gelegenheit, den Zusammenhang zwischen Ernährung und Gesundheit anschaulich zu vermitteln und auf diese Weise ein gesünderes Essverhalten zu fördern.",
+    "checkliste": [
+      "Sind alle Informationen aus den einfachen Sätzen enthalten?",
+      "Verbinden Konnektoren die Gedanken (da, obwohl, infolgedessen, zumal …)?",
+      "Mindestens ein Nebensatz und eine Nominalisierung?",
+      "Umgangssprache ersetzt (Leute, Uni, Lust haben, machen …)?",
+      "Keine Wortwiederholungen am Satzanfang?",
+      "50–90 Wörter, ein zusammenhängender Absatz?"
+    ]
+  }
+]

@@ -3,6 +3,7 @@
   "tag": 1,
   "datum": "2026-11-12",
   "woche": 1,
+  "phase": 1,
   "titel": "Start: Wo stehe ich?",
   "schritte": [
    {
@@ -19,6 +20,7 @@
   "tag": 2,
   "datum": "2026-11-13",
   "woche": 1,
+  "phase": 1,
   "titel": "Konnektoren & Sprachbausteine",
   "schritte": [
    {
@@ -44,6 +46,7 @@
   "tag": 3,
   "datum": "2026-11-14",
   "woche": 1,
+  "phase": 1,
   "titel": "Präpositionen & Lesen Teil 1",
   "schritte": [
    {
@@ -69,6 +72,7 @@
   "tag": 4,
   "datum": "2026-11-15",
   "woche": 1,
+  "phase": 1,
   "titel": "Der erste eigene Text",
   "schritte": [
    {
@@ -90,7 +94,8 @@
   "tag": 5,
   "datum": "2026-11-16",
   "woche": 1,
-  "titel": "Passiv & Hören Teil 2",
+  "phase": 1,
+  "titel": "Passiv, Hören 2 & Schreiben",
   "schritte": [
    {
     "typ": "grammatik",
@@ -108,14 +113,24 @@
     "typ": "hoeren",
     "teil": "hv2",
     "modus": "uebung"
+   },
+   {
+    "typ": "schreiben_mini",
+    "art": "zitate"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "uebung"
    }
-  ]
+  ],
+  "hinweis": "Neu: Kurz-Schreibübung – die beiden Zitate mit eigenen Worten wiedergeben. Das bringt viele Punkte."
  },
  {
   "tag": 6,
   "datum": "2026-11-17",
   "woche": 1,
-  "titel": "Nomen-Verb-Verbindungen & Präsentieren",
+  "phase": 1,
+  "titel": "Nomen-Verb-Verbindungen, Lesen 2 & Präsentieren",
   "schritte": [
    {
     "typ": "grammatik",
@@ -137,6 +152,10 @@
    {
     "typ": "sprechen",
     "teil": "1a"
+   },
+   {
+    "typ": "schreiben_mini",
+    "art": "einleitung"
    }
   ]
  },
@@ -144,7 +163,8 @@
   "tag": 7,
   "datum": "2026-11-18",
   "woche": 1,
-  "titel": "Relativsätze & Vorlesungen",
+  "phase": 1,
+  "titel": "Relativsätze, Vorlesungen & Schreiben",
   "schritte": [
    {
     "typ": "grammatik",
@@ -164,7 +184,12 @@
     "modus": "uebung"
    },
    {
-    "typ": "fehler"
+    "typ": "schreiben_mini",
+    "art": "argument"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "uebung"
    }
   ]
  },
@@ -172,7 +197,8 @@
   "tag": 8,
   "datum": "2026-11-19",
   "woche": 2,
-  "titel": "Konjunktiv & SB unter Zeitdruck",
+  "phase": 2,
+  "titel": "Konjunktiv, SB unter Zeitdruck & Lesen 3",
   "schritte": [
    {
     "typ": "grammatik",
@@ -190,6 +216,10 @@
     "typ": "lesen",
     "teil": "lv3",
     "modus": "uebung"
+   },
+   {
+    "typ": "schreiben_mini",
+    "art": "gegenargument"
    }
   ]
  },
@@ -197,27 +227,34 @@
   "tag": 9,
   "datum": "2026-11-20",
   "woche": 2,
-  "titel": "Nominalisierung & Schreiben",
+  "phase": 2,
+  "titel": "Nominalisierung & 70 Minuten Schreiben",
   "schritte": [
    {
     "typ": "grammatik",
     "kategorie": "nominalisierung"
    },
    {
-    "typ": "schreiben",
-    "modus": "uebung"
+    "typ": "schreiben_mini",
+    "art": "umformen"
    },
    {
     "typ": "hoeren",
     "teil": "hv1",
     "modus": "pruefung"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "pruefung"
    }
-  ]
+  ],
+  "hinweis": "Wie in der Prüfung: 10 Min. planen, 50 Min. schreiben, 10 Min. korrigieren."
  },
  {
   "tag": 10,
   "datum": "2026-11-21",
   "woche": 2,
+  "phase": 2,
   "titel": "Partizipien & Prüfungstempo",
   "schritte": [
    {
@@ -237,6 +274,10 @@
     "typ": "lesen",
     "teil": "lv1",
     "modus": "pruefung"
+   },
+   {
+    "typ": "schreiben_mini",
+    "art": "schluss"
    }
   ]
  },
@@ -244,30 +285,108 @@
   "tag": 11,
   "datum": "2026-11-22",
   "woche": 2,
-  "titel": "Präsentation mit Anschlussfrage",
+  "phase": 2,
+  "titel": "Teiltest Lesen + SB & Präsentation",
+  "schritte": [
+   {
+    "typ": "strategie",
+    "teil": "zeitmanagement"
+   },
+   {
+    "typ": "teiltest",
+    "bereich": "lesen_sb"
+   },
+   {
+    "typ": "sprechen",
+    "teil": "1a"
+   }
+  ],
+  "hinweis": "90 Minuten am Stück – wie in der Prüfung."
+ },
+ {
+  "tag": 12,
+  "datum": "2026-11-23",
+  "woche": 2,
+  "phase": 2,
+  "titel": "Deklination, Diskussion & Schreiben",
   "schritte": [
    {
     "typ": "grammatik",
     "kategorie": "deklination"
    },
    {
-    "typ": "sprechen",
-    "teil": "1a"
+    "typ": "strategie",
+    "teil": "sprechen_2"
    },
    {
-    "typ": "redewendungen"
+    "typ": "sprechen",
+    "teil": "2"
+   },
+   {
+    "typ": "schreiben_mini",
+    "art": "zitate"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "uebung"
    }
   ]
  },
  {
-  "tag": 12,
-  "datum": "2026-11-23",
+  "tag": 13,
+  "datum": "2026-11-24",
   "woche": 2,
-  "titel": "Pronomen & Lesen/Hören",
+  "phase": 2,
+  "titel": "Pronomen & Teiltest Hören",
   "schritte": [
    {
     "typ": "grammatik",
     "kategorie": "pronomen"
+   },
+   {
+    "typ": "teiltest",
+    "bereich": "hoeren"
+   },
+   {
+    "typ": "schreiben_mini",
+    "art": "einleitung"
+   }
+  ]
+ },
+ {
+  "tag": 14,
+  "datum": "2026-11-25",
+  "woche": 2,
+  "phase": 2,
+  "titel": "Verbformen & 70 Minuten Schreiben",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "verbformen"
+   },
+   {
+    "typ": "schreiben_mini",
+    "art": "gegenargument"
+   },
+   {
+    "typ": "schreiben",
+    "modus": "pruefung"
+   },
+   {
+    "typ": "auto"
+   }
+  ]
+ },
+ {
+  "tag": 15,
+  "datum": "2026-11-26",
+  "woche": 3,
+  "phase": 3,
+  "titel": "Wortstellung, Lesen & Hören im Prüfungsmodus",
+  "schritte": [
+   {
+    "typ": "grammatik",
+    "kategorie": "wortstellung"
    },
    {
     "typ": "lesen",
@@ -278,55 +397,14 @@
     "typ": "hoeren",
     "teil": "hv3",
     "modus": "pruefung"
-   }
-  ]
- },
- {
-  "tag": 13,
-  "datum": "2026-11-24",
-  "woche": 2,
-  "titel": "Schreiben in 70 Minuten",
-  "schritte": [
-   {
-    "typ": "grammatik",
-    "kategorie": "wortstellung"
    },
    {
-    "typ": "schreiben",
-    "modus": "pruefung"
-   }
-  ],
-  "hinweis": "Wie in der Prüfung: 10 Min. planen, 50 Min. schreiben, 10 Min. korrigieren."
- },
- {
-  "tag": 14,
-  "datum": "2026-11-25",
-  "woche": 2,
-  "titel": "Teiltest Lesen + Sprachbausteine",
-  "schritte": [
-   {
-    "typ": "strategie",
-    "teil": "zeitmanagement"
+    "typ": "sprechen",
+    "teil": "2"
    },
    {
-    "typ": "teiltest",
-    "bereich": "lesen_sb"
-   }
-  ],
-  "hinweis": "90 Minuten am Stück – wie in der Prüfung."
- },
- {
-  "tag": 15,
-  "datum": "2026-11-26",
-  "woche": 3,
-  "titel": "Teiltest Hören",
-  "schritte": [
-   {
-    "typ": "teiltest",
-    "bereich": "hoeren"
-   },
-   {
-    "typ": "fehler"
+    "typ": "schreiben_mini",
+    "art": "argument"
    }
   ]
  },
@@ -334,143 +412,34 @@
   "tag": 16,
   "datum": "2026-11-27",
   "woche": 3,
-  "titel": "Diskutieren mit der KI-Partnerin",
+  "phase": 3,
+  "titel": "Schwachstellen & Schreiben",
   "schritte": [
    {
-    "typ": "strategie",
-    "teil": "sprechen_2"
-   },
-   {
-    "typ": "sprechen",
-    "teil": "2"
+    "typ": "auto"
    },
    {
     "typ": "auto"
-   }
-  ]
- },
- {
-  "tag": 17,
-  "datum": "2026-11-28",
-  "woche": 3,
-  "titel": "Schreiben & Schwachstellen",
-  "schritte": [
+   },
+   {
+    "typ": "schreiben_mini",
+    "art": "umformen"
+   },
    {
     "typ": "schreiben",
-    "modus": "pruefung"
-   },
-   {
-    "typ": "auto"
-   }
-  ]
- },
- {
-  "tag": 18,
-  "datum": "2026-11-29",
-  "woche": 3,
-  "titel": "Lesen/SB komplett + Präsentation",
-  "schritte": [
-   {
-    "typ": "teiltest",
-    "bereich": "lesen_sb"
-   },
-   {
-    "typ": "sprechen",
-    "teil": "1a"
-   }
-  ]
- },
- {
-  "tag": 19,
-  "datum": "2026-11-30",
-  "woche": 3,
-  "titel": "Hören komplett + Diskussion",
-  "schritte": [
-   {
-    "typ": "teiltest",
-    "bereich": "hoeren"
-   },
-   {
-    "typ": "sprechen",
-    "teil": "2"
-   }
-  ]
- },
- {
-  "tag": 20,
-  "datum": "2026-12-01",
-  "woche": 3,
-  "titel": "Schreiben & Sprachbausteine",
-  "schritte": [
-   {
-    "typ": "schreiben",
-    "modus": "pruefung"
-   },
-   {
-    "typ": "sb",
-    "modus": "pruefung"
-   }
-  ]
- },
- {
-  "tag": 21,
-  "datum": "2026-12-02",
-  "woche": 3,
-  "titel": "Fehler-Marathon",
-  "schritte": [
-   {
-    "typ": "auto"
-   },
-   {
-    "typ": "auto"
+    "modus": "uebung"
    },
    {
     "typ": "fehler"
    }
   ],
-  "hinweis": "Heute zählt nur eins: deine häufigsten Fehler."
+  "hinweis": "Heute zählt: deine häufigsten Fehler und ein ganzer Text."
  },
  {
-  "tag": 22,
-  "datum": "2026-12-03",
-  "woche": 4,
-  "titel": "Schwachstellen & Zeitmanagement",
-  "schritte": [
-   {
-    "typ": "strategie",
-    "teil": "zeitmanagement"
-   },
-   {
-    "typ": "auto"
-   },
-   {
-    "typ": "fehler"
-   }
-  ]
- },
- {
-  "tag": 23,
-  "datum": "2026-12-04",
-  "woche": 4,
-  "titel": "Mündlich in Form bringen",
-  "schritte": [
-   {
-    "typ": "sprechen",
-    "teil": "1a"
-   },
-   {
-    "typ": "sprechen",
-    "teil": "2"
-   },
-   {
-    "typ": "redewendungen"
-   }
-  ]
- },
- {
-  "tag": 24,
-  "datum": "2026-12-05",
-  "woche": 4,
+  "tag": 17,
+  "datum": "2026-11-28",
+  "woche": 3,
+  "phase": 3,
   "titel": "Generalprobe 1",
   "schritte": [
    {
@@ -478,13 +447,14 @@
     "nr": 1
    }
   ],
-  "hinweis": "Samstag: komplette Probeprüfung mit Originalzeiten (ca. 4,5 Std. inkl. Pause). Du kannst zwischen den Teilen pausieren."
+  "hinweis": "Komplette Probeprüfung mit Originalzeiten (ca. 4,5 Std. inkl. Pause). Du kannst zwischen den Teilen pausieren."
  },
  {
-  "tag": 25,
-  "datum": "2026-12-06",
-  "woche": 4,
-  "titel": "Auswertung Generalprobe 1",
+  "tag": 18,
+  "datum": "2026-11-29",
+  "woche": 3,
+  "phase": 3,
+  "titel": "Auswertung & 70 Minuten Schreiben",
   "schritte": [
    {
     "typ": "fehler"
@@ -493,18 +463,8 @@
     "typ": "auto"
    },
    {
-    "typ": "auto"
-   }
-  ]
- },
- {
-  "tag": 26,
-  "datum": "2026-12-07",
-  "woche": 4,
-  "titel": "Gezielt nachschärfen",
-  "schritte": [
-   {
-    "typ": "auto"
+    "typ": "schreiben_mini",
+    "art": "schluss"
    },
    {
     "typ": "schreiben",
@@ -513,9 +473,10 @@
   ]
  },
  {
-  "tag": 27,
-  "datum": "2026-12-08",
-  "woche": 4,
+  "tag": 19,
+  "datum": "2026-11-30",
+  "woche": 3,
+  "phase": 3,
   "titel": "Generalprobe 2 – schriftlich",
   "schritte": [
    {
@@ -524,13 +485,14 @@
     "teil": "schriftlich"
    }
   ],
-  "hinweis": "Plane dir heute Zeit ein (ca. 3,5 Std.). Wenn das nicht geht: Teile auf heute und morgen verteilen."
+  "hinweis": "Plane ca. 3,5 Std. ein. Wenn das nicht geht: Teile auf heute und morgen verteilen."
  },
  {
-  "tag": 28,
-  "datum": "2026-12-09",
-  "woche": 4,
-  "titel": "Generalprobe 2 – mündlich",
+  "tag": 20,
+  "datum": "2026-12-01",
+  "woche": 3,
+  "phase": 3,
+  "titel": "Generalprobe 2 – mündlich & Abschluss",
   "schritte": [
    {
     "typ": "generalprobe",
@@ -539,41 +501,12 @@
    },
    {
     "typ": "fehler"
-   }
-  ]
- },
- {
-  "tag": 29,
-  "datum": "2026-12-10",
-  "woche": 4,
-  "titel": "Leicht: Wiederholen",
-  "schritte": [
-   {
-    "typ": "redewendungen"
    },
    {
-    "typ": "strategie",
-    "teil": "ueberblick"
-   },
-   {
-    "typ": "fehler"
+    "typ": "schreiben_mini",
+    "art": "einleitung"
    }
   ],
-  "hinweis": "Nur noch wiederholen – nichts Neues."
- },
- {
-  "tag": 30,
-  "datum": "2026-12-11",
-  "woche": 4,
-  "titel": "Leicht: Bereit für morgen",
-  "schritte": [
-   {
-    "typ": "checkliste"
-   },
-   {
-    "typ": "redewendungen"
-   }
-  ],
-  "hinweis": "Kurz und entspannt. Tasche packen, früh schlafen. Du schaffst das! 💪"
+  "hinweis": "Letzter Tag des Lernpfads! Danach geht es mit dem Endspurt weiter."
  }
 ]

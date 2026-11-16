@@ -2,7 +2,7 @@
 // KI-Bewertung nach den 4 telc-Kriterien (A/B/C/D = 12/8/4/0), markierte Fehler, verbesserte Version.
 // Ohne KI: Musterlösung + Checkliste mit ehrlicher Selbsteinschätzung.
 import { h, clear, md, esc, Timer, fmtTime, confirmBox, toast } from "./ui.js";
-import { thinking } from "./mascot.js";
+import { thinking, mascot } from "./mascot.js";
 import { load } from "./content.js";
 import { store } from "./store.js";
 import { db } from "./db.js";
@@ -254,4 +254,117 @@ function selfAssess(el, task, rec, reason) {
 
 export async function writingTasks() {
   return load("schreiben");
+}
+
+// ---------------- Kurz-Schreibübungen (10–15 Min.) ----------------
+// Trainieren gezielt die Bausteine eines Prüfungstextes: Einleitung, Zitate wiedergeben, Argument, Gegenargument, Schluss, Umformen.
+export const MINI_TYPEN = {
+  einleitung: "Einleitung schreiben",
+  zitate: "Die zwei Aussagen wiedergeben",
+  argument: "Ein Argument ausführen",
+  gegenargument: "Gegenargument entkräften",
+  schluss: "Schluss schreiben",
+  umformen: "Einfach → C1 umformen",
+};
+
+export async function pickMini(art) {
+  const all = await load("schreiben_mini");
+  const list = (Array.isArray(all) ? all : []).filter((x) => !art || x.typ === art);
+  if (!list.length) return null;
+  const last = (id) => Math.max(0, ...store.attempts.filter((a) => a.itemId === id).map((a) => a.t));
+  return [...list].sort((a, b) => last(a.id) - last(b.id) || Math.random() - 0.5)[0];
+}
+
+export function miniSchreiben(el, item) {
+  return new Promise(async (resolve) => {
+    clear(el);
+    const tasks = [...(await load("schreiben"))];
+    const task = item.ref ? tasks.find((t) => t.id === item.ref) : null;
+    const [minW, maxW] = item.woerter || [50, 100];
+    const draftKey = "draft." + item.id;
+    const ta = h("textarea.writing.short", { placeholder: "Schreibe hier … (Absätze mit Leerzeile)", spellcheck: false, autocorrect: "off" });
+    ta.value = (await db.kvGet(draftKey, "")) || "";
+    const wc = h("span.wc");
+    const timerEl = h("span.timer");
+    const upd = () => { const n = wordCount(ta.value); wc.textContent = `${n} Wörter (Ziel ${minW}–${maxW})`; wc.classList.toggle("ok", n >= minW); };
+    let saveT = null;
+    ta.addEventListener("input", () => { upd(); clearTimeout(saveT); saveT = setTimeout(() => db.kvSet(draftKey, ta.value), 600); });
+    upd();
+    const timer = new Timer({ seconds: (item.minuten || 12) * 60, mode: "down", onTick: (v) => { timerEl.textContent = "⏱ " + fmtTime(v); timerEl.classList.toggle("warn", v < 60); }, onEnd: () => toast("Zeit ist um – schreib den Satz zu Ende und gib ab.") });
+    timer.start();
+    const insert = (txt) => {
+      const s = ta.selectionStart ?? ta.value.length;
+      const before = ta.value.slice(0, s);
+      const sep = before && !/\s$/.test(before) ? " " : "";
+      ta.value = before + sep + txt + " " + ta.value.slice(ta.selectionEnd ?? s);
+      ta.focus();
+      ta.dispatchEvent(new Event("input"));
+    };
+    el.append(
+      h("div.ex-head", h("button.icon-btn", { onclick: async () => { if (await confirmBox("Pause?", "Dein Entwurf bleibt gespeichert.", "Verlassen", "Weiterschreiben")) { timer.stop(); resolve({ aborted: true }); } } }, "✕"),
+        h("div", h("strong", "Kurz-Schreiben"), h("div.muted.small", MINI_TYPEN[item.typ] || item.titel)), timerEl),
+      h("div.task-box", h("div.chip", MINI_TYPEN[item.typ] || item.typ), h("h3", item.titel), h("p", { html: md(item.aufgabe) }),
+        item.material ? h("div.material", item.material.split("\n").map((l) => h("p", l))) : null),
+      task ? h("details.task-details", h("summary", "Die ganze Prüfungsaufgabe anzeigen"), h("p", task.situation), task.zitate.map((z) => h("blockquote", "„" + z.text + "“", h("cite", z.person))), h("p", h("strong", task.anweisung))) : null,
+      item.tipps?.length ? h("details.tips", h("summary", "💡 Tipps"), h("ul", item.tipps.map((t) => h("li", { html: md(t) })))) : null,
+      item.redemittel?.length ? h("div.baukasten", h("div.small.muted", "Redemittel (antippen zum Einfügen):"), h("div.rm-list", item.redemittel.map((r) => h("button.rm", { onclick: () => insert(r.replace(/\s*…\s*$/, "")) }, r)))) : null,
+      ta,
+      h("div.ex-foot", wc, h("button.btn.primary", { onclick: () => submit() }, "Abgeben")));
+
+    async function submit() {
+      const text = ta.value.trim();
+      const n = wordCount(text);
+      if (n < 15) return toast("Bitte erst ein paar Sätze schreiben.");
+      timer.stop();
+      const sec = Math.round(timer.elapsed);
+      await db.kvDel(draftKey);
+      const av = await ai.available();
+      if (av.ok) {
+        clear(el).append(thinking(h("p", "Tarsi liest deinen Text …")));
+        try {
+          const { data: r, usd } = await ai.call({
+            system: `Du bist eine erfahrene telc-Bewerterin (C1 Hochschule) und freundliche Lehrerin. ${learnerContext()} Die Lernerin übt einen BAUSTEIN eines Prüfungstextes (Erörterung/Stellungnahme). Bewerte nur diesen Baustein: Erfüllt er die Aufgabe? Ist er korrekt, präzise, auf C1-Niveau, gut verknüpft? Rückmeldungen auf Deutsch, einfach (B1/B2), konkret, freundlich. "fehler": die wichtigsten 3–10 Fehler; "zitat" muss EXAKT im Text vorkommen (2–8 Wörter). "verbesserte_version": derselbe Baustein auf sicherem C1-Niveau, Inhalt der Lernerin beibehalten.`,
+            messages: [{ role: "user", content: `ÜBUNG: ${MINI_TYPEN[item.typ]} – ${item.titel}\nAUFGABE: ${item.aufgabe}\n${item.material ? "MATERIAL:\n" + item.material + "\n" : ""}${task ? `PRÜFUNGSAUFGABE: ${task.situation} Zitat 1: „${task.zitate[0].text}“ (${task.zitate[0].person}). Zitat 2: „${task.zitate[1].text}“ (${task.zitate[1].person}). ${task.anweisung}\n` : ""}WORTZIEL: ${minW}–${maxW}\n\nTEXT DER LERNERIN (${n} Wörter):\n"""\n${text}\n"""` }],
+            schema: S.obj({ urteil: S.enm("gut", "teilweise", "noch_nicht"), staerken: S.arr(S.str), verbesserungen: S.arr(S.str), fehler: S.arr(S.obj({ zitat: S.str, korrektur: S.str, kategorie: S.enm(...FEHLER_KAT), erklaerung: S.str })), verbesserte_version: S.str }),
+            maxTokens: 8000,
+          });
+          for (const f of r.fehler) await store.addError({ modul: "schreiben", kategorie: f.kategorie, itemRef: `${item.id}#${f.zitat}`, frage: `Korrigiere die Stelle aus deinem Text:\n„${f.zitat}“`, richtig: f.korrektur, gegeben: f.zitat, erklaerung: f.erklaerung, typ: "input" });
+          const score = { gut: 2, teilweise: 1, noch_nicht: 0 }[r.urteil];
+          await store.addAttempt({ modul: "schreiben", teil: "mini", itemId: item.id, score, max: 2, sec, xp: 15, meta: { mini: item.typ, ohneWertung: true, ki: true } });
+          await store.saveText({ typ: "schreiben_mini", aufgabeId: item.id, text, woerter: n, sec, feedback: { quelle: "ki", ...r } });
+          const tip = h("div.mark-tip.hidden");
+          const tb = h("div.marked-text", { html: highlight(text, r.fehler) });
+          tb.addEventListener("click", (e) => { const m = e.target.closest("mark"); if (!m) return; const f = r.fehler[+m.dataset.i]; clear(tip).classList.remove("hidden"); tip.append(h("strong", "„" + f.zitat + "“ → „" + f.korrektur + "“"), h("div.small", (KATEGORIEN[f.kategorie] || f.kategorie) + ": " + f.erklaerung)); });
+          clear(el).append(
+            h("div.ex-head", h("span"), h("strong", "Feedback"), h("span")),
+            h("div.feedback" + (r.urteil === "gut" ? ".ok" : ".no"), h("div.fb-head", mascot(r.urteil === "gut" ? "cheer" : r.urteil === "teilweise" ? "happy" : "think", 54), h("div.fb-title", { gut: "Stark! Dieser Baustein sitzt.", teilweise: "Gute Basis – mit ein paar Verbesserungen wird es C1.", noch_nicht: "Hier lohnt sich noch Übung – schau dir die Tipps an." }[r.urteil])), h("div.xp-pill", "+15 XP")),
+            r.staerken?.length ? h("div.card.ok", h("strong", "👍 Gelungen"), h("ul", r.staerken.map((x) => h("li", x)))) : null,
+            r.verbesserungen?.length ? h("div.card", h("strong", "🎯 Besser machen"), h("ul", r.verbesserungen.map((x) => h("li", x)))) : null,
+            h("h3", `Dein Text – ${r.fehler.length} markierte Stellen (antippen)`), tip, tb,
+            h("details", { open: true }, h("summary", "✨ Verbesserte Version"), h("div.model-text", { html: md(r.verbesserte_version) })),
+            h("details", h("summary", "📄 Musterlösung"), h("div.model-text", { html: md(item.muster || "") })),
+            usd != null ? h("p.small.muted", `Kosten: ca. ${usd.toFixed(3)} $`) : null,
+            h("button.btn.primary.wide", { onclick: () => resolve({ score, max: 2, xp: 15 }) }, "Weiter"));
+          return;
+        } catch (e) {
+          toast(e instanceof AiUnavailable ? e.message : "KI-Feedback nicht möglich");
+        }
+      }
+      // Ohne KI: Muster + Checkliste
+      clear(el);
+      const checks = (item.checkliste || []).map((c) => h("label.check", h("input", { type: "checkbox" }), h("span", c)));
+      el.append(h("div.ex-head", h("span"), h("strong", "Selbstkontrolle"), h("span")),
+        av.ok ? null : h("p.callout", av.msg),
+        h("details", { open: true }, h("summary", "Dein Text"), h("div.model-text", { html: md(text) })),
+        h("details", { open: true }, h("summary", "📄 Musterlösung"), h("div.model-text", { html: md(item.muster || "") })),
+        h("h3", "Checkliste"), h("div.checks", checks),
+        h("button.btn.primary.wide", { onclick: async () => {
+          const k = checks.filter((c) => c.querySelector("input").checked).length;
+          const score = k >= checks.length - 1 ? 2 : k >= checks.length / 2 ? 1 : 0;
+          await store.addAttempt({ modul: "schreiben", teil: "mini", itemId: item.id, score, max: 2, sec, xp: 12, meta: { mini: item.typ, ohneWertung: true, selbst: true } });
+          await store.saveText({ typ: "schreiben_mini", aufgabeId: item.id, text, woerter: n, sec, feedback: { quelle: "selbst", punkte: score } });
+          resolve({ score, max: 2, xp: 12 });
+        } }, "Speichern"));
+    }
+  });
 }

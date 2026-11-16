@@ -1,0 +1,662 @@
+[
+  {
+    "id": "sa17",
+    "paar": "P9",
+    "thema": "ki_digitalisierung",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Prüfen im digitalen Zeitalter“ schreiben Sie eine Erörterung: Sollen Hausarbeiten wegen KI durch mündliche Prüfungen ersetzt werden?",
+    "zitate": [
+      {
+        "text": "Eine Hausarbeit beweist heute nur noch, dass jemand einen Chatbot bedienen kann.",
+        "person": "Dr. Jonas Wehrmann, Dozent für Politikwissenschaft"
+      },
+      {
+        "text": "Wer keine langen Texte mehr selbst schreibt, verlernt das gründliche Denken.",
+        "person": "Aylin T., Studentin der Germanistik"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "KI-Programme schreiben in Sekunden Texte, die kaum von menschlichen Texten zu unterscheiden sind.",
+      "Programme zur Erkennung von KI-Texten sind unzuverlässig und führen zu falschen Verdächtigungen.",
+      "In einer mündlichen Prüfung zeigt sich sofort, ob jemand ein Thema wirklich verstanden hat.",
+      "Frei und überzeugend argumentieren zu können, ist in vielen Berufen wichtig.",
+      "Der Aufwand für die Korrektur steht in keinem Verhältnis mehr zur Aussagekraft einer Hausarbeit."
+    ],
+    "ideen_contra": [
+      "Schreiben ist eine Form des Denkens: Beim Schreiben ordnet und prüft man seine Gedanken.",
+      "Recherchieren, Zitieren und Argumentieren über viele Seiten lernt man nur durch Übung.",
+      "Mündliche Prüfungen benachteiligen nervöse Studierende und Studierende, die nicht in ihrer Erstsprache studieren.",
+      "Einzelprüfungen für Hunderte Studierende kosten viel Personal und Zeit.",
+      "Die Abschlussarbeit bleibt schriftlich – ohne vorherige Übung scheitern viele daran."
+    ],
+    "gliederung": [
+      "Einleitung: KI-Werkzeuge im Studium alltäglich, Zweifel an der Aussagekraft von Hausarbeiten, Leitfrage",
+      "Hauptteil 1: Argumente für mündliche Prüfungen mit Bezug auf Dr. Wehrmann (Echtheit, Verständnis, unzuverlässige Erkennungsprogramme)",
+      "Hauptteil 2: Argumente für die Hausarbeit mit Bezug auf Aylin T. (Schreiben als Denken, wissenschaftliches Arbeiten, Fairness, Aufwand)",
+      "Hauptteil 3: eigene Abwägung – schriftliche Arbeit plus kurze mündliche Verteidigung",
+      "Schluss: Fazit (weiterentwickeln statt abschaffen) und Ausblick"
+    ],
+    "musterloesung": "Seit Programme wie ChatGPT in wenigen Sekunden ganze Seminararbeiten formulieren können, steht eine traditionsreiche Prüfungsform unter Druck: die Hausarbeit. Aktuellen Befragungen zufolge nutzt inzwischen fast die Hälfte der Studierenden täglich KI-Werkzeuge. Manche Lehrende ziehen daraus den Schluss, Hausarbeiten vollständig durch mündliche Prüfungen zu ersetzen. Ob dieser radikale Schritt sinnvoll ist, möchte ich im Folgenden erörtern.\n\nFür eine solche Reform argumentiert der Politikwissenschaftler Jonas Wehrmann. Seiner Ansicht nach beweise eine Hausarbeit heute nur noch, dass jemand einen Chatbot bedienen könne. Diese zugespitzte These hat durchaus einen wahren Kern. Da sich KI-generierte Texte kaum noch von menschlichen unterscheiden lassen, können Lehrende nicht mehr sicher beurteilen, wer eine Arbeit tatsächlich verfasst hat. Erkennungsprogramme helfen dabei wenig, denn sie liefern häufig falsche Ergebnisse und bringen ehrliche Studierende unter Verdacht. In einer mündlichen Prüfung hingegen zeigt sich unmittelbar, ob jemand ein Thema durchdrungen hat: Wer auf Nachfragen keine Antwort weiß, kann sich nicht hinter einem glatten Text verstecken. Hinzu kommt, dass die Fähigkeit, frei und überzeugend zu argumentieren, in fast allen akademischen Berufen gefragt ist.\n\nDem hält die Germanistikstudentin Aylin T. entgegen, dass man das gründliche Denken verlerne, wenn man keine langen Texte mehr selbst schreibe. Auch dieses Argument wiegt schwer. Wer eine Hausarbeit verfasst, muss Quellen recherchieren, Thesen entwickeln und einen Gedankengang über viele Seiten hinweg schlüssig aufbauen. Gerade beim Schreiben merkt man oft erst, wo die eigene Argumentation Lücken aufweist. Würde man diese Übung abschaffen, stünden viele Studierende spätestens bei ihrer Bachelorarbeit ohne Erfahrung da. Außerdem sind mündliche Prüfungen nicht automatisch gerechter. Nervöse Menschen oder Studierende, die nicht in ihrer Erstsprache studieren, schneiden dort häufig schlechter ab, als es ihrem Wissen entspricht. Nicht zuletzt wäre der organisatorische Aufwand enorm, wenn Hunderte Studierende einzeln geprüft werden müssten.\n\nMeines Erachtens führt die Alternative „Hausarbeit oder mündliche Prüfung“ in die Irre. Sinnvoller wäre es, beide Formen miteinander zu verbinden. Studierende könnten weiterhin eine schriftliche Arbeit anfertigen und dabei offenlegen, ob und wie sie KI genutzt haben. Anschließend müssten sie ihre Ergebnisse in einem kurzen Kolloquium von etwa fünfzehn Minuten verteidigen. Auf diese Weise bliebe der Schreibprozess als Lernchance erhalten, während das Gespräch zeigt, ob die Gedanken tatsächlich von der Person selbst stammen.\n\nZusammenfassend lässt sich festhalten, dass die Hausarbeit in ihrer bisherigen Form tatsächlich an Aussagekraft verloren hat. Sie deshalb ganz abzuschaffen, hielte ich jedoch für voreilig. Statt eine bewährte Prüfungsform aufzugeben, sollten Hochschulen sie weiterentwickeln und damit zeigen, dass sie auf technische Veränderungen mit Augenmaß reagieren können.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Wehrmann und Aylin T. mit eigenen Worten wiedergegeben?",
+      "Inhalt: Ist mein Standpunkt (abschaffen, beibehalten oder verbinden) im Schluss klar erkennbar?",
+      "Inhalt: Habe ich konkrete Beispiele genannt (z. B. Erkennungsprogramme, Bachelorarbeit, nervöse Prüflinge)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I in der indirekten Rede richtig (z. B. „eine Hausarbeit beweise“, „man verlerne“)?",
+      "Korrektheit: Konjunktiv II bei irrealen Folgen richtig (z. B. „Würde man … abschaffen, stünden viele … da“)?",
+      "Wortschatz: Habe ich Wiederholungen vermieden (z. B. Hausarbeit, schriftliche Arbeit, Prüfungsform abwechselnd)?",
+      "Wortschatz: Mindestens eine feste Wendung (z. B. „einen wahren Kern haben“, „in die Irre führen“, „mit Augenmaß“)?",
+      "Aufbau: Sind Einleitung, zwei Gegenpositionen, eigene Abwägung und Schluss als Absätze erkennbar?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. da, hingegen, hinzu kommt, außerdem, während)?"
+    ]
+  },
+  {
+    "id": "sa18",
+    "paar": "P9",
+    "thema": "bildung_hochschule",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Ihre Praktikumsschule plant ein Handyverbot für alle Klassen, auch in den Pausen. Für die Fachschaftszeitschrift Lehramt nehmen Sie Stellung.",
+    "zitate": [
+      {
+        "text": "Seit dem Verbot reden die Kinder in der Pause wieder miteinander. Das ist unbezahlbar.",
+        "person": "Martina Gössling, Schulleiterin einer Gesamtschule"
+      },
+      {
+        "text": "Ein Verbot löst nichts. Medienkompetenz lernt man nur im Umgang mit Medien.",
+        "person": "Dr. Kai Brömmel, Medienpädagoge"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Gehen Sie auf beide Aussagen ein, begründen Sie Ihre Position mit Beispielen und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Ohne Smartphone gibt es weniger Ablenkung im Unterricht.",
+      "In den Pausen bewegen sich Kinder mehr und sprechen miteinander.",
+      "Heimliche Fotos, Videos und Cybermobbing werden seltener.",
+      "Eine klare Regel erspart Lehrkräften ständige Einzeldiskussionen.",
+      "Viele Schulen berichten nach einem Verbot von einem ruhigeren Schulklima."
+    ],
+    "ideen_contra": [
+      "Medienkompetenz entsteht durch begleitete Nutzung, nicht durch Verbote.",
+      "Im Unterricht ist das Smartphone ein nützliches Werkzeug (Recherche, Messungen, Apps zur Artbestimmung).",
+      "Studien zur Wirkung von Handyverboten auf die Leistungen kommen zu unterschiedlichen Ergebnissen.",
+      "Das Problem verlagert sich nur in die Freizeit.",
+      "Ältere Schülerinnen und Schüler empfinden ein Totalverbot als Bevormundung."
+    ],
+    "gliederung": [
+      "Einleitung: Debatte über Handyverbote nach den PISA-Ergebnissen, Plan der Praktikumsschule, eigene Rolle als angehende Biologielehrerin",
+      "Hauptteil 1: Position Gössling – Pausenkultur, Schutz vor heimlichen Aufnahmen, Entlastung der Lehrkräfte",
+      "Hauptteil 2: Position Brömmel – Medienkompetenz, Smartphone als Werkzeug im Biologieunterricht, Problem verlagert sich",
+      "Hauptteil 3: eigener Vorschlag – Stufenmodell (Pausen und Unterstufe handyfrei, gezielter Einsatz im Unterricht, Eigenverantwortung in der Oberstufe)",
+      "Schluss: Fazit (klare Regeln ja, Totalverbot nein) und Appell an die Schulkonferenz"
+    ],
+    "musterloesung": "Kaum ein schulpolitisches Thema wird zurzeit so leidenschaftlich diskutiert wie die private Nutzung von Smartphones an Schulen. Nach den enttäuschenden PISA-Ergebnissen haben mehrere Bundesländer strengere Regeln beschlossen, und auch meine Praktikumsschule plant nun ein vollständiges Verbot, das selbst in den Pausen gelten soll. Als angehende Biologielehrerin möchte ich zu diesem Vorhaben Stellung nehmen.\n\nDie Schulleiterin Martina Gössling berichtet, dass die Kinder an ihrer Schule seit dem Verbot in den Pausen wieder miteinander redeten, was sie für unbezahlbar halte. Diese Beobachtung deckt sich mit den Erfahrungen vieler Schulen. Wenn die Geräte im Spind bleiben, spielen die Jüngeren wieder Fußball, und die Älteren unterhalten sich, statt nebeneinander auf Bildschirme zu starren. Darüber hinaus sinkt die Gefahr, dass heimlich Fotos von Mitschülern oder Lehrkräften aufgenommen und in Klassenchats verbreitet werden. Nicht zu unterschätzen ist auch die Entlastung für das Kollegium: Eine klare Regel erspart Lehrkräften zahllose Diskussionen darüber, ob ein kurzer Blick auf das Display gerade erlaubt ist.\n\nDemgegenüber gibt der Medienpädagoge Kai Brömmel zu bedenken, dass ein Verbot nichts löse, weil man Medienkompetenz nur im Umgang mit Medien erwerbe. Dieser Einwand überzeugt mich ebenfalls, und zwar gerade aus der Sicht meines Faches. Im Biologieunterricht kann das Smartphone ein hervorragendes Werkzeug sein: Schülerinnen und Schüler bestimmen bei einer Exkursion Pflanzen mit einer App, messen die Lichtstärke im Wald oder filmen ein Experiment, um es anschließend genau auszuwerten. Ein Totalverbot würde solche Lerngelegenheiten verhindern. Hinzu kommt, dass Jugendliche nach Schulschluss ohnehin stundenlang online sind. Wenn sie in der Schule nie lernen, Quellen zu prüfen oder ihre Bildschirmzeit bewusst zu steuern, verlagert sich das Problem lediglich in die Freizeit.\n\nAus meiner Sicht sollte die Schule daher kein starres Verbot beschließen, sondern ein abgestuftes Modell. In den Pausen und in den Klassen fünf bis sieben halte ich eine handyfreie Schule für richtig, da jüngere Kinder besonders leicht abgelenkt werden. Im Unterricht dagegen sollte die Lehrkraft entscheiden dürfen, das Gerät gezielt einzusetzen. In der Oberstufe wiederum könnte man den Jugendlichen mehr Eigenverantwortung zutrauen, etwa durch Regeln, die gemeinsam mit der Schülervertretung vereinbart werden. Auf diese Weise ließen sich die Vorteile beider Positionen nutzen, ohne ihre Nachteile in Kauf nehmen zu müssen.\n\nAlles in allem begrüße ich, dass meine Praktikumsschule das Thema ernst nimmt. Ein Totalverbot greift jedoch zu kurz. Ich appelliere daher an die Schulkonferenz, Schutz und Bildung miteinander zu verbinden: klare Grenzen dort, wo Smartphones schaden, und eine sinnvolle Nutzung dort, wo sie das Lernen bereichern.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Frau Gössling und Dr. Brömmel mit eigenen Worten wiedergegeben?",
+      "Inhalt: Wird klar, ob ich für, gegen oder für ein eingeschränktes Verbot bin?",
+      "Inhalt: Habe ich ein Beispiel aus dem eigenen Fach gebracht (z. B. Pflanzen-App bei einer Exkursion)?",
+      "Inhalt: Passt der Text zur Fachschaftszeitschrift (persönlich, aber sachlich; mit Appell am Ende)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I bzw. Ersatzform richtig (z. B. „ein Verbot löse“, „die Kinder redeten“)?",
+      "Korrektheit: Komma vor „statt … zu“ und „um … zu“ (z. B. „…, statt auf Bildschirme zu starren“)?",
+      "Wortschatz: Habe ich Wörter wie „Medienkompetenz“, „Bevormundung“, „Eigenverantwortung“ benutzt?",
+      "Aufbau: Leiten klare Übergänge die Absätze ein (z. B. „Demgegenüber gibt … zu bedenken“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. darüber hinaus, hinzu kommt, daher, wiederum, jedoch)?"
+    ]
+  },
+  {
+    "id": "sa19",
+    "paar": "P10",
+    "thema": "wohnen_stadt",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Das Studierendenwerk will Wohnheimplätze künftig vorrangig an internationale Studierende vergeben. In der Campuszeitung nehmen Sie dazu Stellung.",
+    "zitate": [
+      {
+        "text": "Wer aus dem Ausland kommt, hat hier keine Familie und kaum Chancen auf dem Wohnungsmarkt.",
+        "person": "Elena V., Beraterin im International Office"
+      },
+      {
+        "text": "Auch deutsche Studierende aus armen Familien finden kein Zimmer. Bedürftigkeit muss zählen, nicht Herkunft.",
+        "person": "Lukas R., Sprecher des AStA"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Gehen Sie auf beide Aussagen ein, begründen Sie Ihre Position mit Beispielen und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Internationale Studierende können Wohnungen oft nicht vorher besichtigen und haben keine Bürgschaft der Eltern.",
+      "Ohne Wohnung keine Meldeadresse – und ohne Meldeadresse oft kein Bankkonto und kein Aufenthaltstitel.",
+      "Auf dem privaten Wohnungsmarkt erleben sie häufig Diskriminierung.",
+      "Hochschulen werben gezielt um internationale Talente und tragen Verantwortung für sie.",
+      "Im Wohnheim entstehen schnell Kontakte, die das Ankommen erleichtern."
+    ],
+    "ideen_contra": [
+      "Auch viele inländische Studierende aus einkommensschwachen Familien können sich kein WG-Zimmer leisten.",
+      "Eine Bevorzugung nach Herkunft wird als ungerecht empfunden und kann Vorurteile verstärken.",
+      "Reine „internationale“ Wohnheime fördern Abschottung statt Austausch.",
+      "Das eigentliche Problem ist, dass es insgesamt zu wenige Wohnheimplätze gibt.",
+      "Kriterien wie Einkommen, Entfernung zum Heimatort und Lebenslage sind gerechter."
+    ],
+    "gliederung": [
+      "Einleitung: Wohnungsnot zu Semesterbeginn, hohe Mieten für WG-Zimmer, Vorschlag des Studierendenwerks",
+      "Hauptteil 1: Position Elena V. – besondere Hürden für internationale Studierende (Besichtigung, Bürgschaft, Meldeadresse) mit Beispiel",
+      "Hauptteil 2: Position Lukas R. – Bedürftigkeit, Gerechtigkeit, Gefahr der Abschottung",
+      "Hauptteil 3: eigener Vorschlag – Kontingent im ersten Studienjahr plus Punktesystem nach Bedürftigkeit, gemischte Belegung",
+      "Schluss: Fazit und Forderung nach mehr Wohnheimbau"
+    ],
+    "musterloesung": "Zu Beginn jedes Wintersemesters wiederholt sich in deutschen Hochschulstädten dasselbe Bild: Studierende übernachten bei Bekannten, in Hostels oder sogar in Notunterkünften, weil sie kein bezahlbares Zimmer gefunden haben. Ein WG-Zimmer kostet inzwischen im Durchschnitt mehr als 500 Euro im Monat. Vor diesem Hintergrund schlägt unser Studierendenwerk vor, Wohnheimplätze künftig vorrangig an internationale Studierende zu vergeben. Zu diesem Vorschlag möchte ich hier Stellung beziehen.\n\nElena V. vom International Office begründet den Vorschlag damit, dass Studierende aus dem Ausland hier keine Familie hätten und auf dem Wohnungsmarkt kaum Chancen besäßen. Aus eigener Anschauung kann ich das bestätigen. Eine Kommilitonin aus Kolumbien hat im vergangenen Jahr über sechzig Anfragen verschickt, bevor sie überhaupt eine Besichtigung bekam – per Videoanruf, da sie sich noch in Bogotá befand. Vermieter verlangen häufig eine Bürgschaft der Eltern oder einen Einkommensnachweis, den internationale Studierende kaum vorlegen können. Erschwerend kommt hinzu, dass man ohne Meldeadresse in Deutschland oft weder ein Bankkonto eröffnen noch einen Aufenthaltstitel beantragen kann. Wer also international um Talente wirbt, muss ihnen meiner Ansicht nach auch einen realistischen Start ermöglichen.\n\nAndererseits gibt AStA-Sprecher Lukas R. zu bedenken, dass auch deutsche Studierende aus armen Familien keine Unterkunft fänden. Seiner Meinung nach müsse deshalb die Bedürftigkeit entscheiden, nicht die Herkunft. Auch dieser Einwand ist berechtigt. Eine Erstsemesterin aus einem Dorf in der Eifel, deren Eltern ihr Studium nicht finanzieren können, hat ebenfalls kaum Aussichten auf ein bezahlbares Zimmer. Würde man sie allein wegen ihres Passes zurückstellen, empfänden viele das als ungerecht, was wiederum Vorurteile gegenüber internationalen Studierenden verstärken könnte. Zudem besteht die Gefahr, dass Wohnheime zu „internationalen Inseln“ werden, in denen kaum Kontakt zu deutschen Kommilitoninnen und Kommilitonen entsteht.\n\nIch plädiere daher für einen Kompromiss. Ein festes Kontingent von etwa einem Drittel der Plätze sollte für internationale Studierende im ersten Studienjahr reserviert werden, weil sie gerade in dieser Phase besondere Hürden überwinden müssen. Die übrigen Zimmer sollten nach einem transparenten Punktesystem vergeben werden, das Einkommen, Entfernung zum Heimatort und besondere Lebenslagen berücksichtigt. Ein solches Verfahren wäre für alle nachvollziehbar und würde dem Vorwurf der Bevorzugung den Boden entziehen. Eine gemischte Belegung der Flure würde zugleich den Austausch fördern.\n\nInsgesamt halte ich den Vorschlag des Studierendenwerks für gut gemeint, aber zu einseitig. Langfristig lässt sich der Konflikt ohnehin nur lösen, wenn Bund, Länder und Hochschulen deutlich mehr Wohnheimplätze schaffen. Solange das nicht geschieht, verteilen wir lediglich den Mangel – und das sollte wenigstens gerecht geschehen.",
+    "checkliste": [
+      "Inhalt: Habe ich die Positionen von Elena V. und Lukas R. mit eigenen Worten wiedergegeben?",
+      "Inhalt: Ist mein eigener Vorschlag konkret (z. B. Kontingent, Punktesystem)?",
+      "Inhalt: Habe ich mindestens ein anschauliches Beispiel erzählt (z. B. Wohnungssuche per Videoanruf)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv in der indirekten Rede richtig (z. B. „sie hätten“, „es müsse“, „sie fänden“)?",
+      "Korrektheit: Doppelte Konjunktion richtig („weder … noch“, „nicht …, sondern“)?",
+      "Wortschatz: Habe ich Wörter wie „Bürgschaft“, „Kontingent“, „Bedürftigkeit“, „einkommensschwach“ verwendet?",
+      "Wortschatz: Habe ich „Zimmer“ und „Wohnheimplatz“ durch Synonyme ersetzt (z. B. Unterkunft, Wohnraum)?",
+      "Aufbau: Endet der Text mit einer klaren Forderung?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. erschwerend kommt hinzu, andererseits, zudem, daher, solange)?"
+    ]
+  },
+  {
+    "id": "sa20",
+    "paar": "P10",
+    "thema": "biotechnologie",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Forschungsethik in den Lebenswissenschaften“ schreiben Sie eine Erörterung: Sollen Tierversuche bis 2035 vollständig durch Alternativmethoden ersetzt werden?",
+    "zitate": [
+      {
+        "text": "Organoide und Computermodelle sagen die Wirkung beim Menschen oft besser voraus als jede Maus.",
+        "person": "Dr. Nadine Faller, Zellbiologin"
+      },
+      {
+        "text": "Ein Organismus ist mehr als ein Zellhaufen in der Petrischale. Ohne Tierversuche gefährden wir Patienten.",
+        "person": "Prof. Dr. Henrik Saalfeld, Pharmakologe"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar. Berücksichtigen Sie beide Aussagen, führen Sie Beispiele an und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Tiere empfinden Schmerz und Stress; jeder Versuch ist ethisch problematisch.",
+      "Viele Wirkstoffe, die im Tierversuch erfolgreich waren, scheitern später in klinischen Studien am Menschen.",
+      "Organoide aus menschlichen Zellen und Organ-Chips bilden menschliches Gewebe nach.",
+      "Ein festes Ausstiegsdatum schafft Druck, Alternativen zu entwickeln und zu finanzieren.",
+      "Für manche Prüfungen, z. B. Hautreizungstests, gibt es bereits anerkannte tierfreie Methoden."
+    ],
+    "ideen_contra": [
+      "Das Zusammenspiel mehrerer Organe (Immunsystem, Stoffwechsel, Gehirn) lässt sich bisher nicht nachbilden.",
+      "Die Arzneimittelsicherheit könnte leiden; Risiken würden erst bei Probanden sichtbar.",
+      "Die Grundlagenforschung, z. B. zu Entwicklung oder Verhalten, braucht lebende Organismen.",
+      "Ein starres Datum könnte Forschung in Länder mit schwächerem Tierschutz verlagern.",
+      "Die wissenschaftliche Anerkennung (Validierung) neuer Methoden dauert Jahre."
+    ],
+    "gliederung": [
+      "Einleitung: Fortschritte bei Organoiden und Computermodellen, Forderung nach einem Ausstiegsdatum, Leitfrage",
+      "Hauptteil 1: Argumente für den Ausstieg mit Bezug auf Dr. Faller (Übertragbarkeit, Ethik, Innovationsdruck)",
+      "Hauptteil 2: Argumente dagegen mit Bezug auf Prof. Saalfeld (Gesamtorganismus, Patientensicherheit, Abwanderung ins Ausland)",
+      "Hauptteil 3: eigene Abwägung – verbindlicher Ausstiegsplan nach Forschungsbereichen statt eines Datums für alles",
+      "Schluss: Fazit und Ausblick (Förderung von Alternativmethoden)"
+    ],
+    "musterloesung": "Noch vor zwanzig Jahren galten Tierversuche in der biomedizinischen Forschung als nahezu alternativlos. Inzwischen lassen sich aus menschlichen Stammzellen jedoch Mini-Organe, sogenannte Organoide, züchten, und Computermodelle simulieren Stoffwechselprozesse mit erstaunlicher Genauigkeit. Tierschutzorganisationen fordern deshalb, Tierversuche bis 2035 vollständig zu beenden. Ob ein solcher Ausstieg realistisch und wünschenswert ist, soll im Folgenden erörtert werden.\n\nDie Zellbiologin Nadine Faller vertritt die Auffassung, dass Organoide und Computermodelle die Wirkung beim Menschen oft zuverlässiger vorhersagten als Versuche an Mäusen. Diese Einschätzung wird durch die Praxis gestützt: Ein Großteil der Wirkstoffe, die sich im Tierversuch als wirksam und sicher erwiesen haben, scheitert später in klinischen Studien, weil sich Nagetiere in ihrem Stoffwechsel deutlich vom Menschen unterscheiden. Ein Leberorganoid aus menschlichen Zellen kann dagegen zeigen, wie ein Medikament tatsächlich abgebaut wird. Hinzu kommt das ethische Argument. Da Tiere nachweislich Schmerz und Stress empfinden, muss jeder Versuch sorgfältig begründet sein. Ein festes Ausstiegsdatum würde außerdem Druck erzeugen, mehr Geld in die Entwicklung tierfreier Methoden zu investieren.\n\nDemgegenüber warnt der Pharmakologe Henrik Saalfeld, ein Organismus sei mehr als ein Zellhaufen in der Petrischale, und ohne Tierversuche gefährde man Patientinnen und Patienten. Dieser Einwand lässt sich nicht leicht entkräften. Viele Krankheiten entstehen aus dem Zusammenspiel mehrerer Organsysteme, etwa wenn das Immunsystem auf eine Infektion reagiert oder ein Wirkstoff erst nach seinem Umbau in der Leber das Gehirn erreicht. Solche komplexen Wechselwirkungen kann bislang kein Chip und kein Organoid vollständig abbilden. Verzichtete man zu früh auf Tierversuche, würden mögliche Risiken erst bei den ersten Probanden sichtbar. Zudem besteht die Gefahr, dass Unternehmen ihre Forschung in Länder mit deutlich geringeren Tierschutzstandards verlagern, was den Tieren letztlich nicht helfen würde.\n\nNach Abwägung der Argumente halte ich ein pauschales Verbot ab 2035 für verfrüht, ein bloßes „Weiter so“ allerdings ebenso wenig für vertretbar. Überzeugender erscheint mir ein verbindlicher Ausstiegsplan, der nach Forschungsbereichen unterscheidet. Bei der Prüfung von Chemikalien, für die bereits anerkannte Alternativen wie künstlich gezüchtete Hautmodelle existieren, sollte man Tierversuche zügig beenden. In der Grundlagen- und Arzneimittelforschung hingegen sollten sie schrittweise reduziert werden, und zwar in dem Maße, in dem neue Methoden wissenschaftlich anerkannt sind.\n\nZusammenfassend lässt sich sagen, dass beide Positionen ihre Berechtigung haben: Der wissenschaftliche Fortschritt macht einen Ausstieg möglich, allerdings noch nicht in allen Bereichen. Entscheidend wird sein, ob Politik und Forschungsförderung bereit sind, Alternativmethoden ebenso großzügig zu finanzieren wie bisher die Tierversuche selbst.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Faller und Prof. Saalfeld mit eigenen Worten wiedergegeben?",
+      "Inhalt: Ist meine eigene Position (Datum, Verbot, schrittweiser Ausstieg) im Schluss eindeutig?",
+      "Inhalt: Habe ich mein Fachwissen als Biologin genutzt (z. B. Stoffwechsel, Organoide, Immunsystem)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I/II in der indirekten Rede richtig (z. B. „ein Organismus sei“, „sie vorhersagten“)?",
+      "Korrektheit: Passiv mit Modalverb richtig (z. B. „soll erörtert werden“, „muss begründet sein“)?",
+      "Wortschatz: Habe ich Fachwörter verwendet (Wirkstoff, Probanden, Wechselwirkung, Tierschutzstandards)?",
+      "Wortschatz: Mindestens eine Nomen-Verb-Verbindung (z. B. „Druck erzeugen“, „die Auffassung vertreten“)?",
+      "Aufbau: Hat jeder Hauptteil-Absatz einen klaren ersten Satz, der das Thema des Absatzes nennt?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. jedoch, dagegen, hinzu kommt, zudem, und zwar)?"
+    ]
+  },
+  {
+    "id": "sa21",
+    "paar": "P11",
+    "thema": "gesundheit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Medizin und Gesellschaft“ schreiben Sie eine Erörterung: Soll Gendermedizin ein eigenes Pflichtfach im Medizinstudium werden?",
+    "zitate": [
+      {
+        "text": "Ein Herzinfarkt sieht bei Frauen oft anders aus. Wer das nicht lernt, übersieht ihn.",
+        "person": "Dr. Miriam Kessler, Kardiologin"
+      },
+      {
+        "text": "Der Lehrplan ist übervoll. Geschlechterunterschiede gehören in jedes Fach, nicht in ein eigenes.",
+        "person": "Prof. Dr. Ulrich Brandes, Studiendekan Medizin"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar. Gehen Sie auf beide Aussagen ein, führen Sie Beispiele an und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Die Symptome mancher Krankheiten unterscheiden sich je nach Geschlecht (z. B. Herzinfarkt: Übelkeit, Rückenschmerzen statt Brustschmerz).",
+      "Frauen bauen viele Medikamente anders ab; Dosierungen beruhen oft auf Studien mit überwiegend männlichen Teilnehmern.",
+      "Frauen waren in klinischen Studien lange unterrepräsentiert.",
+      "Auch Männer profitieren, denn z. B. Depressionen und Osteoporose werden bei ihnen oft übersehen.",
+      "Ein Pflichtfach mit Prüfung garantiert, dass alle Studierenden das Wissen erwerben."
+    ],
+    "ideen_contra": [
+      "Das Medizinstudium ist bereits sehr umfangreich; ein neues Fach verdrängt andere Inhalte.",
+      "Geschlechterunterschiede betreffen jedes Fach und sollten dort behandelt werden.",
+      "Ein eigenes Fach kann als Randthema wahrgenommen und „abgehakt“ werden.",
+      "Es fehlen qualifizierte Lehrende für ein neues Fach.",
+      "Neben dem Geschlecht spielen auch Alter, Lebensstil und soziale Faktoren eine Rolle."
+    ],
+    "gliederung": [
+      "Einleitung: der Mann als „Normalfall“ der Medizin, Ziel der Gendermedizin, Leitfrage",
+      "Hauptteil 1: Argumente für ein Pflichtfach mit Bezug auf Dr. Kessler (Herzinfarkt, Medikamente, Nutzen auch für Männer)",
+      "Hauptteil 2: Gegenargumente mit Bezug auf Prof. Brandes (übervoller Lehrplan, Gefahr des Randthemas)",
+      "Hauptteil 3: eigene Abwägung – verbindliches Querschnittsthema mit festem Prüfungsanteil und kurzem Einführungsmodul",
+      "Schluss: Fazit (Patientensicherheit) und Ausblick auf die Forschung"
+    ],
+    "musterloesung": "Lange Zeit galt in der Medizin der Mann als Normalfall: Lehrbücher beschrieben Krankheitsbilder überwiegend anhand männlicher Patienten, und auch Medikamente wurden vor allem an Männern getestet. Die Gendermedizin will diese Schieflage korrigieren, indem sie untersucht, wie sich Krankheiten bei Frauen und Männern unterscheiden. Umstritten ist allerdings, ob sie als eigenes Pflichtfach im Medizinstudium verankert werden sollte. Dieser Frage gehe ich im Folgenden nach.\n\nDie Kardiologin Miriam Kessler weist darauf hin, dass ein Herzinfarkt bei Frauen häufig anders aussehe und deshalb übersehen werde, wenn angehende Ärztinnen und Ärzte das nicht lernten. Tatsächlich klagen Frauen bei einem Infarkt seltener über den typischen Brustschmerz, sondern eher über Übelkeit, Rückenschmerzen oder Erschöpfung. Solche Symptome werden in der Notaufnahme leicht als harmlos eingestuft, was wertvolle Zeit kostet. Ähnliches gilt für Medikamente. Da Frauen viele Wirkstoffe anders abbauen, kann eine Standarddosis bei ihnen stärkere Nebenwirkungen auslösen. Ein Pflichtfach würde sicherstellen, dass alle Studierenden dieses Wissen erwerben und in einer Prüfung nachweisen müssen. Davon würden übrigens auch Männer profitieren, denn Krankheiten wie Depressionen oder Osteoporose werden bei ihnen oft zu spät erkannt.\n\nGegen ein eigenes Fach spricht sich hingegen Studiendekan Ulrich Brandes aus. Er gibt zu bedenken, der Lehrplan sei bereits übervoll, und Geschlechterunterschiede gehörten in jedes Fach statt in ein separates. Dieses Argument ist keineswegs von der Hand zu weisen. Medizinstudierende müssen schon heute eine enorme Stoffmenge bewältigen, sodass jedes neue Fach auf Kosten anderer Inhalte ginge. Gewichtiger noch erscheint mir der inhaltliche Einwand: Wenn geschlechtsspezifisches Wissen in einer eigenen Lehrveranstaltung „abgehakt“ wird, besteht die Gefahr, dass es im Unterricht zur Kardiologie oder Pharmakologie gerade nicht vorkommt. Gendermedizin würde dann zu einem Randthema, statt den medizinischen Alltag zu prägen.\n\nMeiner Überzeugung nach liegt die Lösung zwischen beiden Positionen. Geschlechterunterschiede sollten verbindlich in allen klinischen Fächern behandelt werden, etwa indem jedes Fach festlegt, welche Unterschiede bei Diagnose und Therapie bekannt sein müssen. Damit dieses Wissen im Studienalltag nicht untergeht, sollte es zudem einen festen Anteil an den Staatsexamensprüfungen haben. Ein kurzes Einführungsmodul könnte die Grundlagen vermitteln, ohne den Lehrplan zu überfrachten.\n\nAlles in allem bin ich überzeugt, dass Gendermedizin kein Luxus, sondern eine Frage der Patientensicherheit ist. Ob sie als eigenes Fach oder als Querschnittsthema gelehrt wird, ist letztlich zweitrangig – entscheidend ist, dass sie verbindlich gelehrt und geprüft wird. Gleichzeitig muss die Forschung dafür sorgen, dass Frauen in klinischen Studien angemessen vertreten sind.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Kessler und Prof. Brandes mit eigenen Worten wiedergegeben?",
+      "Inhalt: Beantworte ich die Leitfrage (eigenes Pflichtfach ja oder nein) im Schluss klar?",
+      "Inhalt: Habe ich medizinische Beispiele genannt (z. B. Herzinfarkt, Dosierung von Medikamenten)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv in der indirekten Rede richtig (z. B. „der Lehrplan sei“, „sie gehörten“)?",
+      "Korrektheit: Komma bei „indem“, „sodass“ und „statt … zu“ gesetzt?",
+      "Wortschatz: Habe ich Fachwörter benutzt (Symptom, Dosis, Nebenwirkung, Querschnittsthema)?",
+      "Wortschatz: Mindestens eine feste Wendung (z. B. „nicht von der Hand zu weisen“, „auf Kosten von“)?",
+      "Aufbau: Sind Pro, Contra und eigene Abwägung in getrennten Absätzen?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. tatsächlich, da, hingegen, sodass, damit)?"
+    ]
+  },
+  {
+    "id": "sa22",
+    "paar": "P11",
+    "thema": "migration_interkulturalitaet",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Ein Bundesland will zugewanderte Lehrkräfte schon mit Deutsch auf B2-Niveau einstellen; C1 soll im Beruf folgen. Für ein Lehrkräfte-Magazin nehmen Sie Stellung.",
+    "zitate": [
+      {
+        "text": "Wir verlieren hervorragende Fachleute, nur weil ihnen ein Sprachzertifikat fehlt.",
+        "person": "Dr. Selin Arslan, Beraterin für Anerkennungsverfahren"
+      },
+      {
+        "text": "Wer unterrichtet, muss sprachliches Vorbild sein. Mit B2 gelingt das nicht.",
+        "person": "Gerd Lohmann, Fachleiter in der Lehrerausbildung"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Gehen Sie auf beide Aussagen ein, begründen Sie Ihre Position mit Beispielen und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Vor allem in MINT-Fächern fehlen viele Lehrkräfte.",
+      "Eine Sprache lernt man am schnellsten im täglichen Gebrauch, z. B. im Kollegium.",
+      "Lange Wartezeiten führen dazu, dass Fachkräfte fachfremd arbeiten oder Deutschland verlassen.",
+      "Mehrsprachige Lehrkräfte sind Vorbilder für Kinder mit Zuwanderungsgeschichte.",
+      "Die Fachsprache, z. B. in Biologie, ist oft leichter als die Alltagssprache."
+    ],
+    "ideen_contra": [
+      "Unterrichten heißt: komplexe Inhalte erklären, Texte korrigieren, Elterngespräche führen.",
+      "Sprachliche Unsicherheit kann die Autorität in der Klasse schwächen.",
+      "Kinder, die selbst Deutsch lernen, brauchen ein sicheres sprachliches Vorbild.",
+      "Mit voller Stundenzahl ist es schwer, nebenbei C1 zu erreichen.",
+      "Ein niedrigerer Standard könnte dem Ansehen zugewanderter Lehrkräfte schaden."
+    ],
+    "gliederung": [
+      "Einleitung: Lehrkräftemangel, Sprachniveau als Hürde bei der Anerkennung, eigene Situation (Biologielehrerin, C1-Vorbereitung)",
+      "Hauptteil 1: Position Dr. Arslan – verlorene Fachkräfte (Beispiel), Spracherwerb im Beruf, Fachsprache",
+      "Hauptteil 2: Position Lohmann – Unterricht als Sprachhandeln, Elterngespräche, Vorbild für DaZ-Kinder",
+      "Hauptteil 3: eigener Vorschlag – Einstieg mit B2 nur mit reduzierter Stundenzahl, bezahltem Sprachkurs, Tandem und Frist für C1",
+      "Schluss: Fazit und Appell an das Ministerium"
+    ],
+    "musterloesung": "Während an vielen Schulen Stellen monatelang unbesetzt bleiben, warten zahlreiche zugewanderte Lehrkräfte auf ihre Anerkennung. Häufig scheitert der Berufseinstieg nicht an fachlichen Defiziten, sondern am geforderten Sprachniveau. Ein Bundesland erwägt deshalb, Lehrkräfte bereits mit Deutschkenntnissen auf B2-Niveau einzustellen und das C1-Niveau berufsbegleitend nachholen zu lassen. Als Biologielehrerin mit ausländischem Abschluss, die sich gerade selbst auf eine C1-Prüfung vorbereitet, betrifft mich diese Frage unmittelbar.\n\nDie Anerkennungsberaterin Selin Arslan beklagt, dass hervorragende Fachleute verloren gingen, nur weil ihnen ein Sprachzertifikat fehle. Ich kenne mehrere solcher Fälle. Eine Bekannte, die in ihrem Heimatland fünfzehn Jahre lang Chemie unterrichtet hat, arbeitet inzwischen in einer Großbäckerei, weil sie neben Job und Familie keine Zeit für einen Intensivkurs findet. Hinzu kommt, dass man eine Sprache nirgendwo so schnell lernt wie im täglichen Gebrauch. Wer im Lehrerzimmer, in Konferenzen und im Unterricht ständig Deutsch spricht, macht oft in wenigen Monaten größere Fortschritte als in einem Jahr Sprachschule. Außerdem fällt vielen die Fachsprache, etwa in Biologie, leichter als die Alltagssprache.\n\nAndererseits ist der Einwand des Fachleiters Gerd Lohmann ernst zu nehmen. Er betont, dass Lehrkräfte sprachliche Vorbilder sein müssten und dies mit B2 nicht gelinge. Tatsächlich besteht Unterrichten zu einem großen Teil aus Sprache: Man erklärt komplexe Zusammenhänge, formuliert präzise Arbeitsaufträge, korrigiert Texte und führt schwierige Elterngespräche. Wenn eine Lehrkraft dabei häufig nach Wörtern sucht, leidet nicht nur die Verständlichkeit, sondern unter Umständen auch ihre Autorität in der Klasse. Aus eigener Erfahrung weiß ich, dass es mir deutlich leichter fällt, die Fotosynthese zu erklären, als in einem Gespräch spontan und zugleich taktvoll auf Kritik zu reagieren. Besonders Kinder, die selbst noch Deutsch lernen, sind auf ein sicheres sprachliches Vorbild angewiesen.\n\nMeiner Meinung nach sollte man den Berufseinstieg mit B2 ermöglichen, allerdings nur unter klaren Bedingungen. Die neuen Kolleginnen und Kollegen sollten in den ersten zwei Jahren mit reduzierter Stundenzahl arbeiten und die frei werdende Zeit für einen bezahlten Sprachkurs nutzen. Eine erfahrene Lehrkraft als Tandempartnerin könnte zudem Arbeitsblätter sprachlich gegenlesen und bei Elterngesprächen unterstützen. Spätestens nach zwei Jahren sollte das C1-Zertifikat vorliegen; erst dann wäre eine unbefristete Anstellung möglich. Auf diese Weise würde niemand überfordert, und die Schulen gewännen dennoch dringend benötigte Fachkräfte.\n\nZusammenfassend bin ich der Auffassung, dass beide Aussagen berechtigt sind: Ein starres Sprachniveau darf nicht dazu führen, dass qualifizierte Lehrkräfte verloren gehen, doch die sprachlichen Anforderungen des Berufs dürfen ebenso wenig unterschätzt werden. Ich appelliere daher an das Ministerium, den Einstieg zu erleichtern, ohne die Qualität des Unterrichts aufs Spiel zu setzen.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Arslan und Herrn Lohmann mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich meine eigene Erfahrung als zugewanderte Lehrkraft sinnvoll eingebracht?",
+      "Inhalt: Ist mein Vorschlag konkret (Bedingungen, Frist, Unterstützung)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I richtig (z. B. „ihnen fehle“, „dies gelinge“, „sie müssten“ als Ersatzform)?",
+      "Korrektheit: Relativsätze richtig, Verb am Ende (z. B. „eine Bekannte, die … unterrichtet hat“)?",
+      "Wortschatz: Habe ich Wörter aus dem Bereich Anerkennung verwendet (Sprachzertifikat, berufsbegleitend, unbefristete Anstellung)?",
+      "Wortschatz: Mindestens eine feste Wendung (z. B. „ernst zu nehmen“, „aufs Spiel setzen“, „unter Umständen“)?",
+      "Aufbau: Endet der Text mit einem Appell an eine konkrete Stelle?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. während, hinzu kommt, außerdem, andererseits, doch)?"
+    ]
+  },
+  {
+    "id": "sa23",
+    "paar": "P12",
+    "thema": "klima_nachhaltigkeit",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Stadtökologie und Klimawandel“ schreiben Sie eine Erörterung: Sollen Städte für alle Neubauten begrünte Dächer und Fassaden vorschreiben?",
+    "zitate": [
+      {
+        "text": "Jedes grüne Dach kühlt die Stadt und speichert Regenwasser. Freiwillig passiert viel zu wenig.",
+        "person": "Dr. Anja Reuter, Stadtklimatologin"
+      },
+      {
+        "text": "Begrünung ist schön, aber wer das Bauen noch teurer macht, verschärft die Wohnungsnot.",
+        "person": "Markus Hilgers, Geschäftsführer einer Wohnungsbaugenossenschaft"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Begrünte Dächer und Fassaden senken die Temperatur im Gebäude und in der Umgebung.",
+      "Gründächer speichern Regenwasser und entlasten bei Starkregen die Kanalisation („Schwammstadt“).",
+      "Pflanzen binden Feinstaub und bieten Lebensraum für Insekten und Vögel.",
+      "Ohne Pflicht bleibt Begrünung die Ausnahme.",
+      "Eine Pflanzenschicht schützt die Dachabdichtung und kann die Lebensdauer des Dachs verlängern."
+    ],
+    "ideen_contra": [
+      "Begrünung erhöht die Baukosten (Statik, Abdichtung, Pflege).",
+      "Höhere Kosten werden häufig auf die Mieten umgelegt.",
+      "Dachflächen werden auch für Solaranlagen gebraucht.",
+      "Fassadenbegrünung braucht Bewässerung und regelmäßige Pflege.",
+      "Wichtiger wären Stadtbäume, entsiegelte Flächen und Frischluftschneisen."
+    ],
+    "gliederung": [
+      "Einleitung: Hitzesommer und Starkregen in Städten, Begrünung als Antwort, Leitfrage",
+      "Hauptteil 1: Argumente für eine Pflicht mit Bezug auf Dr. Reuter (Kühlung, Regenwasser, Artenvielfalt)",
+      "Hauptteil 2: Argumente dagegen mit Bezug auf Markus Hilgers (Baukosten, Mieten, Konkurrenz mit Solaranlagen)",
+      "Hauptteil 3: eigene Abwägung – Pflicht zunächst für Flachdächer, Kombination mit Photovoltaik, Förderung",
+      "Schluss: Fazit (Baustein eines Gesamtkonzepts zur Klimaanpassung)"
+    ],
+    "musterloesung": "Die Sommer der vergangenen Jahre haben gezeigt, dass der Klimawandel in deutschen Städten längst angekommen ist. An heißen Tagen heizen sich Asphalt und Beton so stark auf, dass es in den Innenstädten nachts kaum abkühlt, und bei Starkregen laufen Keller voll, weil die Kanalisation die Wassermassen nicht mehr aufnehmen kann. Eine mögliche Antwort auf beide Probleme sind begrünte Dächer und Fassaden. Ob Städte diese für alle Neubauten vorschreiben sollten, wird im Folgenden erörtert.\n\nDie Stadtklimatologin Anja Reuter befürwortet eine solche Pflicht. Sie argumentiert, jedes grüne Dach kühle die Stadt und speichere Regenwasser, freiwillig geschehe jedoch viel zu wenig. Für diese Sichtweise sprechen gewichtige Gründe. Pflanzen verdunsten Wasser und senken dadurch die Umgebungstemperatur messbar, während sich ein dunkles Bitumendach in der Sonne auf über 60 Grad erhitzen kann. Ein Gründach hält außerdem einen erheblichen Teil des Niederschlags zurück und gibt ihn verzögert ab, wodurch die Kanalisation entlastet wird. Nach dem Prinzip der „Schwammstadt“ wird Regenwasser so zur Ressource statt zur Gefahr. Nicht zuletzt bieten begrünte Flächen Lebensraum für Wildbienen und Vögel, die in dicht bebauten Vierteln kaum Nahrung finden. Da Bauherren diese Vorteile zwar schätzen, aber selten bezahlen wollen, erscheint eine verbindliche Regel folgerichtig.\n\nDemgegenüber warnt Markus Hilgers, Geschäftsführer einer Wohnungsbaugenossenschaft, dass man die Wohnungsnot verschärfe, wenn man das Bauen weiter verteuere. Dieser Einwand verdient Beachtung. Ein begrüntes Dach erfordert eine stabilere Statik, eine wurzelfeste Abdichtung und regelmäßige Pflege, was die Kosten eines Neubaus erhöht. Diese Mehrkosten werden in der Regel auf die Mieten umgelegt – in Zeiten, in denen bezahlbarer Wohnraum ohnehin knapp ist, ein ernstes Problem. Darüber hinaus konkurriert die Begrünung mit Solaranlagen um dieselbe Dachfläche, obwohl beide dem Klimaschutz dienen sollen.\n\nWägt man die Argumente gegeneinander ab, so spricht meines Erachtens dennoch mehr für eine Pflicht, sofern sie klug ausgestaltet wird. Sinnvoll wäre es, sie zunächst auf Flachdächer zu beschränken, weil die Begrünung dort technisch einfach und vergleichsweise günstig ist. Ferner sollten Gründächer mit Photovoltaik kombiniert werden; einige Untersuchungen deuten sogar darauf hin, dass Solarmodule über einem kühleren Gründach effizienter arbeiten. Um die Mieten nicht zusätzlich zu belasten, müssten Städte die Pflicht mit Fördermitteln und einer geringeren Abwassergebühr verbinden.\n\nAbschließend lässt sich festhalten, dass grüne Dächer allein unsere Städte nicht vor Hitze und Starkregen schützen werden. Dazu sind zusätzlich Stadtbäume, entsiegelte Flächen und Frischluftschneisen nötig. Als verbindlichen Baustein eines Gesamtkonzepts zur Klimaanpassung halte ich eine Begrünungspflicht jedoch für richtig und überfällig.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Reuter und Herrn Hilgers mit eigenen Worten wiedergegeben?",
+      "Inhalt: Ist meine Antwort auf die Leitfrage (Pflicht ja, nein, unter Bedingungen) klar?",
+      "Inhalt: Habe ich konkrete Beispiele und Fakten genannt (z. B. Temperatur auf dem Dach, Starkregen, Wildbienen)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I richtig (z. B. „jedes Dach kühle“, „man verschärfe“)?",
+      "Korrektheit: Verb am Ende im Nebensatz mit „wodurch“, „sofern“, „obwohl“?",
+      "Wortschatz: Habe ich Fachwörter verwendet (Niederschlag, Kanalisation, Statik, Klimaanpassung)?",
+      "Wortschatz: Habe ich Wiederholungen vermieden (z. B. Begrünung, Gründach, grüne Flächen abwechselnd)?",
+      "Aufbau: Führt der Einleitungssatz des Abwägungsabsatzes klar zur eigenen Meinung (z. B. „Wägt man …, so …“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. während, außerdem, demgegenüber, darüber hinaus, ferner)?"
+    ]
+  },
+  {
+    "id": "sa24",
+    "paar": "P12",
+    "thema": "arbeitswelt",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Der AStA fordert, Pflichtpraktika im Studium mindestens mit dem gesetzlichen Mindestlohn zu bezahlen. Für den Hochschulblog verfassen Sie eine Stellungnahme.",
+    "zitate": [
+      {
+        "text": "Wer drei Monate Vollzeit arbeitet, muss davon leben können – ob Praktikum oder nicht.",
+        "person": "Sophie L., Studentin der Sozialen Arbeit"
+      },
+      {
+        "text": "Müssten wir Mindestlohn zahlen, würden kleine Betriebe gar keine Praktikumsplätze mehr anbieten.",
+        "person": "Rainer Voss, Inhaber eines Ingenieurbüros"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Gehen Sie auf beide Aussagen ein, begründen Sie Ihre Position mit Beispielen und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Ein Pflichtpraktikum ist oft Vollzeitarbeit; ein Nebenjob ist daneben kaum möglich.",
+      "Unbezahlte Praktika benachteiligen Studierende ohne finanzielle Hilfe der Eltern.",
+      "Praktikantinnen und Praktikanten leisten häufig echte Arbeit, von der Betriebe profitieren.",
+      "Bezahlung ist ein Zeichen von Wertschätzung.",
+      "Freiwillige Praktika über drei Monate müssen schon heute nach Mindestlohn bezahlt werden."
+    ],
+    "ideen_contra": [
+      "Kleine Betriebe, Vereine und soziale Einrichtungen können sich den Mindestlohn oft nicht leisten.",
+      "Weniger Praktikumsplätze könnten das Studium verlängern.",
+      "Ein Pflichtpraktikum ist Teil der Ausbildung; der Betrieb investiert viel Zeit in die Betreuung.",
+      "Viele soziale Träger arbeiten selbst mit knappen Budgets.",
+      "Statt der Betriebe könnte der Staat Praktika finanziell unterstützen."
+    ],
+    "gliederung": [
+      "Einleitung: Pflichtpraktika in vielen Studiengängen, Ausnahme vom Mindestlohn, Forderung des AStA",
+      "Hauptteil 1: Position Sophie L. – Lebensunterhalt, soziale Ungleichheit, Wert der Arbeit (Beispiel)",
+      "Hauptteil 2: Position Rainer Voss – Kosten für kleine Betriebe, Betreuungsaufwand, Gefahr weniger Plätze",
+      "Hauptteil 3: eigener Vorschlag – Pflicht zu angemessener Vergütung, Ausgleichsfonds, Berücksichtigung beim BAföG",
+      "Schluss: Fazit und Appell"
+    ],
+    "musterloesung": "In vielen Studiengängen ist ein Praktikum fester Bestandteil der Studienordnung, sei es in der Sozialen Arbeit, im Maschinenbau oder in der Psychologie. Anders als bei freiwilligen Praktika, die länger als drei Monate dauern, müssen Betriebe für Pflichtpraktika keinen Mindestlohn zahlen. Viele Studierende arbeiten deshalb monatelang ohne Vergütung oder nur gegen eine geringe Aufwandsentschädigung. Der AStA unserer Hochschule fordert nun, dies zu ändern. Zu dieser Forderung möchte ich Stellung nehmen.\n\nDie Studentin Sophie L. bringt das zentrale Argument auf den Punkt: Wer drei Monate in Vollzeit arbeite, müsse davon auch leben können, unabhängig davon, ob es sich um ein Praktikum handle. Ich stimme ihr grundsätzlich zu. Während eines Vollzeitpraktikums bleibt kaum Zeit für einen Nebenjob, die Miete muss aber trotzdem bezahlt werden. Wer keine Eltern hat, die finanziell einspringen können, gerät schnell in Schwierigkeiten oder verschiebt das Praktikum immer weiter. So entsteht eine Ungerechtigkeit, die der Idee eines offenen Hochschulzugangs widerspricht. Hinzu kommt, dass Praktikantinnen und Praktikanten nach kurzer Einarbeitung oft vollwertige Aufgaben übernehmen. Ein Freund von mir hat in seinem Pflichtpraktikum eigenständig Bauzeichnungen erstellt, für die das Büro sonst eine Fachkraft hätte bezahlen müssen.\n\nDem widerspricht Rainer Voss, der ein Ingenieurbüro leitet. Seiner Ansicht nach würden kleine Betriebe gar keine Praktikumsplätze mehr anbieten, wenn sie den Mindestlohn zahlen müssten. Diese Sorge halte ich für berechtigt. Ein Praktikum verursacht nicht nur Lohnkosten, sondern auch erheblichen Betreuungsaufwand: Jemand muss Abläufe erklären, Fragen beantworten und Ergebnisse kontrollieren. Für ein Büro mit fünf Beschäftigten oder einen gemeinnützigen Träger der Jugendhilfe, der ohnehin mit knappen Mitteln wirtschaftet, könnte eine zusätzliche Belastung von mehreren Tausend Euro tatsächlich zu viel sein. Fielen diese Plätze weg, fänden Studierende womöglich keine Praktikumsstelle mehr und müssten ihr Studium verlängern.\n\nMeiner Meinung nach sollte das Ziel einer fairen Bezahlung dennoch nicht aufgegeben werden. Ich schlage vor, Pflichtpraktika grundsätzlich angemessen zu vergüten, wobei die Höhe nicht zwingend dem Mindestlohn entsprechen muss. Für kleine Unternehmen und gemeinnützige Einrichtungen könnte ein staatlicher Ausgleichsfonds einen Teil der Kosten übernehmen. Zusätzlich wäre es sinnvoll, Praktikumszeiten beim BAföG stärker zu berücksichtigen, damit niemand aus finanziellen Gründen auf einen wichtigen Teil seiner Ausbildung verzichten muss.\n\nZusammenfassend bin ich der Ansicht, dass die Forderung des AStA im Kern richtig ist, aber durch eine Unterstützung kleiner Betriebe ergänzt werden muss. Nur so lassen sich faire Bedingungen für Studierende schaffen, ohne dass wertvolle Praktikumsplätze verloren gehen.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Sophie L. und Herrn Voss mit eigenen Worten wiedergegeben?",
+      "Inhalt: Wird klar, ob ich die Forderung des AStA unterstütze, ablehne oder verändern möchte?",
+      "Inhalt: Habe ich ein konkretes Beispiel genannt (z. B. Bauzeichnungen im Praktikum, kleines Büro)?",
+      "Inhalt: Passt der Text zum Hochschulblog (Leserschaft: Studierende, sachlich, mit klarer Meinung)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv II im irrealen Bedingungssatz richtig (z. B. „Fielen diese Plätze weg, fänden …“)?",
+      "Korrektheit: Doppelter Infinitiv im Nebensatz richtig (z. B. „…, für die das Büro sonst eine Fachkraft hätte bezahlen müssen“)?",
+      "Wortschatz: Habe ich Wörter wie „Vergütung“, „Aufwandsentschädigung“, „Betreuungsaufwand“ verwendet?",
+      "Aufbau: Endet der Text mit einem klaren Fazit?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. anders als, deshalb, hinzu kommt, wobei, damit)?"
+    ]
+  },
+  {
+    "id": "sa25",
+    "paar": "P13",
+    "thema": "wissenschaft_ethik",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Wissenschaft und Öffentlichkeit“ schreiben Sie eine Erörterung: Soll öffentlich finanzierte Forschung nur noch frei zugänglich veröffentlicht werden?",
+    "zitate": [
+      {
+        "text": "Die Steuerzahler haben die Forschung bezahlt. Sie dürfen nicht ein zweites Mal für das Lesen zahlen.",
+        "person": "Dr. Tobias Wendt, Bibliothekswissenschaftler"
+      },
+      {
+        "text": "Eine Open-Access-Pflicht verlagert die Kosten nur – auf Forschende, die hohe Gebühren zahlen müssen.",
+        "person": "Prof. Dr. Clara Engel, Historikerin"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Was mit öffentlichem Geld erforscht wird, sollte der Öffentlichkeit gehören.",
+      "Bibliotheken zahlen jedes Jahr hohe Summen für Zeitschriftenabonnements.",
+      "Forschende in ärmeren Ländern, Lehrkräfte und Patienten erhalten Zugang zu Wissen.",
+      "Freier Zugang beschleunigt die Forschung (Beispiel: Corona-Pandemie).",
+      "Frei zugängliche Artikel werden häufiger gelesen und zitiert."
+    ],
+    "ideen_contra": [
+      "Viele Open-Access-Zeitschriften verlangen hohe Publikationsgebühren.",
+      "Fächer und Forschende ohne Drittmittel, z. B. in den Geisteswissenschaften, werden benachteiligt.",
+      "Das Gebührenmodell lockt unseriöse „Raubverlage“ an.",
+      "Forschende sollten frei entscheiden können, wo sie veröffentlichen (Wissenschaftsfreiheit).",
+      "Begutachtung und Lektorat kosten Geld, das irgendwer bezahlen muss."
+    ],
+    "gliederung": [
+      "Einleitung: Bezahlschranken bei der Recherche, Idee von Open Access, Leitfrage",
+      "Hauptteil 1: Argumente für eine Pflicht mit Bezug auf Dr. Wendt (doppelte Bezahlung, Teilhabe, schnellere Forschung)",
+      "Hauptteil 2: Gegenargumente mit Bezug auf Prof. Engel (Publikationsgebühren, Ungleichheit zwischen Fächern, Raubverlage)",
+      "Hauptteil 3: eigene Abwägung – Pflicht mit Publikationsfonds und Zweitveröffentlichung im Repositorium der Hochschule",
+      "Schluss: Fazit (öffentliches Wissen, faire Kostenverteilung)"
+    ],
+    "musterloesung": "Wer schon einmal für eine Hausarbeit recherchiert hat, kennt das Problem: Man findet einen vielversprechenden Fachartikel, doch statt des Textes erscheint der Hinweis, dass der Zugang 40 Euro kostet. Selbst Hochschulbibliotheken können sich längst nicht alle Zeitschriften leisten. Die Open-Access-Bewegung fordert daher, wissenschaftliche Publikationen kostenlos im Internet zugänglich zu machen. Ob dies für öffentlich finanzierte Forschung zur Pflicht werden sollte, möchte ich im Folgenden erörtern.\n\nDer Bibliothekswissenschaftler Tobias Wendt argumentiert, die Steuerzahler hätten die Forschung bereits finanziert und dürften nicht ein zweites Mal für die Lektüre zahlen. Dieses Argument erscheint mir auf den ersten Blick schlagend. Hochschulen bezahlen Forschende, die Artikel schreiben und begutachten, und kaufen die Ergebnisse anschließend über teure Abonnements von den Verlagen zurück. Von freiem Zugang würden zudem viele profitieren, die bisher ausgeschlossen sind: Forschende in Ländern mit kleinen Budgets, Lehrkräfte, die ihren Unterricht aktualisieren wollen, oder Patientinnen, die sich über ihre Krankheit informieren möchten. Wie wichtig offenes Wissen ist, hat nicht zuletzt die Corona-Pandemie gezeigt, als Forschungsergebnisse sofort weltweit geteilt wurden und so die Entwicklung von Impfstoffen beschleunigten.\n\nAllerdings gibt die Historikerin Clara Engel zu bedenken, dass eine Pflicht die Kosten lediglich verlagere, und zwar auf Forschende, die hohe Gebühren entrichten müssten. Tatsächlich verlangen viele renommierte Open-Access-Zeitschriften pro Artikel mehrere Tausend Euro. Für eine medizinische Forschungsgruppe mit großzügigen Drittmitteln mag das verkraftbar sein, für eine Doktorandin der Geschichtswissenschaft dagegen kaum. Dadurch könnte eine neue Ungleichheit entstehen: Nicht mehr die Leserinnen und Leser, sondern die Autorinnen und Autoren wären vom Geld abhängig. Hinzu kommt, dass das Gebührenmodell unseriöse „Raubverlage“ angelockt hat, die gegen Bezahlung nahezu jeden Text ohne ernsthafte Begutachtung veröffentlichen.\n\nNach meiner Einschätzung sprechen diese Einwände nicht gegen Open Access an sich, sondern gegen ein bestimmtes Finanzierungsmodell. Eine Pflicht halte ich daher für richtig, wenn sie mit zwei Bedingungen verknüpft wird. Erstens sollten Hochschulen und Förderorganisationen Publikationsfonds einrichten, aus denen die Gebühren bezahlt werden, sodass niemand privat zahlen muss. Zweitens sollte es stets genügen, eine Fassung des Artikels nach einer kurzen Frist kostenlos im Repositorium der eigenen Hochschule bereitzustellen. Auf diese Weise bliebe die Wahl der Zeitschrift frei, und die Ergebnisse wären trotzdem für alle zugänglich.\n\nInsgesamt bin ich überzeugt, dass Wissen, das mit öffentlichen Mitteln entsteht, auch der Öffentlichkeit gehören sollte. Damit Open Access nicht zum Privileg wohlhabender Fächer wird, muss die Politik jedoch dafür sorgen, dass die Kosten fair verteilt werden.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Wendt und Prof. Engel mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich meine Bedingungen für eine Pflicht klar formuliert (z. B. „Erstens …, zweitens …“)?",
+      "Inhalt: Habe ich Beispiele genannt (z. B. Bezahlschranke bei der Recherche, Doktorandin ohne Drittmittel)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv in der indirekten Rede richtig (z. B. „sie hätten finanziert“, „eine Pflicht verlagere“)?",
+      "Korrektheit: Relativsätze mit Präposition richtig (z. B. „Publikationsfonds, aus denen …“)?",
+      "Wortschatz: Habe ich Fachwörter benutzt (Drittmittel, Begutachtung, Repositorium, Publikationsgebühr)?",
+      "Wortschatz: Mindestens eine Nomen-Verb-Verbindung (z. B. „Gebühren entrichten“, „zur Pflicht werden“)?",
+      "Aufbau: Verweisen die Absätze aufeinander (z. B. „diese Einwände“, „dieses Argument“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. daher, zudem, allerdings, dadurch, auf diese Weise)?"
+    ]
+  },
+  {
+    "id": "sa26",
+    "paar": "P13",
+    "thema": "medien_desinformation",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Das Schulministerium erwägt ab Klasse 7 ein Pflichtfach „Medien und Information“ gegen Desinformation. Für das Magazin der Lehrkräftebildung nehmen Sie Stellung.",
+    "zitate": [
+      {
+        "text": "Falschmeldungen erkennen ist heute so wichtig wie Lesen und Rechnen. Dafür braucht es ein eigenes Fach.",
+        "person": "Dr. Leonie Haas, Kommunikationswissenschaftlerin"
+      },
+      {
+        "text": "Desinformation gibt es in jedem Fach. Jede Lehrkraft muss sie behandeln.",
+        "person": "Stefan Kolb, Lehrer für Biologie und Chemie"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Gehen Sie auf beide Aussagen ein, begründen Sie Ihre Position mit Beispielen und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Jugendliche informieren sich vor allem über soziale Netzwerke und Videoplattformen.",
+      "KI-generierte Bilder und Deepfakes machen Fälschungen schwerer erkennbar.",
+      "Ein eigenes Fach garantiert feste Stunden, einen Lehrplan und ausgebildete Lehrkräfte.",
+      "Querschnittsthemen gehen im Fachunterricht oft unter.",
+      "Eine Demokratie braucht Bürgerinnen und Bürger, die Quellen prüfen können."
+    ],
+    "ideen_contra": [
+      "Desinformation ist fachbezogen; man erkennt sie oft nur mit Fachwissen.",
+      "Die Stundentafel ist voll; ein neues Fach verdrängt andere Fächer.",
+      "Für ein neues Fach fehlen ausgebildete Lehrkräfte.",
+      "Ein isoliertes Fach führt leicht zu allgemeinen Checklisten ohne Bezug zum Inhalt.",
+      "Im Fachunterricht kann man an echten Beispielen üben (z. B. Gesundheitsmythen in Biologie)."
+    ],
+    "gliederung": [
+      "Einleitung: Informationsverhalten Jugendlicher, KI-Bilder, Plan des Ministeriums, eigene Rolle als Biologielehrerin",
+      "Hauptteil 1: Position Dr. Haas – Grundkompetenz, Verbindlichkeit eines eigenen Fachs",
+      "Hauptteil 2: Position Kolb – Desinformation ist fachbezogen (Beispiel Impfmythen), volle Stundentafel, fehlende Lehrkräfte",
+      "Hauptteil 3: eigener Vorschlag – kleines Basisfach in Klasse 7 und 8 plus verbindliche Bausteine in jedem Fach, Fortbildungen",
+      "Schluss: Fazit und Appell an das Ministerium"
+    ],
+    "musterloesung": "Wenn ich Jugendliche frage, woher sie ihre Informationen beziehen, nennen die meisten nicht Zeitungen oder Nachrichtensendungen, sondern Videoplattformen und soziale Netzwerke. Dort verbreiten sich Falschmeldungen oft schneller als seriöse Berichte, und KI-generierte Bilder lassen sich kaum noch von echten Fotos unterscheiden. Vor diesem Hintergrund erwägt das Schulministerium, ab Klasse 7 ein Pflichtfach „Medien und Information“ einzuführen. Als Biologielehrerin möchte ich zu diesem Vorhaben Stellung nehmen.\n\nDie Kommunikationswissenschaftlerin Leonie Haas hält die Fähigkeit, Falschmeldungen zu erkennen, für ebenso grundlegend wie Lesen und Rechnen und fordert deshalb ein eigenes Fach. Diese Forderung ist nachvollziehbar. Ein Pflichtfach hätte einen festen Platz im Stundenplan, einen verbindlichen Lehrplan und eigens ausgebildete Lehrkräfte. Bislang hängt es dagegen stark vom Engagement einzelner Kolleginnen und Kollegen ab, ob Jugendliche lernen, eine Quelle zu überprüfen oder ein manipuliertes Bild zu entlarven. Für Querschnittsaufgaben, die angeblich alle betreffen, fühlt sich im hektischen Schulalltag erfahrungsgemäß häufig niemand verantwortlich. Zudem könnte ein eigenes Fach aktuelle Entwicklungen wie Deepfakes aufgreifen, für die im regulären Lehrplan oft kein Platz ist.\n\nDer Biologie- und Chemielehrer Stefan Kolb wendet dagegen ein, Desinformation gebe es in jedem Fach, weshalb jede Lehrkraft sie behandeln müsse. Aus fachdidaktischer Sicht leuchtet mir dieses Argument besonders ein. Ob ein Video über angeblich gefährliche Impfstoffe seriös ist, kann man nur beurteilen, wenn man weiß, wie das Immunsystem funktioniert und wie klinische Studien aufgebaut sind. Im Biologieunterricht lässt sich beispielsweise sehr gut üben, eine wissenschaftliche Studie von einer bloßen Behauptung zu unterscheiden. Ein isoliertes Fach könnte dagegen zu allgemeinen Checklisten verleiten, die bei konkreten Sachfragen wenig helfen. Außerdem ist die Stundentafel bereits voll, und für ein neues Fach fehlen schlicht ausgebildete Lehrkräfte.\n\nMeiner Ansicht nach sollten beide Ansätze miteinander kombiniert werden. Ich schlage ein kleines Basisfach mit einer Wochenstunde in den Klassen 7 und 8 vor, in dem grundlegende Werkzeuge vermittelt werden: Wie funktionieren Algorithmen? Wie prüfe ich die Herkunft eines Bildes? Darauf aufbauend sollte jedes Fach verbindlich festlegen, wie es Desinformation in seinem Bereich behandelt – in Biologie etwa anhand von Gesundheitsmythen, in Geschichte anhand von Propaganda. Damit das gelingt, müssten alle Lehrkräfte entsprechende Fortbildungen erhalten. Gerade in meinem Fach sehe ich dabei eine große Chance: Wer selbst ein Experiment plant und auswertet, versteht besser, warum eine einzelne Beobachtung noch keinen Beweis darstellt.\n\nAbschließend möchte ich betonen, dass der Umgang mit Desinformation zu wichtig ist, um ihn dem Zufall zu überlassen. Ein eigenes Fach allein reicht jedoch nicht aus. Ich appelliere daher an das Ministerium, ein Gesamtkonzept zu entwickeln, das Grundlagen und Fachunterricht miteinander verbindet.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Haas und Herrn Kolb mit eigenen Worten wiedergegeben?",
+      "Inhalt: Habe ich ein Beispiel aus dem Biologieunterricht gebracht (z. B. Impfmythen, Studie gegen Behauptung)?",
+      "Inhalt: Ist mein Vorschlag konkret (Klassenstufe, Stundenzahl, Inhalte)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I richtig (z. B. „es gebe“, „jede Lehrkraft müsse“)?",
+      "Korrektheit: Indirekte Fragesätze richtig (z. B. „Ob ein Video seriös ist, …“, „wie das Immunsystem funktioniert“)?",
+      "Wortschatz: Habe ich Wörter wie „Desinformation“, „Falschmeldung“, „Querschnittsaufgabe“, „Stundentafel“ benutzt?",
+      "Wortschatz: Habe ich Wiederholungen vermieden (Fach, Unterrichtsfach, Pflichtfach, Basisfach)?",
+      "Aufbau: Endet der Text mit einem Appell?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. deshalb, dagegen, weshalb, außerdem, darauf aufbauend)?"
+    ]
+  },
+  {
+    "id": "sa27",
+    "paar": "P14",
+    "thema": "allgemein_akademisch",
+    "bezug": false,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Erörterung",
+    "situation": "Im Seminar „Sprachen in der globalen Welt“ schreiben Sie eine Erörterung: Brauchen Studierende trotz KI-Übersetzung noch Pflichtkurse in Fremdsprachen?",
+    "zitate": [
+      {
+        "text": "Eine App übersetzt in Echtzeit. Die Zeit für Vokabeln investiert man besser ins eigene Fach.",
+        "person": "Jan P., Student der Wirtschaftsinformatik"
+      },
+      {
+        "text": "Wer eine Sprache lernt, lernt eine andere Art zu denken. Das kann keine Maschine abnehmen.",
+        "person": "Prof. Dr. Ingrid Sommer, Sprachwissenschaftlerin"
+      }
+    ],
+    "anweisung": "Legen Sie Ihren Standpunkt argumentativ dar. Gehen Sie auf beide Aussagen ein, nennen Sie Beispiele und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Sprachenlernen schult Denken, Gedächtnis und die Fähigkeit zum Perspektivwechsel.",
+      "Humor, Ironie und kulturelle Zwischentöne lassen sich kaum maschinell übersetzen.",
+      "Echte Beziehungen, z. B. im Auslandssemester, entstehen in der Sprache des Gegenübers.",
+      "Ohne Sprachkenntnisse bemerkt man Fehler einer KI-Übersetzung nicht.",
+      "Arbeitgeber schätzen Fremdsprachenkenntnisse weiterhin."
+    ],
+    "ideen_contra": [
+      "Übersetzungsprogramme sind sehr gut geworden und reichen im Alltag oft aus.",
+      "Die Studienzeit ist knapp; Fachinhalte haben Vorrang.",
+      "Pflichtkurse ohne Motivation bringen wenig – Vokabeln werden schnell vergessen.",
+      "In vielen Fächern wird ohnehin auf Englisch kommuniziert.",
+      "Wer Interesse hat, kann freiwillig Kurse belegen."
+    ],
+    "gliederung": [
+      "Einleitung: Fortschritte der KI-Übersetzung, Frage nach dem Sinn von Pflichtsprachkursen",
+      "Hauptteil 1: Argumente gegen die Pflicht mit Bezug auf Jan P. (Zeit, Qualität der Apps, Motivation)",
+      "Hauptteil 2: Argumente für die Pflicht mit Bezug auf Prof. Sommer (Denken, Kultur, Beziehungen, Fehler erkennen)",
+      "Hauptteil 3: eigene Abwägung – Pflicht beibehalten, aber modernisieren (Wahlsprache, kritischer Umgang mit KI)",
+      "Schluss: Fazit (KI verändert die Ziele des Sprachenlernens)"
+    ],
+    "musterloesung": "Noch vor wenigen Jahren klangen maschinelle Übersetzungen oft unfreiwillig komisch. Heute übersetzen KI-Programme ganze Fachartikel in Sekunden, und manche Kopfhörer dolmetschen Gespräche nahezu in Echtzeit. Vor diesem Hintergrund fragen sich viele Studierende, warum sie in ihrem Studium noch verpflichtende Sprachkurse belegen sollten. Im Folgenden werde ich die Argumente beider Seiten gegeneinander abwägen.\n\nDer Wirtschaftsinformatikstudent Jan P. hält Pflichtkurse für überflüssig. Er argumentiert, eine App übersetze in Echtzeit, sodass man die Zeit für Vokabeln besser in das eigene Fach investiere. Diese Haltung ist durchaus verständlich. Das Studium ist dicht getaktet, und viele Studierende arbeiten nebenher. Hinzu kommt, dass Übersetzungsprogramme inzwischen auch Fachtexte erstaunlich zuverlässig übertragen, sodass sich die meisten Informationen ohne Fremdsprachenkenntnisse erschließen lassen. Wer im Labor oder am Rechner ohnehin auf Englisch kommuniziert, sieht wenig Nutzen darin, zusätzlich vier Semesterwochenstunden Spanisch zu absolvieren. Darüber hinaus bringt ein Kurs, den man nur widerwillig besucht, erfahrungsgemäß wenig: Die Vokabeln sind nach der Klausur schnell wieder vergessen.\n\nDie Sprachwissenschaftlerin Ingrid Sommer betont hingegen, dass man mit einer Sprache auch eine andere Art zu denken lerne, die einem keine Maschine abnehmen könne. Dieses Argument halte ich für das gewichtigere. Wer eine Fremdsprache lernt, entdeckt, dass andere Sprachen die Welt anders ordnen, und lernt dadurch, die eigene Perspektive zu hinterfragen. Zudem lassen sich Humor, Ironie und kulturelle Zwischentöne kaum maschinell übertragen. Ein Beispiel aus meinem Bekanntenkreis zeigt das deutlich: Eine Kommilitonin konnte bei ihrem Auslandssemester in Lyon zwar mithilfe einer App den Alltag bewältigen, echte Freundschaften entstanden jedoch erst, als sie selbst Französisch sprach. Nicht zuletzt bemerkt nur jemand mit eigenen Sprachkenntnissen, wenn eine KI-Übersetzung einen Sachverhalt verfälscht – in Verträgen oder medizinischen Texten kann das gravierende Folgen haben.\n\nNach Abwägung der Argumente plädiere ich dafür, die Pflicht beizubehalten, die Kurse jedoch grundlegend zu modernisieren. Studierende sollten die Sprache frei wählen können, damit sie an ihre Interessen oder einen geplanten Auslandsaufenthalt anknüpfen können. Denkbar wären auch Tandemprogramme mit internationalen Studierenden, in denen man die Sprache nicht im Kursraum, sondern im echten Gespräch übt. Außerdem sollten Sprachkurse den Umgang mit Übersetzungsprogrammen ausdrücklich einbeziehen: Wer lernt, KI-Texte kritisch zu überprüfen und zu verbessern, verbindet die Vorteile der Technik mit eigener Sprachkompetenz.\n\nZusammenfassend lässt sich festhalten, dass KI das Sprachenlernen nicht ersetzt, sondern seine Ziele verändert. Statt Vokabellisten auswendig zu lernen, geht es künftig stärker um interkulturelles Verständnis und einen kritischen Blick auf Sprache. Gerade deshalb sollten Hochschulen an verpflichtenden Fremdsprachenkursen festhalten – allerdings in einer zeitgemäßen Form.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Jan P. und Prof. Sommer mit eigenen Worten wiedergegeben?",
+      "Inhalt: Beantworte ich die Leitfrage im Schluss eindeutig?",
+      "Inhalt: Habe ich ein konkretes Beispiel erzählt (z. B. Auslandssemester, fehlerhafte Übersetzung)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv I richtig (z. B. „eine App übersetze“, „man lerne“, „keine Maschine könne“)?",
+      "Korrektheit: Satzbau bei „Wer …, (der) …“ geprüft (z. B. „Wer eine Fremdsprache lernt, entdeckt …“)?",
+      "Wortschatz: Habe ich Wörter wie „Perspektivwechsel“, „Zwischentöne“, „verfälschen“ verwendet?",
+      "Wortschatz: Habe ich Wiederholungen vermieden (Sprachkurs, Fremdsprachenkurs, Pflichtkurs, Unterricht)?",
+      "Aufbau: Beginnt der Abwägungsteil mit einer klaren Formulierung (z. B. „Nach Abwägung der Argumente …“)?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. sodass, darüber hinaus, hingegen, zudem, statt … zu)?"
+    ]
+  },
+  {
+    "id": "sa28",
+    "paar": "P14",
+    "thema": "arbeitswelt",
+    "bezug": true,
+    "pruefung": 0,
+    "niveau": "C1",
+    "textsorte": "Stellungnahme",
+    "situation": "Wegen des Lehrkräftemangels will ein Bundesland Teilzeit für Lehrkräfte nur noch aus familiären oder gesundheitlichen Gründen erlauben. Für die Fachschaftszeitschrift Lehramt nehmen Sie Stellung.",
+    "zitate": [
+      {
+        "text": "Zwei Stunden mehr pro Lehrkraft – und Tausende offene Stellen wären besetzt.",
+        "person": "Dr. Bernd Achterberg, Referent im Schulministerium"
+      },
+      {
+        "text": "Wer Lehrkräfte zur Vollzeit zwingt, treibt sie in den Burn-out oder aus dem Beruf.",
+        "person": "Katrin Möller, Personalrätin und Englischlehrerin"
+      }
+    ],
+    "anweisung": "Nehmen Sie Stellung: Gehen Sie auf beide Aussagen ein, begründen Sie Ihre Position mit Beispielen und gliedern Sie in Einleitung, Hauptteil und Schluss.",
+    "ideen_pro": [
+      "Viele Lehrkräfte arbeiten in Teilzeit; schon kleine Aufstockungen ergeben viele Unterrichtsstunden.",
+      "Unterrichtsausfall trifft vor allem Kinder, deren Eltern keine Nachhilfe bezahlen können.",
+      "Neue Lehrkräfte auszubilden dauert viele Jahre; kurzfristig gibt es kaum andere Lösungen.",
+      "Beamtinnen und Beamte haben eine besondere Verantwortung gegenüber dem Staat.",
+      "Familiäre und gesundheitliche Gründe werden weiterhin berücksichtigt."
+    ],
+    "ideen_contra": [
+      "Viele arbeiten in Teilzeit, weil eine volle Stelle zu belastend ist (Korrekturen, Inklusion, Verwaltung).",
+      "Zwang kann zu mehr Krankheit, Frühpensionierungen und Berufswechseln führen.",
+      "Der Beruf wird für Nachwuchs und Quereinsteiger unattraktiver.",
+      "Teilzeit ermöglicht Fortbildung, Ehrenamt oder Pflege, die nicht immer offiziell anerkannt werden.",
+      "Besser wären Anreize und Entlastung, damit Lehrkräfte freiwillig aufstocken."
+    ],
+    "gliederung": [
+      "Einleitung: Lehrkräftemangel und Unterrichtsausfall, hoher Anteil an Teilzeitkräften, Plan des Landes, eigener Bezug",
+      "Hauptteil 1: Position Dr. Achterberg – rechnerischer Effekt, Gerechtigkeit für benachteiligte Kinder, Verantwortung",
+      "Hauptteil 2: Position Möller – hohe Belastung, Gesundheit, Attraktivität des Berufs",
+      "Hauptteil 3: eigener Vorschlag – Anreize statt Zwang (Verwaltungsassistenz, digitale Entlastung, Arbeitszeitkonten)",
+      "Schluss: Fazit (Ziel richtig, Mittel falsch) und Appell an das Ministerium"
+    ],
+    "musterloesung": "Zu Beginn des Schuljahres fehlen an deutschen Schulen erneut Tausende Lehrkräfte, sodass vielerorts Unterricht ausfällt oder Klassen zusammengelegt werden. Gleichzeitig arbeitet ein beachtlicher Teil der Lehrerinnen und Lehrer in Teilzeit. Ein Bundesland will daher Teilzeit nur noch aus familiären oder gesundheitlichen Gründen genehmigen. Da ich selbst gerade den Weg in den deutschen Schuldienst gehe, beschäftigt mich diese Frage sehr, und ich möchte im Folgenden dazu Stellung nehmen.\n\nBernd Achterberg, Referent im Schulministerium, rechnet vor, dass sich Tausende offene Stellen rechnerisch füllen ließen, wenn jede Lehrkraft nur zwei Stunden mehr unterrichtete. Rein rechnerisch ist diese Überlegung kaum zu widerlegen. Da in vielen Bundesländern Zehntausende Lehrkräfte in Teilzeit arbeiten, ergäben schon kleine Aufstockungen Tausende zusätzliche Unterrichtsstunden pro Woche. Neue Lehrkräfte auszubilden dauert dagegen viele Jahre. Hinzu kommt ein Gerechtigkeitsargument: Unterrichtsausfall trifft vor allem Kinder, deren Eltern keine Nachhilfe bezahlen können. Insofern ist es nachvollziehbar, dass der Staat von seinen Beamtinnen und Beamten einen größeren Beitrag erwartet, zumal familiäre und gesundheitliche Gründe weiterhin anerkannt würden.\n\nDie Personalrätin Katrin Möller warnt hingegen, wer Lehrkräfte zur Vollzeit zwinge, treibe sie in den Burn-out oder aus dem Beruf. Auch diese Sorge teile ich. Viele Kolleginnen und Kollegen reduzieren ihre Stunden nicht aus Bequemlichkeit, sondern weil eine volle Stelle mit Korrekturen, Elterngesprächen, Inklusion und wachsenden Verwaltungsaufgaben kaum noch zu bewältigen ist. Eine Teilzeitstelle ist für sie oft die einzige Möglichkeit, langfristig gesund zu bleiben. Würde man ihnen diese Möglichkeit nehmen, könnten krankheitsbedingte Ausfälle und vorzeitige Pensionierungen zunehmen – womit der Mangel am Ende sogar wüchse. Zudem sendet ein solches Verbot ein fatales Signal an junge Menschen und an Quereinsteiger, die überlegen, ob sie diesen Beruf überhaupt ergreifen sollen.\n\nAus meiner Sicht ist Zwang deshalb der falsche Weg; überzeugender wären Anreize. Wenn Lehrkräfte von Verwaltungsaufgaben entlastet würden, etwa durch Verwaltungsassistenzen an den Schulen oder digitale Systeme für Zeugnisse und Elternkommunikation, wären viele bereit, ihre Stundenzahl freiwillig zu erhöhen. Auch Arbeitszeitkonten, auf denen zusätzliche Stunden angespart und später ausgeglichen werden können, wären ein faires Angebot. Ebenso könnten multiprofessionelle Teams aus Schulsozialarbeit, Schulpsychologie und Sonderpädagogik die Lehrkräfte bei schwierigen Fällen unterstützen, sodass mehr Kraft für den eigentlichen Unterricht bliebe.\n\nAlles in allem halte ich das Ziel der Landesregierung, mehr Unterricht zu sichern, für richtig, das gewählte Mittel jedoch für kurzsichtig. Ich appelliere daher an das Ministerium, die Arbeitsbedingungen so zu verbessern, dass eine volle Stelle wieder attraktiv wird. Dann werden sich viele Lehrkräfte von selbst dafür entscheiden.",
+    "checkliste": [
+      "Inhalt: Habe ich die Aussagen von Dr. Achterberg und Frau Möller mit eigenen Worten wiedergegeben?",
+      "Inhalt: Wird klar, dass ich das Ziel teile, aber das Mittel ablehne (oder umgekehrt)?",
+      "Inhalt: Habe ich konkrete Alternativen genannt (z. B. Verwaltungsassistenz, Arbeitszeitkonto)?",
+      "Inhalt: Mindestens 350 Wörter?",
+      "Korrektheit: Konjunktiv II richtig (z. B. „wenn jede Lehrkraft … unterrichtete“, „ergäben“, „wüchse“)?",
+      "Korrektheit: Passiv im Nebensatz richtig (z. B. „wenn Lehrkräfte entlastet würden“, „auf denen Stunden angespart werden können“)?",
+      "Wortschatz: Habe ich Wörter aus der Arbeitswelt Schule benutzt (Teilzeit, aufstocken, Pensionierung, Personalrat)?",
+      "Wortschatz: Mindestens eine feste Wendung (z. B. „ein fatales Signal senden“, „einen Beruf ergreifen“)?",
+      "Aufbau: Ist der Bezug zur eigenen Situation in der Einleitung kurz und passend?",
+      "Aufbau: Mindestens 5 verschiedene Konnektoren (z. B. sodass, gleichzeitig, insofern, zumal, hingegen)?"
+    ]
+  }
+]

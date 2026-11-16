@@ -10,7 +10,7 @@ import { srsRound } from "./vocab.js";
 import { sbExam, drillRound, grammarCard } from "./sb.js";
 import { lesenExam } from "./lesen.js";
 import { hoerenExam } from "./hoeren.js";
-import { schreibenTask } from "./schreiben.js";
+import { schreibenTask, miniSchreiben, pickMini, MINI_TYPEN } from "./schreiben.js";
 import { praesentation, diskussion } from "./sprechen.js";
 import { errorReview } from "./fehler.js";
 import { aufgabenRound } from "./aufgaben.js";
@@ -39,6 +39,29 @@ export function calendarDay(days) {
   const today = dayKey();
   return days.find((d) => d.datum === today) || null;
 }
+
+// ---------- Endspurt (nach Tag 20 bis zur Prüfung) ----------
+/** Erzeugt für heute eine adaptive Tagessession: Schwachstellen + Schreiben + Fehler; kurz vor der Prüfung leichter. */
+export function endspurtDay(daysLeft) {
+  const today = dayKey();
+  const d = new Date();
+  const wd = d.getDay(); // 0 = So, 6 = Sa
+  const mini = ["einleitung", "zitate", "argument", "gegenargument", "schluss", "umformen"][d.getDate() % 6];
+  let titel = "Endspurt: Schwachstellen & Schreiben";
+  let schritte = [AUTO_STEP, { typ: "schreiben_mini", art: mini }, { typ: "schreiben", modus: d.getDate() % 2 ? "pruefung" : "uebung" }, AUTO_STEP];
+  let hinweis = `Noch ${daysLeft} Tage bis zur Prüfung. Die App wählt deine schwächsten Bereiche.`;
+  if (daysLeft <= 2) {
+    titel = "Endspurt: leicht wiederholen";
+    schritte = [{ typ: "redewendungen" }, { typ: "strategie", teil: "ueberblick" }, { typ: "checkliste" }];
+    hinweis = "Nichts Neues mehr – nur entspannt wiederholen. Früh schlafen! 💛";
+  } else if (wd === 6 && !store.attempts.some((a) => a.modul === "pruefung" && a.itemId === "mock3")) {
+    titel = "Endspurt: Generalprobe 3";
+    schritte = [{ typ: "generalprobe", nr: 3 }];
+    hinweis = "Samstag: die dritte, letzte Generalprobe mit Originalzeiten.";
+  }
+  return { tag: "E-" + today, datum: today, woche: 4, titel, schritte, hinweis, endspurt: true };
+}
+const AUTO_STEP = { typ: "auto" };
 
 // ---------- Items auswählen ----------
 function wocheNiveau(woche) {
@@ -84,6 +107,7 @@ export function stepLabel(s) {
     case "redewendungen": return "💬 Redewendungen";
     case "checkliste": return "✅ Checkliste Prüfungstag";
     case "aufgaben": return "🧐 Aufgaben verstehen";
+    case "schreiben_mini": return "✏️ Kurz-Schreiben: " + (MINI_TYPEN[s.art] || "Baustein");
     case "warmup": return "🔥 Aufwärmen: Wortschatz";
     case "warmup_rw": return "🔥 Aufwärmen: Redewendungen";
     default: return s.typ;
@@ -173,6 +197,10 @@ export async function runStep(el, step, ctx = {}) {
     case "wortschatz": case "warmup": return srsRound(el, "wort", { n: step.typ === "warmup" ? 8 : 12, title: "Aufwärmen" });
     case "redewendungen": case "warmup_rw": return srsRound(el, "rw", { n: step.typ === "warmup_rw" ? 5 : 10 });
     case "checkliste": return checkliste(el);
+    case "schreiben_mini": {
+      const item = await pickMini(step.art);
+      return item ? miniSchreiben(el, item) : empty(el);
+    }
     case "aufgaben": { const r = await aufgabenRound(el, { n: step.n || 3 }); return r.empty ? { xp: 0, skipped: true } : r; }
   }
   return { xp: 0 };
@@ -201,7 +229,7 @@ export async function runDay(el, day, nav) {
   const overview = () => new Promise((resolve) => {
     clear(el);
     const doneCount = state.done.length;
-    el.append(h("div.ex-head", h("button.icon-btn", { onclick: () => resolve("exit") }, "✕"), h("div", h("strong", `Tag ${day.tag}: ${day.titel}`), h("div.muted.small", `Woche ${day.woche}`)), h("span")),
+    el.append(h("div.ex-head", h("button.icon-btn", { onclick: () => resolve("exit") }, "✕"), h("div", h("strong", day.endspurt ? day.titel : `Tag ${day.tag}: ${day.titel}`), h("div.muted.small", day.endspurt ? "Endspurt" : `Phase ${day.woche}`)), h("span")),
       day.hinweis ? h("p.callout", day.hinweis) : null,
       h("ol.steps", steps.map((s, i) => h("li" + (state.done.includes(i) ? ".done" : ""), h("span", stepLabel(state.resolved[i] || s)), state.done.includes(i) ? h("span", "✓") : null))),
       h("button.btn.primary.wide", { onclick: () => resolve("go") }, doneCount ? "Weiter lernen" : "Los geht's"),
@@ -224,7 +252,7 @@ export async function runDay(el, day, nav) {
   clear(el);
   const s = streakInfo();
   await new Promise((resolve) => el.append(h("div.result",
-    mascot("cheer", 140, "bounce"), h("h2", `Tag ${day.tag} geschafft!`), h("div.xp-pill", "+20 XP Tagesbonus"),
+    mascot("cheer", 140, "bounce"), h("h2", day.endspurt ? "Endspurt-Tag geschafft!" : `Tag ${day.tag} geschafft!`), h("div.xp-pill", "+20 XP Tagesbonus"),
     h("p", `🔥 Streak: ${s.streak} Tag(e)`),
     s.freezes < MAX_FREEZES ? h("button.btn.wide", { onclick: () => { resolve(); nav("#/bonus"); } }, "❄️ Bonusrunde (5 Min.) – Streak-Freeze verdienen") : h("p.muted.small", "Du hast schon 2 Streak-Freezes."),
     h("button.btn.primary.wide", { onclick: () => { resolve(); nav("#/"); } }, "Zur Startseite"))));

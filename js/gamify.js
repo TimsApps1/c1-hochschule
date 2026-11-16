@@ -132,7 +132,7 @@ export function earnedBadges() {
 // Zielmengen sind bewusst erreichbar (realistisch in 30 Tagen mit 1–2 Std./Tag).
 const TEIL_ZIELE = { sb: 15, lv1: 4, lv2: 4, lv3: 4, hv1: 4, hv2: 4, hv3: 4, sa: 8, sprechen: 8 };
 
-export function overallProgress(totalDays = 30) {
+export function overallProgress(totalDays = 20) {
   const done = (pred) => store.attempts.filter(pred).length;
   const lernpfad = Math.min(1, new Set(store.attempts.filter((a) => a.modul === "lektion").map((a) => a.itemId)).size / totalDays);
   const teile = Object.entries(TEIL_ZIELE).map(([t, ziel]) => {
