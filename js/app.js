@@ -37,11 +37,14 @@ export function nav(hash) {
 function topbar() {
   const s = streakInfo();
   const lv = levelInfo();
-  const d = daysUntilExam();
+  // Lernpfad-Tag statt Prüfungs-Countdown (der Countdown steht auf der Startseite, klar beschriftet)
+  const TOTAL = 20;
+  const doneDays = new Set(store.attempts.filter((a) => a.modul === "lektion" && /^tag-\d+$/.test(a.itemId)).map((a) => a.itemId)).size;
+  const pfad = doneDays >= TOTAL ? "Endspurt" : `Tag ${doneDays + 1}/${TOTAL}`;
   return h("header.topbar",
     h("div.pill", { title: "Streak" }, h("span.flame" + (s.activeToday ? ".on" : ""), "🔥"), h("b", s.streak), s.freezes ? h("span.small", " ❄️".repeat(s.freezes)) : null),
     h("div.pill", { title: "Level" }, "⭐ ", h("b", "Lv " + lv.level)),
-    h("div.pill", { title: "Tage bis zur Prüfung" }, "🎓 ", h("b", d > 0 ? `${d} Tage` : d === 0 ? "Heute!" : "vorbei")),
+    h("a.pill", { href: "#/pfad", title: "Lernpfad: 20 Tage" }, "🗺️ ", h("b", pfad)),
     progressStrip());
 }
 
@@ -95,7 +98,7 @@ async function viewHome() {
     topbar(),
     tarsiSays(greetingLine({ name: store.settings.name, streak: s.streak, activeToday: s.activeToday, xpToday: xpT, goal, dayNum: day.tag, daysLeft: daysUntilExam(), firstTime: done }), s.activeToday && xpT >= goal ? "cheer" : done ? "wave" : "happy"),
     h("button.card.progress-hero", { onclick: () => showProgressDetails() }, progressRing(overallProgress().pct),
-      h("div", h("strong", "Dein Weg zur Prüfung"), h("p.small.muted", `Noch ${Math.max(0, daysUntilExam())} Tage bis zum 12.12. Jede Übung bringt dich weiter.`), h("span.small.link", "Details ansehen →"))),
+      h("div", h("strong", "Dein Weg zur Prüfung"), h("p.small.muted", (() => { const done = new Set(store.attempts.filter((x) => x.modul === "lektion" && /^tag-d+$/.test(x.itemId)).map((x) => x.itemId)).size; const rest = Math.max(0, 20 - done); return rest ? `Lernpfad: noch ${rest} von 20 Tagen (bis 1.12.). Prüfung am 12.12. – in ${Math.max(0, daysUntilExam())} Tagen.` : `Lernpfad geschafft! Endspurt bis zur Prüfung am 12.12. – noch ${Math.max(0, daysUntilExam())} Tage.`; })()), h("span.small.link", "Details ansehen →"))),
     h("div.card.goal",
       h("div.row.between", h("strong", "Tagesziel"), h("span", `${xpT} / ${goal} XP`)),
       progressBar(xpT, goal, xpT >= goal ? "good" : ""),

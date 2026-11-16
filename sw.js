@@ -1,6 +1,6 @@
 // Service Worker: cacht beim ersten Öffnen alle App-Dateien und Inhalte → offline nutzbar.
 // Bei jedem Deploy CACHE_VERSION erhöhen (scripts/validate.mjs erinnert daran nicht – bitte selbst!).
-const CACHE_VERSION = "v10";
+const CACHE_VERSION = "v11";
 const CACHE = "c1hs-" + CACHE_VERSION;
 
 const CORE = [
