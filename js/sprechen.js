@@ -135,7 +135,7 @@ export function praesentation(el, blatt, opts = {}) {
             schema: feedbackSchema(["teil1a", "teil1b"]),
             maxTokens: 12000,
           });
-          return showSpeakFeedback(el, data, { parts: { teil1a: 6, teil1b: 4 }, usd, sec, modulTeil: "1a", itemId: blatt.id, resolve: finish, extra: thema.muster, stats: box1?.result?.stats, first: first && box1?.result ? { first, now: box1.result.url } : null });
+          return showSpeakFeedback(el, data, { parts: { teil1a: 6, teil1b: 4 }, usd, sec, modulTeil: "1a", itemId: blatt.id, resolve: finish, extra: thema.muster, training: !!opts.training, stats: box1?.result?.stats, first: first && box1?.result ? { first, now: box1.result.url } : null });
         } catch (e) {
           toast(e instanceof AiUnavailable ? e.message : "KI-Feedback nicht möglich");
         }
@@ -152,7 +152,7 @@ export function praesentation(el, blatt, opts = {}) {
         h("button.btn.primary.wide", { onclick: async () => {
           const n = el.querySelectorAll(".checks input:checked").length;
           const pts = Math.round((n / 7) * 10);
-          await store.addAttempt({ modul: "sprechen", teil: "1a", itemId: blatt.id, score: pts, max: 10, sec, xp: 25, meta: { selbst: true } });
+          await store.addAttempt({ modul: "sprechen", teil: "1a", itemId: blatt.id, score: pts, max: 10, sec, xp: 25, meta: { selbst: true, training: !!opts.training } });
           finish({ score: pts, max: 10, xp: 25 });
         } }, "Speichern"));
     }
@@ -206,7 +206,7 @@ export async function zuhoeren(el, id) {
               d.gefehlt?.length ? h("div.fb-line.next", h("b", "→ Gefehlt: "), d.gefehlt.join(" · ")) : null,
               h("div.fb-line" + (d.frage_ok ? ".good" : ".next"), h("b", d.frage_ok ? "✓ Frage: " : "→ Frage: "), d.frage_kommentar),
               h("div.fb-line.better", h("b", "✨ "), d.tipp)));
-            await store.addAttempt({ modul: "sprechen", teil: "1b-zuhoeren", itemId: id, score: (d.getroffen || []).length + (d.frage_ok ? 1 : 0), max: (g.kernpunkte || []).length + 1, xp: 8, meta: { ohneWertung: true, ki: true } });
+            await store.addAttempt({ modul: "sprechen", teil: "1b-zuhoeren", itemId: id, score: (d.getroffen || []).length + (d.frage_ok ? 1 : 0), max: (g.kernpunkte || []).length + 1, xp: 8, meta: { ohneWertung: true, ki: true, training: true } });
           } catch (_) { clear(out); }
         }
         out.append(h("details", h("summary", "📄 Muster-Zusammenfassung + Fragen"), h("p", g.musterzusammenfassung || ""), h("ul", (g.musterfragen || []).map((f) => h("li", f)))),
@@ -231,7 +231,7 @@ function feedbackSchema(parts) {
   });
 }
 
-async function showSpeakFeedback(el, d, { parts, usd, sec, modulTeil, itemId, resolve, extra, stats, first }) {
+async function showSpeakFeedback(el, d, { parts, usd, sec, modulTeil, itemId, resolve, extra, stats, first, training }) {
   clear(el);
   // Punkte begrenzen auf telc-Skalen
   const cap = (v, max) => Math.max(0, Math.min(max, Math.round(v || 0)));
@@ -250,7 +250,7 @@ async function showSpeakFeedback(el, d, { parts, usd, sec, modulTeil, itemId, re
   }
   rows.push(h("div.krit-row", h("span.stufe", "–"), h("div", h("strong", "Aussprache"), h("div.small", "Aus Text nicht bewertbar – hör dir deine Aufnahme an."))));
   const xp = 30;
-  await store.addAttempt({ modul: "sprechen", teil: modulTeil, itemId, score: got, max, sec, xp, meta: { ki: true } });
+  await store.addAttempt({ modul: "sprechen", teil: modulTeil, itemId, score: got, max, sec, xp, meta: { ki: true, training: !!training } });
   const lo = Math.max(0, got - 2), hi = Math.min(max, got + 2);
   el.append(h("div.ex-head", h("span"), h("strong", "Feedback"), h("span")),
     h("div.score-big", h("div", `ca. ${lo}–${hi} / ${max}`), h("div.muted.small", `KI-Schätzung (ohne Aussprache) · Bestehen ≈ 60 % = ${Math.round(max * 0.6)}`), h("div.xp-pill", `+${xp} XP`)),
@@ -389,7 +389,7 @@ Verhalte dich wie eine gute Prüfungspartnerin auf C1-Niveau: Vertritt eher die 
             schema: feedbackSchema(["teil2"]),
             maxTokens: 12000,
           });
-          return showSpeakFeedback(el, data, { parts: { teil2: 6 }, usd, sec, modulTeil: "2", itemId: d.id, resolve, extra: (d.beispieldialog || []).map((t) => `**${t.sp}:** ${t.text}`).join("\n\n") });
+          return showSpeakFeedback(el, data, { parts: { teil2: 6 }, usd, sec, modulTeil: "2", itemId: d.id, resolve, training: !!opts.training, extra: (d.beispieldialog || []).map((t) => `**${t.sp}:** ${t.text}`).join("\n\n") });
         } catch (e) { toast(e.message); }
       }
       clear(el);
@@ -400,7 +400,7 @@ Verhalte dich wie eine gute Prüfungspartnerin auf C1-Niveau: Vertritt eher die 
         h("div.checks", ["Eigene Meinung klar gesagt", "Auf Argumente der Partnerin eingegangen", "Höflich widersprochen", "Nachgefragt", "Beispiele gebracht", "Kompromiss gesucht"].map((c) => h("label.check", h("input", { type: "checkbox" }), h("span", c)))),
         h("button.btn.primary.wide", { onclick: async () => {
           const n = el.querySelectorAll(".checks input:checked").length;
-          await store.addAttempt({ modul: "sprechen", teil: "2", itemId: d.id, score: n, max: 6, sec, xp: 25, meta: { selbst: true } });
+          await store.addAttempt({ modul: "sprechen", teil: "2", itemId: d.id, score: n, max: 6, sec, xp: 25, meta: { selbst: true, training: !!opts.training } });
           resolve({ score: n, max: 6, xp: 25 });
         } }, "Speichern"));
     }

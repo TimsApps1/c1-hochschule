@@ -49,7 +49,9 @@ async function themenListe() {
 /** Was würde gelöscht? */
 export function heuteSprechenInfo() {
   const heute = dayKey();
-  const atts = store.attempts.filter((a) => a.modul === "sprechen" && a.day === heute);
+  // NUR Einträge aus „Heute sprechen“ – normale Sprechübungen (z. B. aus dem Lernpfad) bleiben erhalten
+  const TRAINING = ["kernsatz", "abschnitt", "training", "1b-zuhoeren"];
+  const atts = store.attempts.filter((a) => a.modul === "sprechen" && a.day === heute && (TRAINING.includes(a.teil) || a.meta?.training));
   const st = store.texts.get("sprechstand");
   return { atts, themen: st?.themen?.length || 0 };
 }
@@ -426,7 +428,7 @@ async function voll(el, data, thema, { prep, zuhoeren, waehlen }) {
   const anderes = Object.keys(data.geruest).filter((id) => id !== thema.id);
   const hoerThema = anderes[(stand().sessions || 0) % anderes.length];
   const r = await praesentation(el, thema.blatt, {
-    prepMinutes: prep, themaIndex: waehlen ? undefined : thema.idx, geruest: data.geruest, zuhoeren: zuhoeren ? hoerThema : null,
+    prepMinutes: prep, training: true, themaIndex: waehlen ? undefined : thema.idx, geruest: data.geruest, zuhoeren: zuhoeren ? hoerThema : null,
   });
   if (r && !r.aborted) {
     const st = stand();
@@ -442,5 +444,5 @@ async function disk(el) {
   const list = pool(sp.diskussion);
   const last = (id) => store.attempts.filter((a) => a.modul === "sprechen" && a.itemId === id).reduce((m, a) => Math.max(m, a.t), 0);
   const d = [...list].sort((a, b) => last(a.id) - last(b.id))[0];
-  return diskussion(el, d, { minuten: 6 });
+  return diskussion(el, d, { minuten: 6, training: true });
 }
