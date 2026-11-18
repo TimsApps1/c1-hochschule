@@ -80,7 +80,7 @@ export function praesentation(el, blatt, opts = {}) {
       clear(el);
       const box = speakBox({ targetSec: [180, 240], tag: "praes", rows: 8, label: "Präsentation starten" });
       el.append(h("div.ex-head", h("button.icon-btn", { onclick: async () => { if (await confirmBox("Abbrechen?", "")) { stopAll(); await box.stop(); resolve({ aborted: true }); } } }, "✕"), h("strong", "Präsentation (Ziel: 3–4 Min.)"), h("span")),
-        h("p.small.muted", "Tippe auf den Knopf und sprich frei – der Balken zeigt dir die Zeit. Tippe am Ende auf „Fertig“."),
+        h("div.task-box.aufgabe", h("div.small.muted", "🎯 Deine Aufgabe"), h("p", h("strong", `Halte jetzt deinen ganzen Vortrag zum Thema „${thema.titel}“ – frei, ohne abzulesen.`)), h("p.small", "Reihenfolge: Einleitung mit Gliederung → alle 4 Punkte vom Aufgabenblatt, je mit Beispiel → Schluss mit Dank. Ziel: 3–4 Minuten."), h("p.small", "Roter Knopf = anfangen · „Fertig“ = aufhören. Der Balken wird grün, wenn du in der Zielzeit bist.")),
         geruestKarte(false),
         notes ? h("details", h("summary", "Deine Notizen"), h("pre.notes", notes)) : null,
         box.el, azureHint(),
@@ -110,6 +110,7 @@ export function praesentation(el, blatt, opts = {}) {
       const box = speakBox({ targetSec: [30, 90], tag: "1b", rows: 4, label: "Antworten" });
       el.append(h("div.ex-head", h("span"), h("strong", "Teil 1B – Anschlussfrage"), h("span")),
         h("div.bubble.partner", h("div.small.muted", "Partnerin"), zusammenfassung ? h("p", zusammenfassung) : null, h("p", h("strong", fragen[0])), h("button.btn.small.ghost", { onclick: () => speakOnce(ask, "B") }, "🔊 Anhören")),
+        h("div.task-box.aufgabe", h("div.small.muted", "🎯 Deine Aufgabe"), h("p", h("strong", "Die Partnerin hat dir eine Frage zu deinem Vortrag gestellt. Antworte direkt darauf.")), h("p.small", "Erst die Antwort in einem Satz, dann ein Grund oder Beispiel. Ca. 30–90 Sekunden. Tipp: 🔊 noch einmal anhören.")),
         sch.length ? h("details.tips", h("summary", "🧱 So antwortest du (30–90 Sek.)"), h("ol", sch.map((s) => h("li", s)))) : null,
         box.el,
         h("button.btn.primary.wide", { onclick: async (e) => { e.target.disabled = true; await box.settled(); feedback(text, sec, box.text(), ask, box1, box); } }, "Antwort abschicken"));
@@ -178,6 +179,7 @@ export async function zuhoeren(el, id) {
     const out = h("div");
     el.append(h("div.ex-head", h("button.icon-btn", { onclick: () => { stopAll(); resolve({ aborted: true }); } }, "✕"), h("strong", "1B – Rollenwechsel: Du hörst zu"), h("span")),
       tarsiSays("In der Prüfung hörst du auch die Präsentation deiner Partnerin. Danach fasst du sie kurz zusammen und stellst eine Frage.", "happy"),
+      h("div.task-box.aufgabe", h("div.small.muted", "🎯 Deine Aufgabe"), h("ol.small", h("li", "Tippe auf „▶ Anhören“ und notiere Stichworte: Was ist das Thema? Was sind die 2 wichtigsten Punkte?"), h("li", "Tippe auf den roten Knopf: Fasse in 2–3 Sätzen zusammen und stelle EINE Frage zum Vortrag (ca. 45 Sek.)."), h("li", "Tippe auf „Fertig“ – du bekommst eine kurze Rückmeldung."))),
       h("div.card", h("strong", `🎧 Kurzvortrag: ${titel}`), h("p.small.muted", "ca. 2 Minuten – in der Prüfung hörst du nur einmal."),
         h("button.btn.primary", { onclick: play }, "▶ Anhören"), h("button.btn.small.ghost", { onclick: () => stopAll() }, "⏹")),
       notes,
@@ -295,7 +297,9 @@ export function diskussion(el, d, opts = {}) {
     const upAnteil = () => { const t = mySec + partnerSec; if (t > 0) anteil.textContent = `Dein Sprechanteil: ${Math.round((mySec / t) * 100)} % (Ziel: ca. 50 %)`; };
     let sending = false;
     let box;
-    const sch = (await load("sprechtraining"))?.schablonen?.teil2_beitrag || [];
+    const trd = await load("sprechtraining");
+    const sch = trd?.schablonen?.teil2_beitrag || [];
+    const einfach = trd?.diskussion?.[d.id] || null;
     const newBox = () => {
       box = speakBox({ tag: "disk", rows: 3, label: "Antworten", targetSec: [20, 60],
         onStart: () => { stopAll(); clock.start(); },
@@ -309,7 +313,9 @@ export function diskussion(el, d, opts = {}) {
     const endBtn = h("button.btn.wide", { onclick: () => finish() }, "Diskussion beenden & Feedback");
     el.append(h("div.ex-head", h("button.icon-btn", { onclick: async () => { if (await confirmBox("Abbrechen?", "")) { stopAll(); clock.stop(); await box?.stop(); resolve({ aborted: true }); } } }, "✕"), h("strong", "Teil 2 – Diskussion"), h("span")),
       h("div.task-box", h("blockquote", "„" + d.zitat.replace(/^[„"]+|[“"]+$/g, "") + "“", h("cite", d.person)), h("ul", d.leitpunkte.map((l) => h("li", l))), h("div.help-row", taskHelpButton("mp2", d.id))),
-      sch.length ? h("details.tips", { open: true }, h("summary", "🧱 Pro Beitrag (3–5 Sätze)"), h("ol", sch.map((s) => h("li", s)))) : null,
+      einfach ? h("div.card.soft", h("strong", "Einfach gesagt: "), einfach.worum, h("ul.small", (einfach.leitpunkte_einfach || []).map((l) => h("li", l)))) : null,
+      h("div.task-box.aufgabe", h("div.small.muted", "🎯 Deine Aufgabe"), h("p", h("strong", "Ihr diskutiert ca. 6 Minuten über das Zitat. Die Partnerin beginnt – hör zu und antworte ihr.")), h("p.small", "In jedem Beitrag: deine Meinung + ein Grund oder Beispiel, dann eine Frage zurück („Wie sehen Sie das?“). Du darfst widersprechen! Roter Knopf = sprechen, „Fertig“ = Antwort senden."), einfach?.erster_beitrag ? h("details", h("summary.small", "Beispiel für deinen ersten Beitrag"), h("p.small", einfach.erster_beitrag)) : null),
+      sch.length ? h("details.tips", h("summary", "🧱 Pro Beitrag (3–5 Sätze)"), h("ol", sch.map((s) => h("li", s)))) : null,
       h("details.tips", h("summary", "💡 Redemittel (antippen = anhören)"), await redemittelList(["zustimmen", "widersprechen", "kompromiss", "nachfragen", "zeit_gewinnen", "meinung"])),
       !av.ok ? h("p.callout", av.msg + " Ohne KI liest die Partnerin vorbereitete Gegenargumente vor.") : null,
       clockBar, clockTxt, anteil,

@@ -37,6 +37,7 @@ export const store = {
   texts: new Map(),
   settings: { ...DEFAULT_SETTINGS },
   dirty: false,
+  deleted: new Set(), // IDs gelöschter Versuche (werden mitsynchronisiert)
 
   async init() {
     const [attempts, cards, errors, texts, settings, dirty] = await Promise.all([
@@ -47,6 +48,7 @@ export const store = {
       db.kvGet("settings"),
       db.kvGet("dirty", false),
     ]);
+    this.deleted = new Set((await db.kvGet("deletedAttempts", [])) || []);
     this.attempts = attempts.sort((a, b) => a.t - b.t);
     this.cards = new Map(cards.map((c) => [c.id, c]));
     this.errors = new Map(errors.map((e) => [e.id, e]));
@@ -88,6 +90,18 @@ export const store = {
     await db.put("attempts", rec);
     await this.setDirty();
     this.emit("attempt");
+  },
+
+  /** Löscht Versuche dauerhaft – auch auf den anderen Geräten (Löschmarke wird synchronisiert). */
+  async deleteAttempts(ids) {
+    const set = new Set(ids);
+    if (!set.size) return 0;
+    this.attempts = this.attempts.filter((a) => !set.has(a.id));
+    for (const id of set) { this.deleted.add(id); await db.delete("attempts", id); }
+    await db.kvSet("deletedAttempts", [...this.deleted]);
+    await this.setDirty();
+    this.emit("attempt");
+    return set.size;
   },
 
   attemptsFor(pred) {
@@ -147,6 +161,7 @@ export const store = {
       cards: [...this.cards.values()],
       errors: [...this.errors.values()],
       texts: [...this.texts.values()],
+      deleted: [...this.deleted],
     };
   },
 
@@ -154,8 +169,21 @@ export const store = {
   async mergeIn(remote) {
     if (!remote || remote.app !== "c1-hochschule") throw new Error("Unbekanntes Dateiformat.");
     let changed = false;
+    // Löschmarken übernehmen und lokal anwenden
+    const remDel = (remote.deleted || []).filter((id) => !this.deleted.has(id));
+    if (remDel.length) {
+      for (const id of remDel) this.deleted.add(id);
+      await db.kvSet("deletedAttempts", [...this.deleted]);
+      const gone = this.attempts.filter((a) => this.deleted.has(a.id));
+      if (gone.length) {
+        this.attempts = this.attempts.filter((a) => !this.deleted.has(a.id));
+        for (const a of gone) await db.delete("attempts", a.id);
+        changed = true;
+      }
+    }
+    if ((remote.deleted || []).length < this.deleted.size) await this.setDirty(); // eigene Löschungen hochladen
     const ids = new Set(this.attempts.map((a) => a.id));
-    const newAttempts = (remote.attempts || []).filter((a) => a && a.id && !ids.has(a.id));
+    const newAttempts = (remote.attempts || []).filter((a) => a && a.id && !ids.has(a.id) && !this.deleted.has(a.id));
     if (newAttempts.length) {
       await db.bulkPut("attempts", newAttempts);
       this.attempts.push(...newAttempts);

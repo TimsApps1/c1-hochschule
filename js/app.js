@@ -25,7 +25,7 @@ import { aufgabenRound, glossarRound, eigeneWorte, glossarList, steckbriefe, str
 import { germanVoices, voicesReady, speakOnce, ttsSupported } from "./tts.js";
 import { askFab, setExamMode, questionsList } from "./ask.js";
 import { azure, testAzure } from "./azure.js";
-import { heuteSprechen, sprechPhase } from "./sprechtraining.js";
+import { heuteSprechen, sprechPhase, heuteSprechenInfo, heuteSprechenZuruecksetzen } from "./sprechtraining.js";
 
 const main = document.getElementById("main");
 const tabbar = document.getElementById("tabbar");
@@ -478,6 +478,18 @@ async function viewMehr() {
 
     h("h2", "Spracherkennung & Stimmen (Azure)"),
     await azureCard(),
+
+    h("h2", "Sprechtraining"),
+    h("div.card",
+      h("p.small", "Testlauf gemacht oder neu anfangen? Löscht das heutige Sprechtraining (Übungseinträge von heute), die gewählten Themen, den Fortschritt der Abschnitte, die Stichworte und die gespeicherten Aufnahmen auf diesem Gerät. Auf den anderen Geräten wird es beim nächsten Dropbox-Abgleich ebenfalls gelöscht."),
+      h("button.btn", { onclick: async () => {
+        const i = heuteSprechenInfo();
+        if (!(await confirmBox("Sprechtraining zurücksetzen?", `${i.atts.length} Übungseinträge von heute${i.themen ? " und " + i.themen + " gewählte Themen" : ""} werden gelöscht. Das lässt sich nicht rückgängig machen.`, "Löschen"))) return;
+        const n = await heuteSprechenZuruecksetzen();
+        toast(`✓ ${n} Einträge gelöscht – Sprechtraining beginnt neu`);
+        sync.run().catch(() => {});
+        viewMehr();
+      } }, "🗑️ Heutiges Sprechtraining löschen")),
 
     h("h2", "Vorlesen"),
     h("div.card",

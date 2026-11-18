@@ -45,6 +45,41 @@ async function themenListe() {
   return out;
 }
 
+// ---------- Zurücksetzen (z. B. nach einem Testlauf) ----------
+/** Was würde gelöscht? */
+export function heuteSprechenInfo() {
+  const heute = dayKey();
+  const atts = store.attempts.filter((a) => a.modul === "sprechen" && a.day === heute);
+  const st = store.texts.get("sprechstand");
+  return { atts, themen: st?.themen?.length || 0 };
+}
+/** Löscht das heutige Sprechtraining: Einträge von heute, gewählte Themen, Fortschritt, Notizen, Aufnahmen auf diesem Gerät. */
+export async function heuteSprechenZuruecksetzen() {
+  const { atts } = heuteSprechenInfo();
+  await store.deleteAttempts(atts.map((a) => a.id));
+  await saveStand({ themen: [], abschnitte: {}, voll: {}, kennen: 0, ks: 0, sessions: 0, last: null });
+  for (const t of [...store.texts.values()]) if (t.typ === "sprechnotizen" && Object.keys(t.notes || {}).length) await store.saveText({ ...t, notes: {} });
+  const { db } = await import("./db.js");
+  for (const r of await db.getAll("kv")) {
+    if (r.key.startsWith("rec:")) await db.kvDel(r.key);
+  }
+  // Schritt „Heute sprechen“ in der heutigen Tagessession wieder öffnen
+  const { lernpfad, sessionSteps, currentDay } = await import("./session.js");
+  const days = await lernpfad();
+  const cands = [currentDay(days), ...days.filter((d) => d.datum === dayKey())].filter(Boolean);
+  for (const d of cands) {
+    const key = "session." + d.tag;
+    const state = await db.kvGet(key);
+    if (!state) continue;
+    const idx = sessionSteps(d, { sprech: state.sprech }).findIndex((s) => s.typ === "sprechtraining");
+    if (idx >= 0 && state.done.includes(idx)) { state.done = state.done.filter((i) => i !== idx); await db.kvSet(key, state); }
+  }
+  const ek = "session.E-" + dayKey();
+  const es = await db.kvGet(ek);
+  if (es) { const { endspurtDay } = await import("./session.js"); const d = endspurtDay(10); const idx = sessionSteps(d, { sprech: es.sprech }).findIndex((s) => s.typ === "sprechtraining"); if (idx >= 0) { es.done = es.done.filter((i) => i !== idx); await db.kvSet(ek, es); } }
+  return atts.length;
+}
+
 // ---------- Einstieg ----------
 /** Ein Schritt der Tagessession (oder Knopf auf der Startseite). */
 export async function heuteSprechen(el) {
@@ -246,7 +281,7 @@ async function abschnitt(el, data, thema, idx, { nr, von, runde }) {
   const lp = ab.typ === "leitpunkt" ? thema.thema.leitpunkte[(ab.nr || 1) - 1] : null;
   const r = await abschnittScreen(el, {
     titel: `${thema.thema.titel}`, untertitel: `Abschnitt ${idx + 1}/6: ${ab.titel}` + (von > 1 ? ` · heute ${nr}/${von}` : ""),
-    ab, leitpunkt: lp, recId: `first:${thema.id}:${idx}`, themaId: thema.id, idx,
+    ab, leitpunkt: lp, recId: `first:${thema.id}:${idx}`, themaId: thema.id, themaTitel: thema.thema.titel, idx,
     kontext: `Präsentation (telc C1 Hochschule, Teil 1A) zum Thema „${thema.thema.titel}“. Aufgabe: ${thema.thema.aufgabe} Leitpunkte: ${thema.thema.leitpunkte.join(" | ")}. Gesprochen wird NUR dieser Abschnitt: ${ab.titel}${lp ? " – Leitpunkt: " + lp : ""}.`,
   });
   if (!r.aborted) {
@@ -260,6 +295,13 @@ async function abschnitt(el, data, thema, idx, { nr, von, runde }) {
   }
   return r;
 }
+
+const AUFGABE_STD = {
+  einleitung: 'Sag, worüber du sprichst, und nenne kurz die Reihenfolge deines Vortrags: zuerst …, dann …, zum Schluss …',
+  leitpunkt: 'Sprich nur über diesen Punkt des Aufgabenblatts – mit einem Beispiel aus deinem Leben.',
+  schluss: 'Fasse deine Meinung in 1–2 Sätzen zusammen und bedanke dich fürs Zuhören.',
+  kennenlernen: 'Stell dich vor wie am Anfang der Prüfung: Wer bist du, was machst du beruflich, warum machst du die Prüfung?',
+};
 
 const KURZ_SYS = () => `${learnerContext()}
 Du bist eine warmherzige, erfahrene Sprechtrainerin für die mündliche Prüfung telc Deutsch C1 Hochschule.
@@ -360,12 +402,20 @@ function abschnittScreen(el, o) {
     }
 
     el.append(h("div.ex-head", h("button.icon-btn", { onclick: () => { stopAll(); resolve({ aborted: true }); } }, "✕"), h("div", h("strong", o.titel), h("div.small.muted", o.untertitel)), h("span")),
-      o.leitpunkt ? h("div.task-box", h("p", o.leitpunkt)) : null,
+      o.themaTitel ? h("p.small.muted", `Stell dir vor: Du hältst in der Prüfung einen Vortrag zum Thema „${o.themaTitel}“. Heute übst du nur ein Stück davon.`) : null,
+      h("div.task-box.aufgabe", h("div.small.muted", "🎯 Deine Aufgabe"), h("p", h("strong", ab.aufgabe || AUFGABE_STD[ab.typ] || AUFGABE_STD.leitpunkt)),
+        h("div.small", `⏱️ ca. ${ziel} Sekunden – das sind etwa ${Math.max(2, Math.round(ziel / 9))} Sätze.`),
+        o.leitpunkt ? h("details", h("summary.small", "So steht es im Aufgabenblatt"), h("p.small", o.leitpunkt)) : null),
+      h("details.tips", { open: !store.attempts.some((a) => a.modul === "sprechen" && a.teil === "abschnitt") }, h("summary", "❓ So geht's"), h("ol",
+        h("li", "Lies die Aufgabe oben."),
+        h("li", "Wenn du magst: Ideen und Satzanfänge ansehen (antippen = vorlesen) und eigene Stichworte notieren."),
+        h("li", "Roten Knopf drücken und frei sprechen – es muss nicht perfekt sein!"),
+        h("li", "„Fertig“ drücken – Tarsi gibt dir drei kurze Rückmeldungen."),
+        h("li", "Mit „🔁 Nochmal – besser!“ probierst du den Tipp gleich aus."))),
       h("div.card",
-        h("div.small.muted", `Ziel: ca. ${ziel} Sekunden`),
-        ab.stichworte?.length ? h("div", h("span.small", "Ideen: "), ab.stichworte.map((s) => h("span.chip.soft", s))) : null,
+        ab.stichworte?.length ? h("div", h("span.small", "Ideen (Beispiele): "), ab.stichworte.map((s) => h("span.chip.soft", s))) : null,
         eigene,
-        h("div.small", "Satzanfänge (antippen = anhören):"),
+        h("div.small", "Satzanfänge (antippen = vorlesen):"),
         h("div.chips", (ab.satzanfaenge || []).map((s) => h("button.chip", { onclick: () => speakOnce(s.replace(/\s*…\s*$/, ""), "B") }, s)))),
       neuerVersuch(), out);
   });
