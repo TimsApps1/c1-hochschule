@@ -124,3 +124,14 @@ Die MP3s werden **einmalig** mit Azure-Neuralstimmen erzeugt (ca. 205.000 Zeiche
    Danach `CACHE_VERSION` in `sw.js` erhöhen, committen, pushen.
 
 Der Schlüssel landet nie im Repository. Neue Hörtexte später: einfach das Skript erneut ausführen (vorhandene MP3s werden übersprungen).
+
+## 8. Sprechtraining „🎤 Heute sprechen“ (ab v0.8)
+
+Konzept und Gutachten: `docs/SPRECHEN_KONZEPT.md`. Täglich ca. 20 Min. direkt nach dem Aufwärmen (nicht an Test-Tagen), auch als Karte auf der Startseite:
+- bis 25.11.: Kernsätze nachsprechen (mit Aussprache-Schätzung) + Präsentation Abschnitt für Abschnitt (Gerüst aus den Leitpunkten, 3-Zeilen-Feedback, „Nochmal – besser!“)
+- 26.11.–2.12.: ganze Präsentation (10 Min. Vorbereitung) mit 1B in beiden Rollen ↔ Diskussion mit 6-Min.-Uhr
+- ab 3.12.: kompletter Durchlauf (ca. 50 Min.) ↔ Kernsätze + Diskussion
+
+**Spracherkennung (empfohlen):** Mehr → „Spracherkennung & Stimmen (Azure)“ → Schlüssel 1 und Region der Azure-Speech-Ressource eintragen (dieselbe Ressource wie in Abschnitt 7). Dann wird jede Aufnahme automatisch in Text umgewandelt (Kurzaudio-REST, im Gratis-Tarif 5 Std./Monat), und die Gesprächspartnerin spricht mit Neural-Stimme. Der Schlüssel bleibt nur auf dem Gerät. Ohne Schlüssel: Diktat über die Tastatur.
+
+Audios für Kernsätze und Kurzvorträge: `node scripts/tts-sprechen.mjs` (einmalig, überspringt vorhandene).

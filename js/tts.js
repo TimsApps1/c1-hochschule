@@ -4,6 +4,7 @@
 // iOS-Eigenheiten: Stimmen laden asynchron; lange Äußerungen brechen manchmal ab → wir lesen satzweise;
 // pause()/resume() ist unzuverlässig → Pause = Stopp und Fortsetzen ab dem aktuellen Satz.
 import { store } from "./store.js";
+import { azure, azureTts, wavFromPcm } from "./azure.js";
 
 const synth = typeof window !== "undefined" ? window.speechSynthesis : null;
 
@@ -138,13 +139,56 @@ export class ScriptPlayer {
   }
 }
 
-export function speakOnce(text, role = "A") {
+// Ein gemeinsames <audio>-Element: iOS erlaubt Abspielen nach einem await nur, wenn das Element
+// vorher einmal durch eine Berührung „freigeschaltet“ wurde.
+let shared = null;
+function sharedAudio() {
+  if (!shared) {
+    shared = new Audio();
+    shared.preload = "auto";
+    const unlock = () => {
+      shared.src = URL.createObjectURL(wavFromPcm(new Float32Array(1600), 16000));
+      shared.play().then(() => shared.pause()).catch(() => {});
+      document.removeEventListener("pointerdown", unlock, true);
+    };
+    document.addEventListener("pointerdown", unlock, true);
+  }
+  return shared;
+}
+if (typeof document !== "undefined") sharedAudio();
+
+/** Spielt eine Audio-URL über das freigeschaltete Element; Promise endet nach dem Abspielen. */
+export function playUrl(url) {
+  const a = sharedAudio();
+  stopAll();
+  return new Promise((resolve) => {
+    a.onended = () => resolve(true);
+    a.onpause = () => resolve(true); // auch beim Abbrechen (stopAll) weiter
+    a.onerror = () => resolve(false);
+    a.src = url;
+    a.play().catch(() => resolve(false));
+  });
+}
+
+/**
+ * Liest einen kurzen Text vor. Mit Azure-Schlüssel: natürliche Neural-Stimme (live), sonst iOS-Stimme.
+ * Gibt ein Promise zurück, das nach dem Vorlesen endet (beim Web-Speech-Rückfall ungefähr).
+ */
+export async function speakOnce(text, role = "A") {
+  if (!text) return;
+  if (azure.has() && navigator.onLine) {
+    try {
+      const url = await azureTts(text, role);
+      if (await playUrl(url)) return true;
+    } catch (_) { /* Rückfall: iOS-Stimme */ }
+  }
   if (!ttsSupported()) return;
   const p = new ScriptPlayer([{ sp: role, text }]);
   p.play();
-  return p;
+  await new Promise((r) => setTimeout(r, Math.min(30000, 400 + text.length * 65)));
 }
 
 export function stopAll() {
   if (synth) synth.cancel();
+  if (shared && !shared.paused) shared.pause();
 }

@@ -478,3 +478,40 @@ a.pill { color: inherit; text-decoration: none; }
 .ask-sheet .chips { margin: 4px 0 8px; }
 .tabbar.hidden ~ .ask-fab .ask-fab-lbl { display: none; }
 .tabbar.hidden ~ .ask-fab { width: 52px; height: 52px; padding: 0; justify-content: center; font-size: 1.4rem; opacity: .92; }
+
+/* ---------- Sprechtraining (v0.8): Aufnahme → Text, Zeitbalken, 3-Zeilen-Feedback ---------- */
+.speakbox { margin: 12px 0; }
+.rec-btn { appearance: none; border: 0; display: inline-flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px;
+  width: 132px; height: 132px; border-radius: 50%; background: var(--coral); color: #fff; font: inherit; font-weight: 800; font-size: 1rem;
+  box-shadow: 0 6px 0 var(--coral-d); cursor: pointer; margin: 8px auto; -webkit-tap-highlight-color: transparent; }
+.rec-btn:active { transform: translateY(3px); box-shadow: 0 3px 0 var(--coral-d); }
+.rec-dot { width: 26px; height: 26px; border-radius: 50%; background: #fff; }
+.speakbox.recording .rec-btn { background: var(--bad); animation: recpulse 1.4s ease-in-out infinite; }
+.speakbox.recording .rec-dot { border-radius: 6px; }
+@keyframes recpulse { 0%, 100% { box-shadow: 0 6px 0 #c23d42, 0 0 0 0 rgba(242, 85, 90, .35); } 50% { box-shadow: 0 6px 0 #c23d42, 0 0 0 16px rgba(242, 85, 90, 0); } }
+.rec-time { text-align: center; font-weight: 700; color: var(--muted); font-variant-numeric: tabular-nums; margin: 4px 0; }
+.sbar { position: relative; height: 14px; border-radius: 999px; background: var(--bg2); overflow: hidden; margin: 8px 0 2px; }
+.sbar-fill { height: 100%; width: 0; background: var(--blue); border-radius: 999px; transition: width .25s linear; }
+.sbar.ok .sbar-fill { background: var(--good); }
+.sbar.over .sbar-fill { background: var(--warn); }
+.sbar-mark { position: absolute; top: 0; bottom: 0; width: 2px; background: var(--muted); opacity: .6; }
+.speakbox audio { width: 100%; margin: 8px 0; }
+.rec-stats { background: var(--bg2); border-radius: 12px; padding: 8px 12px; font-size: .9rem; margin: 6px 0; }
+.fb3 { display: grid; gap: 8px; margin: 12px 0; }
+.fb-line { background: var(--card); border-radius: 14px; padding: 10px 12px; border-left: 5px solid var(--line); box-shadow: var(--shadow); }
+.fb-line.good { border-left-color: var(--good); }
+.fb-line.next { border-left-color: var(--blue); }
+.fb-line.better { border-left-color: var(--gold); }
+.fb-line.up { border-left-color: var(--coral); background: var(--good-bg); }
+.fb-line .btn { margin-left: 6px; }
+.card.soft { background: var(--bg2); box-shadow: none; }
+.kernsatz p.big { font-size: 1.25rem; font-weight: 700; line-height: 1.45; margin: 8px 0 12px; }
+.sprech-card { appearance: none; width: 100%; display: flex; align-items: center; gap: 14px; text-align: left; color: var(--text); font: inherit; cursor: pointer;
+  background: linear-gradient(135deg, #ffe9e1 0%, #e3f6ff 100%); border: 0 !important; }
+.sprech-card .tile-ico { font-size: 2rem; }
+.sprech-card > div:nth-child(2) { flex: 1; }
+@media (prefers-color-scheme: dark) { .sprech-card { background: linear-gradient(135deg, #3a2522 0%, #1d3240 100%); } }
+.rm-group { margin: 6px 0; }
+.chip.rm { font-size: .82rem; padding: 6px 10px; }
+.row.gap { gap: 10px; }
+.center { text-align: center; }

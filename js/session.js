@@ -12,6 +12,7 @@ import { lesenExam } from "./lesen.js";
 import { hoerenExam } from "./hoeren.js";
 import { schreibenTask, miniSchreiben, pickMini, MINI_TYPEN } from "./schreiben.js";
 import { praesentation, diskussion } from "./sprechen.js";
+import { heuteSprechen } from "./sprechtraining.js";
 import { errorReview } from "./fehler.js";
 import { aufgabenRound } from "./aufgaben.js";
 import { setExamMode } from "./ask.js";
@@ -49,7 +50,8 @@ export function endspurtDay(daysLeft) {
   const wd = d.getDay(); // 0 = So, 6 = Sa
   const mini = ["einleitung", "zitate", "argument", "gegenargument", "schluss", "umformen"][d.getDate() % 6];
   let titel = "Endspurt: Schwachstellen & Schreiben";
-  let schritte = [AUTO_STEP, { typ: "schreiben_mini", art: mini }, { typ: "schreiben", modus: d.getDate() % 2 ? "pruefung" : "uebung" }, AUTO_STEP];
+  // (zweiter AUTO-Schritt entfällt – dafür gibt es täglich „Heute sprechen“)
+  let schritte = [AUTO_STEP, { typ: "schreiben_mini", art: mini }, { typ: "schreiben", modus: d.getDate() % 2 ? "pruefung" : "uebung" }];
   let hinweis = `Noch ${daysLeft} Tage bis zur Prüfung. Die App wählt deine schwächsten Bereiche.`;
   if (daysLeft <= 2) {
     titel = "Endspurt: leicht wiederholen";
@@ -100,6 +102,7 @@ export function stepLabel(s) {
     case "hoeren": return "🎧 " + T[s.teil] + M(s.modus);
     case "schreiben": return "✍️ Schreiben" + (s.modus === "pruefung" ? " (70 Min.)" : "");
     case "sprechen": return "🎤 " + T[s.teil];
+    case "sprechtraining": return "🎤 Heute sprechen (ca. 20 Min.)";
     case "teiltest": return s.bereich === "hoeren" ? "🎧 Teiltest Hören (40 Min.)" : "📖 Teiltest Lesen + SB (90 Min.)";
     case "generalprobe": return "🎓 Generalprobe " + s.nr + (s.teil ? ` (${s.teil})` : "");
     case "auto": return "🎯 Schwachstelle trainieren";
@@ -185,8 +188,10 @@ export async function runStep(el, step, ctx = {}) {
         return d ? diskussion(el, d) : empty(el);
       }
       const b = pickItem(sp.praesentation, { woche });
-      return b ? praesentation(el, b) : empty(el);
+      const tr = await load("sprechtraining");
+      return b ? praesentation(el, b, { geruest: tr?.geruest }) : empty(el);
     }
+    case "sprechtraining": return heuteSprechen(el);
     case "teiltest": return teiltest(el, step.bereich, woche);
     case "generalprobe": {
       const { generalprobe } = await import("./pruefung.js");
@@ -214,20 +219,24 @@ function empty(el) {
 }
 
 // ---------- Tagessession ----------
-export function sessionSteps(day) {
+export function sessionSteps(day, { sprech = false } = {}) {
   // An Tagen mit Einstufung oder Generalprobe kein Aufwärmen (die Zeit gehört dem Test)
   const big = day.schritte.some((s) => s.typ === "einstufung" || s.typ === "generalprobe");
+  // „Heute sprechen“ direkt nach dem Aufwärmen – nicht an Test-Tagen und nicht, wenn der Tag schon Sprechen enthält.
+  // Nur für Tage, die nach dem Update begonnen wurden (sprech), damit begonnene Tage ihren Stand behalten.
+  const sp = sprech && !big && !day.schritte.some((s) => s.typ === "sprechen" || s.typ === "teiltest") ? [{ typ: "sprechtraining" }] : [];
   const warm = big ? [] : [{ typ: "warmup" }, { typ: "warmup_rw" }];
   const tail = big || day.schritte.some((s) => s.typ === "fehler") ? [] : [{ typ: "fehler" }];
   // Neu: „Aufgaben verstehen“ am Ende (Woche 1–3) – hinten angehängt, damit begonnene Tage ihren Stand behalten
   const verstehen = !big && day.woche <= 3 ? [{ typ: "aufgaben", n: 3 }] : [];
-  return [...warm, ...day.schritte, ...tail, ...verstehen];
+  return [...warm, ...sp, ...day.schritte, ...tail, ...verstehen];
 }
 
 export async function runDay(el, day, nav) {
   const key = "session." + day.tag;
   const state = (await db.kvGet(key)) || { done: [], resolved: {} };
-  const steps = sessionSteps(day);
+  if (state.sprech == null) { state.sprech = state.done.length === 0; await db.kvSet(key, state); }
+  const steps = sessionSteps(day, { sprech: state.sprech });
   const overview = () => new Promise((resolve) => {
     clear(el);
     const doneCount = state.done.length;

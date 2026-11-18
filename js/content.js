@@ -10,6 +10,7 @@ const FILES = {
   schreiben: ["schreiben.json", "schreiben_b.json"],
   schreiben_mini: ["schreiben_mini.json"],
   sprechen: ["sprechen.json"],
+  sprechtraining: ["sprechen_training.json"],
   strategie: ["strategie.json"],
   links: ["links.json"],
   lernpfad: ["lernpfad.json"],

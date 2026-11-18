@@ -304,5 +304,257 @@
    "C": "de-DE-KatjaNeural",
    "A": "de-DE-KlarissaNeural"
   }
+ },
+ "ks01": {
+  "file": "ks01.mp3",
+  "bytes": 48096,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks02": {
+  "file": "ks02.mp3",
+  "bytes": 36432,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks03": {
+  "file": "ks03.mp3",
+  "bytes": 50256,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks04": {
+  "file": "ks04.mp3",
+  "bytes": 33408,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks05": {
+  "file": "ks05.mp3",
+  "bytes": 38448,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks06": {
+  "file": "ks06.mp3",
+  "bytes": 27360,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks07": {
+  "file": "ks07.mp3",
+  "bytes": 45360,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks08": {
+  "file": "ks08.mp3",
+  "bytes": 43632,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks09": {
+  "file": "ks09.mp3",
+  "bytes": 42624,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks10": {
+  "file": "ks10.mp3",
+  "bytes": 42912,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks11": {
+  "file": "ks11.mp3",
+  "bytes": 45216,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks12": {
+  "file": "ks12.mp3",
+  "bytes": 34272,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks13": {
+  "file": "ks13.mp3",
+  "bytes": 46224,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks14": {
+  "file": "ks14.mp3",
+  "bytes": 37872,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks15": {
+  "file": "ks15.mp3",
+  "bytes": 40176,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks16": {
+  "file": "ks16.mp3",
+  "bytes": 36000,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks17": {
+  "file": "ks17.mp3",
+  "bytes": 31104,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks18": {
+  "file": "ks18.mp3",
+  "bytes": 36432,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks19": {
+  "file": "ks19.mp3",
+  "bytes": 38016,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks20": {
+  "file": "ks20.mp3",
+  "bytes": 33840,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks21": {
+  "file": "ks21.mp3",
+  "bytes": 32832,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks22": {
+  "file": "ks22.mp3",
+  "bytes": 40320,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks23": {
+  "file": "ks23.mp3",
+  "bytes": 36144,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks24": {
+  "file": "ks24.mp3",
+  "bytes": 30240,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "ks25": {
+  "file": "ks25.mp3",
+  "bytes": 32688,
+  "voices": {
+   "s": "de-DE-KatjaNeural"
+  }
+ },
+ "ks26": {
+  "file": "ks26.mp3",
+  "bytes": 37872,
+  "voices": {
+   "s": "de-DE-ConradNeural"
+  }
+ },
+ "kv_mp01-0": {
+  "file": "kv_mp01-0.mp3",
+  "bytes": 904896,
+  "voices": {
+   "s": "de-DE-AmalaNeural"
+  }
+ },
+ "kv_mp01-1": {
+  "file": "kv_mp01-1.mp3",
+  "bytes": 812736,
+  "voices": {
+   "s": "de-DE-KillianNeural"
+  }
+ },
+ "kv_mp02-0": {
+  "file": "kv_mp02-0.mp3",
+  "bytes": 995040,
+  "voices": {
+   "s": "de-DE-LouisaNeural"
+  }
+ },
+ "kv_mp02-1": {
+  "file": "kv_mp02-1.mp3",
+  "bytes": 919152,
+  "voices": {
+   "s": "de-DE-RalfNeural"
+  }
+ },
+ "kv_mp03-0": {
+  "file": "kv_mp03-0.mp3",
+  "bytes": 924912,
+  "voices": {
+   "s": "de-DE-TanjaNeural"
+  }
+ },
+ "kv_mp03-1": {
+  "file": "kv_mp03-1.mp3",
+  "bytes": 928944,
+  "voices": {
+   "s": "de-DE-AmalaNeural"
+  }
+ },
+ "kv_mp04-0": {
+  "file": "kv_mp04-0.mp3",
+  "bytes": 824544,
+  "voices": {
+   "s": "de-DE-KillianNeural"
+  }
+ },
+ "kv_mp04-1": {
+  "file": "kv_mp04-1.mp3",
+  "bytes": 926208,
+  "voices": {
+   "s": "de-DE-LouisaNeural"
+  }
+ },
+ "kv_mp05-0": {
+  "file": "kv_mp05-0.mp3",
+  "bytes": 869904,
+  "voices": {
+   "s": "de-DE-RalfNeural"
+  }
+ },
+ "kv_mp05-1": {
+  "file": "kv_mp05-1.mp3",
+  "bytes": 932400,
+  "voices": {
+   "s": "de-DE-TanjaNeural"
+  }
  }
 }

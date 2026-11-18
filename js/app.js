@@ -24,6 +24,8 @@ import { generalprobe } from "./pruefung.js";
 import { aufgabenRound, glossarRound, eigeneWorte, glossarList, steckbriefe, strategyCard, TEIL_NAMEN } from "./aufgaben.js";
 import { germanVoices, voicesReady, speakOnce, ttsSupported } from "./tts.js";
 import { askFab, setExamMode, questionsList } from "./ask.js";
+import { azure, testAzure } from "./azure.js";
+import { heuteSprechen, sprechPhase } from "./sprechtraining.js";
 
 const main = document.getElementById("main");
 const tabbar = document.getElementById("tabbar");
@@ -84,6 +86,14 @@ async function checkMilestone() {
 }
 
 // ---------- Startseite ----------
+function sprechKarte() {
+  const heute = store.attempts.some((a) => a.modul === "sprechen" && a.itemId === "heute-" + dayKey());
+  return h("button.card.sprech-card", { onclick: () => nav("#/sprechen/heute") },
+    h("div.tile-ico", "🎤"),
+    h("div", h("strong", heute ? "Heute schon gesprochen ✓" : "Heute sprechen"), h("div.small.muted", heute ? "Noch eine Runde? Wiederholen macht flüssig." : ["", "Präsentation Stück für Stück · ca. 20 Min.", "Ganze Präsentation oder Diskussion · 20–30 Min.", "Kompletter Durchlauf oder Diskussion"][sprechPhase()])),
+    h("span.small.link", "→"));
+}
+
 async function viewHome() {
   const days = await lernpfad();
   const allDone = days.every((d) => dayDone(d.tag));
@@ -112,6 +122,7 @@ async function viewHome() {
           h("ul.mini-steps", day.schritte.map((st) => h("li", stepLabel(st)))),
           h("button.btn.primary.wide", { onclick: () => nav(day.endspurt ? "#/endspurt" : "#/tag/" + day.tag) }, dayDone(day.tag) ? (day.endspurt ? "Noch eine Runde" : "Wiederholen") : "▶︎ Tagessession starten"),
           h("p.small.muted.center", "Aufwärmen → Hauptteil → Fehlerwiederholung · ca. 60–90 Min.")),
+    sprechKarte(),
     h("div.grid2",
       h("button.tile", { onclick: () => nav("#/fehler/wiederholen") }, h("div.tile-ico", "🛠️"), h("div", "Fehler"), h("div.small.muted", `${due} fällig`)),
       h("button.tile", { onclick: () => nav("#/wortschatz/runde") }, h("div.tile-ico", "📚"), h("div", "Wortschatz"), h("div.small.muted", `${srsStats("wort").due} fällig`)),
@@ -243,7 +254,8 @@ async function viewList(kind) {
     }
   } else if (kind === "sprechen") {
     const sp = await load("sprechen");
-    main.append(h("h1", "Mündlicher Ausdruck"), h("p.muted", "Sprich per Diktat (🎤 in der iPhone-Tastatur). Die KI-Partnerin fragt nach und diskutiert mit dir."),
+    main.append(h("h1", "Mündlicher Ausdruck"), h("p.muted", "Du sprichst, die App nimmt auf und wandelt deine Aufnahme in Text um (ohne Azure-Schlüssel: Diktat). Die KI-Partnerin fragt nach und diskutiert mit dir."),
+      h("button.btn.primary.wide", { onclick: () => nav("#/sprechen/heute") }, "🎤 Heute sprechen (geführt)"),
       h("div.row", h("button.btn", { onclick: () => nav("#/strategie/sprechen_1a") }, "💡 Präsentation"), h("button.btn", { onclick: () => nav("#/strategie/sprechen_2") }, "💡 Diskussion")),
       h("h2", "Teil 1A/1B – Präsentation"),
       itemList(pool(sp.praesentation), (b) => [h("strong", b.themen.map((t) => t.titel).join(" / "))], (b) => exercise(() => praesentation(main, b))),
@@ -407,6 +419,21 @@ async function viewQuellen() {
 }
 
 // ---------- Mehr / Einstellungen ----------
+async function azureCard() {
+  const keyIn = h("input", { type: "password", placeholder: azure.has() ? "•••••• (gespeichert)" : "Azure-Speech-Schlüssel (32 Zeichen)", autocomplete: "off" });
+  const regIn = h("input", { type: "text", value: azure.region, placeholder: "z. B. swedencentral" });
+  const u = await azure.usage();
+  return h("div.card",
+    h("p.small", azure.has() ? "✅ Schlüssel ist auf diesem Gerät gespeichert. Deine Aufnahmen werden automatisch in Text umgewandelt, und die Partnerin spricht mit natürlicher Stimme." : "Damit wird deine gesprochene Antwort automatisch in Text umgewandelt (für das KI-Feedback), und die Gesprächspartnerin spricht mit natürlicher Stimme. Ohne Schlüssel: Diktat über die Tastatur."),
+    h("label.field", h("span", "Schlüssel"), keyIn),
+    h("label.field", h("span", "Region"), regIn),
+    h("div.row",
+      h("button.btn.primary", { onclick: async () => { if (!keyIn.value.trim() && !azure.has()) return; await azure.set(keyIn.value.trim() || azure.key, regIn.value); const t = await testAzure(); toast(t.ok ? "✓ Gespeichert – Verbindung steht" : "Gespeichert, aber: " + t.msg); viewMehr(); } }, "Speichern & testen"),
+      azure.has() ? h("button.btn", { onclick: async () => { await azure.set("", azure.region); toast("Schlüssel gelöscht"); viewMehr(); } }, "Löschen") : null),
+    h("p.small", `Diesen Monat erkannt: ${Math.round(u.seconds / 60)} von ${u.free / 60} Min. (kostenloses Kontingent)`),
+    h("p.small.muted", "Woher? Azure-Portal → deine Speech-Ressource → „Schlüssel und Endpunkt“ → Schlüssel 1 kopieren. Region steht daneben. Der Schlüssel bleibt nur auf diesem Gerät und wird nicht synchronisiert."));
+}
+
 async function viewMehr() {
   const s = store.settings;
   await voicesReady();
@@ -448,6 +475,9 @@ async function viewMehr() {
       num("aiDailyLimitUsd", "Tageslimit (US-$)", 0.5, 0),
       h("p.small", `Heute verbraucht: ${spent.toFixed(3)} $ von ${s.aiDailyLimitUsd.toFixed(2)} $ · insgesamt: ${total.toFixed(2)} $`),
       h("p.small.muted", "Richtwerte mit Sonnet 5.5: Textbewertung ≈ 0,03–0,06 $, Diskussion ≈ 0,03–0,05 $, Satzprüfung < 0,01 $ (Opus etwa doppelt so viel). Der Key bleibt nur auf diesem Gerät und wird nicht synchronisiert.")),
+
+    h("h2", "Spracherkennung & Stimmen (Azure)"),
+    await azureCard(),
 
     h("h2", "Vorlesen"),
     h("div.card",
@@ -560,7 +590,7 @@ async function route() {
       case "lesen": return viewList("lesen");
       case "hoeren": return viewList("hoeren");
       case "schreiben": return viewList("schreiben");
-      case "sprechen": return viewList("sprechen");
+      case "sprechen": return b === "heute" ? exercise(() => heuteSprechen(main), "#/") : viewList("sprechen");
       case "drill": return b ? viewDrill(b) : viewDrills();
       case "aufgaben": return viewAufgaben();
       case "wortschatz": return b === "runde" ? exercise(() => srsRound(main, "wort", { n: 12 }), "#/wortschatz") : viewVocab("wortschatz");
@@ -585,6 +615,7 @@ async function route() {
 async function start() {
   await store.init();
   await ai.init();
+  await azure.init();
   await sync.init();
   try {
     if (await dropbox.handleRedirect()) toast("✓ Mit Dropbox verbunden");
