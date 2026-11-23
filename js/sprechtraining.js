@@ -73,12 +73,12 @@ export async function heuteSprechenZuruecksetzen() {
     const key = "session." + d.tag;
     const state = await db.kvGet(key);
     if (!state) continue;
-    const idx = sessionSteps(d, { sprech: state.sprech }).findIndex((s) => s.typ === "sprechtraining");
+    const idx = sessionSteps(d, { sprech: state.sprech, order: state.order || 1 }).findIndex((s) => s.typ === "sprechtraining");
     if (idx >= 0 && state.done.includes(idx)) { state.done = state.done.filter((i) => i !== idx); await db.kvSet(key, state); }
   }
   const ek = "session.E-" + dayKey();
   const es = await db.kvGet(ek);
-  if (es) { const { endspurtDay } = await import("./session.js"); const d = endspurtDay(10); const idx = sessionSteps(d, { sprech: es.sprech }).findIndex((s) => s.typ === "sprechtraining"); if (idx >= 0) { es.done = es.done.filter((i) => i !== idx); await db.kvSet(ek, es); } }
+  if (es) { const { endspurtDay } = await import("./session.js"); const d = endspurtDay(10); const idx = sessionSteps(d, { sprech: es.sprech, order: es.order || 1 }).findIndex((s) => s.typ === "sprechtraining"); if (idx >= 0) { es.done = es.done.filter((i) => i !== idx); await db.kvSet(ek, es); } }
   return atts.length;
 }
 

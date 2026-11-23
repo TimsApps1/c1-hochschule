@@ -219,24 +219,49 @@ function empty(el) {
 }
 
 // ---------- Tagessession ----------
-export function sessionSteps(day, { sprech = false } = {}) {
+export function sessionSteps(day, { sprech = false, order = 2 } = {}) {
   // An Tagen mit Einstufung oder Generalprobe kein Aufwärmen (die Zeit gehört dem Test)
   const big = day.schritte.some((s) => s.typ === "einstufung" || s.typ === "generalprobe");
-  // „Heute sprechen“ direkt nach dem Aufwärmen – nicht an Test-Tagen und nicht, wenn der Tag schon Sprechen enthält.
+  // „Heute sprechen“ – nicht an Test-Tagen und nicht, wenn der Tag schon Sprechen enthält.
   // Nur für Tage, die nach dem Update begonnen wurden (sprech), damit begonnene Tage ihren Stand behalten.
   const sp = sprech && !big && !day.schritte.some((s) => s.typ === "sprechen" || s.typ === "teiltest") ? [{ typ: "sprechtraining" }] : [];
   const warm = big ? [] : [{ typ: "warmup" }, { typ: "warmup_rw" }];
   const tail = big || day.schritte.some((s) => s.typ === "fehler") ? [] : [{ typ: "fehler" }];
   // Neu: „Aufgaben verstehen“ am Ende (Woche 1–3) – hinten angehängt, damit begonnene Tage ihren Stand behalten
   const verstehen = !big && day.woche <= 3 ? [{ typ: "aufgaben", n: 3 }] : [];
-  return [...warm, ...sp, ...day.schritte, ...tail, ...verstehen];
+  // Reihenfolge 2 (Wunsch der Lernerin): erst alles andere inkl. Schreiben, Sprechen am Ende des Hauptteils –
+  // ein schwieriger Sprech-Start soll nicht die ganze Sitzung bestimmen. Reihenfolge 1 = alte Fassung (Sprechen nach dem Aufwärmen).
+  if (order < 2) return [...warm, ...sp, ...day.schritte, ...tail, ...verstehen];
+  const istSprechen = (s) => s.typ === "sprechen";
+  const main = day.schritte.filter((s) => !istSprechen(s));
+  // direkt hinter den letzten Schreib-Schritt (sonst ans Ende des Hauptteils)
+  let pos = main.length;
+  for (let i = main.length - 1; i >= 0; i--) if (main[i].typ === "schreiben" || main[i].typ === "schreiben_mini") { pos = i + 1; break; }
+  main.splice(pos, 0, ...sp, ...day.schritte.filter(istSprechen));
+  return [...warm, ...main, ...tail, ...verstehen];
+}
+
+/** Ordnet erledigte Schritte eines begonnenen Tages von der alten auf die neue Reihenfolge um (gleicher Schritt → neue Position). */
+function remapState(state, oldSteps, newSteps) {
+  const keyed = (steps) => { const seen = {}; return steps.map((s) => { const k = JSON.stringify(s); seen[k] = (seen[k] || 0) + 1; return k + "#" + seen[k]; }); };
+  const ok = keyed(oldSteps), nk = keyed(newSteps);
+  const map = ok.map((k) => { const j = nk.indexOf(k); return j >= 0 ? j : null; });
+  state.done = state.done.map((i) => map[i]).filter((i) => i != null);
+  const res = {};
+  for (const [i, v] of Object.entries(state.resolved || {})) if (map[i] != null) res[map[i]] = v;
+  state.resolved = res;
 }
 
 export async function runDay(el, day, nav) {
   const key = "session." + day.tag;
   const state = (await db.kvGet(key)) || { done: [], resolved: {} };
   if (state.sprech == null) { state.sprech = state.done.length === 0; await db.kvSet(key, state); }
-  const steps = sessionSteps(day, { sprech: state.sprech });
+  if (state.order !== 2) {
+    if (state.done.length) remapState(state, sessionSteps(day, { sprech: state.sprech, order: 1 }), sessionSteps(day, { sprech: state.sprech, order: 2 }));
+    state.order = 2;
+    await db.kvSet(key, state);
+  }
+  const steps = sessionSteps(day, { sprech: state.sprech, order: 2 });
   const overview = () => new Promise((resolve) => {
     clear(el);
     const doneCount = state.done.length;

@@ -31,7 +31,9 @@ Feedback lang und spät; zu wenig Sprechzeit; 1B nur halb geübt; Teil 2 ohne St
 - KI-Feedback mit Claude auf Basis des erkannten Textes; Erkennungsfehler werden nicht als Grammatikfehler gewertet und nicht ins
   Fehlerprotokoll übernommen.
 
-## 3. Ein Knopf: „🎤 Heute sprechen (20 Min.)“ – am Anfang jeder Tagessession
+## 3. Ein Knopf: „🎤 Heute sprechen (20 Min.)“ – in jeder Tagessession
+
+> **Änderung 23.11.:** Auf Wunsch der Lernerin steht das Sprechen nicht mehr am Anfang, sondern nach dem Hauptteil und dem Schreiben – ein schwieriger Sprech-Start soll nicht die ganze Sitzung bestimmen.
 
 Statt vieler Stufen-Menüs gibt es einen geführten Knopf auf der Startseite und als **ersten Schritt** jeder Tagessession (nach dem kurzen
 Wortschatz-Aufwärmen). Er wählt die passende Übung nach **Wochenplan + Fortschritt** (Freigabe-Kriterium: Übung 2× mit „gut“ abgeschlossen):

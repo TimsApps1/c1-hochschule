@@ -121,7 +121,7 @@ async function viewHome() {
           h("h2", day.titel),
           h("ul.mini-steps", day.schritte.map((st) => h("li", stepLabel(st)))),
           h("button.btn.primary.wide", { onclick: () => nav(day.endspurt ? "#/endspurt" : "#/tag/" + day.tag) }, dayDone(day.tag) ? (day.endspurt ? "Noch eine Runde" : "Wiederholen") : "▶︎ Tagessession starten"),
-          h("p.small.muted.center", "Aufwärmen → Hauptteil → Fehlerwiederholung · ca. 60–90 Min.")),
+          h("p.small.muted.center", "Aufwärmen → Hauptteil & Schreiben → Sprechen → Fehlerwiederholung")),
     sprechKarte(),
     h("div.grid2",
       h("button.tile", { onclick: () => nav("#/fehler/wiederholen") }, h("div.tile-ico", "🛠️"), h("div", "Fehler"), h("div.small.muted", `${due} fällig`)),
