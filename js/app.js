@@ -185,7 +185,6 @@ async function viewPfad() {
 async function viewUeben() {
   clear(main).append(topbar(), h("h1", "Üben"), h("p.muted", "Alles frei wählbar – zusätzlich zum Lernpfad."));
   const sec = (title, items) => main.append(h("h2", title), h("div.grid2", items.map(([ico, name, sub, href]) => h("button.tile", { onclick: () => nav(href) }, h("div.tile-ico", ico), h("div", name), h("div.small.muted", sub)))));
-  sec("Aufgaben verstehen", [["🧐", "Aufgabenstellungen", "Was muss ich tun?", "#/aufgaben"]]);
   sec("Sprache", [["🧩", "Sprachbausteine", "22 Lücken", "#/sb"], ["📐", "Grammatik", "Drills & Erklärungen", "#/drill"], ["📚", "Wortschatz", "Spaced Repetition", "#/wortschatz"], ["💬", "Redewendungen", "Idiome & Redemittel", "#/redewendungen"]]);
   sec("Prüfungsteile", [["📖", "Lesen", "Teil 1–3", "#/lesen"], ["🎧", "Hören", "Teil 1–3", "#/hoeren"], ["✍️", "Schreiben", "Erörterung", "#/schreiben"], ["🎤", "Sprechen", "Präsentation & Diskussion", "#/sprechen"]]);
   sec("Prüfung", [["🎓", "Generalproben", "3 komplette Tests", "#/pruefung"], ["💡", "Strategie", "Karten je Teil", "#/strategie"], ["🔗", "Echte Audios", "Linkliste", "#/quellen"], ["🧭", "Einstufung", "erneut machen", "#/einstufung"]]);
